@@ -876,7 +876,8 @@
         "comment": "Openpiece Mainnet",
         "rpc": [
             "https://mainnet.openpiece.io"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Failed with status code 522"
     },
     {
         "chainId": 55,
@@ -890,7 +891,28 @@
             "https://rpc-4.zyx.network/",
             "https://rpc-5.zyx.network/",
             "https://rpc-6.zyx.network/"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": {
+                "blockHash": "0xea44095c04abc631d298df451bf8f82da7e5342c6b8c3d74684f9f1979a1b708",
+                "blockNumber": "0x1",
+                "from": "0x06e631d498df0ea833e12d5ea61a1985a9f1bdbf",
+                "gas": "0x7fffffffffffffff",
+                "gasPrice": "0x0",
+                "hash": "0x74fc39cf4235de51fa641e96f8f6406a1a4df6e73e2b59cd94fa7d83b9137a76",
+                "input": "0xe1c7392a",
+                "nonce": "0x0",
+                "to": "0x0000000000000000000000000000000000001000",
+                "transactionIndex": "0x0",
+                "value": "0x0",
+                "type": "0x0",
+                "v": "0x91",
+                "r": "0x88767bf04bb710fe8eb93e673b37c553ff5c77e2c2423fb662758e13dd63f981",
+                "s": "0x226cc63402d5ddb950756713b4e47e5017e836ee933232e148bd3ee2a331798f"
+            }
+        }
     },
     {
         "chainId": 56,
@@ -912,7 +934,28 @@
             "https://bsc-dataseed4.ninicoin.io",
             "https://bsc.publicnode.com",
             "wss://bsc-ws-node.nariox.org"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": {
+                "blockHash": "0x04055304e432294a65ff31069c4d3092ff8b58f009cdb50eba5351e0332ad0f6",
+                "blockNumber": "0x1",
+                "from": "0x2a7cdd959bfe8d9487b2a43b33565295a698f7e2",
+                "gas": "0x7fffffffffffffff",
+                "gasPrice": "0x0",
+                "hash": "0xbaf8ffa0b475a67cfeac3992d24422804452f0982e4e21a8816db2e0c9e5f224",
+                "input": "0xe1c7392a",
+                "nonce": "0x0",
+                "to": "0x0000000000000000000000000000000000001000",
+                "transactionIndex": "0x0",
+                "value": "0x0",
+                "type": "0x0",
+                "v": "0x93",
+                "r": "0xba64c6614028e6f7fa4cf2b218719160b9850c591279218def6894586ab73157",
+                "s": "0x69cd1b3041eaa9b282a522c49b294e3c51801a1347bb8999015a0bd29bed3bbf"
+            }
+        }
     },
     {
         "chainId": 57,
@@ -925,7 +968,12 @@
             "https://syscoin.public-rpc.com",
             "wss://rpc.syscoin.org/wss",
             "https://syscoin-evm.publicnode.com"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 58,
@@ -941,7 +989,12 @@
             "https://dappnode2.ont.io:10339",
             "https://dappnode3.ont.io:10339",
             "https://dappnode4.ont.io:10339"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 59,
@@ -950,7 +1003,15 @@
         "comment": "EOS EVM Legacy",
         "rpc": [
             "https://api.eosargentina.io"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "error": {
+                "code": -1,
+                "message": "Method not found"
+            },
+            "id": 1,
+            "jsonrpc": "2.0"
+        }
     },
     {
         "chainId": 60,
@@ -959,7 +1020,12 @@
         "comment": "GoChain",
         "rpc": [
             "https://rpc.gochain.io"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 61,
@@ -968,7 +1034,12 @@
         "comment": "Ethereum Classic Mainnet",
         "rpc": [
             "https://etc.rivet.link"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 62,
@@ -984,7 +1055,12 @@
         "comment": "Ethereum Classic Testnet Mordor",
         "rpc": [
             "https://rpc.mordor.etccooperative.org"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 64,
@@ -993,7 +1069,8 @@
         "comment": "Ellaism",
         "rpc": [
             "https://jsonrpc.ellaism.org"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Connection error: HTTPSConnectionPool(host='jsonrpc.ellaism.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f1be5328df0>: Failed to resolve 'jsonrpc.ellaism.org' ([Errno -2] Name or service not known)\"))"
     },
     {
         "chainId": 65,
@@ -1002,7 +1079,15 @@
         "comment": "OKExChain Testnet",
         "rpc": [
             "https://exchaintestrpc.okex.org"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "error": {
+                "code": -32000,
+                "message": "height 1 is not available, blocks pruned at height 2950154"
+            }
+        }
     },
     {
         "chainId": 66,
@@ -1012,7 +1097,15 @@
         "rpc": [
             "https://exchainrpc.okex.org",
             "https://okc-mainnet.gateway.pokt.network/v1/lb/6275309bea1b320039c893ff"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "error": {
+                "code": -32000,
+                "message": "height 1 is not available, blocks pruned at height 2322601"
+            }
+        }
     },
     {
         "chainId": 67,
@@ -1021,7 +1114,8 @@
         "comment": "DBChain Testnet",
         "rpc": [
             "http://test-rpc.dbmbp.com"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Connection error: HTTPConnectionPool(host='test-rpc.dbmbp.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f1be5329540>, 'Connection to test-rpc.dbmbp.com timed out. (connect timeout=None)'))"
     },
     {
         "chainId": 68,
@@ -1030,7 +1124,8 @@
         "comment": "SoterOne Mainnet",
         "rpc": [
             "https://rpc.soter.one"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Connection error: HTTPSConnectionPool(host='rpc.soter.one', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f1be53297e0>: Failed to resolve 'rpc.soter.one' ([Errno -2] Name or service not known)\"))"
     },
     {
         "chainId": 69,
@@ -1039,7 +1134,8 @@
         "comment": "Optimism Kovan",
         "rpc": [
             "https://kovan.optimism.io/"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Connection error: HTTPSConnectionPool(host='kovan.optimism.io', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f1be532a050>: Failed to resolve 'kovan.optimism.io' ([Errno -5] No address associated with hostname)\"))"
     },
     {
         "chainId": 70,
@@ -1051,7 +1147,12 @@
             "https://http-mainnet2.hoosmartchain.com",
             "wss://ws-mainnet.hoosmartchain.com",
             "wss://ws-mainnet2.hoosmartchain.com"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 71,
@@ -1060,7 +1161,15 @@
         "comment": "Conflux eSpace (Testnet)",
         "rpc": [
             "https://evmtestnet.confluxrpc.com"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "error": {
+                "code": -32602,
+                "message": "Invalid params: invalid type: integer `0`, expected a hex-encoded or decimal index."
+            }
+        }
     },
     {
         "chainId": 72,
@@ -1069,7 +1178,8 @@
         "comment": "DxChain Testnet",
         "rpc": [
             "https://testnet-http.dxchain.com"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Connection error: HTTPSConnectionPool(host='testnet-http.dxchain.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f1be532aa10>: Failed to resolve 'testnet-http.dxchain.com' ([Errno -2] Name or service not known)\"))"
     },
     {
         "chainId": 73,
@@ -1078,7 +1188,28 @@
         "comment": "FNCY",
         "rpc": [
             "https://fncy-seed1.fncy.world"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": {
+                "blockHash": "0xf236aa774d5707def81774f1ee656a1f90b2dd26ccdf9f73af4b388434a969cb",
+                "blockNumber": "0x1",
+                "from": "0xd547f31db10d368cb93cfe21393f77b4dc19d2ec",
+                "gas": "0x7fffffffffffffff",
+                "gasPrice": "0x0",
+                "hash": "0xaf375b6d86451acbf570d78af895b3b86a29ecb7294e4447e1f7f0994fb1106c",
+                "input": "0xe1c7392a",
+                "nonce": "0x0",
+                "to": "0x0000000000000000000000000000000000001000",
+                "transactionIndex": "0x0",
+                "value": "0x0",
+                "type": "0x0",
+                "v": "0xb5",
+                "r": "0x127810e7cec3ac06b604cff68b6b6548f97a49bddac82f62b145fdfb39e1049",
+                "s": "0x5bb8d2dc901df829c023b17511e1e2dedf353f876e078adb182ed57dea51854f"
+            }
+        }
     },
     {
         "chainId": 74,
@@ -1088,7 +1219,12 @@
         "rpc": [
             "https://idchain.one/rpc/",
             "wss://idchain.one/ws/"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 75,
@@ -1101,7 +1237,12 @@
             "https://node2-mainnet.decimalchain.com/web3/",
             "https://node3-mainnet.decimalchain.com/web3/",
             "https://node4-mainnet.decimalchain.com/web3/"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 76,
@@ -1110,7 +1251,8 @@
         "comment": "Mix",
         "rpc": [
             "https://rpc2.mix-blockchain.org:8647"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Connection error: HTTPSConnectionPool(host='rpc2.mix-blockchain.org', port=8647): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1be53287f0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
     },
     {
         "chainId": 77,
@@ -1121,7 +1263,8 @@
             "https://sokol.poa.network",
             "wss://sokol.poa.network/wss",
             "ws://sokol.poa.network:8546"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Connection error: No connection adapters were found for 'ws://sokol.poa.network:8546'"
     },
     {
         "chainId": 78,
@@ -1130,7 +1273,12 @@
         "comment": "PrimusChain mainnet",
         "rpc": [
             "https://ethnode.primusmoney.com/mainnet"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 79,
@@ -1145,7 +1293,12 @@
             "https://dataserver-asia-5.zenithchain.co/",
             "https://dataserver-asia-6.zenithchain.co/",
             "https://dataserver-asia-7.zenithchain.co/"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 80,
@@ -1154,7 +1307,8 @@
         "comment": "GeneChain",
         "rpc": [
             "https://rpc.genechain.io"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Connection error: HTTPSConnectionPool(host='rpc.genechain.io', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f1be5328ca0>: Failed to resolve 'rpc.genechain.io' ([Errno -5] No address associated with hostname)\"))"
     },
     {
         "chainId": 81,
@@ -1164,7 +1318,12 @@
         "rpc": [
             "https://rpc-1.japanopenchain.org:8545",
             "https://rpc-2.japanopenchain.org:8545"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 82,
@@ -1173,7 +1332,15 @@
         "comment": "Meter Mainnet",
         "rpc": [
             "https://rpc.meter.io"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "error": {
+                "code": 100,
+                "message": "index out of bound"
+            },
+            "id": 1
+        }
     },
     {
         "chainId": 83,
@@ -1182,7 +1349,15 @@
         "comment": "Meter Testnet",
         "rpc": [
             "https://rpctest.meter.io"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "error": {
+                "code": 100,
+                "message": "index out of bound"
+            },
+            "id": 1
+        }
     },
     {
         "chainId": 84,
@@ -1191,7 +1366,8 @@
         "comment": "Linqto Devnet",
         "rpc": [
             "https://linqto-dev.com"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Connection error: HTTPSConnectionPool(host='linqto-dev.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7fb9e7f70d30>: Failed to resolve 'linqto-dev.com' ([Errno -5] No address associated with hostname)\"))"
     },
     {
         "chainId": 85,
@@ -1200,7 +1376,8 @@
         "comment": "GateChain Testnet",
         "rpc": [
             "https://testnet.gatenode.cc"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Connection error: HTTPSConnectionPool(host='testnet.gatenode.cc', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7fb9e7f71720>: Failed to resolve 'testnet.gatenode.cc' ([Errno -2] Name or service not known)\"))"
     },
     {
         "chainId": 86,
@@ -1209,7 +1386,12 @@
         "comment": "GateChain Mainnet",
         "rpc": [
             "https://evm.gatenode.cc"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 87,
@@ -1220,7 +1402,12 @@
             "https://connect.novanetwork.io",
             "https://0x57.redjackstudio.com",
             "https://rpc.novanetwork.io:9070"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 88,
@@ -1229,7 +1416,12 @@
         "comment": "TomoChain",
         "rpc": [
             "https://rpc.tomochain.com"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 89,
@@ -1238,7 +1430,12 @@
         "comment": "TomoChain Testnet",
         "rpc": [
             "https://rpc.testnet.tomochain.com"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 90,
@@ -1247,7 +1444,8 @@
         "comment": "Garizon Stage0",
         "rpc": [
             "https://s0.garizon.net/rpc"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Failed with status code 522"
     },
     {
         "chainId": 91,
@@ -1256,7 +1454,8 @@
         "comment": "Garizon Stage1",
         "rpc": [
             "https://s1.garizon.net/rpc"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Failed with status code 522"
     },
     {
         "chainId": 92,
@@ -1265,7 +1464,8 @@
         "comment": "Garizon Stage2",
         "rpc": [
             "https://s2.garizon.net/rpc"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Failed with status code 522"
     },
     {
         "chainId": 93,
@@ -1274,7 +1474,8 @@
         "comment": "Garizon Stage3",
         "rpc": [
             "https://s3.garizon.net/rpc"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Failed with status code 522"
     },
     {
         "chainId": 94,
@@ -1283,7 +1484,12 @@
         "comment": "SwissDLT",
         "rpc": [
             "https://rpc.swissdlt.ch"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 95,
@@ -1292,7 +1498,12 @@
         "comment": "CamDL Mainnet",
         "rpc": [
             "https://rpc1.camdl.gov.kh/"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 96,
@@ -1302,7 +1513,12 @@
         "rpc": [
             "https://rpc.bitkubchain.io",
             "wss://wss.bitkubchain.io"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 97,
@@ -1317,7 +1533,28 @@
             "https://data-seed-prebsc-1-s3.bnbchain.org:8545",
             "https://data-seed-prebsc-2-s3.bnbchain.org:8545",
             "https://bsc-testnet.publicnode.com"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": {
+                "blockHash": "0xd0bc67b50915467ada963c35ee00950f664788e47da8139d8c178653171034f1",
+                "blockNumber": "0x1",
+                "from": "0x35552c16704d214347f29fa77f77da6d75d7c752",
+                "gas": "0x7fffffffffffffff",
+                "gasPrice": "0x0",
+                "hash": "0xa32cf2bb6ec953f2f1d912f23d7be1124fe786e0c0b1b03c6713174a9dba0404",
+                "input": "0xe1c7392a",
+                "nonce": "0x0",
+                "to": "0x0000000000000000000000000000000000001000",
+                "transactionIndex": "0x0",
+                "value": "0x0",
+                "type": "0x0",
+                "v": "0xe5",
+                "r": "0xf0433ff780640fc8f108e3966df0aa87795ecb10ac0d7cb9fbb6e3eef3d14d53",
+                "s": "0x3be86ce8a81cc5f7275da5e629eedb34eb4488464de0c8b6faabe723146e3923"
+            }
+        }
     },
     {
         "chainId": 98,
@@ -1326,7 +1563,12 @@
         "comment": "Six Protocol",
         "rpc": [
             "https://sixnet-rpc-evm.sixprotocol.net"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 99,
@@ -1335,7 +1577,8 @@
         "comment": "POA Network Core",
         "rpc": [
             "https://core.poa.network"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Failed with status code 403"
     },
     {
         "chainId": 100,
@@ -1353,7 +1596,15 @@
             "https://web3endpoints.com/gnosischain-mainnet",
             "https://gnosis.oat.farm",
             "wss://rpc.gnosischain.com/wss"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "error": {
+                "code": -32602,
+                "message": "Position Index is incorrect"
+            },
+            "id": 1
+        }
     },
     {
         "chainId": 101,
@@ -1362,7 +1613,8 @@
         "comment": "EtherInc",
         "rpc": [
             "https://api.einc.io/jsonrpc/mainnet"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Connection error: HTTPSConnectionPool(host='api.einc.io', port=443): Max retries exceeded with url: /jsonrpc/mainnet (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7fb9e7f716c0>: Failed to resolve 'api.einc.io' ([Errno -2] Name or service not known)\"))"
     },
     {
         "chainId": 102,
@@ -1373,7 +1625,8 @@
             "https://testnet-rpc-0.web3games.org/evm",
             "https://testnet-rpc-1.web3games.org/evm",
             "https://testnet-rpc-2.web3games.org/evm"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Failed with status code 521"
     },
     {
         "chainId": 103,
@@ -1382,7 +1635,12 @@
         "comment": "Worldland Mainnet",
         "rpc": [
             "https://seoul.worldland.foundation"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 104,
@@ -1391,7 +1649,8 @@
         "comment": "Kaiba Lightning Chain Testnet",
         "rpc": [
             "https://klc.live/"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Connection error: HTTPSConnectionPool(host='klc.live', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7fb9e7f70b20>: Failed to resolve 'klc.live' ([Errno -2] Name or service not known)\"))"
     },
     {
         "chainId": 105,
@@ -1400,7 +1659,15 @@
         "comment": "Web3Games Devnet",
         "rpc": [
             "https://devnet.web3games.org/evm"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "error": {
+                "code": -32603,
+                "message": "0 is out of bounds"
+            },
+            "id": 1
+        }
     },
     {
         "chainId": 106,
@@ -1410,7 +1677,28 @@
         "rpc": [
             "https://evmexplorer.velas.com/rpc",
             "https://explorer.velas.com/rpc"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "result": {
+                "blockHash": "0x2244cb7ad1cd2bd3e77e3a53971a77b665ce648df0960249df1825d9dec4fa28",
+                "blockNumber": "0x1",
+                "creates": null,
+                "from": "0xc722712422b71f11d47e5070caab96b391dbe5bf",
+                "gas": "0x5208",
+                "gasPrice": "0x77359400",
+                "hash": "0x36f24b194e33b6bb4303018e16cb072ea11c8c75ffbe9ae527a5be5dc9a44f98",
+                "input": "0x",
+                "nonce": "0x10",
+                "r": "0x14096f5c7f803b2351e4b25d3d30ef05042779b88364e135a69fb6215159ef0b",
+                "s": "0x33fb8b2eca52484e31998198ee0a7cfa2dfdd0077d82bb341ec509345e3b16ea",
+                "to": "0xc722712422b71f11d47e5070caab96b391dbe5bf",
+                "transactionIndex": "0x1",
+                "v": "0xf8",
+                "value": "0x70c6fff3c0000"
+            },
+            "id": 1
+        }
     },
     {
         "chainId": 107,
@@ -1419,7 +1707,8 @@
         "comment": "Nebula Testnet",
         "rpc": [
             "https://testnet.rpc.novanetwork.io"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Connection error: HTTPSConnectionPool(host='testnet.rpc.novanetwork.io', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:997)')))"
     },
     {
         "chainId": 108,
@@ -1430,7 +1719,12 @@
             "https://mainnet-rpc.thundercore.com",
             "https://mainnet-rpc.thundertoken.net",
             "https://mainnet-rpc.thundercore.io"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 110,
@@ -1439,7 +1733,25 @@
         "comment": "Proton Testnet",
         "rpc": [
             "https://protontestnet.greymass.com/"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "server_version": "d0860c4e",
+            "chain_id": "71ee83bcf52142d61019d95f9cc5427ba6a0d7ff8accd9e2088ae2abeaf3d3dd",
+            "head_block_num": 215086157,
+            "last_irreversible_block_num": 215085831,
+            "last_irreversible_block_id": "0cd1f307ff8bb93676bc94caf8a05f359a19786cfaeffab16d17b71e2a7a8d30",
+            "head_block_id": "0cd1f44d65344ac2bceac6fdd49310f87c7c43c15117f13cb7895ac73fe3fad6",
+            "head_block_time": "2023-09-04T15:25:54.500",
+            "head_block_producer": "eosiodetroit",
+            "virtual_block_cpu_limit": 200000000,
+            "virtual_block_net_limit": 1048576000,
+            "block_cpu_limit": 200000,
+            "block_net_limit": 1048576,
+            "server_version_string": "v2.0.4",
+            "fork_db_head_block_num": 215086157,
+            "fork_db_head_block_id": "0cd1f44d65344ac2bceac6fdd49310f87c7c43c15117f13cb7895ac73fe3fad6",
+            "server_full_version_string": "v2.0.4-d0860c4ecf59b1535ef39c6ac7cae606fdb6a3ff-dirty"
+        }
     },
     {
         "chainId": 111,
@@ -1448,7 +1760,15 @@
         "comment": "EtherLite Chain",
         "rpc": [
             "https://rpc.etherlite.org"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "error": {
+                "code": -32000,
+                "message": "Requested block number is in a range that is not available yet, because the ancient block sync is still in progress."
+            },
+            "id": 1
+        }
     },
     {
         "chainId": 112,
@@ -1457,7 +1777,15 @@
         "comment": "Coinbit Mainnet",
         "rpc": [
             "https://coinbit-rpc-mainnet.chain.sbcrypto.app"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "error": {
+                "code": -32601,
+                "message": "the method eth_getTransactionByBlockNumberAndIndex does not exist/is not available"
+            }
+        }
     },
     {
         "chainId": 113,
@@ -1469,7 +1797,15 @@
             "https://rpc.dehvo.com",
             "https://rpc1.dehvo.com",
             "https://rpc2.dehvo.com"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "error": {
+                "code": -32601,
+                "message": "the method eth_getTransactionByBlockNumberAndIndex does not exist/is not available"
+            }
+        }
     },
     {
         "chainId": 114,
@@ -1478,7 +1814,32 @@
         "comment": "Flare Testnet Coston2",
         "rpc": [
             "https://coston2-api.flare.network/ext/bc/C/rpc"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": {
+                "blockHash": "0x3859cc35f369a04158993601e83e5fed3ff55393d43a3ebb6a6ec81b6f301823",
+                "blockNumber": "0x1",
+                "from": "0x4598a6c05910ab914f0cbaaca1911cd337d10d29",
+                "gas": "0x5208",
+                "gasPrice": "0x34630b8a00",
+                "maxFeePerGas": "0x34630b8a00",
+                "maxPriorityFeePerGas": "0x34630b8a00",
+                "hash": "0x185f1850e4dca21f5d58bed8372e84288e6e60c8787ca485ab14424264f2bb8e",
+                "input": "0x",
+                "nonce": "0x0",
+                "to": "0x99e0770aa23caa9071b6112208297e7a8d8f8a4a",
+                "transactionIndex": "0x0",
+                "value": "0x10f0cf064dd59200000",
+                "type": "0x2",
+                "accessList": [],
+                "chainId": "0x72",
+                "v": "0x0",
+                "r": "0x1d1947337e4e7f6e8033e245b07c72417155fe77b5b99ee4fb889ebd2057fcc1",
+                "s": "0x773bd607766280c7b926d336c4114a2c7b54c4e0070a45db2ce56e41d1dcf9c5"
+            }
+        }
     },
     {
         "chainId": 115,
@@ -1501,7 +1862,12 @@
         "comment": "Uptick Mainnet",
         "rpc": [
             "https://json-rpc.uptick.network"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 118,
@@ -1510,7 +1876,8 @@
         "comment": "Arcology Testnet",
         "rpc": [
             "https://testnet.arcology.network/rpc"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Connection error: HTTPSConnectionPool(host='testnet.arcology.network', port=443): Max retries exceeded with url: /rpc (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)')))"
     },
     {
         "chainId": 119,
@@ -1520,7 +1887,12 @@
         "rpc": [
             "https://evmapi.nuls.io",
             "https://evmapi2.nuls.io"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 120,
@@ -1530,7 +1902,12 @@
         "rpc": [
             "https://beta.evmapi.nuls.io",
             "https://beta.evmapi2.nuls.io"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 121,
@@ -1546,7 +1923,8 @@
             "wss://rcl-dataseed2.rclsidechain.com/v1/",
             "wss://rcl-dataseed3.rclsidechain.com/v1/",
             "wss://rcl-dataseed4.rclsidechain.com/v1/"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Failed with status code 526"
     },
     {
         "chainId": 122,
@@ -1555,7 +1933,15 @@
         "comment": "Fuse Mainnet",
         "rpc": [
             "https://rpc.fuse.io"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "error": {
+                "code": -32602,
+                "message": "Position Index is incorrect"
+            },
+            "id": 1
+        }
     },
     {
         "chainId": 123,
@@ -1564,7 +1950,15 @@
         "comment": "Fuse Sparknet",
         "rpc": [
             "https://rpc.fusespark.io"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "error": {
+                "code": -32602,
+                "message": "Position Index is incorrect"
+            },
+            "id": 1
+        }
     },
     {
         "chainId": 124,
@@ -1573,7 +1967,8 @@
         "comment": "Decentralized Web Mainnet",
         "rpc": [
             "https://decentralized-web.tech/dw_rpc.php"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Connection error: HTTPSConnectionPool(host='decentralized-web.tech', port=443): Max retries exceeded with url: /dw_rpc.php (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f252a149570>: Failed to resolve 'decentralized-web.tech' ([Errno -2] Name or service not known)\"))"
     },
     {
         "chainId": 125,
@@ -1582,7 +1977,8 @@
         "comment": "OYchain Testnet",
         "rpc": [
             "https://rpc.testnet.oychain.io"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Connection error: HTTPSConnectionPool(host='rpc.testnet.oychain.io', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f252a14a200>: Failed to resolve 'rpc.testnet.oychain.io' ([Errno -2] Name or service not known)\"))"
     },
     {
         "chainId": 126,
@@ -1591,7 +1987,8 @@
         "comment": "OYchain Mainnet",
         "rpc": [
             "https://rpc.mainnet.oychain.io"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Connection error: HTTPSConnectionPool(host='rpc.mainnet.oychain.io', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f252a14aaa0>: Failed to resolve 'rpc.mainnet.oychain.io' ([Errno -2] Name or service not known)\"))"
     },
     {
         "chainId": 127,
@@ -1608,7 +2005,12 @@
         "rpc": [
             "https://http-mainnet.hecochain.com",
             "wss://ws-mainnet.hecochain.com"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 134,
@@ -1617,7 +2019,15 @@
         "comment": "iExec Sidechain",
         "rpc": [
             "https://bellecour.iex.ec"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "error": {
+                "code": -32602,
+                "message": "Position Index is incorrect"
+            },
+            "id": 1
+        }
     },
     {
         "chainId": 135,
@@ -1626,7 +2036,8 @@
         "comment": "Alyx Chain Testnet",
         "rpc": [
             "https://testnet-rpc.alyxchain.com"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Failed with status code 502"
     },
     {
         "chainId": 136,
@@ -1635,7 +2046,8 @@
         "comment": "Deamchain Mainnet",
         "rpc": [
             "https://mainnet.deamchain.com"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Connection error: HTTPSConnectionPool(host='mainnet.deamchain.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f252a1493f0>: Failed to resolve 'mainnet.deamchain.com' ([Errno -5] No address associated with hostname)\"))"
     },
     {
         "chainId": 137,
@@ -1652,7 +2064,12 @@
             "https://polygon-bor.publicnode.com",
             "https://polygon.gateway.tenderly.co",
             "wss://polygon.gateway.tenderly.co"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 138,
@@ -1662,7 +2079,12 @@
         "rpc": [
             "https://rpc.public-0138.defi-oracle.io",
             "wss://rpc.public-0138.defi-oracle.io"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 139,
@@ -1671,7 +2093,12 @@
         "comment": "WoopChain Mainnet",
         "rpc": [
             "https://rpc.woop.ai/rpc"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 141,
@@ -1680,7 +2107,8 @@
         "comment": "Openpiece Testnet",
         "rpc": [
             "https://testnet.openpiece.io"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Failed with status code 522"
     },
     {
         "chainId": 142,
@@ -1689,7 +2117,8 @@
         "comment": "DAX CHAIN",
         "rpc": [
             "https://rpc.prodax.io"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Connection error: HTTPSConnectionPool(host='rpc.prodax.io', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f60ee150b20>: Failed to resolve 'rpc.prodax.io' ([Errno -2] Name or service not known)\"))"
     },
     {
         "chainId": 144,
@@ -1698,7 +2127,12 @@
         "comment": "PHI Network v2",
         "rpc": [
             "https://connect.phi.network"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 150,
@@ -1707,7 +2141,12 @@
         "comment": "Six Protocol Testnet",
         "rpc": [
             "https://rpc-evm.fivenet.sixprotocol.net"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 151,
@@ -1744,7 +2183,12 @@
         "comment": "Tenet Testnet",
         "rpc": [
             "https://rpc.testnet.tenet.org"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 156,
@@ -1753,7 +2197,8 @@
         "comment": "OEBlock Testnet",
         "rpc": [
             "https://testnet-rpc.oeblock.com"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Connection error: HTTPSConnectionPool(host='testnet-rpc.oeblock.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f60ee150b50>, 'Connection to testnet-rpc.oeblock.com timed out. (connect timeout=None)'))"
     },
     {
         "chainId": 160,
@@ -1762,7 +2207,8 @@
         "comment": "Armonia Eva Chain Mainnet",
         "rpc": [
             "https://evascan.io/api/eth-rpc/"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Failed with status code 521"
     },
     {
         "chainId": 161,
@@ -1771,7 +2217,8 @@
         "comment": "Armonia Eva Chain Testnet",
         "rpc": [
             "https://testnet.evascan.io/api/eth-rpc/"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Failed with status code 521"
     },
     {
         "chainId": 162,
@@ -1780,7 +2227,8 @@
         "comment": "Lightstreams Testnet",
         "rpc": [
             "https://node.sirius.lightstreams.io"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Connection error: HTTPSConnectionPool(host='node.sirius.lightstreams.io', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)')))"
     },
     {
         "chainId": 163,
@@ -1789,7 +2237,8 @@
         "comment": "Lightstreams Mainnet",
         "rpc": [
             "https://node.mainnet.lightstreams.io"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Connection error: HTTPSConnectionPool(host='node.mainnet.lightstreams.io', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)')))"
     },
     {
         "chainId": 165,
@@ -1798,7 +2247,12 @@
         "comment": "Omni Testnet",
         "rpc": [
             "https://testnet.omni.network"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 167,
@@ -1807,7 +2261,8 @@
         "comment": "Atoshi Testnet",
         "rpc": [
             "https://node.atoshi.io/"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Failed with status code 405"
     },
     {
         "chainId": 168,
@@ -1816,7 +2271,12 @@
         "comment": "AIOZ Network",
         "rpc": [
             "https://eth-dataseed.aioz.network"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 170,
@@ -1825,7 +2285,8 @@
         "comment": "HOO Smart Chain Testnet",
         "rpc": [
             "https://http-testnet.hoosmartchain.com"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Failed with status code 503"
     },
     {
         "chainId": 172,
@@ -1835,7 +2296,8 @@
         "rpc": [
             "https://rpc.latam-blockchain.com",
             "wss://ws.latam-blockchain.com"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Connection error: No connection adapters were found for 'wss://ws.latam-blockchain.com'"
     },
     {
         "chainId": 180,
@@ -1844,7 +2306,12 @@
         "comment": "AME Chain Mainnet",
         "rpc": [
             "https://node1.amechain.io/"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 186,
@@ -1853,7 +2320,12 @@
         "comment": "Seele Mainnet",
         "rpc": [
             "https://rpc.seelen.pro/"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 188,
@@ -1862,7 +2334,8 @@
         "comment": "BMC Mainnet",
         "rpc": [
             "https://mainnet.bmcchain.com/"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Failed with status code 400"
     },
     {
         "chainId": 189,
@@ -1871,7 +2344,8 @@
         "comment": "BMC Testnet",
         "rpc": [
             "https://testnet.bmcchain.com"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Failed with status code 400"
     },
     {
         "chainId": 193,
@@ -1880,7 +2354,12 @@
         "comment": "Crypto Emergency",
         "rpc": [
             "https://cemchain.com"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 195,
@@ -1889,7 +2368,12 @@
         "comment": "OKBChain Testnet",
         "rpc": [
             "https://okbtestrpc.okbchain.org"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 196,
@@ -1905,7 +2389,8 @@
         "comment": "Neutrinos TestNet",
         "rpc": [
             "https://testnet-rpc.neutrinoschain.com"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Failed with status code 403"
     },
     {
         "chainId": 198,
@@ -1914,7 +2399,12 @@
         "comment": "Bitchain Mainnet",
         "rpc": [
             "https://rpc.bitchain.biz/"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 199,
@@ -1923,7 +2413,12 @@
         "comment": "BitTorrent Chain Mainnet",
         "rpc": [
             "https://rpc.bittorrentchain.io/"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 200,
@@ -1932,7 +2427,8 @@
         "comment": "Arbitrum on xDai",
         "rpc": [
             "https://arbitrum.xdaichain.com/"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Connection error: HTTPSConnectionPool(host='arbitrum.xdaichain.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f60ee1520b0>: Failed to resolve 'arbitrum.xdaichain.com' ([Errno -5] No address associated with hostname)\"))"
     },
     {
         "chainId": 201,
@@ -1941,7 +2437,8 @@
         "comment": "MOAC testnet",
         "rpc": [
             "https://gateway.moac.io/testnet"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Connection error: HTTPSConnectionPool(host='gateway.moac.io', port=443): Max retries exceeded with url: /testnet (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)')))"
     },
     {
         "chainId": 204,
@@ -1950,7 +2447,30 @@
         "comment": "opBNB Mainnet",
         "rpc": [
             "https://opbnb-mainnet-rpc.bnbchain.org"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": {
+                "blockHash": "0x0cf3a6c7c09c7e90d5a32c29996a19861a1d7e680dbfbc028813e9bc9d8dab01",
+                "blockNumber": "0x1",
+                "from": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0001",
+                "gas": "0xf4240",
+                "gasPrice": "0x0",
+                "hash": "0x83e338c824c76d4d13f1da7da61b4115e2dfd5d6bf74e394c77396b5d263a7af",
+                "input": "0x015d8eb90000000000000000000000000000000000000000000000000000000001d555d50000000000000000000000000000000000000000000000000000000064d61cfb00000000000000000000000000000000000000000000000000000000ef66735c29443b21507894febe7700f7c5cd3569cc8bf1ba535df0489276d8004af810440000000000000000000000000000000000000000000000000000000000000001000000000000000000000000ef8783382ef80ec23b66c43575a6103deca909c3000000000000000000000000000000000000000000000000000000000000083400000000000000000000000000000000000000000000000000000000000f4240",
+                "nonce": "0x0",
+                "to": "0x4200000000000000000000000000000000000015",
+                "transactionIndex": "0x0",
+                "value": "0x0",
+                "type": "0x7e",
+                "v": "0x0",
+                "r": "0x0",
+                "s": "0x0",
+                "sourceHash": "0x9f6e9eaa4d29aa56f77bf91180679e605d073ee57ce0cb5495953ab4e604b97b",
+                "mint": "0x0"
+            }
+        }
     },
     {
         "chainId": 208,
@@ -1959,7 +2479,8 @@
         "comment": "Structx Mainnet",
         "rpc": [
             "https://mainnet.structx.io"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Connection error: HTTPSConnectionPool(host='mainnet.structx.io', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f60ee1512a0>: Failed to resolve 'mainnet.structx.io' ([Errno -2] Name or service not known)\"))"
     },
     {
         "chainId": 210,
@@ -1969,7 +2490,12 @@
         "rpc": [
             "https://rpc.bitnet.money",
             "https://rpc.btnscan.com"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 211,
@@ -1979,7 +2505,8 @@
         "rpc": [
             "http://13.57.207.168:3435",
             "https://app.freighttrust.net/ftn/${API_KEY}"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Connection error: HTTPSConnectionPool(host='app.freighttrust.net', port=443): Max retries exceeded with url: /ftn/$%7BAPI_KEY%7D (Caused by SSLError(SSLError(1, '[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:997)')))"
     },
     {
         "chainId": 212,
@@ -1988,7 +2515,12 @@
         "comment": "MAP Makalu",
         "rpc": [
             "https://testnet-rpc.maplabs.io"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 217,
@@ -1997,7 +2529,8 @@
         "comment": "SiriusNet V2",
         "rpc": [
             "https://rpc2.siriusnet.io"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Failed with status code 403"
     },
     {
         "chainId": 218,
@@ -2006,7 +2539,8 @@
         "comment": "SoterOne Mainnet old",
         "rpc": [
             "https://rpc.soter.one"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Connection error: HTTPSConnectionPool(host='rpc.soter.one', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f60ee1518d0>: Failed to resolve 'rpc.soter.one' ([Errno -2] Name or service not known)\"))"
     },
     {
         "chainId": 222,
@@ -2015,7 +2549,12 @@
         "comment": "Permission",
         "rpc": [
             "https://blockchain-api-mainnet.permission.io/rpc"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 225,
@@ -2024,7 +2563,30 @@
         "comment": "LACHAIN Mainnet",
         "rpc": [
             "https://rpc-mainnet.lachain.io"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "error": {
+                "code": -32603,
+                "message": "Internal Error",
+                "data": {
+                    "ClassName": "System.ArgumentException",
+                    "Message": "Object of type 'Newtonsoft.Json.Linq.JValue' cannot be converted to type 'System.UInt64'.",
+                    "Data": null,
+                    "InnerException": null,
+                    "HelpURL": null,
+                    "StackTraceString": "   at System.RuntimeType.TryChangeType(Object value, Binder binder, CultureInfo culture, Boolean needsSpecialCast)\n   at System.Reflection.MethodBase.CheckArguments(Object[] parameters, Binder binder, BindingFlags invokeAttr, CultureInfo culture, Signature sig)\n   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)\n   at System.Delegate.DynamicInvokeImpl(Object[] args)\n   at AustinHarris.JsonRpc.Handler.Handle(JsonRequest Rpc, Object RpcContext)",
+                    "RemoteStackTraceString": null,
+                    "RemoteStackIndex": 0,
+                    "ExceptionMethod": null,
+                    "HResult": -2147024809,
+                    "Source": "System.Private.CoreLib",
+                    "WatsonBuckets": null,
+                    "ParamName": null
+                }
+            },
+            "id": 1
+        }
     },
     {
         "chainId": 226,
@@ -2033,7 +2595,30 @@
         "comment": "LACHAIN Testnet",
         "rpc": [
             "https://rpc-testnet.lachain.io"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "error": {
+                "code": -32603,
+                "message": "Internal Error",
+                "data": {
+                    "ClassName": "System.ArgumentException",
+                    "Message": "Object of type 'Newtonsoft.Json.Linq.JValue' cannot be converted to type 'System.UInt64'.",
+                    "Data": null,
+                    "InnerException": null,
+                    "HelpURL": null,
+                    "StackTraceString": "   at System.RuntimeType.TryChangeType(Object value, Binder binder, CultureInfo culture, Boolean needsSpecialCast)\n   at System.Reflection.MethodBase.CheckArguments(Object[] parameters, Binder binder, BindingFlags invokeAttr, CultureInfo culture, Signature sig)\n   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)\n   at System.Delegate.DynamicInvokeImpl(Object[] args)\n   at AustinHarris.JsonRpc.Handler.Handle(JsonRequest Rpc, Object RpcContext)",
+                    "RemoteStackTraceString": null,
+                    "RemoteStackIndex": 0,
+                    "ExceptionMethod": null,
+                    "HResult": -2147024809,
+                    "Source": "System.Private.CoreLib",
+                    "WatsonBuckets": null,
+                    "ParamName": null
+                }
+            },
+            "id": 1
+        }
     },
     {
         "chainId": 230,
@@ -2043,7 +2628,8 @@
         "rpc": [
             "https://rpc.swapdex.network",
             "wss://ss.swapdex.network"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Failed with status code 530"
     },
     {
         "chainId": 236,
@@ -2052,7 +2638,28 @@
         "comment": "Deamchain Testnet",
         "rpc": [
             "https://testnet.deamchain.com"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": {
+                "blockHash": "0x0000000100000001d38df370395b3d09df82aa5455ac5b01c23d8dbfcf862c77",
+                "blockNumber": "0x1",
+                "from": "0x0000000000000000000000000000000000000000",
+                "gas": "0x2540be400",
+                "gasPrice": "0x0",
+                "hash": "0xeaf2b855130dc9710bc062e92014a0977802f41ed32125532e7f759b6c2630ed",
+                "input": "0xc80e151300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000033b2e3c9fd0803ce8000000000000000000000000000000eab1000000000000000000000000000000000000000000000000000000000000eab10000000000000000000000000000000001ea000000000000000000000000eab100000000000000000000000000000000001e000000000000000000000000d100ec0000000000000000000000000000000000000000000000000000000000a493ed65c1f315cb11e8f8dc7fabc28aa23be123",
+                "nonce": "0x0",
+                "to": "0xeab1000000000000000000000000000000000111",
+                "transactionIndex": "0x0",
+                "value": "0x0",
+                "type": "0x0",
+                "v": "0x0",
+                "r": "0x0",
+                "s": "0x0"
+            }
+        }
     },
     {
         "chainId": 242,
@@ -2063,7 +2670,15 @@
             "https://rpcurl.mainnet.plgchain.com",
             "https://rpcurl.plgchain.blockchain.evmnode.online",
             "https://rpcurl.mainnet.plgchain.plinga.technology"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "error": {
+                "code": -32601,
+                "message": "the method eth_getTransactionByBlockNumberAndIndex does not exist/is not available"
+            }
+        }
     },
     {
         "chainId": 246,
@@ -2073,7 +2688,15 @@
         "rpc": [
             "https://rpc.energyweb.org",
             "wss://rpc.energyweb.org/ws"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "error": {
+                "code": -32000,
+                "message": "Requested block number is in a range that is not available yet, because the ancient block sync is still in progress."
+            },
+            "id": 1
+        }
     },
     {
         "chainId": 248,
@@ -2082,7 +2705,28 @@
         "comment": "Oasys Mainnet",
         "rpc": [
             "https://rpc.mainnet.oasys.games"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": {
+                "blockHash": "0xabff65a3f6880af4e7fc13b7e0641ff6f491ac403755e130b3dba96bbf1b3a2c",
+                "blockNumber": "0x1",
+                "from": "0xd7a54d58305934e2d725f3573b4419e905fbdfe5",
+                "gas": "0x7fffffffffffffff",
+                "gasPrice": "0x0",
+                "hash": "0xfa16e33d031882c42b7ce2a19b6e777bd92410a7d4d044d29ddbf4df0ffbc817",
+                "input": "0x08a5435600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000f0000000000000000000000000000000000000000000000000000000000001680000000000000000000000000000000000000000000000000000000000000000a000000000000000000000000000000000000000000000000000000000000000a000000000000000000000000000000000000000000084595161401484a00000000000000000000000000000000000000000000000000000000000000000001f40000000000000000000000000000000000000000000000000000000000000002",
+                "nonce": "0x0",
+                "to": "0x0000000000000000000000000000000000001000",
+                "transactionIndex": "0x0",
+                "value": "0x0",
+                "type": "0x0",
+                "v": "0x214",
+                "r": "0xeb12012816931805a71a7983a9dcd3664cb3b5bff52e5c1ffbffbdfd68ab2b0c",
+                "s": "0x2c7bcd36eb215b77f7ab81fb5c719cc4e12d0fde48d719d4c2f6828afbe0b924"
+            }
+        }
     },
     {
         "chainId": 250,
@@ -2092,7 +2736,12 @@
         "rpc": [
             "https://rpc.ftm.tools",
             "https://fantom.publicnode.com"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 256,
@@ -2102,7 +2751,8 @@
         "rpc": [
             "https://http-testnet.hecochain.com",
             "wss://ws-testnet.hecochain.com"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Connection error: No connection adapters were found for 'wss://ws-testnet.hecochain.com'"
     },
     {
         "chainId": 258,
@@ -2118,7 +2768,28 @@
         "comment": "Neonlink Mainnet",
         "rpc": [
             "https://mainnet.neonlink.io"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": {
+                "blockHash": "0x000000010000000154b7264f740df32f75125fcf2175e5ada8158471f8dec45d",
+                "blockNumber": "0x1",
+                "from": "0x0000000000000000000000000000000000000000",
+                "gas": "0x2540be400",
+                "gasPrice": "0x0",
+                "hash": "0x75463d6d9b2ec487acaf85b6afdc6c12b03b8770f047087577a5f62532a95edc",
+                "input": "0xc80e151300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000033b2e3c9fd0803ce8000000000000000000000000000000eab1000000000000000000000000000000000000000000000000000000000000eab10000000000000000000000000000000001ea000000000000000000000000eab100000000000000000000000000000000001e000000000000000000000000d100ec0000000000000000000000000000000000000000000000000000000000a3607a6bb324bfe38ae88f3aff23504449f0a34b",
+                "nonce": "0x0",
+                "to": "0xeab1000000000000000000000000000000000111",
+                "transactionIndex": "0x0",
+                "value": "0x0",
+                "type": "0x0",
+                "v": "0x0",
+                "r": "0x0",
+                "s": "0x0"
+            }
+        }
     },
     {
         "chainId": 262,
@@ -2127,7 +2798,8 @@
         "comment": "SUR Blockchain Network",
         "rpc": [
             "https://sur.nilin.org"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Failed with status code 522"
     },
     {
         "chainId": 269,
@@ -2137,7 +2809,12 @@
         "rpc": [
             "https://hpbnode.com",
             "wss://ws.hpbnode.com"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 271,
@@ -2146,7 +2823,8 @@
         "comment": "EgonCoin Mainnet",
         "rpc": [
             "https://rpc.egcscan.com"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Failed with status code 403"
     },
     {
         "chainId": 274,
@@ -2157,7 +2835,15 @@
             "https://rpc1.mainnet.lachain.network",
             "https://rpc2.mainnet.lachain.network",
             "https://lachain.rpc-nodes.cedalio.dev"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "error": {
+                "code": -32601,
+                "message": "the method eth_getTransactionByBlockNumberAndIndex does not exist/is not available"
+            }
+        }
     },
     {
         "chainId": 280,
@@ -2166,7 +2852,30 @@
         "comment": "zkSync Era Testnet",
         "rpc": [
             "https://testnet.era.zksync.dev"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "result": {
+                "hash": "0x42fbeec314583674f3d0610a92f0c7c59db1170eee076a1ec700f4e1448a1213",
+                "nonce": "0x0",
+                "blockHash": "0x51f81bcdfc324a0dff2b5bec9d92e21cbebc4d5e29d3a3d30de3e03fbeab8d7f",
+                "blockNumber": "0x1",
+                "transactionIndex": "0x0",
+                "from": "0x52312ad6f01657413b2eae9287f6b9adad93d5fe",
+                "to": "0x0000000000000000000000000000000000008006",
+                "value": "0x0",
+                "gasPrice": "0x0",
+                "gas": "0x44aa200",
+                "input": "0x3cda33510000000000000000000000000000000000000000000000000000000000000000010000553109a66f1432eb2286c54694784d1b6993bc24a168be0a49b4d0fd4500000000000000000000000000000000000000000000000000000000000000600000000000000000000000000000000000000000000000000000000000000000",
+                "type": "0xff",
+                "maxFeePerGas": "0x0",
+                "maxPriorityFeePerGas": "0x0",
+                "chainId": "0x118",
+                "l1BatchNumber": "0x1",
+                "l1BatchTxIndex": "0x0"
+            },
+            "id": 1
+        }
     },
     {
         "chainId": 288,
@@ -2180,7 +2889,38 @@
             "https://gateway.tenderly.co/public/boba-ethereum",
             "wss://boba-ethereum.gateway.tenderly.co/",
             "wss://gateway.tenderly.co/public/boba-ethereum"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "result": {
+                "accessList": [],
+                "blockHash": "0xaf2ccd780f53ae2db9b9d8bde016907aa8a196809ba53b6adf376ed2816e25a7",
+                "blockNumber": "0x1",
+                "chainId": "0x120",
+                "from": "0x0000000000000000000000000000000000000000",
+                "gas": "0x13d620",
+                "gasPrice": "0x0",
+                "hash": "0xdd6de2b4d2670ed2dab5d25617fd636d97bbf66a486f8f22f69b7b07b5ac7a4c",
+                "index": "0x0",
+                "input": "0xcbd4ece90000000000000000000000004200000000000000000000000000000000000010000000000000000000000000dc1664458d2f0b6090bea60a8793a4e66c2f1c00000000000000000000000000000000000000000000000000000000000000008000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000104662a633a000000000000000000000000000000000000000000000000000000000000000000000000000000000000000042000000000000000000000000000000000000060000000000000000000000001f2414d0af8741bc822dbc2f88069c2b2907a8400000000000000000000000001f2414d0af8741bc822dbc2f88069c2b2907a84000000000000000000000000000000000000000000000000000038d7ea4c6800000000000000000000000000000000000000000000000000000000000000000c00000000000000000000000000000000000000000000000000000000000000020313633353339333432373932360000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+                "l1BlockNumber": "0xce0bd0",
+                "l1Timestamp": "0x617a1f9f",
+                "l1Turing": "0x",
+                "l1TxOrigin": "0x7e5628d192db72e282265d6092f4b872f9e007af",
+                "nonce": "0x0",
+                "queueIndex": "0x0",
+                "queueOrigin": "l1",
+                "r": "0x0",
+                "rawTransaction": "0xcbd4ece90000000000000000000000004200000000000000000000000000000000000010000000000000000000000000dc1664458d2f0b6090bea60a8793a4e66c2f1c00000000000000000000000000000000000000000000000000000000000000008000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000104662a633a000000000000000000000000000000000000000000000000000000000000000000000000000000000000000042000000000000000000000000000000000000060000000000000000000000001f2414d0af8741bc822dbc2f88069c2b2907a8400000000000000000000000001f2414d0af8741bc822dbc2f88069c2b2907a84000000000000000000000000000000000000000000000000000038d7ea4c6800000000000000000000000000000000000000000000000000000000000000000c00000000000000000000000000000000000000000000000000000000000000020313633353339333432373932360000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+                "s": "0x0",
+                "to": "0x4200000000000000000000000000000000000007",
+                "transactionIndex": "0x0",
+                "type": "0x0",
+                "v": "0x0",
+                "value": "0x0"
+            },
+            "id": 1
+        }
     },
     {
         "chainId": 295,
@@ -2189,7 +2929,12 @@
         "comment": "Hedera Mainnet",
         "rpc": [
             "https://mainnet.hashio.io/api"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "result": null,
+            "jsonrpc": "2.0",
+            "id": 1
+        }
     },
     {
         "chainId": 296,
@@ -2198,7 +2943,12 @@
         "comment": "Hedera Testnet",
         "rpc": [
             "https://testnet.hashio.io/api"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "result": null,
+            "jsonrpc": "2.0",
+            "id": 1
+        }
     },
     {
         "chainId": 297,
@@ -2207,7 +2957,12 @@
         "comment": "Hedera Previewnet",
         "rpc": [
             "https://previewnet.hashio.io/api"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "result": null,
+            "jsonrpc": "2.0",
+            "id": 1
+        }
     },
     {
         "chainId": 298,
@@ -2233,7 +2988,8 @@
             "wss://wss.bobaopera.boba.network",
             "https://replica.bobaopera.boba.network",
             "wss://replica-wss.bobaopera.boba.network"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Connection error: No connection adapters were found for 'wss://replica-wss.bobaopera.boba.network'"
     },
     {
         "chainId": 303,
@@ -2242,7 +2998,12 @@
         "comment": "Neurochain Testnet",
         "rpc": [
             "https://nc-rpc-test1.neurochain.io"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 311,
@@ -2251,7 +3012,12 @@
         "comment": "Omax Mainnet",
         "rpc": [
             "https://mainapi.omaxray.com"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 313,
@@ -2261,7 +3027,12 @@
         "rpc": [
             "https://nc-rpc-prd1.neurochain.io",
             "https://nc-rpc-prd2.neurochain.io"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 314,
@@ -2272,7 +3043,8 @@
             "https://api.node.glif.io/",
             "https://rpc.ankr.com/filecoin",
             "https://filecoin-mainnet.chainstacklabs.com/rpc/v1"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Failed with status code 500"
     },
     {
         "chainId": 321,
@@ -2283,7 +3055,12 @@
             "https://rpc-mainnet.kcc.network",
             "https://kcc.mytokenpocket.vip",
             "https://public-rpc.blockpi.io/http/kcc"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 322,
@@ -2292,7 +3069,12 @@
         "comment": "KCC Testnet",
         "rpc": [
             "https://rpc-testnet.kcc.network"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 324,
@@ -2301,7 +3083,30 @@
         "comment": "zkSync Era Mainnet",
         "rpc": [
             "https://mainnet.era.zksync.io"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "result": {
+                "hash": "0xe9a1a8601bc9199c80c97169fdc9e1fc7c307185a0c9fa2cfab04098a7840645",
+                "nonce": "0x0",
+                "blockHash": "0x51f81bcdfc324a0dff2b5bec9d92e21cbebc4d5e29d3a3d30de3e03fbeab8d7f",
+                "blockNumber": "0x1",
+                "transactionIndex": "0x0",
+                "from": "0x29df43f75149d0552475a6f9b2ac96e28796ed0b",
+                "to": "0x0000000000000000000000000000000000008006",
+                "value": "0x0",
+                "gasPrice": "0x0",
+                "gas": "0x44aa200",
+                "input": "0x3cda33510000000000000000000000000000000000000000000000000000000000000000010000553109a66f1432eb2286c54694784d1b6993bc24a168be0a49b4d0fd4500000000000000000000000000000000000000000000000000000000000000600000000000000000000000000000000000000000000000000000000000000000",
+                "type": "0xff",
+                "maxFeePerGas": "0x0",
+                "maxPriorityFeePerGas": "0x0",
+                "chainId": "0x144",
+                "l1BatchNumber": "0x1",
+                "l1BatchTxIndex": "0x0"
+            },
+            "id": 1
+        }
     },
     {
         "chainId": 333,
@@ -2310,7 +3115,8 @@
         "comment": "Web3Q Mainnet",
         "rpc": [
             "https://mainnet.web3q.io:8545"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Connection error: HTTPSConnectionPool(host='mainnet.web3q.io', port=8545): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f8902a3de70>: Failed to resolve 'mainnet.web3q.io' ([Errno -2] Name or service not known)\"))"
     },
     {
         "chainId": 335,
@@ -2319,7 +3125,32 @@
         "comment": "DFK Chain Test",
         "rpc": [
             "https://subnets.avax.network/defi-kingdoms/dfk-chain-testnet/rpc"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": {
+                "blockHash": "0x55295a04736ca342896a666d75f5d37b203950c41e6054ffa63477098f415b50",
+                "blockNumber": "0x1",
+                "from": "0xceccb47c74f86f097073e4b7eec025f29f2ca6a2",
+                "gas": "0x5208",
+                "gasPrice": "0x2625a00",
+                "maxFeePerGas": "0x2625a00",
+                "maxPriorityFeePerGas": "0x2625a00",
+                "hash": "0xbdf4c933c0fa672c493e9e7ae2d256942acc8bfeb428666238c37208ceab0ef6",
+                "input": "0x",
+                "nonce": "0x0",
+                "to": "0x42a81dc391a2b984764766b95bca4a0ce31658df",
+                "transactionIndex": "0x0",
+                "value": "0xde0b6b3a7640000",
+                "type": "0x2",
+                "accessList": [],
+                "chainId": "0x14f",
+                "v": "0x0",
+                "r": "0xb75f24c8d314fdbc68f6346a6b6447ea3d5f397e42f0d5ec56976d98bdf98773",
+                "s": "0x60c6954cdec04d4efc3903c3eef24d7f8573839b215b75475891e5788c33b624"
+            }
+        }
     },
     {
         "chainId": 336,
@@ -2333,7 +3164,12 @@
             "wss://shiden.api.onfinality.io/public-ws",
             "wss://shiden.public.blastapi.io",
             "wss://shiden-rpc.dwellir.com"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "result": null,
+            "id": 1
+        }
     },
     {
         "chainId": 338,
@@ -2342,7 +3178,12 @@
         "comment": "Cronos Testnet",
         "rpc": [
             "https://evm-t3.cronos.org"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "id": 1,
+            "result": null,
+            "jsonrpc": "2.0"
+        }
     },
     {
         "chainId": 345,
@@ -2351,7 +3192,34 @@
         "comment": "Yooldo Verse Mainnet",
         "rpc": [
             "https://rpc.yooldo-verse.xyz/"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": {
+                "blockHash": "0x03121c7f3b96507ede8e83116779a26cf506ddac7d9b587be50849ad8cb92c14",
+                "blockNumber": "0x1",
+                "from": "0x0000000000000000000000000000000000000000",
+                "gas": "0x1e8480",
+                "gasPrice": "0x0",
+                "hash": "0x826cd76953c34f8f0f4e8860fec1d97d9eaa503c18d4fd9f9ba275cda5fee5da",
+                "input": "0xcbd4ece90000000000000000000000004200000000000000000000000000000000000010000000000000000000000000ee012f8f908ea3a16288c9b33f8ee667dcb815830000000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000e4662a633a0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000deaddeaddeaddeaddeaddeaddeaddeaddead00000000000000000000000000005ec945de12315fdb212d0518148e730a4e99176d0000000000000000000000005ec945de12315fdb212d0518148e730a4e99176d00000000000000000000000000000000000000000000000000000000000004d200000000000000000000000000000000000000000000000000000000000000c0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+                "nonce": "0x0",
+                "to": "0x4200000000000000000000000000000000000007",
+                "transactionIndex": "0x0",
+                "value": "0x0",
+                "v": "0x0",
+                "r": "0x0",
+                "s": "0x0",
+                "queueOrigin": "l1",
+                "l1TxOrigin": "0xeca61ff274a5b7716e53cad55239380d8bed171f",
+                "l1BlockNumber": "0x17d9db",
+                "l1Timestamp": "0x64f342a4",
+                "index": "0x0",
+                "queueIndex": "0x0",
+                "rawTransaction": "0xf901c68080831e848094420000000000000000000000000000000000000780b901a4cbd4ece90000000000000000000000004200000000000000000000000000000000000010000000000000000000000000ee012f8f908ea3a16288c9b33f8ee667dcb815830000000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000e4662a633a0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000deaddeaddeaddeaddeaddeaddeaddeaddead00000000000000000000000000005ec945de12315fdb212d0518148e730a4e99176d0000000000000000000000005ec945de12315fdb212d0518148e730a4e99176d00000000000000000000000000000000000000000000000000000000000004d200000000000000000000000000000000000000000000000000000000000000c0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000808080"
+            }
+        }
     },
     {
         "chainId": 361,
@@ -2360,7 +3228,15 @@
         "comment": "Theta Mainnet",
         "rpc": [
             "https://eth-rpc-api.thetatoken.org/rpc"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "error": {
+                "code": -32000,
+                "message": "method handler crashed"
+            }
+        }
     },
     {
         "chainId": 363,
@@ -2369,7 +3245,8 @@
         "comment": "Theta Sapphire Testnet",
         "rpc": [
             "https://eth-rpc-api-sapphire.thetatoken.org/rpc"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Connection error: HTTPSConnectionPool(host='eth-rpc-api-sapphire.thetatoken.org', port=443): Max retries exceeded with url: /rpc (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f8902a3db10>: Failed to resolve 'eth-rpc-api-sapphire.thetatoken.org' ([Errno -5] No address associated with hostname)\"))"
     },
     {
         "chainId": 364,
@@ -2378,7 +3255,8 @@
         "comment": "Theta Amber Testnet",
         "rpc": [
             "https://eth-rpc-api-amber.thetatoken.org/rpc"
-        ]
+        ],
+        "eth_gtbbIndexResponce": "Connection error: HTTPSConnectionPool(host='eth-rpc-api-amber.thetatoken.org', port=443): Max retries exceeded with url: /rpc (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f8902a3d510>: Failed to resolve 'eth-rpc-api-amber.thetatoken.org' ([Errno -5] No address associated with hostname)\"))"
     },
     {
         "chainId": 365,
@@ -2387,7 +3265,27 @@
         "comment": "Theta Testnet",
         "rpc": [
             "https://eth-rpc-api-testnet.thetatoken.org/rpc"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": {
+                "blockHash": "0xa64cdcbdbc031e8eb77dc9e74f388a32979122353c8840070fd676824518afeb",
+                "blockNumber": "0x1",
+                "from": "0x0000000000000000000000000000000000000000",
+                "to": null,
+                "gas": "0x0",
+                "gasPrice": "",
+                "hash": "0xc43b507f11b91f6630cb02bd0da70c23c2c782ab5efd558f586ab777812f968b",
+                "nonce": "0x0",
+                "input": "",
+                "transactionIndex": "0x0",
+                "value": "",
+                "v": "0x0",
+                "r": "0x0000000000000000000000000000000000000000000000000000000000000000",
+                "s": "0x0000000000000000000000000000000000000000000000000000000000000000"
+            }
+        }
     },
     {
         "chainId": 369,
@@ -2398,7 +3296,12 @@
             "https://rpc.pulsechain.com",
             "wss://rpc.pulsechain.com",
             "https://pulsechain.publicnode.com"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "result": null
+        }
     },
     {
         "chainId": 371,
@@ -2407,7 +3310,15 @@
         "comment": "Consta Testnet",
         "rpc": [
             "https://rpc-testnet.theconsta.com"
-        ]
+        ],
+        "eth_gtbbIndexResponce": {
+            "jsonrpc": "2.0",
+            "error": {
+                "code": -32602,
+                "message": "Position Index is incorrect"
+            },
+            "id": 1
+        }
     },
     {
         "chainId": 385,

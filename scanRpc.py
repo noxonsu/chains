@@ -36,7 +36,7 @@ for item in existing_data:
                 headers = {'Content-Type': 'application/json'}
                 
                 # Выполняем запрос
-                response = requests.post(rpc_url, json=payload, headers=headers)
+                response = requests.post(rpc_url, json=payload, headers=headers, timeout=5)
                 
                 if response.status_code == 200:
                     item['eth_gtbbIndexResponce'] = response.json()
@@ -52,7 +52,7 @@ for item in existing_data:
         
         # Увеличиваем счетчик и проверяем, не достигли ли мы 30
         counter += 1
-        if counter >= 30:
+        if counter >= 5:
             break
 
 # Сохраняем обновленные данные в файл
