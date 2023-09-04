@@ -2,51 +2,56 @@ import requests
 import json
 import os
 
-# Функция для загрузки существующих данных из sites.json
-def load_existing_sites(filename):
+# Функция для загрузки существующих данных из файла
+def load_existing_data(filename):
     if os.path.exists(filename):
         with open(filename, 'r') as f:
             return json.load(f)
     return []
 
-# Функция для сохранения данных в sites.json
-def save_sites(filename, sites):
+# Функция для сохранения данных в файл
+def save_data_to_file(data, filename):
     with open(filename, 'w') as f:
-        json.dump(sites, f, indent=4)
+        json.dump(data, f, indent=4)
 
-# URL для скачивания исходного JSON
+# URL, откуда скачиваем JSON
 url = "https://chainid.network/chains.json"
 
-# Загрузка существующих данных
-existing_sites = load_existing_sites('sites.json')
-
-# Скачивание исходного JSON
+# Скачиваем JSON
 response = requests.get(url)
 if response.status_code == 200:
+    # Парсим JSON
     data = json.loads(response.text)
     
-    # Инициализация списка для новых сайтов
-    new_sites = []
+    # Загружаем существующие данные
+    existing_data = load_existing_data("sites.json")
+    existing_chain_ids = {item['chainId'] for item in existing_data}
     
+    # Инициализируем список для новых данных
+    new_data = []
+    
+    # Итерируемся по всем элементам в JSON
     for item in data:
-        # Формирование словаря с нужными полями
-        site = {
-            'chainId': item.get('chainId', ''),
-            'url': item.get('infoURL', ''),
-            'ticker': item.get('nativeCurrency', {}).get('symbol', ''),
-            'comment': ''  # Поле для комментариев, пока оставляем пустым
-        }
+        chain_id = item.get('chainId', None)
+        info_url = item.get('infoURL', None)
+        ticker = item.get('nativeCurrency', {}).get('symbol', None)
+        comment = item.get('name', None)
+        rpc = item.get('rpc', [])
         
-        # Проверка на дубликаты и существующие записи
-        if site not in existing_sites and site not in new_sites:
-            new_sites.append(site)
+        # Проверяем на дубликаты и существующие записи
+        if chain_id not in existing_chain_ids:
+            new_data.append({
+                'chainId': chain_id,
+                'url': info_url,
+                'ticker': ticker,
+                'comment': comment,
+                'rpc': rpc
+            })
+            existing_chain_ids.add(chain_id)
     
-    # Объединение существующих и новых сайтов
-    all_sites = existing_sites + new_sites
+    # Сохраняем новые и существующие данные в файл
+    save_data_to_file(existing_data + new_data, "sites.json")
     
-    # Сохранение в sites.json
-    save_sites('sites.json', all_sites)
-    
-    print(f"Added {len(new_sites)} new sites.")
+    print(f"Saved {len(new_data)} new entries to sites.json.")
 else:
     print(f"Failed to download JSON. Status code: {response.status_code}")
