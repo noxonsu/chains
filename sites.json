@@ -1,0 +1,6326 @@
+[
+    {
+        "chainId": 1,
+        "url": "https://ethereum.org",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 2,
+        "url": "https://expanse.tech",
+        "ticker": "EXP",
+        "comment": ""
+    },
+    {
+        "chainId": 3,
+        "url": "https://github.com/ethereum/ropsten",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 4,
+        "url": "https://www.rinkeby.io",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 5,
+        "url": "https://goerli.net/#about",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 6,
+        "url": "https://explorer.jade.builders/?network=kotti",
+        "ticker": "KOT",
+        "comment": ""
+    },
+    {
+        "chainId": 7,
+        "url": "https://thaichain.io",
+        "ticker": "TCH",
+        "comment": ""
+    },
+    {
+        "chainId": 8,
+        "url": "https://ubiqsmart.com",
+        "ticker": "UBQ",
+        "comment": ""
+    },
+    {
+        "chainId": 9,
+        "url": "https://ethersocial.org",
+        "ticker": "TUBQ",
+        "comment": ""
+    },
+    {
+        "chainId": 10,
+        "url": "https://optimism.io",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 11,
+        "url": "https://metadium.com",
+        "ticker": "META",
+        "comment": ""
+    },
+    {
+        "chainId": 12,
+        "url": "https://metadium.com",
+        "ticker": "KAL",
+        "comment": ""
+    },
+    {
+        "chainId": 13,
+        "url": "https://diode.io/staging",
+        "ticker": "sDIODE",
+        "comment": ""
+    },
+    {
+        "chainId": 14,
+        "url": "https://flare.xyz",
+        "ticker": "FLR",
+        "comment": ""
+    },
+    {
+        "chainId": 15,
+        "url": "https://diode.io/prenet",
+        "ticker": "DIODE",
+        "comment": ""
+    },
+    {
+        "chainId": 16,
+        "url": "https://flare.xyz",
+        "ticker": "CFLR",
+        "comment": ""
+    },
+    {
+        "chainId": 17,
+        "url": "https://exp.thaifi.com",
+        "ticker": "TFI",
+        "comment": ""
+    },
+    {
+        "chainId": 18,
+        "url": "https://thundercore.com",
+        "ticker": "TST",
+        "comment": ""
+    },
+    {
+        "chainId": 19,
+        "url": "https://flare.xyz",
+        "ticker": "SGB",
+        "comment": ""
+    },
+    {
+        "chainId": 20,
+        "url": "https://www.elastos.org/",
+        "ticker": "ELA",
+        "comment": ""
+    },
+    {
+        "chainId": 21,
+        "url": "https://www.elastos.org/",
+        "ticker": "tELA",
+        "comment": ""
+    },
+    {
+        "chainId": 22,
+        "url": "https://www.elastos.org/",
+        "ticker": "ELA",
+        "comment": ""
+    },
+    {
+        "chainId": 23,
+        "url": "https://elaeth.io/",
+        "ticker": "tELA",
+        "comment": ""
+    },
+    {
+        "chainId": 24,
+        "url": "https://kardiachain.io",
+        "ticker": "KAI",
+        "comment": ""
+    },
+    {
+        "chainId": 25,
+        "url": "https://cronos.org/",
+        "ticker": "CRO",
+        "comment": ""
+    },
+    {
+        "chainId": 26,
+        "url": "https://www.genesisl1.com",
+        "ticker": "L1test",
+        "comment": ""
+    },
+    {
+        "chainId": 27,
+        "url": "https://shibchain.org",
+        "ticker": "SHIB",
+        "comment": ""
+    },
+    {
+        "chainId": 28,
+        "url": "https://boba.network",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 29,
+        "url": "https://www.genesisl1.com",
+        "ticker": "L1",
+        "comment": ""
+    },
+    {
+        "chainId": 30,
+        "url": "https://rsk.co",
+        "ticker": "RBTC",
+        "comment": ""
+    },
+    {
+        "chainId": 31,
+        "url": "https://rsk.co",
+        "ticker": "tRBTC",
+        "comment": ""
+    },
+    {
+        "chainId": 32,
+        "url": "https://www.goodata.org",
+        "ticker": "GooD",
+        "comment": ""
+    },
+    {
+        "chainId": 33,
+        "url": "https://www.goodata.org",
+        "ticker": "GooD",
+        "comment": ""
+    },
+    {
+        "chainId": 34,
+        "url": "https://dithereum.org",
+        "ticker": "DTH",
+        "comment": ""
+    },
+    {
+        "chainId": 35,
+        "url": "https://tbwg.io",
+        "ticker": "TBG",
+        "comment": ""
+    },
+    {
+        "chainId": 36,
+        "url": "https://www.dxchain.com/",
+        "ticker": "DX",
+        "comment": ""
+    },
+    {
+        "chainId": 37,
+        "url": "https://xpla.io",
+        "ticker": "XPLA",
+        "comment": ""
+    },
+    {
+        "chainId": 38,
+        "url": "https://valorbit.com",
+        "ticker": "VAL",
+        "comment": ""
+    },
+    {
+        "chainId": 39,
+        "url": "https://uniultra.xyz",
+        "ticker": "U2U",
+        "comment": ""
+    },
+    {
+        "chainId": 40,
+        "url": "https://telos.net",
+        "ticker": "TLOS",
+        "comment": ""
+    },
+    {
+        "chainId": 41,
+        "url": "https://telos.net",
+        "ticker": "TLOS",
+        "comment": ""
+    },
+    {
+        "chainId": 42,
+        "url": "https://lukso.network",
+        "ticker": "LYX",
+        "comment": ""
+    },
+    {
+        "chainId": 43,
+        "url": "https://darwinia.network/",
+        "ticker": "PRING",
+        "comment": ""
+    },
+    {
+        "chainId": 44,
+        "url": "https://crab.network/",
+        "ticker": "CRAB",
+        "comment": ""
+    },
+    {
+        "chainId": 45,
+        "url": "https://darwinia.network/",
+        "ticker": "ORING",
+        "comment": ""
+    },
+    {
+        "chainId": 46,
+        "url": "https://darwinia.network/",
+        "ticker": "RING",
+        "comment": ""
+    },
+    {
+        "chainId": 47,
+        "url": "https://acria.ai",
+        "ticker": "ACRIA",
+        "comment": ""
+    },
+    {
+        "chainId": 48,
+        "url": "https://etm.network",
+        "ticker": "ETMP",
+        "comment": ""
+    },
+    {
+        "chainId": 49,
+        "url": "https://etm.network",
+        "ticker": "ETMP",
+        "comment": ""
+    },
+    {
+        "chainId": 50,
+        "url": "https://xinfin.org",
+        "ticker": "XDC",
+        "comment": ""
+    },
+    {
+        "chainId": 51,
+        "url": "https://xinfin.org",
+        "ticker": "TXDC",
+        "comment": ""
+    },
+    {
+        "chainId": 52,
+        "url": "https://www.coinex.org/",
+        "ticker": "cet",
+        "comment": ""
+    },
+    {
+        "chainId": 53,
+        "url": "https://www.coinex.org/",
+        "ticker": "cett",
+        "comment": ""
+    },
+    {
+        "chainId": 54,
+        "url": "https://cryptopiece.online",
+        "ticker": "BELLY",
+        "comment": ""
+    },
+    {
+        "chainId": 55,
+        "url": "https://zyx.network/",
+        "ticker": "ZYX",
+        "comment": ""
+    },
+    {
+        "chainId": 56,
+        "url": "https://www.bnbchain.org/en",
+        "ticker": "BNB",
+        "comment": ""
+    },
+    {
+        "chainId": 57,
+        "url": "https://www.syscoin.org",
+        "ticker": "SYS",
+        "comment": ""
+    },
+    {
+        "chainId": 58,
+        "url": "https://ont.io/",
+        "ticker": "ONG",
+        "comment": ""
+    },
+    {
+        "chainId": 59,
+        "url": "https://eosargentina.io",
+        "ticker": "EOS",
+        "comment": ""
+    },
+    {
+        "chainId": 60,
+        "url": "https://gochain.io",
+        "ticker": "GO",
+        "comment": ""
+    },
+    {
+        "chainId": 61,
+        "url": "https://ethereumclassic.org",
+        "ticker": "ETC",
+        "comment": ""
+    },
+    {
+        "chainId": 62,
+        "url": "https://ethereumclassic.org",
+        "ticker": "TETC",
+        "comment": ""
+    },
+    {
+        "chainId": 63,
+        "url": "https://github.com/eth-classic/mordor/",
+        "ticker": "METC",
+        "comment": ""
+    },
+    {
+        "chainId": 64,
+        "url": "https://ellaism.org",
+        "ticker": "ELLA",
+        "comment": ""
+    },
+    {
+        "chainId": 65,
+        "url": "https://www.okex.com/okexchain",
+        "ticker": "OKT",
+        "comment": ""
+    },
+    {
+        "chainId": 66,
+        "url": "https://www.okex.com/okc",
+        "ticker": "OKT",
+        "comment": ""
+    },
+    {
+        "chainId": 67,
+        "url": "http://test.dbmbp.com",
+        "ticker": "DBM",
+        "comment": ""
+    },
+    {
+        "chainId": 68,
+        "url": "https://www.soterone.com",
+        "ticker": "SOTER",
+        "comment": ""
+    },
+    {
+        "chainId": 69,
+        "url": "https://optimism.io",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 70,
+        "url": "https://www.hoosmartchain.com",
+        "ticker": "HOO",
+        "comment": ""
+    },
+    {
+        "chainId": 71,
+        "url": "https://confluxnetwork.org",
+        "ticker": "CFX",
+        "comment": ""
+    },
+    {
+        "chainId": 72,
+        "url": "https://testnet.dxscan.io/",
+        "ticker": "DX",
+        "comment": ""
+    },
+    {
+        "chainId": 73,
+        "url": "https://fncyscan.fncy.world",
+        "ticker": "FNCY",
+        "comment": ""
+    },
+    {
+        "chainId": 74,
+        "url": "https://idchain.one/begin/",
+        "ticker": "EIDI",
+        "comment": ""
+    },
+    {
+        "chainId": 75,
+        "url": "https://decimalchain.com",
+        "ticker": "DEL",
+        "comment": ""
+    },
+    {
+        "chainId": 76,
+        "url": "https://mix-blockchain.org",
+        "ticker": "MIX",
+        "comment": ""
+    },
+    {
+        "chainId": 77,
+        "url": "https://poa.network",
+        "ticker": "SPOA",
+        "comment": ""
+    },
+    {
+        "chainId": 78,
+        "url": "https://primusmoney.com",
+        "ticker": "PETH",
+        "comment": ""
+    },
+    {
+        "chainId": 79,
+        "url": "https://www.zenithchain.co/",
+        "ticker": "ZENITH",
+        "comment": ""
+    },
+    {
+        "chainId": 80,
+        "url": "https://scan.genechain.io/",
+        "ticker": "RNA",
+        "comment": ""
+    },
+    {
+        "chainId": 81,
+        "url": "https://www.japanopenchain.org/",
+        "ticker": "JOC",
+        "comment": ""
+    },
+    {
+        "chainId": 82,
+        "url": "https://www.meter.io",
+        "ticker": "MTR",
+        "comment": ""
+    },
+    {
+        "chainId": 83,
+        "url": "https://www.meter.io",
+        "ticker": "MTR",
+        "comment": ""
+    },
+    {
+        "chainId": 84,
+        "url": "https://linqto.com",
+        "ticker": "XRP",
+        "comment": ""
+    },
+    {
+        "chainId": 85,
+        "url": "https://www.gatechain.io",
+        "ticker": "GT",
+        "comment": ""
+    },
+    {
+        "chainId": 86,
+        "url": "https://www.gatechain.io",
+        "ticker": "GT",
+        "comment": ""
+    },
+    {
+        "chainId": 87,
+        "url": "https://novanetwork.io",
+        "ticker": "SNT",
+        "comment": ""
+    },
+    {
+        "chainId": 88,
+        "url": "https://tomochain.com",
+        "ticker": "TOMO",
+        "comment": ""
+    },
+    {
+        "chainId": 89,
+        "url": "https://tomochain.com",
+        "ticker": "TOMO",
+        "comment": ""
+    },
+    {
+        "chainId": 90,
+        "url": "https://garizon.com",
+        "ticker": "GAR",
+        "comment": ""
+    },
+    {
+        "chainId": 91,
+        "url": "https://garizon.com",
+        "ticker": "GAR",
+        "comment": ""
+    },
+    {
+        "chainId": 92,
+        "url": "https://garizon.com",
+        "ticker": "GAR",
+        "comment": ""
+    },
+    {
+        "chainId": 93,
+        "url": "https://garizon.com",
+        "ticker": "GAR",
+        "comment": ""
+    },
+    {
+        "chainId": 94,
+        "url": "https://bcts.ch",
+        "ticker": "BCTS",
+        "comment": ""
+    },
+    {
+        "chainId": 95,
+        "url": "https://camdl.gov.kh/",
+        "ticker": "CADL",
+        "comment": ""
+    },
+    {
+        "chainId": 96,
+        "url": "https://www.bitkubchain.com/",
+        "ticker": "KUB",
+        "comment": ""
+    },
+    {
+        "chainId": 97,
+        "url": "https://www.bnbchain.org/en",
+        "ticker": "tBNB",
+        "comment": ""
+    },
+    {
+        "chainId": 98,
+        "url": "https://six.network/",
+        "ticker": "SIX",
+        "comment": ""
+    },
+    {
+        "chainId": 99,
+        "url": "https://poa.network",
+        "ticker": "POA",
+        "comment": ""
+    },
+    {
+        "chainId": 100,
+        "url": "https://docs.gnosischain.com",
+        "ticker": "XDAI",
+        "comment": ""
+    },
+    {
+        "chainId": 101,
+        "url": "https://einc.io",
+        "ticker": "ETI",
+        "comment": ""
+    },
+    {
+        "chainId": 102,
+        "url": "https://web3games.org/",
+        "ticker": "W3G",
+        "comment": ""
+    },
+    {
+        "chainId": 103,
+        "url": "https://worldland.foundation",
+        "ticker": "WL",
+        "comment": ""
+    },
+    {
+        "chainId": 104,
+        "url": "https://kaibadefi.com",
+        "ticker": "tKAIBA",
+        "comment": ""
+    },
+    {
+        "chainId": 105,
+        "url": "https://web3games.org/",
+        "ticker": "W3G",
+        "comment": ""
+    },
+    {
+        "chainId": 106,
+        "url": "https://velas.com",
+        "ticker": "VLX",
+        "comment": ""
+    },
+    {
+        "chainId": 107,
+        "url": "https://novanetwork.io",
+        "ticker": "NBX",
+        "comment": ""
+    },
+    {
+        "chainId": 108,
+        "url": "https://thundercore.com",
+        "ticker": "TT",
+        "comment": ""
+    },
+    {
+        "chainId": 110,
+        "url": "https://protonchain.com",
+        "ticker": "XPR",
+        "comment": ""
+    },
+    {
+        "chainId": 111,
+        "url": "https://etherlite.org",
+        "ticker": "ETL",
+        "comment": ""
+    },
+    {
+        "chainId": 112,
+        "url": "https://crypto.stockbit.com/",
+        "ticker": "GIDR",
+        "comment": ""
+    },
+    {
+        "chainId": 113,
+        "url": "https://dehvo.com",
+        "ticker": "Deh",
+        "comment": ""
+    },
+    {
+        "chainId": 114,
+        "url": "https://flare.xyz",
+        "ticker": "C2FLR",
+        "comment": ""
+    },
+    {
+        "chainId": 115,
+        "url": "https://debank.com",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 116,
+        "url": "https://debank.com",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 117,
+        "url": "https://www.uptick.network",
+        "ticker": "UPTICK",
+        "comment": ""
+    },
+    {
+        "chainId": 118,
+        "url": "https://arcology.network/",
+        "ticker": "Acol",
+        "comment": ""
+    },
+    {
+        "chainId": 119,
+        "url": "https://nuls.io",
+        "ticker": "NULS",
+        "comment": ""
+    },
+    {
+        "chainId": 120,
+        "url": "https://nuls.io",
+        "ticker": "NULS",
+        "comment": ""
+    },
+    {
+        "chainId": 121,
+        "url": "https://www.rclsidechain.com/",
+        "ticker": "REAL",
+        "comment": ""
+    },
+    {
+        "chainId": 122,
+        "url": "https://fuse.io/",
+        "ticker": "FUSE",
+        "comment": ""
+    },
+    {
+        "chainId": 123,
+        "url": "https://docs.fuse.io/general/fuse-network-blockchain/fuse-testnet",
+        "ticker": "SPARK",
+        "comment": ""
+    },
+    {
+        "chainId": 124,
+        "url": "https://decentralized-web.tech/dw_chain.php",
+        "ticker": "DWU",
+        "comment": ""
+    },
+    {
+        "chainId": 125,
+        "url": "https://www.oychain.io",
+        "ticker": "OY",
+        "comment": ""
+    },
+    {
+        "chainId": 126,
+        "url": "https://www.oychain.io",
+        "ticker": "OY",
+        "comment": ""
+    },
+    {
+        "chainId": 127,
+        "url": "https://www.factory127.com",
+        "ticker": "FETH",
+        "comment": ""
+    },
+    {
+        "chainId": 128,
+        "url": "https://www.hecochain.com",
+        "ticker": "HT",
+        "comment": ""
+    },
+    {
+        "chainId": 134,
+        "url": "https://iex.ec",
+        "ticker": "xRLC",
+        "comment": ""
+    },
+    {
+        "chainId": 135,
+        "url": "https://www.alyxchain.com",
+        "ticker": "ALYX",
+        "comment": ""
+    },
+    {
+        "chainId": 136,
+        "url": "https://deamchain.com",
+        "ticker": "DEAM",
+        "comment": ""
+    },
+    {
+        "chainId": 137,
+        "url": "https://polygon.technology/",
+        "ticker": "MATIC",
+        "comment": ""
+    },
+    {
+        "chainId": 138,
+        "url": "https://defi-oracle.io/",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 139,
+        "url": "https://wikiwoop.com",
+        "ticker": "WOOC",
+        "comment": ""
+    },
+    {
+        "chainId": 141,
+        "url": "https://cryptopiece.online",
+        "ticker": "BELLY",
+        "comment": ""
+    },
+    {
+        "chainId": 142,
+        "url": "https://prodax.io/",
+        "ticker": "DAX",
+        "comment": ""
+    },
+    {
+        "chainId": 144,
+        "url": "https://phi.network",
+        "ticker": "\u03a6",
+        "comment": ""
+    },
+    {
+        "chainId": 150,
+        "url": "https://six.network/",
+        "ticker": "tSIX",
+        "comment": ""
+    },
+    {
+        "chainId": 151,
+        "url": "https://redbelly.network",
+        "ticker": "RBNT",
+        "comment": ""
+    },
+    {
+        "chainId": 152,
+        "url": "https://redbelly.network",
+        "ticker": "RBNT",
+        "comment": ""
+    },
+    {
+        "chainId": 153,
+        "url": "https://redbelly.network",
+        "ticker": "RBNT",
+        "comment": ""
+    },
+    {
+        "chainId": 154,
+        "url": "https://redbelly.network",
+        "ticker": "RBNT",
+        "comment": ""
+    },
+    {
+        "chainId": 155,
+        "url": "https://tenet.org/",
+        "ticker": "TENET",
+        "comment": ""
+    },
+    {
+        "chainId": 156,
+        "url": "https://www.oeblock.com/",
+        "ticker": "OEB",
+        "comment": ""
+    },
+    {
+        "chainId": 160,
+        "url": "https://amax.network",
+        "ticker": "AMAX",
+        "comment": ""
+    },
+    {
+        "chainId": 161,
+        "url": "https://amax.network",
+        "ticker": "AMAX",
+        "comment": ""
+    },
+    {
+        "chainId": 162,
+        "url": "https://explorer.sirius.lightstreams.io",
+        "ticker": "PHT",
+        "comment": ""
+    },
+    {
+        "chainId": 163,
+        "url": "https://explorer.lightstreams.io",
+        "ticker": "PHT",
+        "comment": ""
+    },
+    {
+        "chainId": 165,
+        "url": "https://docs.omni.network/",
+        "ticker": "OMNI",
+        "comment": ""
+    },
+    {
+        "chainId": 167,
+        "url": "https://atoshi.org",
+        "ticker": "ATOS",
+        "comment": ""
+    },
+    {
+        "chainId": 168,
+        "url": "https://aioz.network",
+        "ticker": "AIOZ",
+        "comment": ""
+    },
+    {
+        "chainId": 170,
+        "url": "https://www.hoosmartchain.com",
+        "ticker": "HOO",
+        "comment": ""
+    },
+    {
+        "chainId": 172,
+        "url": "https://latam-blockchain.com",
+        "ticker": "usd",
+        "comment": ""
+    },
+    {
+        "chainId": 180,
+        "url": "https://amechain.io/",
+        "ticker": "AME",
+        "comment": ""
+    },
+    {
+        "chainId": 186,
+        "url": "https://seelen.pro/",
+        "ticker": "Seele",
+        "comment": ""
+    },
+    {
+        "chainId": 188,
+        "url": "https://bmc.bytom.io/",
+        "ticker": "BTM",
+        "comment": ""
+    },
+    {
+        "chainId": 189,
+        "url": "https://bmc.bytom.io/",
+        "ticker": "BTM",
+        "comment": ""
+    },
+    {
+        "chainId": 193,
+        "url": "https://cemblockchain.com/",
+        "ticker": "CEM",
+        "comment": ""
+    },
+    {
+        "chainId": 195,
+        "url": "https://www.okx.com/okbc/docs/dev/quick-start/introduction/introduction-to-okbchain",
+        "ticker": "OKB",
+        "comment": ""
+    },
+    {
+        "chainId": 196,
+        "url": "https://www.okex.com/okc",
+        "ticker": "OKB",
+        "comment": ""
+    },
+    {
+        "chainId": 197,
+        "url": "https://docs.neutrinoschain.com",
+        "ticker": "NEUTR",
+        "comment": ""
+    },
+    {
+        "chainId": 198,
+        "url": "https://www.bitchain.biz/",
+        "ticker": "BTC",
+        "comment": ""
+    },
+    {
+        "chainId": 199,
+        "url": "https:/bt.io",
+        "ticker": "BTT",
+        "comment": ""
+    },
+    {
+        "chainId": 200,
+        "url": "https://xdaichain.com",
+        "ticker": "xDAI",
+        "comment": ""
+    },
+    {
+        "chainId": 201,
+        "url": "https://moac.io",
+        "ticker": "mc",
+        "comment": ""
+    },
+    {
+        "chainId": 204,
+        "url": "https://opbnb.bnbchain.org/en",
+        "ticker": "BNB",
+        "comment": ""
+    },
+    {
+        "chainId": 208,
+        "url": "https://structx.io",
+        "ticker": "utx",
+        "comment": ""
+    },
+    {
+        "chainId": 210,
+        "url": "https://bitnet.money",
+        "ticker": "BTN",
+        "comment": ""
+    },
+    {
+        "chainId": 211,
+        "url": "https://freighttrust.com",
+        "ticker": "0xF",
+        "comment": ""
+    },
+    {
+        "chainId": 212,
+        "url": "https://maplabs.io",
+        "ticker": "MAP",
+        "comment": ""
+    },
+    {
+        "chainId": 217,
+        "url": "https://siriusnet.io",
+        "ticker": "MCD",
+        "comment": ""
+    },
+    {
+        "chainId": 218,
+        "url": "https://www.soterone.com",
+        "ticker": "SOTER",
+        "comment": ""
+    },
+    {
+        "chainId": 222,
+        "url": "https://permission.io/",
+        "ticker": "ASK",
+        "comment": ""
+    },
+    {
+        "chainId": 225,
+        "url": "https://lachain.io",
+        "ticker": "LA",
+        "comment": ""
+    },
+    {
+        "chainId": 226,
+        "url": "https://lachain.io",
+        "ticker": "TLA",
+        "comment": ""
+    },
+    {
+        "chainId": 230,
+        "url": "https://swapdex.network/",
+        "ticker": "SDX",
+        "comment": ""
+    },
+    {
+        "chainId": 236,
+        "url": "https://deamchain.com",
+        "ticker": "DEAM",
+        "comment": ""
+    },
+    {
+        "chainId": 242,
+        "url": "https://www.plinga.technology/",
+        "ticker": "PLINGA",
+        "comment": ""
+    },
+    {
+        "chainId": 246,
+        "url": "https://energyweb.org",
+        "ticker": "EWT",
+        "comment": ""
+    },
+    {
+        "chainId": 248,
+        "url": "https://oasys.games",
+        "ticker": "OAS",
+        "comment": ""
+    },
+    {
+        "chainId": 250,
+        "url": "https://fantom.foundation",
+        "ticker": "FTM",
+        "comment": ""
+    },
+    {
+        "chainId": 256,
+        "url": "https://testnet.hecoinfo.com",
+        "ticker": "htt",
+        "comment": ""
+    },
+    {
+        "chainId": 258,
+        "url": "https://setheum.xyz",
+        "ticker": "SETM",
+        "comment": ""
+    },
+    {
+        "chainId": 259,
+        "url": "https://neonlink.io",
+        "ticker": "NEON",
+        "comment": ""
+    },
+    {
+        "chainId": 262,
+        "url": "https://surnet.org",
+        "ticker": "SRN",
+        "comment": ""
+    },
+    {
+        "chainId": 269,
+        "url": "https://hpb.io",
+        "ticker": "HPB",
+        "comment": ""
+    },
+    {
+        "chainId": 271,
+        "url": "https://egcscan.com",
+        "ticker": "EGON",
+        "comment": ""
+    },
+    {
+        "chainId": 274,
+        "url": "",
+        "ticker": "LAC",
+        "comment": ""
+    },
+    {
+        "chainId": 280,
+        "url": "https://era.zksync.io/docs/",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 288,
+        "url": "https://boba.network",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 295,
+        "url": "https://hedera.com",
+        "ticker": "HBAR",
+        "comment": ""
+    },
+    {
+        "chainId": 296,
+        "url": "https://hedera.com",
+        "ticker": "HBAR",
+        "comment": ""
+    },
+    {
+        "chainId": 297,
+        "url": "https://hedera.com",
+        "ticker": "HBAR",
+        "comment": ""
+    },
+    {
+        "chainId": 298,
+        "url": "https://hedera.com",
+        "ticker": "HBAR",
+        "comment": ""
+    },
+    {
+        "chainId": 300,
+        "url": "https://docs.gnosischain.com",
+        "ticker": "xDAI",
+        "comment": ""
+    },
+    {
+        "chainId": 301,
+        "url": "https://boba.network",
+        "ticker": "BOBA",
+        "comment": ""
+    },
+    {
+        "chainId": 303,
+        "url": "https://www.neurochain.ai",
+        "ticker": "tNCN",
+        "comment": ""
+    },
+    {
+        "chainId": 311,
+        "url": "https://www.omaxcoin.com/",
+        "ticker": "OMAX",
+        "comment": ""
+    },
+    {
+        "chainId": 313,
+        "url": "https://www.neurochain.ai",
+        "ticker": "NCN",
+        "comment": ""
+    },
+    {
+        "chainId": 314,
+        "url": "https://filecoin.io",
+        "ticker": "FIL",
+        "comment": ""
+    },
+    {
+        "chainId": 321,
+        "url": "https://kcc.io",
+        "ticker": "KCS",
+        "comment": ""
+    },
+    {
+        "chainId": 322,
+        "url": "https://scan-testnet.kcc.network",
+        "ticker": "tKCS",
+        "comment": ""
+    },
+    {
+        "chainId": 324,
+        "url": "https://zksync.io/",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 333,
+        "url": "https://web3q.io/home.w3q/",
+        "ticker": "W3Q",
+        "comment": ""
+    },
+    {
+        "chainId": 335,
+        "url": "https://defikingdoms.com",
+        "ticker": "JEWEL",
+        "comment": ""
+    },
+    {
+        "chainId": 336,
+        "url": "https://shiden.astar.network/",
+        "ticker": "SDN",
+        "comment": ""
+    },
+    {
+        "chainId": 338,
+        "url": "https://cronos.org",
+        "ticker": "TCRO",
+        "comment": ""
+    },
+    {
+        "chainId": 345,
+        "url": "https://yooldo.gg/",
+        "ticker": "OAS",
+        "comment": ""
+    },
+    {
+        "chainId": 361,
+        "url": "https://www.thetatoken.org/",
+        "ticker": "TFUEL",
+        "comment": ""
+    },
+    {
+        "chainId": 363,
+        "url": "https://www.thetatoken.org/",
+        "ticker": "TFUEL",
+        "comment": ""
+    },
+    {
+        "chainId": 364,
+        "url": "https://www.thetatoken.org/",
+        "ticker": "TFUEL",
+        "comment": ""
+    },
+    {
+        "chainId": 365,
+        "url": "https://www.thetatoken.org/",
+        "ticker": "TFUEL",
+        "comment": ""
+    },
+    {
+        "chainId": 369,
+        "url": "https://pulsechain.com/",
+        "ticker": "PLS",
+        "comment": ""
+    },
+    {
+        "chainId": 371,
+        "url": "http://theconsta.com",
+        "ticker": "tCNT",
+        "comment": ""
+    },
+    {
+        "chainId": 385,
+        "url": "https://lisinski.online",
+        "ticker": "LISINS",
+        "comment": ""
+    },
+    {
+        "chainId": 400,
+        "url": "https://docs.hyperonchain.com",
+        "ticker": "HPN",
+        "comment": ""
+    },
+    {
+        "chainId": 401,
+        "url": "https://ozonechain.io",
+        "ticker": "OZO",
+        "comment": ""
+    },
+    {
+        "chainId": 411,
+        "url": "https://pepe-chain.vip",
+        "ticker": "PEPE",
+        "comment": ""
+    },
+    {
+        "chainId": 416,
+        "url": "https://www.sx.technology",
+        "ticker": "SX",
+        "comment": ""
+    },
+    {
+        "chainId": 418,
+        "url": "",
+        "ticker": "TLA",
+        "comment": ""
+    },
+    {
+        "chainId": 420,
+        "url": "https://optimism.io",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 424,
+        "url": "https://publicgoods.network/",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 427,
+        "url": "",
+        "ticker": "ZTH",
+        "comment": ""
+    },
+    {
+        "chainId": 443,
+        "url": "https://obscu.ro",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 444,
+        "url": "https://frenchain.app",
+        "ticker": "FtREN",
+        "comment": ""
+    },
+    {
+        "chainId": 456,
+        "url": "https://chain.arzio.co",
+        "ticker": "AZO",
+        "comment": ""
+    },
+    {
+        "chainId": 499,
+        "url": "https://www.rupx.io",
+        "ticker": "RUPX",
+        "comment": ""
+    },
+    {
+        "chainId": 500,
+        "url": "https://camino.network/",
+        "ticker": "CAM",
+        "comment": ""
+    },
+    {
+        "chainId": 501,
+        "url": "https://camino.network/",
+        "ticker": "CAM",
+        "comment": ""
+    },
+    {
+        "chainId": 512,
+        "url": "https://www.acuteangle.com/",
+        "ticker": "AAC",
+        "comment": ""
+    },
+    {
+        "chainId": 513,
+        "url": "https://www.acuteangle.com/",
+        "ticker": "AAC",
+        "comment": ""
+    },
+    {
+        "chainId": 516,
+        "url": "https://token.gearzero.ca/mainnet",
+        "ticker": "GZN",
+        "comment": ""
+    },
+    {
+        "chainId": 520,
+        "url": "https://xsc.pub/",
+        "ticker": "XT",
+        "comment": ""
+    },
+    {
+        "chainId": 529,
+        "url": "https://thefirechain.com",
+        "ticker": "FIRE",
+        "comment": ""
+    },
+    {
+        "chainId": 530,
+        "url": "https://functionx.io/",
+        "ticker": "FX",
+        "comment": ""
+    },
+    {
+        "chainId": 534,
+        "url": "https://candlelabs.org/",
+        "ticker": "CNDL",
+        "comment": ""
+    },
+    {
+        "chainId": 542,
+        "url": "https://pawchainx.com/",
+        "ticker": "PAW",
+        "comment": ""
+    },
+    {
+        "chainId": 555,
+        "url": "https://velaverse.io",
+        "ticker": "CLASS",
+        "comment": ""
+    },
+    {
+        "chainId": 558,
+        "url": "https://tao.network",
+        "ticker": "TAO",
+        "comment": ""
+    },
+    {
+        "chainId": 568,
+        "url": "https://dogechain.dog",
+        "ticker": "DOGE",
+        "comment": ""
+    },
+    {
+        "chainId": 570,
+        "url": "https://rollux.com",
+        "ticker": "SYS",
+        "comment": ""
+    },
+    {
+        "chainId": 588,
+        "url": "https://www.metis.io",
+        "ticker": "METIS",
+        "comment": ""
+    },
+    {
+        "chainId": 592,
+        "url": "https://astar.network/",
+        "ticker": "ASTR",
+        "comment": ""
+    },
+    {
+        "chainId": 595,
+        "url": "https://acala.network",
+        "ticker": "mACA",
+        "comment": ""
+    },
+    {
+        "chainId": 596,
+        "url": "https://karura.network",
+        "ticker": "KAR",
+        "comment": ""
+    },
+    {
+        "chainId": 597,
+        "url": "https://acala.network",
+        "ticker": "ACA",
+        "comment": ""
+    },
+    {
+        "chainId": 599,
+        "url": "https://www.metis.io",
+        "ticker": "METIS",
+        "comment": ""
+    },
+    {
+        "chainId": 600,
+        "url": "",
+        "ticker": "MESHT",
+        "comment": ""
+    },
+    {
+        "chainId": 601,
+        "url": "https://peer.inc",
+        "ticker": "PEER",
+        "comment": ""
+    },
+    {
+        "chainId": 614,
+        "url": "https://graphlinq.io",
+        "ticker": "GLQ",
+        "comment": ""
+    },
+    {
+        "chainId": 634,
+        "url": "https://avocado.instadapp.io",
+        "ticker": "USDC",
+        "comment": ""
+    },
+    {
+        "chainId": 647,
+        "url": "https://www.sx.technology",
+        "ticker": "SX",
+        "comment": ""
+    },
+    {
+        "chainId": 648,
+        "url": "https://ace.fusionist.io/",
+        "ticker": "ACE",
+        "comment": ""
+    },
+    {
+        "chainId": 666,
+        "url": "https://scan-testnet.chain.pixie.xyz",
+        "ticker": "PCTT",
+        "comment": ""
+    },
+    {
+        "chainId": 667,
+        "url": "https://www.laosfoundation.io/",
+        "ticker": "LAOS",
+        "comment": ""
+    },
+    {
+        "chainId": 668,
+        "url": "https://junca-cash.world",
+        "ticker": "JGC",
+        "comment": ""
+    },
+    {
+        "chainId": 669,
+        "url": "https://junca-cash.world",
+        "ticker": "JGCT",
+        "comment": ""
+    },
+    {
+        "chainId": 686,
+        "url": "https://acala.network/karura",
+        "ticker": "KAR",
+        "comment": ""
+    },
+    {
+        "chainId": 700,
+        "url": "https://info.avastar.cc",
+        "ticker": "SNS",
+        "comment": ""
+    },
+    {
+        "chainId": 707,
+        "url": "https://blockchainstation.io",
+        "ticker": "BCS",
+        "comment": ""
+    },
+    {
+        "chainId": 708,
+        "url": "https://blockchainstation.io",
+        "ticker": "tBCS",
+        "comment": ""
+    },
+    {
+        "chainId": 719,
+        "url": "https://beta.shibariumtech.com",
+        "ticker": "BONE",
+        "comment": ""
+    },
+    {
+        "chainId": 721,
+        "url": "https://lycanchain.com",
+        "ticker": "LYC",
+        "comment": ""
+    },
+    {
+        "chainId": 740,
+        "url": "https://canto.io",
+        "ticker": "CANTO",
+        "comment": ""
+    },
+    {
+        "chainId": 741,
+        "url": "https://testnet.ventionscan.io",
+        "ticker": "VNT",
+        "comment": ""
+    },
+    {
+        "chainId": 742,
+        "url": "https://token.script.tv",
+        "ticker": "SPAY",
+        "comment": ""
+    },
+    {
+        "chainId": 766,
+        "url": "https://qom.one",
+        "ticker": "QOM",
+        "comment": ""
+    },
+    {
+        "chainId": 776,
+        "url": "https://testnet.openchain.info/",
+        "ticker": "TOPC",
+        "comment": ""
+    },
+    {
+        "chainId": 777,
+        "url": "https://cheapeth.org/",
+        "ticker": "cTH",
+        "comment": ""
+    },
+    {
+        "chainId": 786,
+        "url": "https://www.maalblockchain.com/",
+        "ticker": "MAAL",
+        "comment": ""
+    },
+    {
+        "chainId": 787,
+        "url": "https://acala.network",
+        "ticker": "ACA",
+        "comment": ""
+    },
+    {
+        "chainId": 788,
+        "url": "https://aerochaincoin.org/",
+        "ticker": "TAero",
+        "comment": ""
+    },
+    {
+        "chainId": 789,
+        "url": "https://patex.io/",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 800,
+        "url": "https://lucidcoin.io",
+        "ticker": "LUCID",
+        "comment": ""
+    },
+    {
+        "chainId": 803,
+        "url": "https://www.haichain.io/",
+        "ticker": "HAIC",
+        "comment": ""
+    },
+    {
+        "chainId": 808,
+        "url": "https://portalfantasy.io",
+        "ticker": "PFT",
+        "comment": ""
+    },
+    {
+        "chainId": 813,
+        "url": "https://github.com/Qitmeer",
+        "ticker": "MEER",
+        "comment": ""
+    },
+    {
+        "chainId": 818,
+        "url": "https://beonechain.com",
+        "ticker": "BOC",
+        "comment": ""
+    },
+    {
+        "chainId": 820,
+        "url": "https://callisto.network",
+        "ticker": "CLO",
+        "comment": ""
+    },
+    {
+        "chainId": 821,
+        "url": "https://callisto.network",
+        "ticker": "TCLO",
+        "comment": ""
+    },
+    {
+        "chainId": 841,
+        "url": "https://taraxa.io",
+        "ticker": "TARA",
+        "comment": ""
+    },
+    {
+        "chainId": 842,
+        "url": "https://taraxa.io",
+        "ticker": "TARA",
+        "comment": ""
+    },
+    {
+        "chainId": 859,
+        "url": "",
+        "ticker": "ZTH",
+        "comment": ""
+    },
+    {
+        "chainId": 868,
+        "url": "https://fantasia.technology/",
+        "ticker": "FST",
+        "comment": ""
+    },
+    {
+        "chainId": 876,
+        "url": "https://www.bandainamco-mirai.com/en/",
+        "ticker": "OAS",
+        "comment": ""
+    },
+    {
+        "chainId": 877,
+        "url": "https://dexit.network",
+        "ticker": "DXT",
+        "comment": ""
+    },
+    {
+        "chainId": 880,
+        "url": "https://ambros.network",
+        "ticker": "AMBROS",
+        "comment": ""
+    },
+    {
+        "chainId": 888,
+        "url": "https://www.wanscan.org",
+        "ticker": "WAN",
+        "comment": ""
+    },
+    {
+        "chainId": 900,
+        "url": "https://garizon.com",
+        "ticker": "GAR",
+        "comment": ""
+    },
+    {
+        "chainId": 901,
+        "url": "https://garizon.com",
+        "ticker": "GAR",
+        "comment": ""
+    },
+    {
+        "chainId": 902,
+        "url": "https://garizon.com",
+        "ticker": "GAR",
+        "comment": ""
+    },
+    {
+        "chainId": 903,
+        "url": "https://garizon.com",
+        "ticker": "GAR",
+        "comment": ""
+    },
+    {
+        "chainId": 909,
+        "url": "https://portalfantasy.io",
+        "ticker": "PFT",
+        "comment": ""
+    },
+    {
+        "chainId": 910,
+        "url": "https://decentrabone.com",
+        "ticker": "DBONE",
+        "comment": ""
+    },
+    {
+        "chainId": 917,
+        "url": "https://thefirechain.com",
+        "ticker": "FIRE",
+        "comment": ""
+    },
+    {
+        "chainId": 919,
+        "url": "https://docs.mode.network/",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 940,
+        "url": "https://pulsechain.com/",
+        "ticker": "tPLS",
+        "comment": ""
+    },
+    {
+        "chainId": 941,
+        "url": "https://pulsechain.com/",
+        "ticker": "tPLS",
+        "comment": ""
+    },
+    {
+        "chainId": 942,
+        "url": "https://pulsechain.com/",
+        "ticker": "tPLS",
+        "comment": ""
+    },
+    {
+        "chainId": 943,
+        "url": "https://pulsechain.com",
+        "ticker": "tPLS",
+        "comment": ""
+    },
+    {
+        "chainId": 956,
+        "url": "https://munode.dev/",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 970,
+        "url": "https://oortech.com",
+        "ticker": "CCN",
+        "comment": ""
+    },
+    {
+        "chainId": 971,
+        "url": "https://oortech.com",
+        "ticker": "CCN",
+        "comment": ""
+    },
+    {
+        "chainId": 972,
+        "url": "https://oortech.com",
+        "ticker": "CCNA",
+        "comment": ""
+    },
+    {
+        "chainId": 977,
+        "url": "https://nepalblockchain.network",
+        "ticker": "YETI",
+        "comment": ""
+    },
+    {
+        "chainId": 980,
+        "url": "https://www.topnetwork.org/",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 985,
+        "url": "www.memolabs.org",
+        "ticker": "CMEMO",
+        "comment": ""
+    },
+    {
+        "chainId": 989,
+        "url": "https://www.topnetwork.org/",
+        "ticker": "TOP",
+        "comment": ""
+    },
+    {
+        "chainId": 990,
+        "url": "https://eliberty.ngo",
+        "ticker": "$EL",
+        "comment": ""
+    },
+    {
+        "chainId": 997,
+        "url": "https://5ire.org",
+        "ticker": "5ire",
+        "comment": ""
+    },
+    {
+        "chainId": 998,
+        "url": "https://luckynetwork.org",
+        "ticker": "L99",
+        "comment": ""
+    },
+    {
+        "chainId": 999,
+        "url": "https://testnet.wanscan.org",
+        "ticker": "WAN",
+        "comment": ""
+    },
+    {
+        "chainId": 1000,
+        "url": "https://gton.capital",
+        "ticker": "GCD",
+        "comment": ""
+    },
+    {
+        "chainId": 1001,
+        "url": "https://www.klaytn.com/",
+        "ticker": "KLAY",
+        "comment": ""
+    },
+    {
+        "chainId": 1004,
+        "url": "https://www.ekta.io",
+        "ticker": "T-EKTA",
+        "comment": ""
+    },
+    {
+        "chainId": 1007,
+        "url": "https://www.newtonproject.org/",
+        "ticker": "NEW",
+        "comment": ""
+    },
+    {
+        "chainId": 1008,
+        "url": "https://eurus.network",
+        "ticker": "EUN",
+        "comment": ""
+    },
+    {
+        "chainId": 1010,
+        "url": "https://evrice.com",
+        "ticker": "EVC",
+        "comment": ""
+    },
+    {
+        "chainId": 1012,
+        "url": "https://www.newtonproject.org/",
+        "ticker": "NEW",
+        "comment": ""
+    },
+    {
+        "chainId": 1022,
+        "url": "https://clover.finance/sakura",
+        "ticker": "SKU",
+        "comment": ""
+    },
+    {
+        "chainId": 1023,
+        "url": "https://clover.finance",
+        "ticker": "CLV",
+        "comment": ""
+    },
+    {
+        "chainId": 1024,
+        "url": "https://clv.org",
+        "ticker": "CLV",
+        "comment": ""
+    },
+    {
+        "chainId": 1028,
+        "url": "https://bittorrentchain.io/",
+        "ticker": "BTT",
+        "comment": ""
+    },
+    {
+        "chainId": 1030,
+        "url": "https://confluxnetwork.org",
+        "ticker": "CFX",
+        "comment": ""
+    },
+    {
+        "chainId": 1031,
+        "url": "https://theproxy.network",
+        "ticker": "PRX",
+        "comment": ""
+    },
+    {
+        "chainId": 1038,
+        "url": "https://bronos.org",
+        "ticker": "tBRO",
+        "comment": ""
+    },
+    {
+        "chainId": 1039,
+        "url": "https://bronos.org",
+        "ticker": "BRO",
+        "comment": ""
+    },
+    {
+        "chainId": 1071,
+        "url": "https://shimmer.network",
+        "ticker": "SMR",
+        "comment": ""
+    },
+    {
+        "chainId": 1072,
+        "url": "https://shimmer.network",
+        "ticker": "SMR",
+        "comment": ""
+    },
+    {
+        "chainId": 1079,
+        "url": "https://playthink.co.jp",
+        "ticker": "MNTR",
+        "comment": ""
+    },
+    {
+        "chainId": 1080,
+        "url": "https://playthink.co.jp",
+        "ticker": "MNTR",
+        "comment": ""
+    },
+    {
+        "chainId": 1088,
+        "url": "https://www.metis.io",
+        "ticker": "METIS",
+        "comment": ""
+    },
+    {
+        "chainId": 1099,
+        "url": "https://moac.io",
+        "ticker": "mc",
+        "comment": ""
+    },
+    {
+        "chainId": 1101,
+        "url": "https://polygon.technology/polygon-zkevm",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 1107,
+        "url": "https://blx.org",
+        "ticker": "BLXQ",
+        "comment": ""
+    },
+    {
+        "chainId": 1111,
+        "url": "https://wemix.com",
+        "ticker": "WEMIX",
+        "comment": ""
+    },
+    {
+        "chainId": 1112,
+        "url": "https://wemix.com",
+        "ticker": "tWEMIX",
+        "comment": ""
+    },
+    {
+        "chainId": 1115,
+        "url": "https://www.coredao.org",
+        "ticker": "tCORE",
+        "comment": ""
+    },
+    {
+        "chainId": 1116,
+        "url": "https://www.coredao.org",
+        "ticker": "CORE",
+        "comment": ""
+    },
+    {
+        "chainId": 1117,
+        "url": "https://dogcoin.network",
+        "ticker": "DOGS",
+        "comment": ""
+    },
+    {
+        "chainId": 1130,
+        "url": "https://meta.defichain.com/",
+        "ticker": "DFI",
+        "comment": ""
+    },
+    {
+        "chainId": 1131,
+        "url": "https://meta.defichain.com/",
+        "ticker": "DFI",
+        "comment": ""
+    },
+    {
+        "chainId": 1138,
+        "url": "https://sinso.io",
+        "ticker": "SINSO",
+        "comment": ""
+    },
+    {
+        "chainId": 1139,
+        "url": "https://mathchain.org",
+        "ticker": "MATH",
+        "comment": ""
+    },
+    {
+        "chainId": 1140,
+        "url": "https://mathchain.org",
+        "ticker": "MATH",
+        "comment": ""
+    },
+    {
+        "chainId": 1149,
+        "url": "https://plexfinance.us/",
+        "ticker": "PLEX",
+        "comment": ""
+    },
+    {
+        "chainId": 1170,
+        "url": "https://www.uptick.network",
+        "ticker": "UOC",
+        "comment": ""
+    },
+    {
+        "chainId": 1177,
+        "url": "https://smart-host.com.tr",
+        "ticker": "tSHT",
+        "comment": ""
+    },
+    {
+        "chainId": 1197,
+        "url": "https://iorachain.com",
+        "ticker": "IORA",
+        "comment": ""
+    },
+    {
+        "chainId": 1201,
+        "url": "https://evanesco.org/",
+        "ticker": "AVIS",
+        "comment": ""
+    },
+    {
+        "chainId": 1202,
+        "url": "http://www.cadaut.com",
+        "ticker": "WTT",
+        "comment": ""
+    },
+    {
+        "chainId": 1213,
+        "url": "https://popcateum.org",
+        "ticker": "POP",
+        "comment": ""
+    },
+    {
+        "chainId": 1214,
+        "url": "https://entercoin.net",
+        "ticker": "ENTER",
+        "comment": ""
+    },
+    {
+        "chainId": 1229,
+        "url": "https://exzo.network",
+        "ticker": "XZO",
+        "comment": ""
+    },
+    {
+        "chainId": 1230,
+        "url": "https://ultron.foundation",
+        "ticker": "ULX",
+        "comment": ""
+    },
+    {
+        "chainId": 1231,
+        "url": "https://ultron.foundation",
+        "ticker": "ULX",
+        "comment": ""
+    },
+    {
+        "chainId": 1234,
+        "url": "https://step.network",
+        "ticker": "FITFI",
+        "comment": ""
+    },
+    {
+        "chainId": 1243,
+        "url": "https://archiechain.io/",
+        "ticker": "ARC",
+        "comment": ""
+    },
+    {
+        "chainId": 1244,
+        "url": "https://archiechain.io/",
+        "ticker": "ARC",
+        "comment": ""
+    },
+    {
+        "chainId": 1246,
+        "url": "https://omplatform.com/",
+        "ticker": "OM",
+        "comment": ""
+    },
+    {
+        "chainId": 1252,
+        "url": "https://www.cicchain.net",
+        "ticker": "CICT",
+        "comment": ""
+    },
+    {
+        "chainId": 1280,
+        "url": "https://halo.land/#/",
+        "ticker": "HO",
+        "comment": ""
+    },
+    {
+        "chainId": 1284,
+        "url": "https://moonbeam.network/networks/moonbeam/",
+        "ticker": "GLMR",
+        "comment": ""
+    },
+    {
+        "chainId": 1285,
+        "url": "https://moonbeam.network/networks/moonriver/",
+        "ticker": "MOVR",
+        "comment": ""
+    },
+    {
+        "chainId": 1286,
+        "url": "",
+        "ticker": "ROC",
+        "comment": ""
+    },
+    {
+        "chainId": 1287,
+        "url": "https://docs.moonbeam.network/networks/testnet/",
+        "ticker": "DEV",
+        "comment": ""
+    },
+    {
+        "chainId": 1288,
+        "url": "https://docs.moonbeam.network/learn/platform/networks/overview/",
+        "ticker": "ROC",
+        "comment": ""
+    },
+    {
+        "chainId": 1291,
+        "url": "https://www.swisstronik.com",
+        "ticker": "SWTR",
+        "comment": ""
+    },
+    {
+        "chainId": 1294,
+        "url": "https://boba.network",
+        "ticker": "BOBA",
+        "comment": ""
+    },
+    {
+        "chainId": 1297,
+        "url": "https://boba.network",
+        "ticker": "BOBA",
+        "comment": ""
+    },
+    {
+        "chainId": 1311,
+        "url": "http://doschain.io/",
+        "ticker": "DOS",
+        "comment": ""
+    },
+    {
+        "chainId": 1314,
+        "url": "https://www.alyxchain.com",
+        "ticker": "ALYX",
+        "comment": ""
+    },
+    {
+        "chainId": 1319,
+        "url": "https://www.aitd.io/",
+        "ticker": "AITD",
+        "comment": ""
+    },
+    {
+        "chainId": 1320,
+        "url": "https://www.aitd.io/",
+        "ticker": "AITD",
+        "comment": ""
+    },
+    {
+        "chainId": 1337,
+        "url": "https://geth.ethereum.org",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 1338,
+        "url": "https://elysiumscan.vulcanforged.com",
+        "ticker": "LAVA",
+        "comment": ""
+    },
+    {
+        "chainId": 1339,
+        "url": "https://elysiumscan.vulcanforged.com",
+        "ticker": "LAVA",
+        "comment": ""
+    },
+    {
+        "chainId": 1353,
+        "url": "https://www.cicchain.net",
+        "ticker": "CIC",
+        "comment": ""
+    },
+    {
+        "chainId": 1369,
+        "url": "https://www.zakumi.io",
+        "ticker": "ZAFIC",
+        "comment": ""
+    },
+    {
+        "chainId": 1379,
+        "url": "https://kalarchain.tech",
+        "ticker": "KLC",
+        "comment": ""
+    },
+    {
+        "chainId": 1388,
+        "url": "https://sinso.io",
+        "ticker": "SINSO",
+        "comment": ""
+    },
+    {
+        "chainId": 1392,
+        "url": "https://www.joseon.com/",
+        "ticker": "JSM",
+        "comment": ""
+    },
+    {
+        "chainId": 1402,
+        "url": "https://polygon.technology/solutions/polygon-zkevm/",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 1422,
+        "url": "https://polygon.technology/solutions/polygon-zkevm/",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 1433,
+        "url": "https://rikeza.io",
+        "ticker": "RIK",
+        "comment": ""
+    },
+    {
+        "chainId": 1440,
+        "url": "https://dev.livingassets.io/",
+        "ticker": "LAS",
+        "comment": ""
+    },
+    {
+        "chainId": 1442,
+        "url": "https://polygon.technology/solutions/polygon-zkevm/",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 1452,
+        "url": "https://gaussgang.com/",
+        "ticker": "GANG",
+        "comment": ""
+    },
+    {
+        "chainId": 1455,
+        "url": "https://ctextoken.io",
+        "ticker": "CTEX",
+        "comment": ""
+    },
+    {
+        "chainId": 1501,
+        "url": "https://chainx.org",
+        "ticker": "BTC",
+        "comment": ""
+    },
+    {
+        "chainId": 1506,
+        "url": "https://sherpax.io/",
+        "ticker": "KSX",
+        "comment": ""
+    },
+    {
+        "chainId": 1507,
+        "url": "https://sherpax.io/",
+        "ticker": "KSX",
+        "comment": ""
+    },
+    {
+        "chainId": 1515,
+        "url": "https://beagle.chat/",
+        "ticker": "BG",
+        "comment": ""
+    },
+    {
+        "chainId": 1559,
+        "url": "https://tenet.org/",
+        "ticker": "TENET",
+        "comment": ""
+    },
+    {
+        "chainId": 1618,
+        "url": "https://catechain.com",
+        "ticker": "CATE",
+        "comment": ""
+    },
+    {
+        "chainId": 1620,
+        "url": "https://atheios.org",
+        "ticker": "ATH",
+        "comment": ""
+    },
+    {
+        "chainId": 1657,
+        "url": "https://bitcoinasset.io/",
+        "ticker": "BTA",
+        "comment": ""
+    },
+    {
+        "chainId": 1662,
+        "url": "https://horizen.io/",
+        "ticker": "tZEN",
+        "comment": ""
+    },
+    {
+        "chainId": 1663,
+        "url": "https://horizen.io/",
+        "ticker": "tZEN",
+        "comment": ""
+    },
+    {
+        "chainId": 1688,
+        "url": "https://www.ludan.org/",
+        "ticker": "LUDAN",
+        "comment": ""
+    },
+    {
+        "chainId": 1701,
+        "url": "https://evm.anytype.io",
+        "ticker": "ANY",
+        "comment": ""
+    },
+    {
+        "chainId": 1707,
+        "url": "https://blockchain.or.th",
+        "ticker": "JINDA",
+        "comment": ""
+    },
+    {
+        "chainId": 1708,
+        "url": "https://blockchain.or.th",
+        "ticker": "JINDA",
+        "comment": ""
+    },
+    {
+        "chainId": 1718,
+        "url": "https://hashpalette.com/",
+        "ticker": "PLT",
+        "comment": ""
+    },
+    {
+        "chainId": 1773,
+        "url": "TeaPartyCrypto.com",
+        "ticker": "GRAMS",
+        "comment": ""
+    },
+    {
+        "chainId": 1777,
+        "url": "https://gaussgang.com/",
+        "ticker": "GANG",
+        "comment": ""
+    },
+    {
+        "chainId": 1804,
+        "url": "https://github.com/ethereum-pocr/kerleano",
+        "ticker": "CRC",
+        "comment": ""
+    },
+    {
+        "chainId": 1807,
+        "url": "https://rabbit.analogscan.com",
+        "ticker": "rAna",
+        "comment": ""
+    },
+    {
+        "chainId": 1818,
+        "url": "https://www.cube.network",
+        "ticker": "CUBE",
+        "comment": ""
+    },
+    {
+        "chainId": 1819,
+        "url": "https://www.cube.network",
+        "ticker": "CUBET",
+        "comment": ""
+    },
+    {
+        "chainId": 1856,
+        "url": "https://teslafunds.io",
+        "ticker": "TSF",
+        "comment": ""
+    },
+    {
+        "chainId": 1875,
+        "url": "https://whitebit.network",
+        "ticker": "WBT",
+        "comment": ""
+    },
+    {
+        "chainId": 1881,
+        "url": "https://gitshock.com",
+        "ticker": "tGTFX",
+        "comment": ""
+    },
+    {
+        "chainId": 1890,
+        "url": "https://lightlink.io",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 1891,
+        "url": "https://lightlink.io",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 1898,
+        "url": "https://boyanet.org",
+        "ticker": "BOY",
+        "comment": ""
+    },
+    {
+        "chainId": 1907,
+        "url": "https://www.bitcichain.com",
+        "ticker": "BITCI",
+        "comment": ""
+    },
+    {
+        "chainId": 1908,
+        "url": "https://www.bitcichain.com",
+        "ticker": "TBITCI",
+        "comment": ""
+    },
+    {
+        "chainId": 1945,
+        "url": "https://onuschain.io",
+        "ticker": "ONUS",
+        "comment": ""
+    },
+    {
+        "chainId": 1951,
+        "url": "",
+        "ticker": "DOINX",
+        "comment": ""
+    },
+    {
+        "chainId": 1954,
+        "url": "https://dexilla.com",
+        "ticker": "DXZ",
+        "comment": ""
+    },
+    {
+        "chainId": 1967,
+        "url": "https://eleanor.metatime.com",
+        "ticker": "MTC",
+        "comment": ""
+    },
+    {
+        "chainId": 1969,
+        "url": "https://testnet.scschain.com",
+        "ticker": "TSCS",
+        "comment": ""
+    },
+    {
+        "chainId": 1970,
+        "url": "https://scschain.com",
+        "ticker": "SCS",
+        "comment": ""
+    },
+    {
+        "chainId": 1971,
+        "url": "https://1971.network/",
+        "ticker": "ATLR",
+        "comment": ""
+    },
+    {
+        "chainId": 1975,
+        "url": "https://onuschain.io",
+        "ticker": "ONUS",
+        "comment": ""
+    },
+    {
+        "chainId": 1984,
+        "url": "https://eurus.network",
+        "ticker": "EUN",
+        "comment": ""
+    },
+    {
+        "chainId": 1987,
+        "url": "https://egem.io",
+        "ticker": "EGEM",
+        "comment": ""
+    },
+    {
+        "chainId": 1994,
+        "url": "https://www.ekta.io",
+        "ticker": "EKTA",
+        "comment": ""
+    },
+    {
+        "chainId": 1995,
+        "url": "https://edexa.com/",
+        "ticker": "EDX",
+        "comment": ""
+    },
+    {
+        "chainId": 2000,
+        "url": "https://dogechain.dog",
+        "ticker": "DOGE",
+        "comment": ""
+    },
+    {
+        "chainId": 2001,
+        "url": "https://milkomeda.com",
+        "ticker": "mADA",
+        "comment": ""
+    },
+    {
+        "chainId": 2002,
+        "url": "https://milkomeda.com",
+        "ticker": "mALGO",
+        "comment": ""
+    },
+    {
+        "chainId": 2008,
+        "url": "https://cloudwalk.io",
+        "ticker": "CWN",
+        "comment": ""
+    },
+    {
+        "chainId": 2009,
+        "url": "https://cloudwalk.io",
+        "ticker": "CWN",
+        "comment": ""
+    },
+    {
+        "chainId": 2016,
+        "url": "https://mainnetz.io",
+        "ticker": "NetZ",
+        "comment": ""
+    },
+    {
+        "chainId": 2018,
+        "url": "https://publicmint.com",
+        "ticker": "USD",
+        "comment": ""
+    },
+    {
+        "chainId": 2019,
+        "url": "https://publicmint.com",
+        "ticker": "USD",
+        "comment": ""
+    },
+    {
+        "chainId": 2020,
+        "url": "https://publicmint.com",
+        "ticker": "USD",
+        "comment": ""
+    },
+    {
+        "chainId": 2021,
+        "url": "https://edgeware.io",
+        "ticker": "EDG",
+        "comment": ""
+    },
+    {
+        "chainId": 2022,
+        "url": "https://edgeware.io/build",
+        "ticker": "tEDG",
+        "comment": ""
+    },
+    {
+        "chainId": 2023,
+        "url": "https://hupayx.io",
+        "ticker": "tSFL",
+        "comment": ""
+    },
+    {
+        "chainId": 2025,
+        "url": "https://rangersprotocol.com",
+        "ticker": "RPG",
+        "comment": ""
+    },
+    {
+        "chainId": 2031,
+        "url": "https://centrifuge.io",
+        "ticker": "CFG",
+        "comment": ""
+    },
+    {
+        "chainId": 2032,
+        "url": "https://centrifuge.io",
+        "ticker": "NCFG",
+        "comment": ""
+    },
+    {
+        "chainId": 2037,
+        "url": "",
+        "ticker": "SHRAP",
+        "comment": ""
+    },
+    {
+        "chainId": 2038,
+        "url": "https://www.shrapnel.com/",
+        "ticker": "SHRAPG",
+        "comment": ""
+    },
+    {
+        "chainId": 2043,
+        "url": "https://parachain.origintrail.io",
+        "ticker": "OTP",
+        "comment": ""
+    },
+    {
+        "chainId": 2044,
+        "url": "https://www.shrapnel.com/",
+        "ticker": "SHRAPG",
+        "comment": ""
+    },
+    {
+        "chainId": 2047,
+        "url": "https://www.thestratos.org",
+        "ticker": "STOS",
+        "comment": ""
+    },
+    {
+        "chainId": 2048,
+        "url": "https://www.thestratos.org",
+        "ticker": "STOS",
+        "comment": ""
+    },
+    {
+        "chainId": 2077,
+        "url": "https://qkacoin.org",
+        "ticker": "QKA",
+        "comment": ""
+    },
+    {
+        "chainId": 2088,
+        "url": "https://centrifuge.io",
+        "ticker": "AIR",
+        "comment": ""
+    },
+    {
+        "chainId": 2089,
+        "url": "https://centrifuge.io",
+        "ticker": "ALGL",
+        "comment": ""
+    },
+    {
+        "chainId": 2100,
+        "url": "https://ecoball.org",
+        "ticker": "ECO",
+        "comment": ""
+    },
+    {
+        "chainId": 2101,
+        "url": "https://ecoball.org",
+        "ticker": "ECO",
+        "comment": ""
+    },
+    {
+        "chainId": 2109,
+        "url": "https://moonsama.com",
+        "ticker": "SAMA",
+        "comment": ""
+    },
+    {
+        "chainId": 2122,
+        "url": "https://docs.metaplayer.one/",
+        "ticker": "METAD",
+        "comment": ""
+    },
+    {
+        "chainId": 2124,
+        "url": "https://docs.metaplayer.one/",
+        "ticker": "MEU",
+        "comment": ""
+    },
+    {
+        "chainId": 2137,
+        "url": "https://bigshortbets.com/",
+        "ticker": "USDC",
+        "comment": ""
+    },
+    {
+        "chainId": 2138,
+        "url": "https://defi-oracle.io/",
+        "ticker": "tETH",
+        "comment": ""
+    },
+    {
+        "chainId": 2151,
+        "url": "https://docs.bosagora.org",
+        "ticker": "BOA",
+        "comment": ""
+    },
+    {
+        "chainId": 2152,
+        "url": "https://findora.org/",
+        "ticker": "FRA",
+        "comment": ""
+    },
+    {
+        "chainId": 2153,
+        "url": "https://findora.org/",
+        "ticker": "FRA",
+        "comment": ""
+    },
+    {
+        "chainId": 2154,
+        "url": "https://findora.org/",
+        "ticker": "FRA",
+        "comment": ""
+    },
+    {
+        "chainId": 2199,
+        "url": "https://moonsama.com",
+        "ticker": "SAMA",
+        "comment": ""
+    },
+    {
+        "chainId": 2202,
+        "url": "https://antofy.io",
+        "ticker": "ABN",
+        "comment": ""
+    },
+    {
+        "chainId": 2203,
+        "url": "https://bitcoinevm.com",
+        "ticker": "BTC",
+        "comment": ""
+    },
+    {
+        "chainId": 2213,
+        "url": "https://evanesco.org/",
+        "ticker": "EVA",
+        "comment": ""
+    },
+    {
+        "chainId": 2221,
+        "url": "https://www.kava.io",
+        "ticker": "TKAVA",
+        "comment": ""
+    },
+    {
+        "chainId": 2222,
+        "url": "https://www.kava.io",
+        "ticker": "KAVA",
+        "comment": ""
+    },
+    {
+        "chainId": 2223,
+        "url": "https://bo.vcex.xyz/",
+        "ticker": "VNDT",
+        "comment": ""
+    },
+    {
+        "chainId": 2300,
+        "url": "https://www.bombchain.com",
+        "ticker": "BOMB",
+        "comment": ""
+    },
+    {
+        "chainId": 2309,
+        "url": "",
+        "ticker": "AR\u00c9V",
+        "comment": ""
+    },
+    {
+        "chainId": 2323,
+        "url": "https://somanetwork.io",
+        "ticker": "tSMA",
+        "comment": ""
+    },
+    {
+        "chainId": 2330,
+        "url": "https://altcoinchain.org",
+        "ticker": "ALT",
+        "comment": ""
+    },
+    {
+        "chainId": 2332,
+        "url": "https://somanetwork.io",
+        "ticker": "SMA",
+        "comment": ""
+    },
+    {
+        "chainId": 2357,
+        "url": "https://kroma.network",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 2358,
+        "url": "https://kroma.network",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 2399,
+        "url": "https://www.bombmoney.com",
+        "ticker": "tBOMB",
+        "comment": ""
+    },
+    {
+        "chainId": 2400,
+        "url": "https://tcgverse.xyz/",
+        "ticker": "OAS",
+        "comment": ""
+    },
+    {
+        "chainId": 2415,
+        "url": "https://xo-dex.com",
+        "ticker": "XODEX",
+        "comment": ""
+    },
+    {
+        "chainId": 2484,
+        "url": "https://uniultra.xyz",
+        "ticker": "U2U",
+        "comment": ""
+    },
+    {
+        "chainId": 2559,
+        "url": "https://www.kortho.io/",
+        "ticker": "KTO",
+        "comment": ""
+    },
+    {
+        "chainId": 2569,
+        "url": "https://techpay.io/",
+        "ticker": "TPC",
+        "comment": ""
+    },
+    {
+        "chainId": 2606,
+        "url": "https://github.com/ethereum-pocr/pocrnet",
+        "ticker": "CRC",
+        "comment": ""
+    },
+    {
+        "chainId": 2611,
+        "url": "https://redlight.finance/",
+        "ticker": "REDLC",
+        "comment": ""
+    },
+    {
+        "chainId": 2612,
+        "url": "https://ezchain.com",
+        "ticker": "EZC",
+        "comment": ""
+    },
+    {
+        "chainId": 2613,
+        "url": "https://ezchain.com",
+        "ticker": "EZC",
+        "comment": ""
+    },
+    {
+        "chainId": 2625,
+        "url": "https://whitebit.com/wbt",
+        "ticker": "WBT",
+        "comment": ""
+    },
+    {
+        "chainId": 2710,
+        "url": "https://morphism.xyz",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 2888,
+        "url": "https://boba.network",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 2999,
+        "url": "https://www.bityuan.com",
+        "ticker": "BTY",
+        "comment": ""
+    },
+    {
+        "chainId": 3000,
+        "url": "https://cennz.net",
+        "ticker": "CPAY",
+        "comment": ""
+    },
+    {
+        "chainId": 3001,
+        "url": "https://cennz.net",
+        "ticker": "CPAY",
+        "comment": ""
+    },
+    {
+        "chainId": 3003,
+        "url": "https://canxium.org",
+        "ticker": "CAU",
+        "comment": ""
+    },
+    {
+        "chainId": 3011,
+        "url": "https://playa3ull.games",
+        "ticker": "3ULL",
+        "comment": ""
+    },
+    {
+        "chainId": 3031,
+        "url": "https://orlchain.com",
+        "ticker": "ORL",
+        "comment": ""
+    },
+    {
+        "chainId": 3068,
+        "url": "https://thebifrost.io",
+        "ticker": "BFC",
+        "comment": ""
+    },
+    {
+        "chainId": 3141,
+        "url": "https://filecoin.io",
+        "ticker": "tFIL",
+        "comment": ""
+    },
+    {
+        "chainId": 3269,
+        "url": "https://arabianchain.org",
+        "ticker": "DUBX",
+        "comment": ""
+    },
+    {
+        "chainId": 3270,
+        "url": "https://arabianchain.org",
+        "ticker": "TDUBX",
+        "comment": ""
+    },
+    {
+        "chainId": 3306,
+        "url": "https://debounce.network",
+        "ticker": "DB",
+        "comment": ""
+    },
+    {
+        "chainId": 3331,
+        "url": "https://zcore.cash",
+        "ticker": "ZCR",
+        "comment": ""
+    },
+    {
+        "chainId": 3333,
+        "url": "https://testnet.web3q.io/home.w3q/",
+        "ticker": "W3Q",
+        "comment": ""
+    },
+    {
+        "chainId": 3334,
+        "url": "https://galileo.web3q.io/home.w3q/",
+        "ticker": "W3Q",
+        "comment": ""
+    },
+    {
+        "chainId": 3400,
+        "url": "https://net.paribu.com",
+        "ticker": "PRB",
+        "comment": ""
+    },
+    {
+        "chainId": 3434,
+        "url": "https://securechain.ai",
+        "ticker": "SCAI",
+        "comment": ""
+    },
+    {
+        "chainId": 3500,
+        "url": "https://net.paribu.com",
+        "ticker": "PRB",
+        "comment": ""
+    },
+    {
+        "chainId": 3501,
+        "url": "https://jfinchain.com",
+        "ticker": "jfin",
+        "comment": ""
+    },
+    {
+        "chainId": 3601,
+        "url": "https://www.pandoproject.org/",
+        "ticker": "PTX",
+        "comment": ""
+    },
+    {
+        "chainId": 3602,
+        "url": "https://www.pandoproject.org/",
+        "ticker": "PTX",
+        "comment": ""
+    },
+    {
+        "chainId": 3636,
+        "url": "https://btxtestchain.com",
+        "ticker": "BTC",
+        "comment": ""
+    },
+    {
+        "chainId": 3637,
+        "url": "https://btxtestchain.com",
+        "ticker": "BTC",
+        "comment": ""
+    },
+    {
+        "chainId": 3666,
+        "url": "https://jnsdao.com",
+        "ticker": "J",
+        "comment": ""
+    },
+    {
+        "chainId": 3690,
+        "url": "https://bittexscan.com",
+        "ticker": "BTX",
+        "comment": ""
+    },
+    {
+        "chainId": 3693,
+        "url": "https://www.empirenetwork.io/",
+        "ticker": "EMPIRE",
+        "comment": ""
+    },
+    {
+        "chainId": 3698,
+        "url": "https://senjepowersscan.com",
+        "ticker": "SPC",
+        "comment": ""
+    },
+    {
+        "chainId": 3699,
+        "url": "https://senjepowersscan.com",
+        "ticker": "SPC",
+        "comment": ""
+    },
+    {
+        "chainId": 3701,
+        "url": "https://xpla.io",
+        "ticker": "XPLA",
+        "comment": ""
+    },
+    {
+        "chainId": 3737,
+        "url": "https://crossbell.io",
+        "ticker": "CSB",
+        "comment": ""
+    },
+    {
+        "chainId": 3797,
+        "url": "https://alveyscan.com/rpc",
+        "ticker": "ALV",
+        "comment": ""
+    },
+    {
+        "chainId": 3888,
+        "url": "https://kalychain.io",
+        "ticker": "KLC",
+        "comment": ""
+    },
+    {
+        "chainId": 3889,
+        "url": "https://kalychain.io",
+        "ticker": "KLC",
+        "comment": ""
+    },
+    {
+        "chainId": 3912,
+        "url": "https://drac.io/",
+        "ticker": "DRAC",
+        "comment": ""
+    },
+    {
+        "chainId": 3939,
+        "url": "http://doschain.io/",
+        "ticker": "DOS",
+        "comment": ""
+    },
+    {
+        "chainId": 3966,
+        "url": "https://dynoprotocol.com",
+        "ticker": "DYNO",
+        "comment": ""
+    },
+    {
+        "chainId": 3967,
+        "url": "https://dynoprotocol.com",
+        "ticker": "tDYNO",
+        "comment": ""
+    },
+    {
+        "chainId": 3999,
+        "url": "https://www.yuan.org",
+        "ticker": "YCC",
+        "comment": ""
+    },
+    {
+        "chainId": 4000,
+        "url": "https://ozonechain.io",
+        "ticker": "OZO",
+        "comment": ""
+    },
+    {
+        "chainId": 4001,
+        "url": "https://peperium.io",
+        "ticker": "PERIUM",
+        "comment": ""
+    },
+    {
+        "chainId": 4002,
+        "url": "https://docs.fantom.foundation/quick-start/short-guide#fantom-testnet",
+        "ticker": "FTM",
+        "comment": ""
+    },
+    {
+        "chainId": 4051,
+        "url": "https://boba.network",
+        "ticker": "BOBA",
+        "comment": ""
+    },
+    {
+        "chainId": 4061,
+        "url": "https://nahmii.io",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 4062,
+        "url": "https://nahmii.io",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 4090,
+        "url": "https://fastexchain.com",
+        "ticker": "FTN",
+        "comment": ""
+    },
+    {
+        "chainId": 4096,
+        "url": "https://bitindi.org",
+        "ticker": "$BNI",
+        "comment": ""
+    },
+    {
+        "chainId": 4099,
+        "url": "https://bitindi.org",
+        "ticker": "$BNI",
+        "comment": ""
+    },
+    {
+        "chainId": 4102,
+        "url": "https://aioz.network",
+        "ticker": "AIOZ",
+        "comment": ""
+    },
+    {
+        "chainId": 4141,
+        "url": "https://tipboxcoin.net",
+        "ticker": "TPBX",
+        "comment": ""
+    },
+    {
+        "chainId": 4181,
+        "url": "https://phi.network",
+        "ticker": "\u03a6",
+        "comment": ""
+    },
+    {
+        "chainId": 4201,
+        "url": "https://lukso.network",
+        "ticker": "LYXt",
+        "comment": ""
+    },
+    {
+        "chainId": 4242,
+        "url": "https://www.nexi.technology/",
+        "ticker": "NEXI",
+        "comment": ""
+    },
+    {
+        "chainId": 4328,
+        "url": "https://boba.network",
+        "ticker": "BOBA",
+        "comment": ""
+    },
+    {
+        "chainId": 4337,
+        "url": "https://www.onbeam.com",
+        "ticker": "MC",
+        "comment": ""
+    },
+    {
+        "chainId": 4444,
+        "url": "https://htmlcoin.com",
+        "ticker": "HTML",
+        "comment": ""
+    },
+    {
+        "chainId": 4460,
+        "url": "www.orderly.network",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 4689,
+        "url": "https://iotex.io",
+        "ticker": "IOTX",
+        "comment": ""
+    },
+    {
+        "chainId": 4690,
+        "url": "https://iotex.io",
+        "ticker": "IOTX",
+        "comment": ""
+    },
+    {
+        "chainId": 4759,
+        "url": "https://www.meverse.sg",
+        "ticker": "MEV",
+        "comment": ""
+    },
+    {
+        "chainId": 4777,
+        "url": "https://blackfort.exchange",
+        "ticker": "TBXN",
+        "comment": ""
+    },
+    {
+        "chainId": 4918,
+        "url": "https://venidium.io",
+        "ticker": "XVM",
+        "comment": ""
+    },
+    {
+        "chainId": 4919,
+        "url": "https://venidium.io",
+        "ticker": "XVM",
+        "comment": ""
+    },
+    {
+        "chainId": 4999,
+        "url": "https://blackfort.exchange",
+        "ticker": "BXN",
+        "comment": ""
+    },
+    {
+        "chainId": 5000,
+        "url": "https://mantle.xyz",
+        "ticker": "MNT",
+        "comment": ""
+    },
+    {
+        "chainId": 5001,
+        "url": "https://mantle.xyz",
+        "ticker": "MNT",
+        "comment": ""
+    },
+    {
+        "chainId": 5002,
+        "url": "https://www.treasurenet.io",
+        "ticker": "UNIT",
+        "comment": ""
+    },
+    {
+        "chainId": 5005,
+        "url": "https://www.testnet.treasurenet.io",
+        "ticker": "UNIT",
+        "comment": ""
+    },
+    {
+        "chainId": 5165,
+        "url": "https://fastexchain.com",
+        "ticker": "FTN",
+        "comment": ""
+    },
+    {
+        "chainId": 5177,
+        "url": "https://tlchain.network/",
+        "ticker": "TLC",
+        "comment": ""
+    },
+    {
+        "chainId": 5197,
+        "url": "https://eraswap.info/",
+        "ticker": "ES",
+        "comment": ""
+    },
+    {
+        "chainId": 5234,
+        "url": "https://humanode.io",
+        "ticker": "eHMND",
+        "comment": ""
+    },
+    {
+        "chainId": 5290,
+        "url": "https://thefirechain.com",
+        "ticker": "FIRE",
+        "comment": ""
+    },
+    {
+        "chainId": 5315,
+        "url": "https://uzmigames.com.br/",
+        "ticker": "UZMI",
+        "comment": ""
+    },
+    {
+        "chainId": 5353,
+        "url": "https://tritanium.network",
+        "ticker": "tTRN",
+        "comment": ""
+    },
+    {
+        "chainId": 5551,
+        "url": "https://nahmii.io",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 5553,
+        "url": "https://nahmii.io",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 5555,
+        "url": "https://chainverse.info",
+        "ticker": "OAS",
+        "comment": ""
+    },
+    {
+        "chainId": 5611,
+        "url": "https://opbnb.bnbchain.org/en",
+        "ticker": "tBNB",
+        "comment": ""
+    },
+    {
+        "chainId": 5616,
+        "url": "https://arcturuschain.io",
+        "ticker": "tARCT",
+        "comment": ""
+    },
+    {
+        "chainId": 5678,
+        "url": "https://tanssi.network",
+        "ticker": "Unit",
+        "comment": ""
+    },
+    {
+        "chainId": 5700,
+        "url": "https://syscoin.org",
+        "ticker": "tSYS",
+        "comment": ""
+    },
+    {
+        "chainId": 5729,
+        "url": "https://hika.network/",
+        "ticker": "HIK",
+        "comment": ""
+    },
+    {
+        "chainId": 5758,
+        "url": "https://satoshichain.net",
+        "ticker": "SATS",
+        "comment": ""
+    },
+    {
+        "chainId": 5777,
+        "url": "https://trufflesuite.com/ganache/",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 5851,
+        "url": "https://ont.io/",
+        "ticker": "ONG",
+        "comment": ""
+    },
+    {
+        "chainId": 5869,
+        "url": "https://www.wegochain.io",
+        "ticker": "RBD",
+        "comment": ""
+    },
+    {
+        "chainId": 6065,
+        "url": "https://treschain.com",
+        "ticker": "TRES",
+        "comment": ""
+    },
+    {
+        "chainId": 6066,
+        "url": "https://treschain.com",
+        "ticker": "TRES",
+        "comment": ""
+    },
+    {
+        "chainId": 6102,
+        "url": "https://www.cascadia.foundation",
+        "ticker": "tCC",
+        "comment": ""
+    },
+    {
+        "chainId": 6118,
+        "url": "https://uptn.io",
+        "ticker": "UPTN",
+        "comment": ""
+    },
+    {
+        "chainId": 6119,
+        "url": "https://uptn.io",
+        "ticker": "UPTN",
+        "comment": ""
+    },
+    {
+        "chainId": 6502,
+        "url": "https://peerpay.su.gy",
+        "ticker": "P2P",
+        "comment": ""
+    },
+    {
+        "chainId": 6552,
+        "url": "https://scolcoin.com",
+        "ticker": "SCOL",
+        "comment": ""
+    },
+    {
+        "chainId": 6565,
+        "url": "https://foxchain.app",
+        "ticker": "tFOX",
+        "comment": ""
+    },
+    {
+        "chainId": 6626,
+        "url": "https://chain.pixie.xyz",
+        "ticker": "PIX",
+        "comment": ""
+    },
+    {
+        "chainId": 6688,
+        "url": "https://www.irisnet.org",
+        "ticker": "ERIS",
+        "comment": ""
+    },
+    {
+        "chainId": 6789,
+        "url": "https://goldsmartchain.com",
+        "ticker": "STAND",
+        "comment": ""
+    },
+    {
+        "chainId": 6969,
+        "url": "https://tombchain.com/",
+        "ticker": "TOMB",
+        "comment": ""
+    },
+    {
+        "chainId": 6999,
+        "url": "https://www.polysmartchain.com/",
+        "ticker": "PSC",
+        "comment": ""
+    },
+    {
+        "chainId": 7000,
+        "url": "https://zetachain.com/docs/",
+        "ticker": "ZETA",
+        "comment": ""
+    },
+    {
+        "chainId": 7001,
+        "url": "https://zetachain.com/docs",
+        "ticker": "aZETA",
+        "comment": ""
+    },
+    {
+        "chainId": 7027,
+        "url": "https://ella.network",
+        "ticker": "ELLA",
+        "comment": ""
+    },
+    {
+        "chainId": 7070,
+        "url": "https://planq.network",
+        "ticker": "PLQ",
+        "comment": ""
+    },
+    {
+        "chainId": 7171,
+        "url": "https://bit-rock.io",
+        "ticker": "BROCK",
+        "comment": ""
+    },
+    {
+        "chainId": 7331,
+        "url": "https://klyntar.org",
+        "ticker": "KLY",
+        "comment": ""
+    },
+    {
+        "chainId": 7332,
+        "url": "https://horizen.io/",
+        "ticker": "ZEN",
+        "comment": ""
+    },
+    {
+        "chainId": 7341,
+        "url": "https://shyft.network",
+        "ticker": "SHYFT",
+        "comment": ""
+    },
+    {
+        "chainId": 7484,
+        "url": "https://x.raba.app/",
+        "ticker": "RABA",
+        "comment": ""
+    },
+    {
+        "chainId": 7518,
+        "url": "https://www.meverse.sg",
+        "ticker": "MEV",
+        "comment": ""
+    },
+    {
+        "chainId": 7575,
+        "url": "https://adilchain.io",
+        "ticker": "ADIL",
+        "comment": ""
+    },
+    {
+        "chainId": 7576,
+        "url": "https://adilchain.io",
+        "ticker": "ADIL",
+        "comment": ""
+    },
+    {
+        "chainId": 7668,
+        "url": "https://www.futureverse.com/technology/root",
+        "ticker": "XRP",
+        "comment": ""
+    },
+    {
+        "chainId": 7672,
+        "url": "https://www.futureverse.com/technology/root",
+        "ticker": "XRP",
+        "comment": ""
+    },
+    {
+        "chainId": 7700,
+        "url": "https://canto.io",
+        "ticker": "CANTO",
+        "comment": ""
+    },
+    {
+        "chainId": 7701,
+        "url": "https://canto.io",
+        "ticker": "CANTO",
+        "comment": ""
+    },
+    {
+        "chainId": 7771,
+        "url": "https://bit-rock.io",
+        "ticker": "BROCK",
+        "comment": ""
+    },
+    {
+        "chainId": 7777,
+        "url": "https://riseofthewarbots.com/",
+        "ticker": "NMAC",
+        "comment": ""
+    },
+    {
+        "chainId": 7878,
+        "url": "https://hazlor.com",
+        "ticker": "TSCAS",
+        "comment": ""
+    },
+    {
+        "chainId": 7895,
+        "url": "https://ardenium.org",
+        "ticker": "tARD",
+        "comment": ""
+    },
+    {
+        "chainId": 7979,
+        "url": "https://doschain.io",
+        "ticker": "DOS",
+        "comment": ""
+    },
+    {
+        "chainId": 8000,
+        "url": "https://teleport.network",
+        "ticker": "TELE",
+        "comment": ""
+    },
+    {
+        "chainId": 8001,
+        "url": "https://teleport.network",
+        "ticker": "TELE",
+        "comment": ""
+    },
+    {
+        "chainId": 8029,
+        "url": "https://mdgl.io",
+        "ticker": "MDGLT",
+        "comment": ""
+    },
+    {
+        "chainId": 8080,
+        "url": "https://docs.shardeum.org/",
+        "ticker": "SHM",
+        "comment": ""
+    },
+    {
+        "chainId": 8081,
+        "url": "https://docs.shardeum.org/",
+        "ticker": "SHM",
+        "comment": ""
+    },
+    {
+        "chainId": 8082,
+        "url": "https://docs.shardeum.org/",
+        "ticker": "SHM",
+        "comment": ""
+    },
+    {
+        "chainId": 8086,
+        "url": "https://biteth.org",
+        "ticker": "BTE",
+        "comment": ""
+    },
+    {
+        "chainId": 8098,
+        "url": "https://www.streamux.cloud",
+        "ticker": "SmuX",
+        "comment": ""
+    },
+    {
+        "chainId": 8131,
+        "url": "https://github.com/Qitmeer",
+        "ticker": "MEER-T",
+        "comment": ""
+    },
+    {
+        "chainId": 8132,
+        "url": "https://github.com/Qitmeer",
+        "ticker": "MEER-M",
+        "comment": ""
+    },
+    {
+        "chainId": 8133,
+        "url": "https://github.com/Qitmeer",
+        "ticker": "MEER-P",
+        "comment": ""
+    },
+    {
+        "chainId": 8134,
+        "url": "https://github.com/Qitmeer",
+        "ticker": "MEER",
+        "comment": ""
+    },
+    {
+        "chainId": 8135,
+        "url": "https://github.com/Qitmeer",
+        "ticker": "MEER",
+        "comment": ""
+    },
+    {
+        "chainId": 8136,
+        "url": "https://github.com/Qitmeer",
+        "ticker": "MEER",
+        "comment": ""
+    },
+    {
+        "chainId": 8181,
+        "url": "https://testnet.beonescan.com",
+        "ticker": "tBOC",
+        "comment": ""
+    },
+    {
+        "chainId": 8217,
+        "url": "https://www.klaytn.com/",
+        "ticker": "KLAY",
+        "comment": ""
+    },
+    {
+        "chainId": 8272,
+        "url": "https://blocktoncoin.com",
+        "ticker": "BTON",
+        "comment": ""
+    },
+    {
+        "chainId": 8285,
+        "url": "https://www.kortho.io/",
+        "ticker": "KTO",
+        "comment": ""
+    },
+    {
+        "chainId": 8387,
+        "url": "https://wolfery.com",
+        "ticker": "FUCK",
+        "comment": ""
+    },
+    {
+        "chainId": 8453,
+        "url": "https://base.org",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 8654,
+        "url": "https://www.buildwithtoki.com",
+        "ticker": "TOKI",
+        "comment": ""
+    },
+    {
+        "chainId": 8655,
+        "url": "https://www.buildwithtoki.com",
+        "ticker": "TOKI",
+        "comment": ""
+    },
+    {
+        "chainId": 8723,
+        "url": "https://ibdt.io",
+        "ticker": "OLO",
+        "comment": ""
+    },
+    {
+        "chainId": 8724,
+        "url": "https://testnet-explorer.wolot.io",
+        "ticker": "OLO",
+        "comment": ""
+    },
+    {
+        "chainId": 8738,
+        "url": "https://alph.network",
+        "ticker": "ALPH",
+        "comment": ""
+    },
+    {
+        "chainId": 8768,
+        "url": "https://tmychain.org/",
+        "ticker": "TMY",
+        "comment": ""
+    },
+    {
+        "chainId": 8848,
+        "url": "https://ma.ro/",
+        "ticker": "MARO",
+        "comment": ""
+    },
+    {
+        "chainId": 8880,
+        "url": "https://unique.network",
+        "ticker": "UNQ",
+        "comment": ""
+    },
+    {
+        "chainId": 8881,
+        "url": "https://unique.network",
+        "ticker": "QTZ",
+        "comment": ""
+    },
+    {
+        "chainId": 8882,
+        "url": "https://unique.network",
+        "ticker": "UNQ",
+        "comment": ""
+    },
+    {
+        "chainId": 8883,
+        "url": "https://unique.network",
+        "ticker": "QTZ",
+        "comment": ""
+    },
+    {
+        "chainId": 8888,
+        "url": "https://xanachain.xana.net/",
+        "ticker": "XETA",
+        "comment": ""
+    },
+    {
+        "chainId": 8889,
+        "url": "https://vsc-dataseed.vyvo.org",
+        "ticker": "VSC",
+        "comment": ""
+    },
+    {
+        "chainId": 8898,
+        "url": "https://mmtchain.io/",
+        "ticker": "MMT",
+        "comment": ""
+    },
+    {
+        "chainId": 8899,
+        "url": "https://jibchain.net",
+        "ticker": "JBC",
+        "comment": ""
+    },
+    {
+        "chainId": 8989,
+        "url": "https://gmmtchain.io/",
+        "ticker": "GMMT",
+        "comment": ""
+    },
+    {
+        "chainId": 8995,
+        "url": "https://bloxberg.org",
+        "ticker": "U+25B3",
+        "comment": ""
+    },
+    {
+        "chainId": 9000,
+        "url": "https://evmos.org",
+        "ticker": "tEVMOS",
+        "comment": ""
+    },
+    {
+        "chainId": 9001,
+        "url": "https://evmos.org",
+        "ticker": "EVMOS",
+        "comment": ""
+    },
+    {
+        "chainId": 9012,
+        "url": "https://www.beryl-bit.com",
+        "ticker": "BRB",
+        "comment": ""
+    },
+    {
+        "chainId": 9100,
+        "url": "https://genesis-gn.com",
+        "ticker": "GNC",
+        "comment": ""
+    },
+    {
+        "chainId": 9170,
+        "url": "https://thefirechain.com",
+        "ticker": "FIRE",
+        "comment": ""
+    },
+    {
+        "chainId": 9223,
+        "url": "https://network.codefin.pro",
+        "ticker": "COF",
+        "comment": ""
+    },
+    {
+        "chainId": 9339,
+        "url": "https://dogcoin.network",
+        "ticker": "DOGS",
+        "comment": ""
+    },
+    {
+        "chainId": 9527,
+        "url": "https://rangersprotocol.com",
+        "ticker": "tRPG",
+        "comment": ""
+    },
+    {
+        "chainId": 9528,
+        "url": "https://www.qeasyweb3.com",
+        "ticker": "QET",
+        "comment": ""
+    },
+    {
+        "chainId": 9559,
+        "url": "https://neonlink.io",
+        "ticker": "tNEON",
+        "comment": ""
+    },
+    {
+        "chainId": 9700,
+        "url": "https://oortech.com",
+        "ticker": "CCN",
+        "comment": ""
+    },
+    {
+        "chainId": 9728,
+        "url": "https://boba.network",
+        "ticker": "BOBA",
+        "comment": ""
+    },
+    {
+        "chainId": 9768,
+        "url": "https://testnet.mainnetz.io",
+        "ticker": "NetZ",
+        "comment": ""
+    },
+    {
+        "chainId": 9779,
+        "url": "https://pepenetwork.io",
+        "ticker": "WPEPE",
+        "comment": ""
+    },
+    {
+        "chainId": 9790,
+        "url": "https://carbon.network/",
+        "ticker": "SWTH",
+        "comment": ""
+    },
+    {
+        "chainId": 9792,
+        "url": "https://carbon.network/",
+        "ticker": "SWTH",
+        "comment": ""
+    },
+    {
+        "chainId": 9818,
+        "url": "https://imperiumchain.com",
+        "ticker": "tIMP",
+        "comment": ""
+    },
+    {
+        "chainId": 9819,
+        "url": "https://imperiumchain.com",
+        "ticker": "IMP",
+        "comment": ""
+    },
+    {
+        "chainId": 9977,
+        "url": "https://mindscan.info",
+        "ticker": "tMIND",
+        "comment": ""
+    },
+    {
+        "chainId": 9996,
+        "url": "https://mindscan.info",
+        "ticker": "MIND",
+        "comment": ""
+    },
+    {
+        "chainId": 9997,
+        "url": "https://altlayer.io",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 9999,
+        "url": "https://docs.bccloud.net/",
+        "ticker": "MYN",
+        "comment": ""
+    },
+    {
+        "chainId": 10000,
+        "url": "https://smartbch.org/",
+        "ticker": "BCH",
+        "comment": ""
+    },
+    {
+        "chainId": 10001,
+        "url": "http://smartbch.org/",
+        "ticker": "BCHT",
+        "comment": ""
+    },
+    {
+        "chainId": 10024,
+        "url": "",
+        "ticker": "GT",
+        "comment": ""
+    },
+    {
+        "chainId": 10081,
+        "url": "https://www.japanopenchain.org/",
+        "ticker": "JOCT",
+        "comment": ""
+    },
+    {
+        "chainId": 10086,
+        "url": "https://sjis.me",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 10101,
+        "url": "https://www.xixoio.com/",
+        "ticker": "GEN",
+        "comment": ""
+    },
+    {
+        "chainId": 10200,
+        "url": "https://docs.gnosischain.com",
+        "ticker": "XDAI",
+        "comment": ""
+    },
+    {
+        "chainId": 10201,
+        "url": "https://www.maxxchain.org/",
+        "ticker": "PWR",
+        "comment": ""
+    },
+    {
+        "chainId": 10243,
+        "url": "https://docs.arthera.net",
+        "ticker": "AA",
+        "comment": ""
+    },
+    {
+        "chainId": 10248,
+        "url": "https://www.0xtrade.finance/",
+        "ticker": "0XT",
+        "comment": ""
+    },
+    {
+        "chainId": 10395,
+        "url": "https://worldland.foundation",
+        "ticker": "WL",
+        "comment": ""
+    },
+    {
+        "chainId": 10507,
+        "url": "https://numbersprotocol.io",
+        "ticker": "NUM",
+        "comment": ""
+    },
+    {
+        "chainId": 10508,
+        "url": "https://numbersprotocol.io",
+        "ticker": "NUM",
+        "comment": ""
+    },
+    {
+        "chainId": 10823,
+        "url": "https://www.cryptocoinpay.co",
+        "ticker": "CCP",
+        "comment": ""
+    },
+    {
+        "chainId": 10946,
+        "url": "https://quadrans.io",
+        "ticker": "QDC",
+        "comment": ""
+    },
+    {
+        "chainId": 10947,
+        "url": "https://quadrans.io",
+        "ticker": "tQDC",
+        "comment": ""
+    },
+    {
+        "chainId": 11110,
+        "url": "https://astranaut.io",
+        "ticker": "ASA",
+        "comment": ""
+    },
+    {
+        "chainId": 11111,
+        "url": "https://subnets-test.avax.network/wagmi/details",
+        "ticker": "WGM",
+        "comment": ""
+    },
+    {
+        "chainId": 11115,
+        "url": "https://astranaut.io",
+        "ticker": "tASA",
+        "comment": ""
+    },
+    {
+        "chainId": 11119,
+        "url": "https://hashbit.org",
+        "ticker": "HBIT",
+        "comment": ""
+    },
+    {
+        "chainId": 11235,
+        "url": "https://islamiccoin.net",
+        "ticker": "ISLM",
+        "comment": ""
+    },
+    {
+        "chainId": 11437,
+        "url": "https://shyft.network",
+        "ticker": "SHYFTT",
+        "comment": ""
+    },
+    {
+        "chainId": 11612,
+        "url": "https://mysardis.com",
+        "ticker": "SRDX",
+        "comment": ""
+    },
+    {
+        "chainId": 11888,
+        "url": "https://sanr.app",
+        "ticker": "nSAN",
+        "comment": ""
+    },
+    {
+        "chainId": 11891,
+        "url": "https://arianee.org",
+        "ticker": "ARIA20",
+        "comment": ""
+    },
+    {
+        "chainId": 12009,
+        "url": "https://satoshichain.net",
+        "ticker": "SATS",
+        "comment": ""
+    },
+    {
+        "chainId": 12051,
+        "url": "https://www.singularity.gold",
+        "ticker": "tZERO",
+        "comment": ""
+    },
+    {
+        "chainId": 12052,
+        "url": "https://www.singularity.gold",
+        "ticker": "ZERO",
+        "comment": ""
+    },
+    {
+        "chainId": 12123,
+        "url": "https://bridge.brcchain.io",
+        "ticker": "BRC",
+        "comment": ""
+    },
+    {
+        "chainId": 12306,
+        "url": "https://fibochain.org",
+        "ticker": "FIBO",
+        "comment": ""
+    },
+    {
+        "chainId": 12321,
+        "url": "https://blgchain.com",
+        "ticker": "BLG",
+        "comment": ""
+    },
+    {
+        "chainId": 12345,
+        "url": "https://step.network",
+        "ticker": "FITFI",
+        "comment": ""
+    },
+    {
+        "chainId": 12715,
+        "url": "https://rikeza.io",
+        "ticker": "RIK",
+        "comment": ""
+    },
+    {
+        "chainId": 13000,
+        "url": "https://ssquad.games/",
+        "ticker": "ECG",
+        "comment": ""
+    },
+    {
+        "chainId": 13308,
+        "url": "https://creditsmartchain.com",
+        "ticker": "CREDIT",
+        "comment": ""
+    },
+    {
+        "chainId": 13337,
+        "url": "https://www.onbeam.com",
+        "ticker": "MC",
+        "comment": ""
+    },
+    {
+        "chainId": 13381,
+        "url": "https://cryptophoenix.org/phoenix",
+        "ticker": "PHX",
+        "comment": ""
+    },
+    {
+        "chainId": 13812,
+        "url": "",
+        "ticker": "OPN",
+        "comment": ""
+    },
+    {
+        "chainId": 14000,
+        "url": "https://ssquad.games/",
+        "ticker": "ECG",
+        "comment": ""
+    },
+    {
+        "chainId": 14853,
+        "url": "https://humanode.io",
+        "ticker": "eHMND",
+        "comment": ""
+    },
+    {
+        "chainId": 15551,
+        "url": "http://theloopnetwork.org/",
+        "ticker": "LOOP",
+        "comment": ""
+    },
+    {
+        "chainId": 15555,
+        "url": "https://www.trust.one/",
+        "ticker": "EVM",
+        "comment": ""
+    },
+    {
+        "chainId": 15557,
+        "url": "https://eosnetwork.com/eos-evm",
+        "ticker": "EOS",
+        "comment": ""
+    },
+    {
+        "chainId": 16000,
+        "url": "https://metadot.network",
+        "ticker": "MTT",
+        "comment": ""
+    },
+    {
+        "chainId": 16001,
+        "url": "https://metadot.network",
+        "ticker": "MTTest",
+        "comment": ""
+    },
+    {
+        "chainId": 16507,
+        "url": "https://www.genesys.network/",
+        "ticker": "GSYS",
+        "comment": ""
+    },
+    {
+        "chainId": 16688,
+        "url": "https://www.irisnet.org",
+        "ticker": "ERIS",
+        "comment": ""
+    },
+    {
+        "chainId": 16718,
+        "url": "https://airdao.io",
+        "ticker": "AMB",
+        "comment": ""
+    },
+    {
+        "chainId": 16888,
+        "url": "https://ivarex.com",
+        "ticker": "tIVAR",
+        "comment": ""
+    },
+    {
+        "chainId": 17000,
+        "url": "https://holesky.ethpandaops.io",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 17180,
+        "url": "https://hashpalette.com/",
+        "ticker": "PLT",
+        "comment": ""
+    },
+    {
+        "chainId": 17777,
+        "url": "https://eosnetwork.com/eos-evm",
+        "ticker": "EOS",
+        "comment": ""
+    },
+    {
+        "chainId": 18000,
+        "url": "https://goexosphere.com",
+        "ticker": "ZKST",
+        "comment": ""
+    },
+    {
+        "chainId": 18122,
+        "url": "https://www.smarttradenetworks.com",
+        "ticker": "STN",
+        "comment": ""
+    },
+    {
+        "chainId": 18159,
+        "url": "https://proofofmemes.org",
+        "ticker": "POM",
+        "comment": ""
+    },
+    {
+        "chainId": 18686,
+        "url": "https://doc.mxc.com/docs/intro",
+        "ticker": "MXC",
+        "comment": ""
+    },
+    {
+        "chainId": 19011,
+        "url": "https://www.homeverse.games/",
+        "ticker": "OAS",
+        "comment": ""
+    },
+    {
+        "chainId": 19845,
+        "url": "https://bitcolojix.org",
+        "ticker": "BTCIX",
+        "comment": ""
+    },
+    {
+        "chainId": 20001,
+        "url": "https://www.camelark.com",
+        "ticker": "ETHW",
+        "comment": ""
+    },
+    {
+        "chainId": 20729,
+        "url": "https://callisto.network",
+        "ticker": "CLO",
+        "comment": ""
+    },
+    {
+        "chainId": 20736,
+        "url": "https://p12.network",
+        "ticker": "hP2",
+        "comment": ""
+    },
+    {
+        "chainId": 21337,
+        "url": "https://cennz.net",
+        "ticker": "CPAY",
+        "comment": ""
+    },
+    {
+        "chainId": 21816,
+        "url": "https://omchain.io",
+        "ticker": "OMC",
+        "comment": ""
+    },
+    {
+        "chainId": 22023,
+        "url": "https://hupayx.io",
+        "ticker": "SFL",
+        "comment": ""
+    },
+    {
+        "chainId": 22040,
+        "url": "https://testnet.airdao.io",
+        "ticker": "AMB",
+        "comment": ""
+    },
+    {
+        "chainId": 22222,
+        "url": "https://docs.nautchain.xyz",
+        "ticker": "ZBC",
+        "comment": ""
+    },
+    {
+        "chainId": 22776,
+        "url": "https://maplabs.io",
+        "ticker": "MAP",
+        "comment": ""
+    },
+    {
+        "chainId": 23006,
+        "url": "https://antofy.io",
+        "ticker": "ABN",
+        "comment": ""
+    },
+    {
+        "chainId": 23118,
+        "url": "https://opside.network",
+        "ticker": "IDE",
+        "comment": ""
+    },
+    {
+        "chainId": 23294,
+        "url": "https://docs.oasis.io/dapp/sapphire",
+        "ticker": "ROSE",
+        "comment": ""
+    },
+    {
+        "chainId": 23295,
+        "url": "https://docs.oasis.io/dapp/sapphire",
+        "ticker": "TEST",
+        "comment": ""
+    },
+    {
+        "chainId": 24484,
+        "url": "https://webchain.network",
+        "ticker": "WEB",
+        "comment": ""
+    },
+    {
+        "chainId": 24734,
+        "url": "https://www.mintme.com",
+        "ticker": "MINTME",
+        "comment": ""
+    },
+    {
+        "chainId": 25888,
+        "url": "https://www.hammerchain.io",
+        "ticker": "GOLDT",
+        "comment": ""
+    },
+    {
+        "chainId": 25925,
+        "url": "https://www.bitkubchain.com/",
+        "ticker": "tKUB",
+        "comment": ""
+    },
+    {
+        "chainId": 26026,
+        "url": "https://ferrum.network",
+        "ticker": "tFRM",
+        "comment": ""
+    },
+    {
+        "chainId": 26600,
+        "url": "https://www.hertz-network.com",
+        "ticker": "HTZ",
+        "comment": ""
+    },
+    {
+        "chainId": 26863,
+        "url": "https://scan.oasischain.io",
+        "ticker": "OAC",
+        "comment": ""
+    },
+    {
+        "chainId": 28528,
+        "url": "https://community.optimism.io/docs/developers/bedrock",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 30067,
+        "url": "https://piecenetwork.com",
+        "ticker": "ECE",
+        "comment": ""
+    },
+    {
+        "chainId": 31102,
+        "url": "https://ethersocial.org",
+        "ticker": "ESN",
+        "comment": ""
+    },
+    {
+        "chainId": 31223,
+        "url": "https://cloudtx.finance",
+        "ticker": "CLD",
+        "comment": ""
+    },
+    {
+        "chainId": 31224,
+        "url": "https://cloudtx.finance/",
+        "ticker": "CLD",
+        "comment": ""
+    },
+    {
+        "chainId": 31337,
+        "url": "https://gochain.io",
+        "ticker": "GO",
+        "comment": ""
+    },
+    {
+        "chainId": 31415,
+        "url": "https://filecoin.io",
+        "ticker": "tFIL",
+        "comment": ""
+    },
+    {
+        "chainId": 32520,
+        "url": "https://bitgert.com/",
+        "ticker": "Brise",
+        "comment": ""
+    },
+    {
+        "chainId": 32659,
+        "url": "https://fusion.org",
+        "ticker": "FSN",
+        "comment": ""
+    },
+    {
+        "chainId": 32769,
+        "url": "https://www.zilliqa.com/",
+        "ticker": "ZIL",
+        "comment": ""
+    },
+    {
+        "chainId": 33101,
+        "url": "https://www.zilliqa.com/",
+        "ticker": "ZIL",
+        "comment": ""
+    },
+    {
+        "chainId": 33333,
+        "url": "https://avescoin.io",
+        "ticker": "AVS",
+        "comment": ""
+    },
+    {
+        "chainId": 35011,
+        "url": "https://j2o.io",
+        "ticker": "taro",
+        "comment": ""
+    },
+    {
+        "chainId": 35441,
+        "url": "https://q.org",
+        "ticker": "Q",
+        "comment": ""
+    },
+    {
+        "chainId": 35443,
+        "url": "https://q.org/",
+        "ticker": "Q",
+        "comment": ""
+    },
+    {
+        "chainId": 38401,
+        "url": "https://rangersprotocol.com",
+        "ticker": "ttRPG",
+        "comment": ""
+    },
+    {
+        "chainId": 39797,
+        "url": "https://www.energi.world/",
+        "ticker": "NRG",
+        "comment": ""
+    },
+    {
+        "chainId": 39815,
+        "url": "https://oho.ai",
+        "ticker": "OHO",
+        "comment": ""
+    },
+    {
+        "chainId": 41500,
+        "url": "https://beta.opulent-x.com",
+        "ticker": "OXYN",
+        "comment": ""
+    },
+    {
+        "chainId": 42069,
+        "url": "https://teampeggle.com",
+        "ticker": "peggle",
+        "comment": ""
+    },
+    {
+        "chainId": 42161,
+        "url": "https://arbitrum.io",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 42170,
+        "url": "https://arbitrum.io",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 42220,
+        "url": "https://docs.celo.org/",
+        "ticker": "CELO",
+        "comment": ""
+    },
+    {
+        "chainId": 42261,
+        "url": "https://docs.oasis.io/dapp/emerald",
+        "ticker": "ROSE",
+        "comment": ""
+    },
+    {
+        "chainId": 42262,
+        "url": "https://docs.oasis.io/dapp/emerald",
+        "ticker": "ROSE",
+        "comment": ""
+    },
+    {
+        "chainId": 42888,
+        "url": "https://ethereum.org",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 43110,
+        "url": "https://athereum.ava.network",
+        "ticker": "ATH",
+        "comment": ""
+    },
+    {
+        "chainId": 43113,
+        "url": "https://cchain.explorer.avax-test.network",
+        "ticker": "AVAX",
+        "comment": ""
+    },
+    {
+        "chainId": 43114,
+        "url": "https://www.avax.network/",
+        "ticker": "AVAX",
+        "comment": ""
+    },
+    {
+        "chainId": 43288,
+        "url": "https://docs.boba.network/for-developers/network-avalanche",
+        "ticker": "BOBA",
+        "comment": ""
+    },
+    {
+        "chainId": 44444,
+        "url": "https://frenchain.app",
+        "ticker": "FREN",
+        "comment": ""
+    },
+    {
+        "chainId": 44787,
+        "url": "https://docs.celo.org/",
+        "ticker": "CELO",
+        "comment": ""
+    },
+    {
+        "chainId": 45000,
+        "url": "https://autobahn.network",
+        "ticker": "TXL",
+        "comment": ""
+    },
+    {
+        "chainId": 46688,
+        "url": "https://fusion.org",
+        "ticker": "T-FSN",
+        "comment": ""
+    },
+    {
+        "chainId": 47805,
+        "url": "https://rei.network/",
+        "ticker": "REI",
+        "comment": ""
+    },
+    {
+        "chainId": 49049,
+        "url": "https://wireshape.org",
+        "ticker": "WIRE",
+        "comment": ""
+    },
+    {
+        "chainId": 49088,
+        "url": "https://thebifrost.io",
+        "ticker": "BFC",
+        "comment": ""
+    },
+    {
+        "chainId": 49797,
+        "url": "https://www.energi.world/",
+        "ticker": "NRG",
+        "comment": ""
+    },
+    {
+        "chainId": 50001,
+        "url": "",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 50021,
+        "url": "https://gton.capital",
+        "ticker": "GCD",
+        "comment": ""
+    },
+    {
+        "chainId": 51178,
+        "url": "https://opsi.de/",
+        "ticker": "IDE",
+        "comment": ""
+    },
+    {
+        "chainId": 51712,
+        "url": "https://mysardis.com",
+        "ticker": "SRDX",
+        "comment": ""
+    },
+    {
+        "chainId": 53935,
+        "url": "https://defikingdoms.com",
+        "ticker": "JEWEL",
+        "comment": ""
+    },
+    {
+        "chainId": 54211,
+        "url": "https://islamiccoin.net",
+        "ticker": "ISLMT",
+        "comment": ""
+    },
+    {
+        "chainId": 54321,
+        "url": "https://toronet.org",
+        "ticker": "TORO",
+        "comment": ""
+    },
+    {
+        "chainId": 55004,
+        "url": "https://tokamak.network",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 55555,
+        "url": "https://reichain.io",
+        "ticker": "REI",
+        "comment": ""
+    },
+    {
+        "chainId": 55556,
+        "url": "https://reichain.io",
+        "ticker": "tREI",
+        "comment": ""
+    },
+    {
+        "chainId": 56288,
+        "url": "https://boba.network",
+        "ticker": "BOBA",
+        "comment": ""
+    },
+    {
+        "chainId": 56789,
+        "url": "https://velo.org",
+        "ticker": "NOVA",
+        "comment": ""
+    },
+    {
+        "chainId": 57000,
+        "url": "https://rollux.com",
+        "ticker": "TSYS",
+        "comment": ""
+    },
+    {
+        "chainId": 58008,
+        "url": "https://publicgoods.network/",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 59140,
+        "url": "https://linea.build",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 59144,
+        "url": "https://linea.build",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 60000,
+        "url": "https://thinkium.net/",
+        "ticker": "TKM",
+        "comment": ""
+    },
+    {
+        "chainId": 60001,
+        "url": "https://thinkium.net/",
+        "ticker": "TKM",
+        "comment": ""
+    },
+    {
+        "chainId": 60002,
+        "url": "https://thinkium.net/",
+        "ticker": "TKM",
+        "comment": ""
+    },
+    {
+        "chainId": 60103,
+        "url": "https://thinkium.net/",
+        "ticker": "TKM",
+        "comment": ""
+    },
+    {
+        "chainId": 61800,
+        "url": "https://www.axel.org",
+        "ticker": "AIUM",
+        "comment": ""
+    },
+    {
+        "chainId": 61803,
+        "url": "https://eticaprotocol.org",
+        "ticker": "EGAZ",
+        "comment": ""
+    },
+    {
+        "chainId": 61916,
+        "url": "https://doken.dev/",
+        "ticker": "DKN",
+        "comment": ""
+    },
+    {
+        "chainId": 62320,
+        "url": "https://docs.celo.org/",
+        "ticker": "CELO",
+        "comment": ""
+    },
+    {
+        "chainId": 62621,
+        "url": "https://mtv.ac",
+        "ticker": "MTV",
+        "comment": ""
+    },
+    {
+        "chainId": 63000,
+        "url": "https://ecredits.com",
+        "ticker": "ECS",
+        "comment": ""
+    },
+    {
+        "chainId": 63001,
+        "url": "https://ecredits.com",
+        "ticker": "ECS",
+        "comment": ""
+    },
+    {
+        "chainId": 65450,
+        "url": "https://scolcoin.com",
+        "ticker": "SCOL",
+        "comment": ""
+    },
+    {
+        "chainId": 67390,
+        "url": "https://macaucasinolisboa.xyz",
+        "ticker": "MCD",
+        "comment": ""
+    },
+    {
+        "chainId": 67588,
+        "url": "https://cosmicchain.site",
+        "ticker": "COSMIC",
+        "comment": ""
+    },
+    {
+        "chainId": 69420,
+        "url": "https://condrieu.ethdevops.io",
+        "ticker": "CTE",
+        "comment": ""
+    },
+    {
+        "chainId": 70000,
+        "url": "https://thinkium.net/",
+        "ticker": "TKM",
+        "comment": ""
+    },
+    {
+        "chainId": 70001,
+        "url": "https://thinkium.net/",
+        "ticker": "TKM",
+        "comment": ""
+    },
+    {
+        "chainId": 70002,
+        "url": "https://thinkium.net/",
+        "ticker": "TKM",
+        "comment": ""
+    },
+    {
+        "chainId": 70103,
+        "url": "https://thinkium.net/",
+        "ticker": "TKM",
+        "comment": ""
+    },
+    {
+        "chainId": 71111,
+        "url": "https://guapcoin.org/",
+        "ticker": "GuapX",
+        "comment": ""
+    },
+    {
+        "chainId": 71393,
+        "url": "https://github.com/nervosnetwork/godwoken",
+        "ticker": "CKB",
+        "comment": ""
+    },
+    {
+        "chainId": 71401,
+        "url": "https://www.nervos.org",
+        "ticker": "pCKB",
+        "comment": ""
+    },
+    {
+        "chainId": 71402,
+        "url": "https://www.nervos.org",
+        "ticker": "pCKB",
+        "comment": ""
+    },
+    {
+        "chainId": 73799,
+        "url": "https://energyweb.org",
+        "ticker": "VT",
+        "comment": ""
+    },
+    {
+        "chainId": 73927,
+        "url": "https://mvm.dev",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 75000,
+        "url": "https://resincoin.dev",
+        "ticker": "RESIN",
+        "comment": ""
+    },
+    {
+        "chainId": 77612,
+        "url": "https://ventionscan.io",
+        "ticker": "VNT",
+        "comment": ""
+    },
+    {
+        "chainId": 77777,
+        "url": "https://toronet.org",
+        "ticker": "TORO",
+        "comment": ""
+    },
+    {
+        "chainId": 78110,
+        "url": "https://primusmoney.com",
+        "ticker": "FIN",
+        "comment": ""
+    },
+    {
+        "chainId": 78281,
+        "url": "https://hexapod.network",
+        "ticker": "DFLY",
+        "comment": ""
+    },
+    {
+        "chainId": 78430,
+        "url": "https://www.avax.network",
+        "ticker": "AMP",
+        "comment": ""
+    },
+    {
+        "chainId": 78431,
+        "url": "https://www.avax.network",
+        "ticker": "BLT",
+        "comment": ""
+    },
+    {
+        "chainId": 78432,
+        "url": "https://www.avax.network",
+        "ticker": "CON",
+        "comment": ""
+    },
+    {
+        "chainId": 79879,
+        "url": "https://goldsmartchain.com",
+        "ticker": "STAND",
+        "comment": ""
+    },
+    {
+        "chainId": 80001,
+        "url": "https://polygon.technology/",
+        "ticker": "MATIC",
+        "comment": ""
+    },
+    {
+        "chainId": 81341,
+        "url": "https://github.com/Qitmeer",
+        "ticker": "MEER-T",
+        "comment": ""
+    },
+    {
+        "chainId": 81342,
+        "url": "https://github.com/Qitmeer",
+        "ticker": "MEER-M",
+        "comment": ""
+    },
+    {
+        "chainId": 81343,
+        "url": "https://github.com/Qitmeer",
+        "ticker": "MEER-P",
+        "comment": ""
+    },
+    {
+        "chainId": 81351,
+        "url": "https://github.com/Qitmeer",
+        "ticker": "MEER-T",
+        "comment": ""
+    },
+    {
+        "chainId": 81352,
+        "url": "https://github.com/Qitmeer",
+        "ticker": "MEER-M",
+        "comment": ""
+    },
+    {
+        "chainId": 81353,
+        "url": "https://github.com/Qitmeer",
+        "ticker": "MEER-P",
+        "comment": ""
+    },
+    {
+        "chainId": 81361,
+        "url": "https://github.com/Qitmeer",
+        "ticker": "MEER-T",
+        "comment": ""
+    },
+    {
+        "chainId": 81362,
+        "url": "https://github.com/Qitmeer",
+        "ticker": "MEER-M",
+        "comment": ""
+    },
+    {
+        "chainId": 81363,
+        "url": "https://github.com/Qitmeer",
+        "ticker": "MEER-P",
+        "comment": ""
+    },
+    {
+        "chainId": 84531,
+        "url": "https://base.org",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 84886,
+        "url": "https://aerielab.io/",
+        "ticker": "AER",
+        "comment": ""
+    },
+    {
+        "chainId": 85449,
+        "url": "https://cybertrust.space",
+        "ticker": "CYBER",
+        "comment": ""
+    },
+    {
+        "chainId": 88002,
+        "url": "https://docs.nautchain.xyz",
+        "ticker": "tZBC",
+        "comment": ""
+    },
+    {
+        "chainId": 88880,
+        "url": "https://www.chiliz.com/en/chain",
+        "ticker": "CHZ",
+        "comment": ""
+    },
+    {
+        "chainId": 88888,
+        "url": "https://ivarex.com",
+        "ticker": "IVAR",
+        "comment": ""
+    },
+    {
+        "chainId": 90210,
+        "url": "https://beverlyhills.ethdevops.io",
+        "ticker": "BVE",
+        "comment": ""
+    },
+    {
+        "chainId": 91002,
+        "url": "https://docs.nautchain.xyz",
+        "ticker": "tZBC",
+        "comment": ""
+    },
+    {
+        "chainId": 92001,
+        "url": "https://lambda.im",
+        "ticker": "LAMB",
+        "comment": ""
+    },
+    {
+        "chainId": 96970,
+        "url": "https://hexapod.network",
+        "ticker": "MANTIS",
+        "comment": ""
+    },
+    {
+        "chainId": 97288,
+        "url": "https://boba.network",
+        "ticker": "BOBA",
+        "comment": ""
+    },
+    {
+        "chainId": 99099,
+        "url": "https://eliberty.ngo",
+        "ticker": "$EL",
+        "comment": ""
+    },
+    {
+        "chainId": 99998,
+        "url": "https://www.ubchain.site",
+        "ticker": "UBC",
+        "comment": ""
+    },
+    {
+        "chainId": 99999,
+        "url": "https://www.ubchain.site/",
+        "ticker": "UBC",
+        "comment": ""
+    },
+    {
+        "chainId": 100000,
+        "url": "https://www.quarkchain.io",
+        "ticker": "QKC",
+        "comment": ""
+    },
+    {
+        "chainId": 100001,
+        "url": "https://www.quarkchain.io",
+        "ticker": "QKC",
+        "comment": ""
+    },
+    {
+        "chainId": 100002,
+        "url": "https://www.quarkchain.io",
+        "ticker": "QKC",
+        "comment": ""
+    },
+    {
+        "chainId": 100003,
+        "url": "https://www.quarkchain.io",
+        "ticker": "QKC",
+        "comment": ""
+    },
+    {
+        "chainId": 100004,
+        "url": "https://www.quarkchain.io",
+        "ticker": "QKC",
+        "comment": ""
+    },
+    {
+        "chainId": 100005,
+        "url": "https://www.quarkchain.io",
+        "ticker": "QKC",
+        "comment": ""
+    },
+    {
+        "chainId": 100006,
+        "url": "https://www.quarkchain.io",
+        "ticker": "QKC",
+        "comment": ""
+    },
+    {
+        "chainId": 100007,
+        "url": "https://www.quarkchain.io",
+        "ticker": "QKC",
+        "comment": ""
+    },
+    {
+        "chainId": 100008,
+        "url": "https://www.quarkchain.io",
+        "ticker": "QKC",
+        "comment": ""
+    },
+    {
+        "chainId": 100009,
+        "url": "https://vechain.org",
+        "ticker": "VET",
+        "comment": ""
+    },
+    {
+        "chainId": 100010,
+        "url": "https://vechain.org",
+        "ticker": "VET",
+        "comment": ""
+    },
+    {
+        "chainId": 100100,
+        "url": "https://docs.gnosischain.com",
+        "ticker": "xDAI",
+        "comment": ""
+    },
+    {
+        "chainId": 101010,
+        "url": "https://soverun.com",
+        "ticker": "SVRN",
+        "comment": ""
+    },
+    {
+        "chainId": 103090,
+        "url": "https://crystaleum.org",
+        "ticker": "\u25c8",
+        "comment": ""
+    },
+    {
+        "chainId": 108801,
+        "url": "https://brochain.org",
+        "ticker": "BRO",
+        "comment": ""
+    },
+    {
+        "chainId": 110000,
+        "url": "https://www.quarkchain.io",
+        "ticker": "QKC",
+        "comment": ""
+    },
+    {
+        "chainId": 110001,
+        "url": "https://www.quarkchain.io",
+        "ticker": "QKC",
+        "comment": ""
+    },
+    {
+        "chainId": 110002,
+        "url": "https://www.quarkchain.io",
+        "ticker": "QKC",
+        "comment": ""
+    },
+    {
+        "chainId": 110003,
+        "url": "https://www.quarkchain.io",
+        "ticker": "QKC",
+        "comment": ""
+    },
+    {
+        "chainId": 110004,
+        "url": "https://www.quarkchain.io",
+        "ticker": "QKC",
+        "comment": ""
+    },
+    {
+        "chainId": 110005,
+        "url": "https://www.quarkchain.io",
+        "ticker": "QKC",
+        "comment": ""
+    },
+    {
+        "chainId": 110006,
+        "url": "https://www.quarkchain.io",
+        "ticker": "QKC",
+        "comment": ""
+    },
+    {
+        "chainId": 110007,
+        "url": "https://www.quarkchain.io",
+        "ticker": "QKC",
+        "comment": ""
+    },
+    {
+        "chainId": 110008,
+        "url": "https://www.quarkchain.io",
+        "ticker": "QKC",
+        "comment": ""
+    },
+    {
+        "chainId": 111000,
+        "url": "https://siberium.net",
+        "ticker": "SIBR",
+        "comment": ""
+    },
+    {
+        "chainId": 111111,
+        "url": "https://siberium.net",
+        "ticker": "SIBR",
+        "comment": ""
+    },
+    {
+        "chainId": 112358,
+        "url": "https://metachain.one",
+        "ticker": "METAO",
+        "comment": ""
+    },
+    {
+        "chainId": 123456,
+        "url": "https://adilchain.io",
+        "ticker": "ADIL",
+        "comment": ""
+    },
+    {
+        "chainId": 131419,
+        "url": "https://www.etnd.pro",
+        "ticker": "ETND",
+        "comment": ""
+    },
+    {
+        "chainId": 142857,
+        "url": "https://docs.ic-plaza.org/",
+        "ticker": "ict",
+        "comment": ""
+    },
+    {
+        "chainId": 167004,
+        "url": "https://taiko.xyz",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 167005,
+        "url": "https://taiko.xyz",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 167006,
+        "url": "https://taiko.xyz",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 188881,
+        "url": "https://condor.systems",
+        "ticker": "CONDOR",
+        "comment": ""
+    },
+    {
+        "chainId": 200101,
+        "url": "https://milkomeda.com",
+        "ticker": "mTAda",
+        "comment": ""
+    },
+    {
+        "chainId": 200202,
+        "url": "https://milkomeda.com",
+        "ticker": "mTAlgo",
+        "comment": ""
+    },
+    {
+        "chainId": 200625,
+        "url": "https://akroma.io",
+        "ticker": "AKA",
+        "comment": ""
+    },
+    {
+        "chainId": 201018,
+        "url": "https://www.alaya.network/",
+        "ticker": "atp",
+        "comment": ""
+    },
+    {
+        "chainId": 201030,
+        "url": "https://www.alaya.network/",
+        "ticker": "atp",
+        "comment": ""
+    },
+    {
+        "chainId": 201804,
+        "url": "https://mythicalgames.com/",
+        "ticker": "MYTH",
+        "comment": ""
+    },
+    {
+        "chainId": 202020,
+        "url": "https://decimalchain.com",
+        "ticker": "tDEL",
+        "comment": ""
+    },
+    {
+        "chainId": 202624,
+        "url": "https://twala.io/",
+        "ticker": "TWL",
+        "comment": ""
+    },
+    {
+        "chainId": 210425,
+        "url": "https://www.platon.network",
+        "ticker": "lat",
+        "comment": ""
+    },
+    {
+        "chainId": 220315,
+        "url": "https://masterbank.org",
+        "ticker": "MAS",
+        "comment": ""
+    },
+    {
+        "chainId": 221230,
+        "url": "https://reapchain.com",
+        "ticker": "REAP",
+        "comment": ""
+    },
+    {
+        "chainId": 221231,
+        "url": "https://reapchain.com",
+        "ticker": "tREAP",
+        "comment": ""
+    },
+    {
+        "chainId": 224168,
+        "url": "https://www.tafchain.com",
+        "ticker": "TAFECO",
+        "comment": ""
+    },
+    {
+        "chainId": 230315,
+        "url": "https://www.hashkey.com",
+        "ticker": "tHSK",
+        "comment": ""
+    },
+    {
+        "chainId": 234666,
+        "url": "https://haymoswap.web.app/",
+        "ticker": "HYM",
+        "comment": ""
+    },
+    {
+        "chainId": 246529,
+        "url": "https://artis.eco",
+        "ticker": "ATS",
+        "comment": ""
+    },
+    {
+        "chainId": 246785,
+        "url": "https://artis.network",
+        "ticker": "tATS",
+        "comment": ""
+    },
+    {
+        "chainId": 247253,
+        "url": "https://saakuru.network",
+        "ticker": "OAS",
+        "comment": ""
+    },
+    {
+        "chainId": 256256,
+        "url": "https://caduceus.foundation/",
+        "ticker": "CMP",
+        "comment": ""
+    },
+    {
+        "chainId": 266256,
+        "url": "https://token.gearzero.ca/testnet",
+        "ticker": "GZN",
+        "comment": ""
+    },
+    {
+        "chainId": 271271,
+        "url": "https://egcscan.com",
+        "ticker": "EGON",
+        "comment": ""
+    },
+    {
+        "chainId": 281121,
+        "url": "https://digitalnext.business/SocialSmartChain",
+        "ticker": "$OC",
+        "comment": ""
+    },
+    {
+        "chainId": 314159,
+        "url": "https://filecoin.io",
+        "ticker": "tFIL",
+        "comment": ""
+    },
+    {
+        "chainId": 330844,
+        "url": "https://ttcoin.info/",
+        "ticker": "TC",
+        "comment": ""
+    },
+    {
+        "chainId": 333331,
+        "url": "https://ethereum.org",
+        "ticker": "AVST",
+        "comment": ""
+    },
+    {
+        "chainId": 333777,
+        "url": "https://oone.world",
+        "ticker": "tOONE",
+        "comment": ""
+    },
+    {
+        "chainId": 333888,
+        "url": "https://polis.tech",
+        "ticker": "tPOLIS",
+        "comment": ""
+    },
+    {
+        "chainId": 333999,
+        "url": "https://polis.tech",
+        "ticker": "POLIS",
+        "comment": ""
+    },
+    {
+        "chainId": 355113,
+        "url": "https://bitfinity.network",
+        "ticker": "BFT",
+        "comment": ""
+    },
+    {
+        "chainId": 373737,
+        "url": "https://hap.land",
+        "ticker": "HAP",
+        "comment": ""
+    },
+    {
+        "chainId": 381931,
+        "url": "https://www.metalblockchain.org/",
+        "ticker": "METAL",
+        "comment": ""
+    },
+    {
+        "chainId": 381932,
+        "url": "https://www.metalblockchain.org/",
+        "ticker": "METAL",
+        "comment": ""
+    },
+    {
+        "chainId": 404040,
+        "url": "https://tipboxcoin.net",
+        "ticker": "TPBX",
+        "comment": ""
+    },
+    {
+        "chainId": 420420,
+        "url": "https://kekchain.com",
+        "ticker": "KEK",
+        "comment": ""
+    },
+    {
+        "chainId": 420666,
+        "url": "https://kekchain.com",
+        "ticker": "tKEK",
+        "comment": ""
+    },
+    {
+        "chainId": 420692,
+        "url": "https://alteriumprotocol.org",
+        "ticker": "AltETH",
+        "comment": ""
+    },
+    {
+        "chainId": 421611,
+        "url": "https://arbitrum.io",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 421613,
+        "url": "https://arbitrum.io/",
+        "ticker": "AGOR",
+        "comment": ""
+    },
+    {
+        "chainId": 424242,
+        "url": "https://fastex.com",
+        "ticker": "FTN",
+        "comment": ""
+    },
+    {
+        "chainId": 431140,
+        "url": "https://www.markr.io/",
+        "ticker": "AVAX",
+        "comment": ""
+    },
+    {
+        "chainId": 432201,
+        "url": "https://dexalot.com",
+        "ticker": "ALOT",
+        "comment": ""
+    },
+    {
+        "chainId": 432204,
+        "url": "https://dexalot.com",
+        "ticker": "ALOT",
+        "comment": ""
+    },
+    {
+        "chainId": 444900,
+        "url": "https://weelink.cloud",
+        "ticker": "tWLK",
+        "comment": ""
+    },
+    {
+        "chainId": 471100,
+        "url": "https://patex.io/",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 474142,
+        "url": "https://www.openchain.live",
+        "ticker": "OPC",
+        "comment": ""
+    },
+    {
+        "chainId": 512512,
+        "url": "https://caduceus.foundation/",
+        "ticker": "CMP",
+        "comment": ""
+    },
+    {
+        "chainId": 513100,
+        "url": "https://etherfair.org",
+        "ticker": "ETHF",
+        "comment": ""
+    },
+    {
+        "chainId": 534351,
+        "url": "https://scroll.io",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 534352,
+        "url": "https://scroll.io",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 534353,
+        "url": "https://scroll.io",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 534354,
+        "url": "https://scroll.io",
+        "ticker": "TSETH",
+        "comment": ""
+    },
+    {
+        "chainId": 534849,
+        "url": "https://shinarium.org",
+        "ticker": "SHI",
+        "comment": ""
+    },
+    {
+        "chainId": 535037,
+        "url": "besceco.finance",
+        "ticker": "BESC",
+        "comment": ""
+    },
+    {
+        "chainId": 622277,
+        "url": "https://www.rethereum.org",
+        "ticker": "RTH",
+        "comment": ""
+    },
+    {
+        "chainId": 641230,
+        "url": "https://bearnetwork.net",
+        "ticker": "BRNKC",
+        "comment": ""
+    },
+    {
+        "chainId": 651940,
+        "url": "https://alltra.world",
+        "ticker": "ALL",
+        "comment": ""
+    },
+    {
+        "chainId": 666666,
+        "url": "https://visionscan.org",
+        "ticker": "VS",
+        "comment": ""
+    },
+    {
+        "chainId": 751230,
+        "url": "https://bearnetwork.net",
+        "ticker": "tBRNKC",
+        "comment": ""
+    },
+    {
+        "chainId": 761412,
+        "url": "https://miexs.com",
+        "ticker": "MIX",
+        "comment": ""
+    },
+    {
+        "chainId": 800001,
+        "url": "https://octa.space",
+        "ticker": "OCTA",
+        "comment": ""
+    },
+    {
+        "chainId": 827431,
+        "url": "https://curvescan.io",
+        "ticker": "CURVE",
+        "comment": ""
+    },
+    {
+        "chainId": 846000,
+        "url": "https://bloqs4good.com",
+        "ticker": "APTA",
+        "comment": ""
+    },
+    {
+        "chainId": 888888,
+        "url": "https://www.v.network",
+        "ticker": "VS",
+        "comment": ""
+    },
+    {
+        "chainId": 900000,
+        "url": "https://posichain.org",
+        "ticker": "POSI",
+        "comment": ""
+    },
+    {
+        "chainId": 910000,
+        "url": "https://posichain.org",
+        "ticker": "POSI",
+        "comment": ""
+    },
+    {
+        "chainId": 920000,
+        "url": "https://posichain.org",
+        "ticker": "POSI",
+        "comment": ""
+    },
+    {
+        "chainId": 920001,
+        "url": "https://posichain.org",
+        "ticker": "POSI",
+        "comment": ""
+    },
+    {
+        "chainId": 923018,
+        "url": "https://fncyscan-testnet.fncy.world",
+        "ticker": "FNCY",
+        "comment": ""
+    },
+    {
+        "chainId": 955305,
+        "url": "https://eluv.io",
+        "ticker": "ELV",
+        "comment": ""
+    },
+    {
+        "chainId": 1313114,
+        "url": "https://ethoprotocol.com",
+        "ticker": "ETHO",
+        "comment": ""
+    },
+    {
+        "chainId": 1313500,
+        "url": "https://xerom.org",
+        "ticker": "XERO",
+        "comment": ""
+    },
+    {
+        "chainId": 1337702,
+        "url": "https://kintsugi.themerge.dev/",
+        "ticker": "kiETH",
+        "comment": ""
+    },
+    {
+        "chainId": 1337802,
+        "url": "https://kiln.themerge.dev/",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 1337803,
+        "url": "https://zhejiang.ethpandaops.io",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 2021398,
+        "url": "https://debank.com",
+        "ticker": "USD",
+        "comment": ""
+    },
+    {
+        "chainId": 2099156,
+        "url": "https://plian.org/",
+        "ticker": "PI",
+        "comment": ""
+    },
+    {
+        "chainId": 2203181,
+        "url": "https://www.platon.network",
+        "ticker": "lat",
+        "comment": ""
+    },
+    {
+        "chainId": 2206132,
+        "url": "https://www.platon.network",
+        "ticker": "lat",
+        "comment": ""
+    },
+    {
+        "chainId": 3141592,
+        "url": "https://filecoin.io",
+        "ticker": "tFIL",
+        "comment": ""
+    },
+    {
+        "chainId": 3441005,
+        "url": "https://manta-testnet.caldera.dev/",
+        "ticker": "MANTA",
+        "comment": ""
+    },
+    {
+        "chainId": 4000003,
+        "url": "https://altlayer.io",
+        "ticker": "ZERO",
+        "comment": ""
+    },
+    {
+        "chainId": 4281033,
+        "url": "https://caldera.xyz/",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 5167003,
+        "url": "https://wannsee.mxc.com/docs/intro",
+        "ticker": "MXC",
+        "comment": ""
+    },
+    {
+        "chainId": 5555555,
+        "url": "https://imversed.com",
+        "ticker": "IMV",
+        "comment": ""
+    },
+    {
+        "chainId": 5555558,
+        "url": "https://imversed.com",
+        "ticker": "IMV",
+        "comment": ""
+    },
+    {
+        "chainId": 7225878,
+        "url": "https://saakuru.network",
+        "ticker": "OAS",
+        "comment": ""
+    },
+    {
+        "chainId": 7355310,
+        "url": "https://www.openvessel.io",
+        "ticker": "VETH",
+        "comment": ""
+    },
+    {
+        "chainId": 7668378,
+        "url": "https://qom.one",
+        "ticker": "QOM",
+        "comment": ""
+    },
+    {
+        "chainId": 7762959,
+        "url": "https://musicoin.tw",
+        "ticker": "MUSIC",
+        "comment": ""
+    },
+    {
+        "chainId": 7777777,
+        "url": "https://zora.energy",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 8007736,
+        "url": "https://plian.org",
+        "ticker": "PI",
+        "comment": ""
+    },
+    {
+        "chainId": 8794598,
+        "url": "https://hap.land",
+        "ticker": "HAP",
+        "comment": ""
+    },
+    {
+        "chainId": 8888881,
+        "url": "",
+        "ticker": "Q",
+        "comment": ""
+    },
+    {
+        "chainId": 8888888,
+        "url": "",
+        "ticker": "Q",
+        "comment": ""
+    },
+    {
+        "chainId": 10067275,
+        "url": "https://plian.org/",
+        "ticker": "TPI",
+        "comment": ""
+    },
+    {
+        "chainId": 10101010,
+        "url": "https://soverun.com",
+        "ticker": "SVRN",
+        "comment": ""
+    },
+    {
+        "chainId": 11155111,
+        "url": "https://sepolia.otterscan.io",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 13371337,
+        "url": "https://pepchain.io",
+        "ticker": "TPEP",
+        "comment": ""
+    },
+    {
+        "chainId": 14288640,
+        "url": "https://anduschain.io/",
+        "ticker": "DEB",
+        "comment": ""
+    },
+    {
+        "chainId": 16658437,
+        "url": "https://plian.org",
+        "ticker": "TPI",
+        "comment": ""
+    },
+    {
+        "chainId": 18289463,
+        "url": "https://iolite.io",
+        "ticker": "ILT",
+        "comment": ""
+    },
+    {
+        "chainId": 20180430,
+        "url": "https://smartmesh.io",
+        "ticker": "SMT",
+        "comment": ""
+    },
+    {
+        "chainId": 20181205,
+        "url": "https://quarkblockchain.org/",
+        "ticker": "QKI",
+        "comment": ""
+    },
+    {
+        "chainId": 20201022,
+        "url": "https://pego.network",
+        "ticker": "PG",
+        "comment": ""
+    },
+    {
+        "chainId": 22052002,
+        "url": "https://xlon.org",
+        "ticker": "xlon",
+        "comment": ""
+    },
+    {
+        "chainId": 27082017,
+        "url": "",
+        "ticker": "TEXL",
+        "comment": ""
+    },
+    {
+        "chainId": 27082022,
+        "url": "",
+        "ticker": "EXL",
+        "comment": ""
+    },
+    {
+        "chainId": 28945486,
+        "url": "https://auxilium.global",
+        "ticker": "AUX",
+        "comment": ""
+    },
+    {
+        "chainId": 29032022,
+        "url": "https://www.flaexchange.top",
+        "ticker": "FLA",
+        "comment": ""
+    },
+    {
+        "chainId": 31415926,
+        "url": "https://filecoin.io",
+        "ticker": "tFIL",
+        "comment": ""
+    },
+    {
+        "chainId": 35855456,
+        "url": "https://joys.digital",
+        "ticker": "JOYS",
+        "comment": ""
+    },
+    {
+        "chainId": 43214913,
+        "url": "",
+        "ticker": "MAI",
+        "comment": ""
+    },
+    {
+        "chainId": 61717561,
+        "url": "https://aquachain.github.io",
+        "ticker": "AQUA",
+        "comment": ""
+    },
+    {
+        "chainId": 65010000,
+        "url": "https://autonity.org/",
+        "ticker": "ATN",
+        "comment": ""
+    },
+    {
+        "chainId": 65100000,
+        "url": "https://autonity.org/",
+        "ticker": "ATN",
+        "comment": ""
+    },
+    {
+        "chainId": 88888888,
+        "url": "https://teamblockchain.team",
+        "ticker": "$TEAM",
+        "comment": ""
+    },
+    {
+        "chainId": 99415706,
+        "url": "https://joys.digital",
+        "ticker": "TOYS",
+        "comment": ""
+    },
+    {
+        "chainId": 192837465,
+        "url": "https://gather.network",
+        "ticker": "GTH",
+        "comment": ""
+    },
+    {
+        "chainId": 222000222,
+        "url": "https://meld.com",
+        "ticker": "gMELD",
+        "comment": ""
+    },
+    {
+        "chainId": 245022926,
+        "url": "https://neon-labs.org",
+        "ticker": "NEON",
+        "comment": ""
+    },
+    {
+        "chainId": 245022934,
+        "url": "https://neonevm.org",
+        "ticker": "NEON",
+        "comment": ""
+    },
+    {
+        "chainId": 245022940,
+        "url": "https://neon-labs.org",
+        "ticker": "NEON",
+        "comment": ""
+    },
+    {
+        "chainId": 278611351,
+        "url": "https://razor.network",
+        "ticker": "SFUEL",
+        "comment": ""
+    },
+    {
+        "chainId": 311752642,
+        "url": "https://oneledger.io",
+        "ticker": "OLT",
+        "comment": ""
+    },
+    {
+        "chainId": 333000333,
+        "url": "https://meld.com",
+        "ticker": "gMELD",
+        "comment": ""
+    },
+    {
+        "chainId": 344106930,
+        "url": "https://calypsohub.network/",
+        "ticker": "sFUEL",
+        "comment": ""
+    },
+    {
+        "chainId": 356256156,
+        "url": "https://gather.network",
+        "ticker": "GTH",
+        "comment": ""
+    },
+    {
+        "chainId": 486217935,
+        "url": "https://gather.network",
+        "ticker": "GTH",
+        "comment": ""
+    },
+    {
+        "chainId": 503129905,
+        "url": "https://nebulachain.io/",
+        "ticker": "sFUEL",
+        "comment": ""
+    },
+    {
+        "chainId": 1122334455,
+        "url": "https://iposlab.com",
+        "ticker": "IPOS",
+        "comment": ""
+    },
+    {
+        "chainId": 1146703430,
+        "url": "https://cyberdeck.eu",
+        "ticker": "CYB",
+        "comment": ""
+    },
+    {
+        "chainId": 1273227453,
+        "url": "https://www.humanprotocol.org",
+        "ticker": "sFUEL",
+        "comment": ""
+    },
+    {
+        "chainId": 1313161554,
+        "url": "https://aurora.dev",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 1313161555,
+        "url": "https://aurora.dev",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 1313161556,
+        "url": "https://aurora.dev",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 1351057110,
+        "url": "https://docs.skale.network/develop/",
+        "ticker": "sFUEL",
+        "comment": ""
+    },
+    {
+        "chainId": 1380996178,
+        "url": "https://raptorchain.io",
+        "ticker": "RPTR",
+        "comment": ""
+    },
+    {
+        "chainId": 1482601649,
+        "url": "https://nebulachain.io/",
+        "ticker": "sFUEL",
+        "comment": ""
+    },
+    {
+        "chainId": 1564830818,
+        "url": "https://calypsohub.network/",
+        "ticker": "sFUEL",
+        "comment": ""
+    },
+    {
+        "chainId": 1666600000,
+        "url": "https://www.harmony.one/",
+        "ticker": "ONE",
+        "comment": ""
+    },
+    {
+        "chainId": 1666600001,
+        "url": "https://www.harmony.one/",
+        "ticker": "ONE",
+        "comment": ""
+    },
+    {
+        "chainId": 1666600002,
+        "url": "https://www.harmony.one/",
+        "ticker": "ONE",
+        "comment": ""
+    },
+    {
+        "chainId": 1666600003,
+        "url": "https://www.harmony.one/",
+        "ticker": "ONE",
+        "comment": ""
+    },
+    {
+        "chainId": 1666700000,
+        "url": "https://www.harmony.one/",
+        "ticker": "ONE",
+        "comment": ""
+    },
+    {
+        "chainId": 1666700001,
+        "url": "https://www.harmony.one/",
+        "ticker": "ONE",
+        "comment": ""
+    },
+    {
+        "chainId": 1666900000,
+        "url": "https://www.harmony.one/",
+        "ticker": "ONE",
+        "comment": ""
+    },
+    {
+        "chainId": 1666900001,
+        "url": "https://www.harmony.one/",
+        "ticker": "ONE",
+        "comment": ""
+    },
+    {
+        "chainId": 2021121117,
+        "url": "https://www.DataHopper.com",
+        "ticker": "HOP",
+        "comment": ""
+    },
+    {
+        "chainId": 2046399126,
+        "url": "https://europahub.network/",
+        "ticker": "sFUEL",
+        "comment": ""
+    },
+    {
+        "chainId": 2863311531,
+        "url": "https://ancient8.gg/",
+        "ticker": "ETH",
+        "comment": ""
+    },
+    {
+        "chainId": 3125659152,
+        "url": "https://pirl.io",
+        "ticker": "PIRL",
+        "comment": ""
+    },
+    {
+        "chainId": 4216137055,
+        "url": "https://oneledger.io",
+        "ticker": "OLT",
+        "comment": ""
+    },
+    {
+        "chainId": 11297108099,
+        "url": "https://palm.io",
+        "ticker": "PALM",
+        "comment": ""
+    },
+    {
+        "chainId": 11297108109,
+        "url": "https://palm.io",
+        "ticker": "PALM",
+        "comment": ""
+    },
+    {
+        "chainId": 111222333444,
+        "url": "https://alphabetnetwork.org",
+        "ticker": "ALT",
+        "comment": ""
+    },
+    {
+        "chainId": 197710212030,
+        "url": "https://ntity.io",
+        "ticker": "NTT",
+        "comment": ""
+    },
+    {
+        "chainId": 197710212031,
+        "url": "https://ntity.io",
+        "ticker": "NTTH",
+        "comment": ""
+    },
+    {
+        "chainId": 383414847825,
+        "url": "https://www.zeniq.dev/",
+        "ticker": "ZENIQ",
+        "comment": ""
+    },
+    {
+        "chainId": 666301171999,
+        "url": "https://ipdc.io",
+        "ticker": "PDC",
+        "comment": ""
+    },
+    {
+        "chainId": 6022140761023,
+        "url": "https://github.com/Jdubedition/molereum",
+        "ticker": "MOLE",
+        "comment": ""
+    },
+    {
+        "chainId": 868455272153094,
+        "url": "https://www.nervos.org",
+        "ticker": "CKB",
+        "comment": ""
+    }
+]
