@@ -1,6 +1,7 @@
 import requests
 import json
 import os
+from datetime import datetime  # Import the datetime library
 
 # Функция для загрузки существующих данных из файла
 def load_existing_data(filename):
@@ -40,12 +41,14 @@ if response.status_code == 200:
         
         # Проверяем на дубликаты и существующие записи
         if chain_id not in existing_chain_ids:
+            current_datetime = datetime.now().isoformat()  # Get the current datetime in ISO format
             new_data.append({
                 'chainId': chain_id,
                 'url': info_url,
                 'ticker': ticker,
                 'comment': comment,
-                'rpc': rpc
+                'rpc': rpc,
+                'dateAdd': current_datetime  # Add the current datetime
             })
             existing_chain_ids.add(chain_id)
     
