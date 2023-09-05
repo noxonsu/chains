@@ -27,18 +27,26 @@ def create_github_issue(token, title, body):
         print(f"Failed to create issue {title}")
         print(response.json())
 
-def check_existing_issue(token, title):
-    url = f"https://api.github.com/repos/noxonsu/chains/issues?state=all"
-    headers = {
-        "Authorization": f"token {token}",
-        "Accept": "application/vnd.github.v3+json"
-    }
-    response = requests.get(url, headers=headers)
-    if response.status_code == 200:
-        issues = response.json()
-        for issue in issues:
-            if issue["title"] == title:
-                return True
+def check_existing_issue(token, title, existing_issues_cache):
+    page = 1
+    while True:
+        url = f"https://api.github.com/repos/noxonsu/chains/issues?state=all&page={page}"
+        headers = {
+            "Authorization": f"token {token}",
+            "Accept": "application/vnd.github.v3+json"
+        }
+        response = requests.get(url, headers=headers)
+        if response.status_code == 200:
+            issues = response.json()
+            if not issues:
+                break
+            for issue in issues:
+                existing_issues_cache.add(issue["title"])
+                if issue["title"] == title:
+                    return True
+            page += 1
+        else:
+            break
     return False
 
 if __name__ == "__main__":
@@ -52,21 +60,33 @@ if __name__ == "__main__":
     # Get the current date and time
     now = datetime.now()
 
+    # Initialize cache for existing issues
+    existing_issues_cache = set()
+
+    # Initialize counter for total items scanned
+    total_items_scanned = 0
+
     for item in existing_data:
-        block_number = item.get("blockNumber", None)
         date_add_str = item.get("dateAdd", None)
         
         if date_add_str:
-            date_add = datetime.strptime(date_add_str, '%Y-%m-%d')
-            days_diff = (now - date_add).days
+            try:
+                date_add = datetime.strptime(date_add_str, '%Y-%m-%d')
+                days_diff = (now - date_add).days
+            except ValueError:
+                print(f"Invalid date format for item with chainId {item.get('chainId', 'Unknown')}")
+                days_diff = None
         else:
             days_diff = None
 
-        if block_number is not None and isinstance(block_number, int) and block_number < 100 and (days_diff is None or days_diff <= 2):
+        if days_diff is not None and days_diff <= 2:
+            total_items_scanned += 1  # Increment the counter
             chain_id = item.get("chainId", "Unknown")
             ticker = item.get("ticker", "Unknown")
             title = f"ADD {chain_id} {ticker}"
 
-            if not check_existing_issue(github_token, title):
+            if title not in existing_issues_cache and not check_existing_issue(github_token, title, existing_issues_cache):
                 body = json.dumps(item, indent=4)
                 create_github_issue(github_token, title, body)
+
+    print(f"Total items scanned: {total_items_scanned}")
