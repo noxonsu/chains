@@ -1,0 +1,460 @@
+[
+    {
+        "chainId": 1,
+        "url": "https://ethereum.org",
+        "ticker": "ETH",
+        "comment": "Ethereum Mainnet",
+        "rpc": [
+            "https://mainnet.infura.io/v3/${INFURA_API_KEY}",
+            "wss://mainnet.infura.io/ws/v3/${INFURA_API_KEY}",
+            "https://api.mycryptoapi.com/eth",
+            "https://cloudflare-eth.com",
+            "https://ethereum.publicnode.com",
+            "https://mainnet.gateway.tenderly.co",
+            "wss://mainnet.gateway.tenderly.co"
+        ],
+        "blockNumber": "Error: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+        "chainId": 3,
+        "url": "https://github.com/ethereum/ropsten",
+        "ticker": "ETH",
+        "comment": "Ropsten",
+        "rpc": [
+            "https://ropsten.infura.io/v3/${INFURA_API_KEY}",
+            "wss://ropsten.infura.io/ws/v3/${INFURA_API_KEY}"
+        ],
+        "blockNumber": "Unknown"
+    },
+    {
+        "chainId": 4,
+        "url": "https://www.rinkeby.io",
+        "ticker": "ETH",
+        "comment": "Rinkeby",
+        "rpc": [
+            "https://rinkeby.infura.io/v3/${INFURA_API_KEY}",
+            "wss://rinkeby.infura.io/ws/v3/${INFURA_API_KEY}"
+        ],
+        "blockNumber": "Error: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+        "chainId": 5,
+        "url": "https://goerli.net/#about",
+        "ticker": "ETH",
+        "comment": "Goerli",
+        "rpc": [
+            "https://goerli.infura.io/v3/${INFURA_API_KEY}",
+            "wss://goerli.infura.io/v3/${INFURA_API_KEY}",
+            "https://rpc.goerli.mudit.blog/",
+            "https://ethereum-goerli.publicnode.com",
+            "https://goerli.gateway.tenderly.co",
+            "wss://goerli.gateway.tenderly.co"
+        ],
+        "blockNumber": "Error: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+        "chainId": 6,
+        "url": "https://explorer.jade.builders/?network=kotti",
+        "ticker": "KOT",
+        "comment": "Ethereum Classic Testnet Kotti",
+        "rpc": [
+            "https://www.ethercluster.com/kotti"
+        ],
+        "blockNumber": "Error: HTTPSConnectionPool(host='www.ethercluster.com', port=443): Max retries exceeded with url: /kotti (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f28bdb5e230>: Failed to resolve 'www.ethercluster.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+        "chainId": 12,
+        "url": "https://metadium.com",
+        "ticker": "KAL",
+        "comment": "Metadium Testnet",
+        "rpc": [
+            "https://api.metadium.com/dev"
+        ],
+        "blockNumber": 44112041
+    },
+    {
+        "chainId": 13,
+        "url": "https://diode.io/staging",
+        "ticker": "sDIODE",
+        "comment": "Diode Testnet Staging",
+        "rpc": [
+            "https://staging.diode.io:8443/",
+            "wss://staging.diode.io:8443/ws"
+        ],
+        "blockNumber": 2768987
+    },
+    {
+        "chainId": 15,
+        "url": "https://diode.io/prenet",
+        "ticker": "DIODE",
+        "comment": "Diode Prenet",
+        "rpc": [
+            "https://prenet.diode.io:8443/",
+            "wss://prenet.diode.io:8443/ws"
+        ],
+        "blockNumber": 6006310
+    },
+    {
+        "chainId": 16,
+        "url": "https://flare.xyz",
+        "ticker": "CFLR",
+        "comment": "Flare Testnet Coston",
+        "rpc": [
+            "https://coston-api.flare.network/ext/bc/C/rpc"
+        ],
+        "blockNumber": 10280011
+    },
+    {
+        "chainId": 17,
+        "url": "https://exp.thaifi.com",
+        "ticker": "TFI",
+        "comment": "ThaiChain 2.0 ThaiFi",
+        "rpc": [
+            "https://rpc.thaifi.com"
+        ],
+        "blockNumber": "Error: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+        "chainId": 18,
+        "url": "https://thundercore.com",
+        "ticker": "TST",
+        "comment": "ThunderCore Testnet",
+        "rpc": [
+            "https://testnet-rpc.thundercore.com"
+        ],
+        "blockNumber": 106274
+    },
+    {
+        "chainId": 21,
+        "url": "https://www.elastos.org/",
+        "ticker": "tELA",
+        "comment": "Elastos Smart Chain Testnet",
+        "rpc": [
+            "https://api-testnet.elastos.io/eth"
+        ],
+        "blockNumber": 19712689
+    },
+    {
+        "chainId": 26,
+        "url": "https://www.genesisl1.com",
+        "ticker": "L1test",
+        "comment": "Genesis L1 testnet",
+        "rpc": [
+            "https://testrpc.genesisl1.org"
+        ],
+        "blockNumber": "Error: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+        "chainId": 27,
+        "url": "https://shibchain.org",
+        "ticker": "SHIB",
+        "comment": "ShibaChain",
+        "rpc": [
+            "https://rpc.shibchain.org"
+        ],
+        "blockNumber": "Error: HTTPSConnectionPool(host='rpc.shibchain.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f28bdd678b0>: Failed to resolve 'rpc.shibchain.org' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+        "chainId": 28,
+        "url": "https://boba.network",
+        "ticker": "ETH",
+        "comment": "Boba Network Rinkeby Testnet",
+        "rpc": [
+            "https://rinkeby.boba.network/"
+        ],
+        "blockNumber": "Error: HTTPSConnectionPool(host='rinkeby.boba.network', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f28bdbb0dc0>: Failed to resolve 'rinkeby.boba.network' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+        "chainId": 31,
+        "url": "https://rsk.co",
+        "ticker": "tRBTC",
+        "comment": "RSK Testnet",
+        "rpc": [
+            "https://public-node.testnet.rsk.co",
+            "https://mycrypto.testnet.rsk.co"
+        ],
+        "blockNumber": 4250567
+    },
+    {
+        "chainId": 32,
+        "url": "https://www.goodata.org",
+        "ticker": "GooD",
+        "comment": "GoodData Testnet",
+        "rpc": [
+            "https://test2.goodata.io"
+        ],
+        "blockNumber": "Error: HTTPSConnectionPool(host='test2.goodata.io', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f28bdb5e110>: Failed to resolve 'test2.goodata.io' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+        "chainId": 33,
+        "url": "https://www.goodata.org",
+        "ticker": "GooD",
+        "comment": "GoodData Mainnet",
+        "rpc": [
+            "https://rpc.goodata.io"
+        ],
+        "blockNumber": "Error: HTTPSConnectionPool(host='rpc.goodata.io', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f28bdb5ee60>: Failed to resolve 'rpc.goodata.io' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+        "chainId": 34,
+        "url": "https://dithereum.org",
+        "ticker": "DTH",
+        "comment": "Dithereum Testnet",
+        "rpc": [
+            "https://node-testnet.dithereum.io"
+        ],
+        "blockNumber": "Error: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+        "chainId": 35,
+        "url": "https://tbwg.io",
+        "ticker": "TBG",
+        "comment": "TBWG Chain",
+        "rpc": [
+            "https://rpc.tbwg.io"
+        ],
+        "blockNumber": "Error: Exceeded 30 redirects."
+    },
+    {
+        "chainId": 38,
+        "url": "https://valorbit.com",
+        "ticker": "VAL",
+        "comment": "Valorbit",
+        "rpc": [
+            "https://rpc.valorbit.com/v2"
+        ],
+        "blockNumber": "Error: HTTPSConnectionPool(host='rpc.valorbit.com', port=443): Max retries exceeded with url: /v2 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f28bda0e590>: Failed to resolve 'rpc.valorbit.com' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+        "chainId": 41,
+        "url": "https://telos.net",
+        "ticker": "TLOS",
+        "comment": "Telos EVM Testnet",
+        "rpc": [
+            "https://testnet.telos.net/evm"
+        ],
+        "blockNumber": 254438239
+    },
+    {
+        "chainId": 43,
+        "url": "https://darwinia.network/",
+        "ticker": "PRING",
+        "comment": "Darwinia Pangolin Testnet",
+        "rpc": [
+            "https://pangolin-rpc.darwinia.network"
+        ],
+        "blockNumber": 1405854
+    },
+    {
+        "chainId": 45,
+        "url": "https://darwinia.network/",
+        "ticker": "ORING",
+        "comment": "Darwinia Pangoro Testnet",
+        "rpc": [
+            "https://pangoro-rpc.darwinia.network"
+        ],
+        "blockNumber": 1291410
+    },
+    {
+        "chainId": 49,
+        "url": "https://etm.network",
+        "ticker": "ETMP",
+        "comment": "Ennothem Testnet Pioneer",
+        "rpc": [
+            "https://rpc.pioneer.etm.network"
+        ],
+        "blockNumber": 13893079
+    },
+    {
+        "chainId": 53,
+        "url": "https://www.coinex.org/",
+        "ticker": "cett",
+        "comment": "CoinEx Smart Chain Testnet",
+        "rpc": [
+            "https://testnet-rpc.coinex.net/"
+        ],
+        "blockNumber": 22995265
+    },
+    {
+        "chainId": 54,
+        "url": "https://cryptopiece.online",
+        "ticker": "BELLY",
+        "comment": "Openpiece Mainnet",
+        "rpc": [
+            "https://mainnet.openpiece.io"
+        ],
+        "blockNumber": "Error: HTTPSConnectionPool(host='mainnet.openpiece.io', port=443): Read timed out. (read timeout=30)"
+    },
+    {
+        "chainId": 59,
+        "url": "https://eosargentina.io",
+        "ticker": "EOS",
+        "comment": "EOS EVM Legacy",
+        "rpc": [
+            "https://api.eosargentina.io"
+        ],
+        "blockNumber": "Unknown"
+    },
+    {
+        "chainId": 63,
+        "url": "https://github.com/eth-classic/mordor/",
+        "ticker": "METC",
+        "comment": "Ethereum Classic Testnet Mordor",
+        "rpc": [
+            "https://rpc.mordor.etccooperative.org"
+        ],
+        "blockNumber": 9524415
+    },
+    {
+        "chainId": 64,
+        "url": "https://ellaism.org",
+        "ticker": "ELLA",
+        "comment": "Ellaism",
+        "rpc": [
+            "https://jsonrpc.ellaism.org"
+        ],
+        "blockNumber": "Error: HTTPSConnectionPool(host='jsonrpc.ellaism.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f28bda24ca0>: Failed to resolve 'jsonrpc.ellaism.org' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+        "chainId": 65,
+        "url": "https://www.okex.com/okexchain",
+        "ticker": "OKT",
+        "comment": "OKExChain Testnet",
+        "rpc": [
+            "https://exchaintestrpc.okex.org"
+        ],
+        "blockNumber": 23637726
+    },
+    {
+        "chainId": 67,
+        "url": "http://test.dbmbp.com",
+        "ticker": "DBM",
+        "comment": "DBChain Testnet",
+        "rpc": [
+            "http://test-rpc.dbmbp.com"
+        ],
+        "blockNumber": "Error: HTTPConnectionPool(host='test-rpc.dbmbp.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f28bda0d720>, 'Connection to test-rpc.dbmbp.com timed out. (connect timeout=30)'))"
+    },
+    {
+        "chainId": 68,
+        "url": "https://www.soterone.com",
+        "ticker": "SOTER",
+        "comment": "SoterOne Mainnet",
+        "rpc": [
+            "https://rpc.soter.one"
+        ],
+        "blockNumber": "Error: HTTPSConnectionPool(host='rpc.soter.one', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f28bda0eef0>: Failed to resolve 'rpc.soter.one' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+        "chainId": 69,
+        "url": "https://optimism.io",
+        "ticker": "ETH",
+        "comment": "Optimism Kovan",
+        "rpc": [
+            "https://kovan.optimism.io/"
+        ],
+        "blockNumber": "Error: HTTPSConnectionPool(host='kovan.optimism.io', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f28bdb5f970>: Failed to resolve 'kovan.optimism.io' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+        "chainId": 71,
+        "url": "https://confluxnetwork.org",
+        "ticker": "CFX",
+        "comment": "Conflux eSpace (Testnet)",
+        "rpc": [
+            "https://evmtestnet.confluxrpc.com"
+        ],
+        "blockNumber": 137079225
+    },
+    {
+        "chainId": 72,
+        "url": "https://testnet.dxscan.io/",
+        "ticker": "DX",
+        "comment": "DxChain Testnet",
+        "rpc": [
+            "https://testnet-http.dxchain.com"
+        ],
+        "blockNumber": "Error: HTTPSConnectionPool(host='testnet-http.dxchain.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f28bda0fc10>: Failed to resolve 'testnet-http.dxchain.com' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+        "chainId": 76,
+        "url": "https://mix-blockchain.org",
+        "ticker": "MIX",
+        "comment": "Mix",
+        "rpc": [
+            "https://rpc2.mix-blockchain.org:8647"
+        ],
+        "blockNumber": "Error: HTTPSConnectionPool(host='rpc2.mix-blockchain.org', port=8647): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f28bda0e8f0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+    },
+    {
+        "chainId": 77,
+        "url": "https://poa.network",
+        "ticker": "SPOA",
+        "comment": "POA Network Sokol",
+        "rpc": [
+            "https://sokol.poa.network",
+            "wss://sokol.poa.network/wss",
+            "ws://sokol.poa.network:8546"
+        ],
+        "blockNumber": "Error: HTTPSConnectionPool(host='sokol.poa.network', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f28bda0d030>: Failed to resolve 'sokol.poa.network' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+        "chainId": 80,
+        "url": "https://scan.genechain.io/",
+        "ticker": "RNA",
+        "comment": "GeneChain",
+        "rpc": [
+            "https://rpc.genechain.io"
+        ],
+        "blockNumber": "Error: HTTPSConnectionPool(host='rpc.genechain.io', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f28bda0cdc0>: Failed to resolve 'rpc.genechain.io' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+        "chainId": 83,
+        "url": "https://www.meter.io",
+        "ticker": "MTR",
+        "comment": "Meter Testnet",
+        "rpc": [
+            "https://rpctest.meter.io"
+        ],
+        "blockNumber": 43262609
+    },
+    {
+        "chainId": 84,
+        "url": "https://linqto.com",
+        "ticker": "XRP",
+        "comment": "Linqto Devnet",
+        "rpc": [
+            "https://linqto-dev.com"
+        ],
+        "blockNumber": "Error: HTTPSConnectionPool(host='linqto-dev.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f28bda0f580>: Failed to resolve 'linqto-dev.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+        "chainId": 85,
+        "url": "https://www.gatechain.io",
+        "ticker": "GT",
+        "comment": "GateChain Testnet",
+        "rpc": [
+            "https://testnet.gatenode.cc"
+        ],
+        "blockNumber": "Error: HTTPSConnectionPool(host='testnet.gatenode.cc', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f28bda0e380>: Failed to resolve 'testnet.gatenode.cc' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+        "chainId": 89,
+        "url": "https://tomochain.com",
+        "ticker": "TOMO",
+        "comment": "TomoChain Testnet",
+        "rpc": [
+            "https://rpc.testnet.tomochain.com"
+        ],
+        "blockNumber": 43557619
+    },
+    {
+        "chainId": 90,
+        "url": "https://garizon.com",
+        "ticker": "GAR",
+        "comment": "Garizon Stage0",
+        "rpc": [
+            "https://s0.garizon.net/rpc"
+        ],
+        "blockNumber": "Error: HTTPSConnectionPool(host='s0.garizon.net', port=443): Read timed out. (read timeout=30)"
+    }
+]

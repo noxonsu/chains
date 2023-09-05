@@ -17,44 +17,41 @@ def save_data_to_file(data, filename):
 # Загружаем существующие данные
 existing_data = load_existing_data("sites.json")
 
-# Инициализируем счетчик для анализа первых 30 строк
-counter = 0
-
 # Итерируемся по всем элементам в JSON
 for item in existing_data:
-    if 'eth_gtbbIndexResponce' not in item:
-        rpc_urls = item.get('rpc', [])
-        for rpc_url in rpc_urls:
-            try:
-                # Формируем RPC-запрос
-                payload = {
-                    "jsonrpc": "2.0",
-                    "method": "eth_getTransactionByBlockNumberAndIndex",
-                    "params": ["0x1", "0x0"],
-                    "id": 1
-                }
-                headers = {'Content-Type': 'application/json'}
-                
-                # Выполняем запрос
-                response = requests.post(rpc_url, json=payload, headers=headers)
-                
-                if response.status_code == 200:
-                    item['eth_gtbbIndexResponce'] = response.json()
-                    print(f"Successfully fetched data for chainId {item['chainId']}")
-                else:
-                    item['eth_gtbbIndexResponce'] = f"Failed with status code {response.status_code}"
-                    print(f"Failed to fetch data for chainId {item['chainId']}")
-                
-                break  # Выход из цикла после первого успешного/неуспешного запроса
-            except requests.exceptions.RequestException as e:
-                item['eth_gtbbIndexResponce'] = f"Connection error: {str(e)}"
-                print(f"Connection error for chainId {item['chainId']}: {str(e)}")
-        
-        # Увеличиваем счетчик и проверяем, не достигли ли мы 30
-        counter += 1
-        # Сохраняем обновленные данные в файл
-        save_data_to_file(existing_data, "sites.json")
-        if counter >= 10:
-            break
+    # Пропускаем элементы, где уже есть blockNumber
+    if 'blockNumber' in item:
+        continue
 
+    # Удаляем блок с eth_gtbbIndexResponce, если он есть
+    if 'eth_gtbbIndexResponce' in item:
+        del item['eth_gtbbIndexResponce']
 
+    rpc_urls = item.get('rpc', [])
+    if not rpc_urls:
+        item['blockNumber'] = "No RPC URL available"
+        continue
+
+    # Подготовка RPC запроса для получения номера последнего блока
+    payload = {
+        "jsonrpc": "2.0",
+        "method": "eth_blockNumber",
+        "params": [],
+        "id": 1
+    }
+
+    headers = {'Content-Type': 'application/json'}
+
+    # Выполнение запроса (пытаемся только один раз)
+    try:
+        response = requests.post(rpc_urls[0], json=payload, headers=headers, timeout=5)
+        hex_block_number = response.json().get('result', 'Unknown')
+        if hex_block_number != 'Unknown' and isinstance(hex_block_number, str):
+            item['blockNumber'] = int(hex_block_number, 16)
+        else:
+            item['blockNumber'] = 'Unknown'
+    except requests.exceptions.RequestException as e:
+        item['blockNumber'] = f"Error: {str(e)}"
+
+    # Сохраняем обновленные данные в файл на каждой итерации
+    save_data_to_file(existing_data, "sites.json")
