@@ -2,6 +2,7 @@ import json
 import os
 import requests
 import sys
+from datetime import datetime, timedelta
 
 def load_existing_data(filename):
     if os.path.exists(filename):
@@ -48,9 +49,20 @@ if __name__ == "__main__":
     github_token = sys.argv[1]
     existing_data = load_existing_data("sites.json")
 
+    # Get the current date and time
+    now = datetime.now()
+
     for item in existing_data:
         block_number = item.get("blockNumber", None)
-        if block_number is not None and isinstance(block_number, int) and block_number < 100:
+        date_add_str = item.get("dateAdd", None)
+        
+        if date_add_str:
+            date_add = datetime.strptime(date_add_str, '%Y-%m-%d')
+            days_diff = (now - date_add).days
+        else:
+            days_diff = None
+
+        if block_number is not None and isinstance(block_number, int) and block_number < 100 and (days_diff is None or days_diff <= 2):
             chain_id = item.get("chainId", "Unknown")
             ticker = item.get("ticker", "Unknown")
             title = f"ADD {chain_id} {ticker}"
