@@ -31,7 +31,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 8167509
     },
     {
         "chainId": 3,
@@ -97,7 +98,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 2620831
     },
     {
         "chainId": 8,
@@ -112,7 +114,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 4231966
     },
     {
         "chainId": 9,
@@ -153,7 +156,8 @@
                 "r": "0xc878d22e771004beb73e7a4268fd4f447735812b94b217f6807412efcec90d61",
                 "s": "0x3588018735fb361c49e5de54b266b8b157c1ba3d6ee08e3bcbdee7cd725c16e8"
             }
-        }
+        },
+        "blockNumber": 109122554
     },
     {
         "chainId": 11,
@@ -167,7 +171,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 70285950
     },
     {
         "chainId": 12,
@@ -223,7 +228,8 @@
                 "r": "0x8e6a44bb4a88467293c498066438230bc657e394b3218ed9acaa901b68f58372",
                 "s": "0x546cd7887140c4ac6c93d87547f5ab491e7d6615b0d00e8c5e23ed377aff2787"
             }
-        }
+        },
+        "blockNumber": 12389530
     },
     {
         "chainId": 15,
@@ -321,7 +327,8 @@
                 "r": "0x9ece7cd8f9fc214ade73bde183a86ff3e836ceb130034a421ecab6c7d8612331",
                 "s": "0x1d6dd7b481552ce07653ab3e641538c874afb4fe26ea2389d92c547392adef17"
             }
-        }
+        },
+        "blockNumber": 40196734
     },
     {
         "chainId": 20,
@@ -335,7 +342,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 20472723
     },
     {
         "chainId": 21,
@@ -380,7 +388,8 @@
                 "code": -32601,
                 "message": "the method eth_getTransactionByBlockNumberAndIndex does not exist/is not available"
             }
-        }
+        },
+        "blockNumber": 15984329
     },
     {
         "chainId": 25,
@@ -395,7 +404,8 @@
             "id": 1,
             "result": null,
             "jsonrpc": "2.0"
-        }
+        },
+        "blockNumber": 10053997
     },
     {
         "chainId": 26,
@@ -439,7 +449,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 6751399
     },
     {
         "chainId": 30,
@@ -470,7 +481,8 @@
                 "s": "0x0",
                 "type": "0x0"
             }
-        }
+        },
+        "blockNumber": 5612088
     },
     {
         "chainId": 31,
@@ -555,7 +567,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 5422770
     },
     {
         "chainId": 37,
@@ -569,7 +582,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 5392748
     },
     {
         "chainId": 38,
@@ -609,7 +623,8 @@
                 "r": "0x0",
                 "s": "0x0"
             }
-        }
+        },
+        "blockNumber": 417497
     },
     {
         "chainId": 40,
@@ -626,7 +641,8 @@
                 "code": -32601,
                 "message": "Invalid method: eth_getTransactionByBlockNumberAndIndex"
             }
-        }
+        },
+        "blockNumber": 297771904
     },
     {
         "chainId": 41,
@@ -658,7 +674,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 734806
     },
     {
         "chainId": 43,
@@ -692,7 +709,8 @@
                 "message": "0 is out of bounds"
             },
             "id": 1
-        }
+        },
+        "blockNumber": 1236129
     },
     {
         "chainId": 45,
@@ -726,7 +744,8 @@
                 "message": "0 is out of bounds"
             },
             "id": 1
-        }
+        },
+        "blockNumber": 929361
     },
     {
         "chainId": 47,
@@ -743,7 +762,8 @@
                 "code": -32601,
                 "message": "the method eth_getTransactionByBlockNumberAndIndex does not exist/is not available"
             }
-        }
+        },
+        "blockNumber": 1696909
     },
     {
         "chainId": 48,
@@ -760,7 +780,8 @@
                 "code": -32601,
                 "message": "the method eth_getTransactionByBlockNumberAndIndex does not exist/is not available"
             }
-        }
+        },
+        "blockNumber": 11164615
     },
     {
         "chainId": 49,
@@ -794,7 +815,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 65031886
     },
     {
         "chainId": 51,
@@ -809,7 +831,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 53940610
     },
     {
         "chainId": 52,
@@ -838,7 +861,8 @@
                 "r": "0x1d199561d0584120e69af54e84d76928020e86b89f8e9fa485ec660f004d71c0",
                 "s": "0x448b807c49ea3ed2561305c665bac51f1196015a038698e0680a56a436bc9f88"
             }
-        }
+        },
+        "blockNumber": 23079307
     },
     {
         "chainId": 53,
@@ -912,7 +936,8 @@
                 "r": "0x88767bf04bb710fe8eb93e673b37c553ff5c77e2c2423fb662758e13dd63f981",
                 "s": "0x226cc63402d5ddb950756713b4e47e5017e836ee933232e148bd3ee2a331798f"
             }
-        }
+        },
+        "blockNumber": 10284498
     },
     {
         "chainId": 56,
@@ -955,7 +980,8 @@
                 "r": "0xba64c6614028e6f7fa4cf2b218719160b9850c591279218def6894586ab73157",
                 "s": "0x69cd1b3041eaa9b282a522c49b294e3c51801a1347bb8999015a0bd29bed3bbf"
             }
-        }
+        },
+        "blockNumber": 31452502
     },
     {
         "chainId": 57,
@@ -973,7 +999,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 362116
     },
     {
         "chainId": 58,
@@ -994,7 +1021,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 16544444
     },
     {
         "chainId": 59,
@@ -1025,7 +1053,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 33460581
     },
     {
         "chainId": 61,
@@ -1039,7 +1068,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 18257623
     },
     {
         "chainId": 62,
@@ -1105,7 +1135,8 @@
                 "code": -32000,
                 "message": "height 1 is not available, blocks pruned at height 2322601"
             }
-        }
+        },
+        "blockNumber": 21995366
     },
     {
         "chainId": 67,
@@ -1152,7 +1183,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 12175917
     },
     {
         "chainId": 71,
@@ -1209,7 +1241,8 @@
                 "r": "0x127810e7cec3ac06b604cff68b6b6548f97a49bddac82f62b145fdfb39e1049",
                 "s": "0x5bb8d2dc901df829c023b17511e1e2dedf353f876e078adb182ed57dea51854f"
             }
-        }
+        },
+        "blockNumber": 9743020
     },
     {
         "chainId": 74,
@@ -1224,7 +1257,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 20974481
     },
     {
         "chainId": 75,
@@ -1242,7 +1276,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 16738178
     },
     {
         "chainId": 76,
@@ -1278,7 +1313,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 4764358
     },
     {
         "chainId": 79,
@@ -1298,7 +1334,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 12545743
     },
     {
         "chainId": 80,
@@ -1323,7 +1360,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 6853819
     },
     {
         "chainId": 82,
@@ -1340,7 +1378,8 @@
                 "message": "index out of bound"
             },
             "id": 1
-        }
+        },
+        "blockNumber": 42478467
     },
     {
         "chainId": 83,
@@ -1391,7 +1430,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 8390148
     },
     {
         "chainId": 87,
@@ -1407,7 +1447,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 3697358
     },
     {
         "chainId": 88,
@@ -1421,7 +1462,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 69365210
     },
     {
         "chainId": 89,
@@ -1489,7 +1531,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 2362347
     },
     {
         "chainId": 95,
@@ -1503,7 +1546,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 8628814
     },
     {
         "chainId": 96,
@@ -1518,7 +1562,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 14537897
     },
     {
         "chainId": 97,
@@ -1568,7 +1613,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 6202932
     },
     {
         "chainId": 99,
@@ -1604,7 +1650,8 @@
                 "message": "Position Index is incorrect"
             },
             "id": 1
-        }
+        },
+        "blockNumber": 29807638
     },
     {
         "chainId": 101,
@@ -1640,7 +1687,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 220235
     },
     {
         "chainId": 104,
@@ -1667,7 +1715,8 @@
                 "message": "0 is out of bounds"
             },
             "id": 1
-        }
+        },
+        "blockNumber": 578536
     },
     {
         "chainId": 106,
@@ -1698,7 +1747,8 @@
                 "value": "0x70c6fff3c0000"
             },
             "id": 1
-        }
+        },
+        "blockNumber": 64221308
     },
     {
         "chainId": 107,
@@ -1724,7 +1774,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 141730656
     },
     {
         "chainId": 110,
@@ -1768,7 +1819,8 @@
                 "message": "Requested block number is in a range that is not available yet, because the ancient block sync is still in progress."
             },
             "id": 1
-        }
+        },
+        "blockNumber": 10151932
     },
     {
         "chainId": 112,
@@ -1785,7 +1837,8 @@
                 "code": -32601,
                 "message": "the method eth_getTransactionByBlockNumberAndIndex does not exist/is not available"
             }
-        }
+        },
+        "blockNumber": 5206095
     },
     {
         "chainId": 113,
@@ -1805,7 +1858,8 @@
                 "code": -32601,
                 "message": "the method eth_getTransactionByBlockNumberAndIndex does not exist/is not available"
             }
-        }
+        },
+        "blockNumber": 7005557
     },
     {
         "chainId": 114,
@@ -1867,7 +1921,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 2412556
     },
     {
         "chainId": 118,
@@ -1892,7 +1947,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 1886259
     },
     {
         "chainId": 120,
@@ -1941,7 +1997,8 @@
                 "message": "Position Index is incorrect"
             },
             "id": 1
-        }
+        },
+        "blockNumber": 25230246
     },
     {
         "chainId": 123,
@@ -2010,7 +2067,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 28982573
     },
     {
         "chainId": 134,
@@ -2027,7 +2085,8 @@
                 "message": "Position Index is incorrect"
             },
             "id": 1
-        }
+        },
+        "blockNumber": 23925495
     },
     {
         "chainId": 135,
@@ -2069,7 +2128,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 47140359
     },
     {
         "chainId": 138,
@@ -2084,7 +2144,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 1066972
     },
     {
         "chainId": 139,
@@ -2098,7 +2159,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 7874076
     },
     {
         "chainId": 141,
@@ -2132,7 +2194,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 6918360
     },
     {
         "chainId": 150,
@@ -2276,7 +2339,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 9065519
     },
     {
         "chainId": 170,
@@ -2311,7 +2375,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 8763223
     },
     {
         "chainId": 186,
@@ -2325,7 +2390,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 18821001
     },
     {
         "chainId": 188,
@@ -2359,7 +2425,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 13609823
     },
     {
         "chainId": 195,
@@ -2404,7 +2471,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 300704
     },
     {
         "chainId": 199,
@@ -2418,7 +2486,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 26507806
     },
     {
         "chainId": 200,
@@ -2470,7 +2539,8 @@
                 "sourceHash": "0x9f6e9eaa4d29aa56f77bf91180679e605d073ee57ce0cb5495953ab4e604b97b",
                 "mint": "0x0"
             }
-        }
+        },
+        "blockNumber": 2090198
     },
     {
         "chainId": 208,
@@ -2495,7 +2565,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 372478
     },
     {
         "chainId": 211,
@@ -2520,7 +2591,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 5221922
     },
     {
         "chainId": 217,
@@ -2554,7 +2626,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 6385319
     },
     {
         "chainId": 225,
@@ -2678,7 +2751,8 @@
                 "code": -32601,
                 "message": "the method eth_getTransactionByBlockNumberAndIndex does not exist/is not available"
             }
-        }
+        },
+        "blockNumber": 779566
     },
     {
         "chainId": 246,
@@ -2696,7 +2770,8 @@
                 "message": "Requested block number is in a range that is not available yet, because the ancient block sync is still in progress."
             },
             "id": 1
-        }
+        },
+        "blockNumber": 25858699
     },
     {
         "chainId": 248,
@@ -2726,7 +2801,8 @@
                 "r": "0xeb12012816931805a71a7983a9dcd3664cb3b5bff52e5c1ffbffbdfd68ab2b0c",
                 "s": "0x2c7bcd36eb215b77f7ab81fb5c719cc4e12d0fde48d719d4c2f6828afbe0b924"
             }
-        }
+        },
+        "blockNumber": 1956027
     },
     {
         "chainId": 250,
@@ -2741,7 +2817,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 67829711
     },
     {
         "chainId": 256,
@@ -2789,7 +2866,8 @@
                 "r": "0x0",
                 "s": "0x0"
             }
-        }
+        },
+        "blockNumber": 29625
     },
     {
         "chainId": 262,
@@ -2814,7 +2892,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 18374916
     },
     {
         "chainId": 271,
@@ -2843,7 +2922,8 @@
                 "code": -32601,
                 "message": "the method eth_getTransactionByBlockNumberAndIndex does not exist/is not available"
             }
-        }
+        },
+        "blockNumber": 2460738
     },
     {
         "chainId": 280,
@@ -2920,7 +3000,8 @@
                 "value": "0x0"
             },
             "id": 1
-        }
+        },
+        "blockNumber": 1054187
     },
     {
         "chainId": 295,
@@ -2934,7 +3015,8 @@
             "result": null,
             "jsonrpc": "2.0",
             "id": 1
-        }
+        },
+        "blockNumber": 52913406
     },
     {
         "chainId": 296,
@@ -2962,7 +3044,8 @@
             "result": null,
             "jsonrpc": "2.0",
             "id": 1
-        }
+        },
+        "blockNumber": 463777
     },
     {
         "chainId": 298,
@@ -3017,7 +3100,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 3218446
     },
     {
         "chainId": 313,
@@ -3032,7 +3116,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 3519583
     },
     {
         "chainId": 314,
@@ -3060,7 +3145,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 23766719
     },
     {
         "chainId": 322,
@@ -3106,7 +3192,8 @@
                 "l1BatchTxIndex": "0x0"
             },
             "id": 1
-        }
+        },
+        "blockNumber": 13000833
     },
     {
         "chainId": 333,
@@ -3169,7 +3256,8 @@
             "jsonrpc": "2.0",
             "result": null,
             "id": 1
-        }
+        },
+        "blockNumber": 4796184
     },
     {
         "chainId": 338,
@@ -3219,7 +3307,8 @@
                 "queueIndex": "0x0",
                 "rawTransaction": "0xf901c68080831e848094420000000000000000000000000000000000000780b901a4cbd4ece90000000000000000000000004200000000000000000000000000000000000010000000000000000000000000ee012f8f908ea3a16288c9b33f8ee667dcb815830000000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000e4662a633a0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000deaddeaddeaddeaddeaddeaddeaddeaddead00000000000000000000000000005ec945de12315fdb212d0518148e730a4e99176d0000000000000000000000005ec945de12315fdb212d0518148e730a4e99176d00000000000000000000000000000000000000000000000000000000000004d200000000000000000000000000000000000000000000000000000000000000c0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000808080"
             }
-        }
+        },
+        "blockNumber": 15
     },
     {
         "chainId": 361,
@@ -3236,7 +3325,8 @@
                 "code": -32000,
                 "message": "method handler crashed"
             }
-        }
+        },
+        "blockNumber": 21976192
     },
     {
         "chainId": 363,
@@ -3301,7 +3391,8 @@
             "jsonrpc": "2.0",
             "id": 1,
             "result": null
-        }
+        },
+        "blockNumber": 18226409
     },
     {
         "chainId": 371,
@@ -3363,7 +3454,8 @@
         "comment": "SX Network Mainnet",
         "rpc": [
             "https://rpc.sx.technology"
-        ]
+        ],
+        "blockNumber": 22342026
     },
     {
         "chainId": 418,
@@ -3394,7 +3486,8 @@
         "comment": "PGN (Public Goods Network)",
         "rpc": [
             "https://rpc.publicgoods.network"
-        ]
+        ],
+        "blockNumber": 2368621
     },
     {
         "chainId": 427,
@@ -3430,7 +3523,8 @@
         "comment": "ARZIO Chain",
         "rpc": [
             "https://chain-rpc.arzio.co"
-        ]
+        ],
+        "blockNumber": 132
     },
     {
         "chainId": 499,
@@ -3446,7 +3540,8 @@
         "comment": "Camino C-Chain",
         "rpc": [
             "https://api.camino.network/ext/bc/C/rpc"
-        ]
+        ],
+        "blockNumber": 6841
     },
     {
         "chainId": 501,
@@ -3464,7 +3559,8 @@
         "comment": "Double-A Chain Mainnet",
         "rpc": [
             "https://rpc.acuteangle.com"
-        ]
+        ],
+        "blockNumber": 15626215
     },
     {
         "chainId": 513,
@@ -3482,7 +3578,8 @@
         "comment": "Gear Zero Network Mainnet",
         "rpc": [
             "https://gzn.linksme.info"
-        ]
+        ],
+        "blockNumber": 577
     },
     {
         "chainId": 520,
@@ -3493,7 +3590,8 @@
             "https://datarpc1.xsc.pub",
             "https://datarpc2.xsc.pub",
             "https://datarpc3.xsc.pub"
-        ]
+        ],
+        "blockNumber": 18050963
     },
     {
         "chainId": 529,
@@ -3511,7 +3609,8 @@
         "comment": "F(x)Core Mainnet Network",
         "rpc": [
             "https://fx-json-web3.functionx.io:8545"
-        ]
+        ],
+        "blockNumber": 11792799
     },
     {
         "chainId": 534,
@@ -3572,7 +3671,8 @@
             "https://rollux.public-rpc.com",
             "wss://rpc.rollux.com/wss",
             "https://rpc.ankr.com/rollux/${ANKR_API_KEY}"
-        ]
+        ],
+        "blockNumber": 3239382
     },
     {
         "chainId": 588,
@@ -3654,7 +3754,8 @@
         "comment": "Graphlinq Blockchain Mainnet",
         "rpc": [
             "https://glq-dataseed.graphlinq.io"
-        ]
+        ],
+        "blockNumber": 1170017
     },
     {
         "chainId": 634,
@@ -3663,7 +3764,8 @@
         "comment": "Avocado",
         "rpc": [
             "https://rpc.avocado.instadapp.io"
-        ]
+        ],
+        "blockNumber": 47140446
     },
     {
         "chainId": 647,
@@ -3681,7 +3783,8 @@
         "comment": "Endurance Smart Chain Mainnet",
         "rpc": [
             "https://rpc-endurance.fusionist.io/"
-        ]
+        ],
+        "blockNumber": 6761314
     },
     {
         "chainId": 666,
@@ -3701,7 +3804,8 @@
         "rpc": [
             "https://arrakis.gorengine.com/own",
             "wss://arrakis.gorengine.com/own"
-        ]
+        ],
+        "blockNumber": 384786
     },
     {
         "chainId": 668,
@@ -3710,7 +3814,8 @@
         "comment": "JuncaChain",
         "rpc": [
             "https://rpc.juncachain.com"
-        ]
+        ],
+        "blockNumber": 233651
     },
     {
         "chainId": 669,
@@ -3730,7 +3835,8 @@
         "rpc": [
             "https://eth-rpc-karura.aca-api.network",
             "wss://eth-rpc-karura.aca-api.network"
-        ]
+        ],
+        "blockNumber": 5131271
     },
     {
         "chainId": 700,
@@ -3768,7 +3874,8 @@
         "comment": "Shibarium Beta",
         "rpc": [
             "https://puppynet.shibrpc.com"
-        ]
+        ],
+        "blockNumber": 2352474
     },
     {
         "chainId": 721,
@@ -3840,7 +3947,8 @@
             "https://node1-mainnet.maalscan.io/",
             "https://node2-mainnet.maalscan.io/",
             "https://node3-mainnet.maalscan.io/"
-        ]
+        ],
+        "blockNumber": 1307230
     },
     {
         "chainId": 787,
@@ -3850,7 +3958,8 @@
         "rpc": [
             "https://eth-rpc-acala.aca-api.network",
             "wss://eth-rpc-acala.aca-api.network"
-        ]
+        ],
+        "blockNumber": 4383230
     },
     {
         "chainId": 788,
@@ -3868,7 +3977,8 @@
         "comment": "Patex",
         "rpc": [
             "https://rpc.patex.io/"
-        ]
+        ],
+        "blockNumber": 1032608
     },
     {
         "chainId": 800,
@@ -3877,7 +3987,8 @@
         "comment": "Lucid Blockchain",
         "rpc": [
             "https://rpc.lucidcoin.io"
-        ]
+        ],
+        "blockNumber": 1152866
     },
     {
         "chainId": 803,
@@ -3913,7 +4024,8 @@
             "https://mainnet.meerlabs.com",
             "https://rpc.dimai.ai",
             "https://rpc.woowow.io"
-        ]
+        ],
+        "blockNumber": 873975
     },
     {
         "chainId": 818,
@@ -3936,7 +4048,8 @@
         "comment": "Callisto Mainnet",
         "rpc": [
             "https://rpc.callisto.network/"
-        ]
+        ],
+        "blockNumber": 13084920
     },
     {
         "chainId": 821,
@@ -3952,7 +4065,8 @@
         "comment": "Taraxa Mainnet",
         "rpc": [
             "https://rpc.mainnet.taraxa.io/"
-        ]
+        ],
+        "blockNumber": 3569506
     },
     {
         "chainId": 842,
@@ -3981,7 +4095,8 @@
             "https://mainnet-data1.fantasiachain.com/",
             "https://mainnet-data2.fantasiachain.com/",
             "https://mainnet-data3.fantasiachain.com/"
-        ]
+        ],
+        "blockNumber": 76540
     },
     {
         "chainId": 876,
@@ -4017,7 +4132,8 @@
         "comment": "Wanchain",
         "rpc": [
             "https://gwan-ssl.wandevs.org:56891/"
-        ]
+        ],
+        "blockNumber": 28539524
     },
     {
         "chainId": 900,
@@ -4160,7 +4276,8 @@
         "comment": "Oort Ascraeus",
         "rpc": [
             "https://ascraeus-rpc.oortech.com"
-        ]
+        ],
+        "blockNumber": 2771600
     },
     {
         "chainId": 977,
@@ -4179,7 +4296,8 @@
         "comment": "TOP Mainnet EVM",
         "rpc": [
             "https://ethapi.topnetwork.org"
-        ]
+        ],
+        "blockNumber": 21
     },
     {
         "chainId": 985,
@@ -4189,7 +4307,8 @@
         "rpc": [
             "https://chain.metamemo.one:8501",
             "wss://chain.metamemo.one:16801"
-        ]
+        ],
+        "blockNumber": 9192835
     },
     {
         "chainId": 989,
@@ -4205,7 +4324,8 @@
         "comment": "eLiberty Mainnet",
         "rpc": [
             "https://rpc.eliberty.ngo"
-        ]
+        ],
+        "blockNumber": 1478279
     },
     {
         "chainId": 997,
@@ -4214,7 +4334,8 @@
         "comment": "5ireChain Thunder",
         "rpc": [
             "https://rpc-testnet.5ire.network"
-        ]
+        ],
+        "blockNumber": 8045306
     },
     {
         "chainId": 998,
@@ -4243,7 +4364,8 @@
         "comment": "GTON Mainnet",
         "rpc": [
             "https://rpc.gton.network/"
-        ]
+        ],
+        "blockNumber": 218940
     },
     {
         "chainId": 1001,
@@ -4261,7 +4383,8 @@
         "comment": "T-EKTA",
         "rpc": [
             "https://test.ekta.io:8545"
-        ]
+        ],
+        "blockNumber": 2517487
     },
     {
         "chainId": 1007,
@@ -4297,7 +4420,8 @@
         "comment": "Newton",
         "rpc": [
             "https://global.rpc.mainnet.newtonproject.org"
-        ]
+        ],
+        "blockNumber": 49577654
     },
     {
         "chainId": 1022,
@@ -4320,7 +4444,8 @@
         "comment": "CLV Parachain",
         "rpc": [
             "https://api-para.clover.finance"
-        ]
+        ],
+        "blockNumber": 4268776
     },
     {
         "chainId": 1028,
@@ -4338,7 +4463,8 @@
         "comment": "Conflux eSpace",
         "rpc": [
             "https://evm.confluxrpc.com"
-        ]
+        ],
+        "blockNumber": 78695184
     },
     {
         "chainId": 1031,
@@ -4397,7 +4523,8 @@
         "comment": "Mintara Mainnet",
         "rpc": [
             "https://subnets.avax.network/mintara/mainnet/rpc"
-        ]
+        ],
+        "blockNumber": 27
     },
     {
         "chainId": 1088,
@@ -4406,7 +4533,8 @@
         "comment": "Metis Andromeda Mainnet",
         "rpc": [
             "https://andromeda.metis.io/?owner=1088"
-        ]
+        ],
+        "blockNumber": 8408020
     },
     {
         "chainId": 1099,
@@ -4422,7 +4550,8 @@
         "comment": "Polygon zkEVM",
         "rpc": [
             "https://zkevm-rpc.com"
-        ]
+        ],
+        "blockNumber": 5148154
     },
     {
         "chainId": 1107,
@@ -4441,7 +4570,8 @@
         "rpc": [
             "https://api.wemix.com",
             "wss://ws.wemix.com"
-        ]
+        ],
+        "blockNumber": 27609776
     },
     {
         "chainId": 1112,
@@ -4470,7 +4600,8 @@
         "rpc": [
             "https://rpc.coredao.org/",
             "https://rpc-core.icecreamswap.com"
-        ]
+        ],
+        "blockNumber": 6851277
     },
     {
         "chainId": 1117,
@@ -4530,7 +4661,8 @@
         "comment": "Symplexia Smart Chain",
         "rpc": [
             "https://plex-rpc.plexfinance.us"
-        ]
+        ],
+        "blockNumber": 327318
     },
     {
         "chainId": 1170,
@@ -4585,7 +4717,8 @@
         "comment": "Popcateum Mainnet",
         "rpc": [
             "https://dataseed.popcateum.org"
-        ]
+        ],
+        "blockNumber": 7895483
     },
     {
         "chainId": 1214,
@@ -4621,7 +4754,8 @@
         "comment": "Ultron Mainnet",
         "rpc": [
             "https://ultron-rpc.net"
-        ]
+        ],
+        "blockNumber": 7234028
     },
     {
         "chainId": 1234,
@@ -4630,7 +4764,8 @@
         "comment": "Step Network",
         "rpc": [
             "https://rpc.step.network"
-        ]
+        ],
+        "blockNumber": 11731092
     },
     {
         "chainId": 1243,
@@ -4639,7 +4774,8 @@
         "comment": "ARC Mainnet",
         "rpc": [
             "https://rpc-main-1.archiechain.io"
-        ]
+        ],
+        "blockNumber": 3271243
     },
     {
         "chainId": 1244,
@@ -4657,7 +4793,8 @@
         "comment": "OM Platform Mainnet",
         "rpc": [
             "https://rpc-cnx.omplatform.com/"
-        ]
+        ],
+        "blockNumber": 15613066
     },
     {
         "chainId": 1252,
@@ -4675,7 +4812,8 @@
         "comment": "HALO Mainnet",
         "rpc": [
             "https://nodes.halo.land"
-        ]
+        ],
+        "blockNumber": 15033297
     },
     {
         "chainId": 1284,
@@ -4685,7 +4823,8 @@
         "rpc": [
             "https://rpc.api.moonbeam.network",
             "wss://wss.api.moonbeam.network"
-        ]
+        ],
+        "blockNumber": 4362989
     },
     {
         "chainId": 1285,
@@ -4695,7 +4834,8 @@
         "rpc": [
             "https://rpc.api.moonriver.moonbeam.network",
             "wss://wss.api.moonriver.moonbeam.network"
-        ]
+        ],
+        "blockNumber": 5038016
     },
     {
         "chainId": 1286,
@@ -4773,7 +4913,8 @@
         "comment": "Alyx Mainnet",
         "rpc": [
             "https://rpc.alyxchain.com"
-        ]
+        ],
+        "blockNumber": 8967819
     },
     {
         "chainId": 1319,
@@ -4783,7 +4924,8 @@
         "rpc": [
             "https://walletrpc.aitd.io",
             "https://node.aitd.io"
-        ]
+        ],
+        "blockNumber": 22289894
     },
     {
         "chainId": 1320,
@@ -4819,7 +4961,8 @@
         "comment": "Elysium Mainnet",
         "rpc": [
             "https://rpc.elysiumchain.tech/"
-        ]
+        ],
+        "blockNumber": 6337353
     },
     {
         "chainId": 1353,
@@ -4828,7 +4971,8 @@
         "comment": "CIC Chain Mainnet",
         "rpc": [
             "https://xapi.cicscan.com"
-        ]
+        ],
+        "blockNumber": 560970
     },
     {
         "chainId": 1369,
@@ -4846,7 +4990,8 @@
         "comment": "Kalar Chain",
         "rpc": [
             "https://rpc-api.kalarchain.tech"
-        ]
+        ],
+        "blockNumber": 244753
     },
     {
         "chainId": 1388,
@@ -4855,7 +5000,8 @@
         "comment": "AmStar Mainnet",
         "rpc": [
             "https://mainnet-rpc.amstarscan.com"
-        ]
+        ],
+        "blockNumber": 7269036
     },
     {
         "chainId": 1392,
@@ -4864,7 +5010,8 @@
         "comment": "Joseon Mainnet",
         "rpc": [
             "https://rpc.modchain.net/blockchain.joseon.com/rpc"
-        ]
+        ],
+        "blockNumber": 1950782
     },
     {
         "chainId": 1402,
@@ -4887,7 +5034,8 @@
         "comment": "Rikeza Network Mainnet",
         "rpc": [
             "https://rpc.rikscan.com"
-        ]
+        ],
+        "blockNumber": 6403014
     },
     {
         "chainId": 1440,
@@ -4924,7 +5072,8 @@
         "comment": "Ctex Scan Blockchain",
         "rpc": [
             "https://mainnet-rpc.ctexscan.com/"
-        ]
+        ],
+        "blockNumber": 6554554
     },
     {
         "chainId": 1501,
@@ -4971,7 +5120,8 @@
         "rpc": [
             "https://rpc.tenet.org",
             "https://tenet-evm.publicnode.com"
-        ]
+        ],
+        "blockNumber": 3346542
     },
     {
         "chainId": 1618,
@@ -4989,7 +5139,8 @@
         "comment": "Atheios",
         "rpc": [
             "https://rpc.atheios.org/"
-        ]
+        ],
+        "blockNumber": 6447088
     },
     {
         "chainId": 1657,
@@ -5042,7 +5193,8 @@
         "comment": "TBSI Mainnet",
         "rpc": [
             "https://rpc.blockchain.or.th"
-        ]
+        ],
+        "blockNumber": 2764220
     },
     {
         "chainId": 1708,
@@ -5060,7 +5212,8 @@
         "comment": "Palette Chain Mainnet",
         "rpc": [
             "https://palette-rpc.com:22000"
-        ]
+        ],
+        "blockNumber": 4287901
     },
     {
         "chainId": 1773,
@@ -5070,7 +5223,8 @@
         "rpc": [
             "https://tea.mining4people.com/rpc",
             "http://172.104.194.36:8545"
-        ]
+        ],
+        "blockNumber": 1166428
     },
     {
         "chainId": 1777,
@@ -5079,7 +5233,8 @@
         "comment": "Gauss Mainnet",
         "rpc": [
             "https://rpc.gaussgang.com"
-        ]
+        ],
+        "blockNumber": 6943875
     },
     {
         "chainId": 1804,
@@ -5089,7 +5244,8 @@
         "rpc": [
             "https://cacib-saturn-test.francecentral.cloudapp.azure.com",
             "wss://cacib-saturn-test.francecentral.cloudapp.azure.com:9443"
-        ]
+        ],
+        "blockNumber": 5655685
     },
     {
         "chainId": 1807,
@@ -5112,7 +5268,8 @@
             "wss://ws-mainnet-sg.cube.network",
             "https://http-mainnet-us.cube.network",
             "wss://ws-mainnet-us.cube.network"
-        ]
+        ],
+        "blockNumber": 13115361
     },
     {
         "chainId": 1819,
@@ -5146,7 +5303,8 @@
         "comment": "WhiteBIT Network",
         "rpc": [
             "https://rpc.whitebit.network"
-        ]
+        ],
+        "blockNumber": 1393924
     },
     {
         "chainId": 1881,
@@ -5165,7 +5323,8 @@
         "rpc": [
             "https://replicator-01.phoenix.lightlink.io/rpc/v1",
             "https://replicator-02.phoenix.lightlink.io/rpc/v1"
-        ]
+        ],
+        "blockNumber": 37974644
     },
     {
         "chainId": 1891,
@@ -5194,7 +5353,8 @@
         "comment": "Bitcichain Mainnet",
         "rpc": [
             "https://rpc.bitci.com"
-        ]
+        ],
+        "blockNumber": 7392948
     },
     {
         "chainId": 1908,
@@ -5221,7 +5381,8 @@
         "comment": "D-Chain Mainnet",
         "rpc": [
             "https://mainnet.d-chain.network/ext/bc/2ZiR1Bro5E59siVuwdNuRFzqL95NkvkbzyLBdrsYR9BLSHV7H4/rpc"
-        ]
+        ],
+        "blockNumber": 744
     },
     {
         "chainId": 1954,
@@ -5268,7 +5429,8 @@
         "rpc": [
             "https://1971.network/atlr",
             "wss://1971.network/atlr"
-        ]
+        ],
+        "blockNumber": 1924328
     },
     {
         "chainId": 1975,
@@ -5278,7 +5440,8 @@
         "rpc": [
             "https://rpc.onuschain.io",
             "wss://ws.onuschain.io"
-        ]
+        ],
+        "blockNumber": 8677505
     },
     {
         "chainId": 1984,
@@ -5296,7 +5459,8 @@
         "comment": "EtherGem",
         "rpc": [
             "https://jsonrpc.egem.io/custom"
-        ]
+        ],
+        "blockNumber": 13802664
     },
     {
         "chainId": 1994,
@@ -5305,7 +5469,8 @@
         "comment": "Ekta",
         "rpc": [
             "https://main.ekta.io"
-        ]
+        ],
+        "blockNumber": 2530383
     },
     {
         "chainId": 1995,
@@ -5326,7 +5491,8 @@
             "https://rpc.dogechain.dog",
             "https://rpc01-sg.dogechain.dog",
             "https://rpc.ankr.com/dogechain"
-        ]
+        ],
+        "blockNumber": 16678610
     },
     {
         "chainId": 2001,
@@ -5336,7 +5502,8 @@
         "rpc": [
             "https://rpc-mainnet-cardano-evm.c1.milkomeda.com",
             "wss://rpc-mainnet-cardano-evm.c1.milkomeda.com"
-        ]
+        ],
+        "blockNumber": 15408412
     },
     {
         "chainId": 2002,
@@ -5346,7 +5513,8 @@
         "rpc": [
             "https://rpc-mainnet-algorand-rollup.a1.milkomeda.com",
             "wss://rpc-mainnet-algorand-rollup.a1.milkomeda.com/ws"
-        ]
+        ],
+        "blockNumber": 26083
     },
     {
         "chainId": 2008,
@@ -5369,7 +5537,8 @@
         "comment": "MainnetZ Mainnet",
         "rpc": [
             "https://mainnet-rpc.mainnetz.io"
-        ]
+        ],
+        "blockNumber": 6857093
     },
     {
         "chainId": 2018,
@@ -5396,7 +5565,8 @@
         "comment": "PublicMint Mainnet",
         "rpc": [
             "https://rpc.publicmint.io:8545"
-        ]
+        ],
+        "blockNumber": 26998491
     },
     {
         "chainId": 2021,
@@ -5414,7 +5584,8 @@
             "wss://mainnet3.edgewa.re",
             "wss://mainnet4.edgewa.re",
             "wss://mainnet5.edgewa.re"
-        ]
+        ],
+        "blockNumber": 18577410
     },
     {
         "chainId": 2022,
@@ -5442,7 +5613,8 @@
         "comment": "Rangers Protocol Mainnet",
         "rpc": [
             "https://mainnet.rangersprotocol.com/api/jsonrpc"
-        ]
+        ],
+        "blockNumber": 47672357
     },
     {
         "chainId": 2031,
@@ -5469,7 +5641,8 @@
         "comment": "Kiwi Subnet",
         "rpc": [
             "https://subnets.avax.network/kiwi/testnet/rpc"
-        ]
+        ],
+        "blockNumber": 46
     },
     {
         "chainId": 2038,
@@ -5488,7 +5661,8 @@
         "rpc": [
             "https://astrosat.origintrail.network",
             "wss://parachain-rpc.origin-trail.network"
-        ]
+        ],
+        "blockNumber": 3189927
     },
     {
         "chainId": 2044,
@@ -5497,7 +5671,8 @@
         "comment": "Shrapnel Subnet",
         "rpc": [
             "https://subnets.avax.network/shrapnel/mainnet/rpc"
-        ]
+        ],
+        "blockNumber": 20998
     },
     {
         "chainId": 2047,
@@ -5568,7 +5743,8 @@
         "rpc": [
             "https://rpc.exosama.com",
             "wss://rpc.exosama.com"
-        ]
+        ],
+        "blockNumber": 5491162
     },
     {
         "chainId": 2122,
@@ -5616,7 +5792,8 @@
         "rpc": [
             "https://mainnet.bosagora.org",
             "https://rpc.bosagora.org"
-        ]
+        ],
+        "blockNumber": 2875879
     },
     {
         "chainId": 2152,
@@ -5625,7 +5802,8 @@
         "comment": "Findora Mainnet",
         "rpc": [
             "https://rpc-mainnet.findora.org"
-        ]
+        ],
+        "blockNumber": 4532991
     },
     {
         "chainId": 2153,
@@ -5653,7 +5831,8 @@
         "rpc": [
             "https://rpc.moonsama.com",
             "wss://rpc.moonsama.com/ws"
-        ]
+        ],
+        "blockNumber": 286906
     },
     {
         "chainId": 2202,
@@ -5662,7 +5841,8 @@
         "comment": "Antofy Mainnet",
         "rpc": [
             "https://rpc.antofy.io"
-        ]
+        ],
+        "blockNumber": 1530154
     },
     {
         "chainId": 2203,
@@ -5671,7 +5851,8 @@
         "comment": "Bitcoin EVM",
         "rpc": [
             "https://connect.bitcoinevm.com"
-        ]
+        ],
+        "blockNumber": 6283186
     },
     {
         "chainId": 2213,
@@ -5680,7 +5861,8 @@
         "comment": "Evanesco Mainnet",
         "rpc": [
             "https://seed4.evanesco.org:8546"
-        ]
+        ],
+        "blockNumber": 10403257
     },
     {
         "chainId": 2221,
@@ -5706,7 +5888,8 @@
             "wss://wevm.kava.io",
             "wss://wevm2.kava.io",
             "https://kava-evm.publicnode.com"
-        ]
+        ],
+        "blockNumber": 6340758
     },
     {
         "chainId": 2223,
@@ -5724,7 +5907,8 @@
         "comment": "BOMB Chain",
         "rpc": [
             "https://rpc.bombchain.com"
-        ]
+        ],
+        "blockNumber": 7648909
     },
     {
         "chainId": 2309,
@@ -5753,7 +5937,8 @@
         "comment": "Altcoinchain",
         "rpc": [
             "https://rpc0.altcoinchain.org/rpc"
-        ]
+        ],
+        "blockNumber": 1793821
     },
     {
         "chainId": 2332,
@@ -5765,7 +5950,8 @@
             "https://id-mainnet.somanetwork.io",
             "https://hk-mainnet.somanetwork.io",
             "https://sg-mainnet.somanetwork.io"
-        ]
+        ],
+        "blockNumber": 128569
     },
     {
         "chainId": 2357,
@@ -5783,7 +5969,8 @@
         "comment": "Kroma Sepolia",
         "rpc": [
             "https://api.sepolia.kroma.network"
-        ]
+        ],
+        "blockNumber": 2567815
     },
     {
         "chainId": 2399,
@@ -5801,7 +5988,8 @@
         "comment": "TCG Verse Mainnet",
         "rpc": [
             "https://rpc.tcgverse.xyz"
-        ]
+        ],
+        "blockNumber": 9346200
     },
     {
         "chainId": 2415,
@@ -5811,7 +5999,8 @@
         "rpc": [
             "https://mainnet.xo-dex.com/rpc",
             "https://xo-dex.io"
-        ]
+        ],
+        "blockNumber": 6687324
     },
     {
         "chainId": 2484,
@@ -5829,7 +6018,8 @@
         "comment": "Kortho Mainnet",
         "rpc": [
             "https://www.kortho-chain.com"
-        ]
+        ],
+        "blockNumber": 64074776
     },
     {
         "chainId": 2569,
@@ -5848,7 +6038,8 @@
         "rpc": [
             "https://pocrnet.westeurope.cloudapp.azure.com/http",
             "wss://pocrnet.westeurope.cloudapp.azure.com/ws"
-        ]
+        ],
+        "blockNumber": 4188922
     },
     {
         "chainId": 2611,
@@ -5857,7 +6048,8 @@
         "comment": "Redlight Chain Mainnet",
         "rpc": [
             "https://dataseed2.redlightscan.finance"
-        ]
+        ],
+        "blockNumber": 13402169
     },
     {
         "chainId": 2612,
@@ -5912,7 +6104,8 @@
         "comment": "BitYuan Mainnet",
         "rpc": [
             "https://mainnet.bityuan.com/eth"
-        ]
+        ],
+        "blockNumber": 28463971
     },
     {
         "chainId": 3000,
@@ -5928,7 +6121,8 @@
         "comment": "CENNZnet Nikau",
         "rpc": [
             "https://nikau.centrality.me/public"
-        ]
+        ],
+        "blockNumber": 10838528
     },
     {
         "chainId": 3003,
@@ -5937,7 +6131,8 @@
         "comment": "Canxium Mainnet",
         "rpc": [
             "https://rpc.canxium.org"
-        ]
+        ],
+        "blockNumber": 1270689
     },
     {
         "chainId": 3011,
@@ -5946,7 +6141,8 @@
         "comment": "PLAYA3ULL GAMES",
         "rpc": [
             "https://api.mainnet.playa3ull.games"
-        ]
+        ],
+        "blockNumber": 48872
     },
     {
         "chainId": 3031,
@@ -5965,7 +6161,8 @@
         "rpc": [
             "https://public-01.mainnet.thebifrost.io/rpc",
             "https://public-02.mainnet.thebifrost.io/rpc"
-        ]
+        ],
+        "blockNumber": 6745050
     },
     {
         "chainId": 3141,
@@ -5981,7 +6178,8 @@
         "comment": "Dubxcoin network",
         "rpc": [
             "https://rpcmain.arabianchain.org"
-        ]
+        ],
+        "blockNumber": 1829795
     },
     {
         "chainId": 3270,
@@ -6026,7 +6224,8 @@
         "comment": "Web3Q Galileo",
         "rpc": [
             "https://galileo.web3q.io:8545"
-        ]
+        ],
+        "blockNumber": 8251966
     },
     {
         "chainId": 3400,
@@ -6035,7 +6234,8 @@
         "comment": "Paribu Net Mainnet",
         "rpc": [
             "https://rpc.paribu.network"
-        ]
+        ],
+        "blockNumber": 9386410
     },
     {
         "chainId": 3434,
@@ -6062,7 +6262,8 @@
         "comment": "JFIN Chain",
         "rpc": [
             "https://rpc.jfinchain.com"
-        ]
+        ],
+        "blockNumber": 11931487
     },
     {
         "chainId": 3601,
@@ -6071,7 +6272,8 @@
         "comment": "PandoProject Mainnet",
         "rpc": [
             "https://eth-rpc-api.pandoproject.org/rpc"
-        ]
+        ],
+        "blockNumber": 8307597
     },
     {
         "chainId": 3602,
@@ -6107,7 +6309,8 @@
         "comment": "Jouleverse Mainnet",
         "rpc": [
             "https://rpc.jnsdao.com:8503"
-        ]
+        ],
+        "blockNumber": 1922382
     },
     {
         "chainId": 3690,
@@ -6126,7 +6329,8 @@
         "comment": "Empire Network",
         "rpc": [
             "https://rpc.empirenetwork.io"
-        ]
+        ],
+        "blockNumber": 11952486
     },
     {
         "chainId": 3698,
@@ -6144,7 +6348,8 @@
         "comment": "SenjePowers Mainnet",
         "rpc": [
             "https://rpc.senjepowersscan.com"
-        ]
+        ],
+        "blockNumber": 1525680
     },
     {
         "chainId": 3701,
@@ -6162,7 +6367,8 @@
         "comment": "Crossbell",
         "rpc": [
             "https://rpc.crossbell.io"
-        ]
+        ],
+        "blockNumber": 43485717
     },
     {
         "chainId": 3797,
@@ -6181,7 +6387,8 @@
         "comment": "KalyChain Mainnet",
         "rpc": [
             "https://rpc.kalychain.io/rpc"
-        ]
+        ],
+        "blockNumber": 6841446
     },
     {
         "chainId": 3889,
@@ -6208,7 +6415,8 @@
         "comment": "DOS Tesnet",
         "rpc": [
             "https://test.doschain.com"
-        ]
+        ],
+        "blockNumber": 32260
     },
     {
         "chainId": 3966,
@@ -6235,7 +6443,8 @@
         "comment": "YuanChain Mainnet",
         "rpc": [
             "https://mainnet.yuan.org/eth"
-        ]
+        ],
+        "blockNumber": 43405127
     },
     {
         "chainId": 4000,
@@ -6244,7 +6453,8 @@
         "comment": "Ozone Chain Mainnet",
         "rpc": [
             "https://node1.ozonechain.io"
-        ]
+        ],
+        "blockNumber": 3893178
     },
     {
         "chainId": 4001,
@@ -6346,7 +6556,8 @@
         "rpc": [
             "https://rpc1.phi.network",
             "https://rpc2.phi.network"
-        ]
+        ],
+        "blockNumber": 3417770
     },
     {
         "chainId": 4201,
@@ -6367,7 +6578,8 @@
             "https://rpc.chain.nexi.technology/",
             "https://chain.nexilix.com",
             "https://chain.nexi.evmnode.online"
-        ]
+        ],
+        "blockNumber": 1409149
     },
     {
         "chainId": 4328,
@@ -6387,7 +6599,8 @@
         "comment": "Beam",
         "rpc": [
             "https://subnets.avax.network/beam/mainnet/rpc"
-        ]
+        ],
+        "blockNumber": 8675
     },
     {
         "chainId": 4444,
@@ -6414,7 +6627,8 @@
         "comment": "IoTeX Network Mainnet",
         "rpc": [
             "https://babel-api.mainnet.iotex.io"
-        ]
+        ],
+        "blockNumber": 25628166
     },
     {
         "chainId": 4690,
@@ -6459,7 +6673,8 @@
         "comment": "Venidium Mainnet",
         "rpc": [
             "https://rpc.venidium.io"
-        ]
+        ],
+        "blockNumber": 6740264
     },
     {
         "chainId": 4999,
@@ -6471,7 +6686,8 @@
             "https://mainnet-1.blackfort.network/rpc",
             "https://mainnet-2.blackfort.network/rpc",
             "https://mainnet-3.blackfort.network/rpc"
-        ]
+        ],
+        "blockNumber": 3659602
     },
     {
         "chainId": 5000,
@@ -6481,7 +6697,8 @@
         "rpc": [
             "https://rpc.mantle.xyz",
             "https://mantle.publicnode.com"
-        ]
+        ],
+        "blockNumber": 4805396
     },
     {
         "chainId": 5001,
@@ -6543,7 +6760,8 @@
         "rpc": [
             "https://mainnet.eraswap.network",
             "https://rpc-mumbai.mainnet.eraswap.network"
-        ]
+        ],
+        "blockNumber": 15352961
     },
     {
         "chainId": 5234,
@@ -6552,7 +6770,8 @@
         "comment": "Humanode Mainnet",
         "rpc": [
             "https://explorer-rpc-http.mainnet.stages.humanode.io"
-        ]
+        ],
+        "blockNumber": 4169354
     },
     {
         "chainId": 5290,
@@ -6589,7 +6808,8 @@
         "comment": "Nahmii Mainnet",
         "rpc": [
             "https://l2.nahmii.io"
-        ]
+        ],
+        "blockNumber": 37846
     },
     {
         "chainId": 5553,
@@ -6607,7 +6827,8 @@
         "comment": "Chain Verse Mainnet",
         "rpc": [
             "https://rpc.chainverse.info"
-        ]
+        ],
+        "blockNumber": 6465761
     },
     {
         "chainId": 5611,
@@ -6635,7 +6856,8 @@
         "rpc": [
             "https://fraa-dancebox-3001-rpc.a.dancebox.tanssi.network",
             "wss://fraa-dancebox-3001-rpc.a.dancebox.tanssi.network"
-        ]
+        ],
+        "blockNumber": 177696
     },
     {
         "chainId": 5700,
@@ -6699,7 +6921,8 @@
         "rpc": [
             "https://proxy.wegochain.io",
             "http://wallet.wegochain.io:7764"
-        ]
+        ],
+        "blockNumber": 124117819
     },
     {
         "chainId": 6065,
@@ -6718,7 +6941,8 @@
         "rpc": [
             "https://rpc.tresleches.finance/",
             "https://rpc.treschain.io/"
-        ]
+        ],
+        "blockNumber": 1012276
     },
     {
         "chainId": 6102,
@@ -6745,7 +6969,8 @@
         "comment": "UPTN",
         "rpc": [
             "https://node-api.uptn.io/v1/ext/rpc"
-        ]
+        ],
+        "blockNumber": 651877
     },
     {
         "chainId": 6502,
@@ -6784,7 +7009,8 @@
         "rpc": [
             "https://http-mainnet.chain.pixie.xyz",
             "wss://ws-mainnet.chain.pixie.xyz"
-        ]
+        ],
+        "blockNumber": 21200508
     },
     {
         "chainId": 6688,
@@ -6794,7 +7020,8 @@
         "rpc": [
             "https://evmrpc.irishub-1.irisnet.org",
             "https://iris-evm.publicnode.com"
-        ]
+        ],
+        "blockNumber": 21456208
     },
     {
         "chainId": 6789,
@@ -6803,7 +7030,8 @@
         "comment": "Gold Smart Chain Mainnet",
         "rpc": [
             "https://rpc-mainnet.goldsmartchain.com"
-        ]
+        ],
+        "blockNumber": 7740778
     },
     {
         "chainId": 6969,
@@ -6812,7 +7040,8 @@
         "comment": "Tomb Chain Mainnet",
         "rpc": [
             "https://rpc.tombchain.com/"
-        ]
+        ],
+        "blockNumber": 3394426
     },
     {
         "chainId": 6999,
@@ -6823,7 +7052,8 @@
             "https://seed0.polysmartchain.com/",
             "https://seed1.polysmartchain.com/",
             "https://seed2.polysmartchain.com/"
-        ]
+        ],
+        "blockNumber": 12012410
     },
     {
         "chainId": 7000,
@@ -6850,7 +7080,8 @@
         "comment": "Ella the heart",
         "rpc": [
             "https://rpc.ella.network"
-        ]
+        ],
+        "blockNumber": 651991
     },
     {
         "chainId": 7070,
@@ -6859,7 +7090,8 @@
         "comment": "Planq Mainnet",
         "rpc": [
             "https://evm-rpc.planq.network"
-        ]
+        ],
+        "blockNumber": 4803093
     },
     {
         "chainId": 7171,
@@ -6868,7 +7100,8 @@
         "comment": "Bitrock Mainnet",
         "rpc": [
             "https://connect.bit-rock.io"
-        ]
+        ],
+        "blockNumber": 2227588
     },
     {
         "chainId": 7331,
@@ -6888,7 +7121,8 @@
         "rpc": [
             "https://eon-rpc.horizenlabs.io/ethv1",
             "https://rpc.ankr.com/horizen_eon"
-        ]
+        ],
+        "blockNumber": 307110
     },
     {
         "chainId": 7341,
@@ -6897,7 +7131,8 @@
         "comment": "Shyft Mainnet",
         "rpc": [
             "https://rpc.shyft.network/"
-        ]
+        ],
+        "blockNumber": 12256711
     },
     {
         "chainId": 7484,
@@ -6916,7 +7151,8 @@
         "comment": "MEVerse Chain Mainnet",
         "rpc": [
             "https://rpc.meversemainnet.io"
-        ]
+        ],
+        "blockNumber": 97359387
     },
     {
         "chainId": 7575,
@@ -6934,7 +7170,8 @@
         "comment": "Adil Chain V2 Mainnet",
         "rpc": [
             "https://adilchain-rpc.io"
-        ]
+        ],
+        "blockNumber": 2601056
     },
     {
         "chainId": 7668,
@@ -6944,7 +7181,8 @@
         "rpc": [
             "https://root.rootnet.live/archive",
             "wss://root.rootnet.live/archive/ws"
-        ]
+        ],
+        "blockNumber": 7329122
     },
     {
         "chainId": 7672,
@@ -6965,7 +7203,8 @@
             "https://canto.slingshot.finance",
             "https://canto.neobase.one",
             "https://mainnode.plexnode.org:8545"
-        ]
+        ],
+        "blockNumber": 5827082
     },
     {
         "chainId": 7701,
@@ -6974,7 +7213,8 @@
         "comment": "Canto Tesnet",
         "rpc": [
             "https://testnet-archive.plexnode.wtf"
-        ]
+        ],
+        "blockNumber": 3385537
     },
     {
         "chainId": 7771,
@@ -7024,7 +7264,8 @@
         "comment": "DOS Chain",
         "rpc": [
             "https://main.doschain.com"
-        ]
+        ],
+        "blockNumber": 82672
     },
     {
         "chainId": 8000,
@@ -7078,7 +7319,8 @@
         "comment": "Shardeum Sphinx 1.X",
         "rpc": [
             "https://sphinx.shardeum.org/"
-        ]
+        ],
+        "blockNumber": 1004305
     },
     {
         "chainId": 8086,
@@ -7160,7 +7402,8 @@
         "comment": "Klaytn Mainnet Cypress",
         "rpc": [
             "https://public-node-api.klaytnapi.com/v1/cypress"
-        ]
+        ],
+        "blockNumber": 131882917
     },
     {
         "chainId": 8272,
@@ -7200,7 +7443,8 @@
             "https://base.gateway.tenderly.co",
             "wss://base.gateway.tenderly.co",
             "https://base.publicnode.com"
-        ]
+        ],
+        "blockNumber": 3527819
     },
     {
         "chainId": 8654,
@@ -7209,7 +7453,8 @@
         "comment": "Toki Network",
         "rpc": [
             "https://mainnet.buildwithtoki.com/v0/rpc"
-        ]
+        ],
+        "blockNumber": 515
     },
     {
         "chainId": 8655,
@@ -7246,7 +7491,8 @@
         "rpc": [
             "https://rpc.alph.network",
             "wss://rpc.alph.network"
-        ]
+        ],
+        "blockNumber": 3181492
     },
     {
         "chainId": 8768,
@@ -7255,7 +7501,8 @@
         "comment": "TMY Chain",
         "rpc": [
             "https://node1.tmyblockchain.org/rpc"
-        ]
+        ],
+        "blockNumber": 7344417
     },
     {
         "chainId": 8848,
@@ -7264,7 +7511,8 @@
         "comment": "MARO Blockchain Mainnet",
         "rpc": [
             "https://rpc-mainnet.ma.ro"
-        ]
+        ],
+        "blockNumber": 44991697
     },
     {
         "chainId": 8880,
@@ -7276,7 +7524,8 @@
             "https://eu-rpc.unique.network",
             "https://asia-rpc.unique.network",
             "https://us-rpc.unique.network"
-        ]
+        ],
+        "blockNumber": 3159344
     },
     {
         "chainId": 8881,
@@ -7289,7 +7538,8 @@
             "https://eu-rpc-quartz.unique.network",
             "https://asia-rpc-quartz.unique.network",
             "https://us-rpc-quartz.unique.network"
-        ]
+        ],
+        "blockNumber": 3921902
     },
     {
         "chainId": 8882,
@@ -7313,7 +7563,8 @@
             "https://us-rpc-sapphire.unique.network",
             "https://eu-rpc-sapphire.unique.network",
             "https://asia-rpc-sapphire.unique.network"
-        ]
+        ],
+        "blockNumber": 2046567
     },
     {
         "chainId": 8888,
@@ -7322,7 +7573,8 @@
         "comment": "XANAChain",
         "rpc": [
             "https://mainnet.xana.net/rpc"
-        ]
+        ],
+        "blockNumber": 1969239
     },
     {
         "chainId": 8889,
@@ -7331,7 +7583,8 @@
         "comment": "Vyvo Smart Chain",
         "rpc": [
             "https://vsc-dataseed.vyvo.org:8889"
-        ]
+        ],
+        "blockNumber": 2223087
     },
     {
         "chainId": 8898,
@@ -7342,7 +7595,8 @@
             "https://dataseed.mmtscan.io",
             "https://dataseed1.mmtscan.io",
             "https://dataseed2.mmtscan.io"
-        ]
+        ],
+        "blockNumber": 15250608
     },
     {
         "chainId": 8899,
@@ -7351,7 +7605,8 @@
         "comment": "JIBCHAIN L1",
         "rpc": [
             "https://rpc-l1.jibchain.net"
-        ]
+        ],
+        "blockNumber": 1645470
     },
     {
         "chainId": 8989,
@@ -7360,7 +7615,8 @@
         "comment": "Giant Mammoth Mainnet",
         "rpc": [
             "https://rpc-asia.gmmtchain.io"
-        ]
+        ],
+        "blockNumber": 7043385
     },
     {
         "chainId": 8995,
@@ -7369,7 +7625,8 @@
         "comment": "bloxberg",
         "rpc": [
             "https://core.bloxberg.org"
-        ]
+        ],
+        "blockNumber": 21924910
     },
     {
         "chainId": 9000,
@@ -7387,7 +7644,8 @@
         "comment": "Evmos",
         "rpc": [
             "https://evmos-evm.publicnode.com"
-        ]
+        ],
+        "blockNumber": 15673074
     },
     {
         "chainId": 9012,
@@ -7422,7 +7680,8 @@
         "comment": "Codefin Mainnet",
         "rpc": [
             "https://chain-rpc.codefin.pro"
-        ]
+        ],
+        "blockNumber": 1287540
     },
     {
         "chainId": 9339,
@@ -7506,7 +7765,8 @@
         "comment": "Carbon EVM",
         "rpc": [
             "https://evm-api.carbon.network/"
-        ]
+        ],
+        "blockNumber": 46685123
     },
     {
         "chainId": 9792,
@@ -7535,7 +7795,8 @@
         "rpc": [
             "https://data-aws-mainnet.imperiumchain.com",
             "https://data-aws2-mainnet.imperiumchain.com"
-        ]
+        ],
+        "blockNumber": 222634
     },
     {
         "chainId": 9977,
@@ -7556,7 +7817,8 @@
             "https://rpc-msc.mindchain.info/",
             "https://seednode.mindchain.info",
             "wss://seednode.mindchain.info/ws"
-        ]
+        ],
+        "blockNumber": 1063330
     },
     {
         "chainId": 9997,
@@ -7586,7 +7848,8 @@
             "https://rpc-mainnet.smartbch.org",
             "https://smartbch.fountainhead.cash/mainnet",
             "https://smartbch.devops.cash/mainnet"
-        ]
+        ],
+        "blockNumber": 11359919
     },
     {
         "chainId": 10001,
@@ -7609,7 +7872,8 @@
             "https://node2.mainnet.gon.network",
             "https://node3.mainnet.gon.network",
             "https://node4.mainnet.gon.network"
-        ]
+        ],
+        "blockNumber": 35878545
     },
     {
         "chainId": 10081,
@@ -7661,7 +7925,8 @@
             "https://rpc.maxxchain.org",
             "https://rpc1.maxxchain.org",
             "https://rpc2.maxxchain.org"
-        ]
+        ],
+        "blockNumber": 346687
     },
     {
         "chainId": 10243,
@@ -7697,7 +7962,8 @@
         "comment": "Numbers Mainnet",
         "rpc": [
             "https://mainnetrpc.num.network"
-        ]
+        ],
+        "blockNumber": 334686
     },
     {
         "chainId": 10508,
@@ -7727,7 +7993,8 @@
             "https://rpc.quadrans.io",
             "https://rpcna.quadrans.io",
             "https://rpceu.quadrans.io"
-        ]
+        ],
+        "blockNumber": 28358529
     },
     {
         "chainId": 10947,
@@ -7747,7 +8014,8 @@
         "rpc": [
             "https://rpc.astranaut.io",
             "https://rpc1.astranaut.io"
-        ]
+        ],
+        "blockNumber": 5951262
     },
     {
         "chainId": 11111,
@@ -7775,7 +8043,8 @@
         "rpc": [
             "https://mainnet-rpc.hashbit.org",
             "https://rpc.hashbit.org"
-        ]
+        ],
+        "blockNumber": 5006287
     },
     {
         "chainId": 11235,
@@ -7785,7 +8054,8 @@
         "rpc": [
             "https://rpc.eth.haqq.network",
             "https://haqq-evm.publicnode.com"
-        ]
+        ],
+        "blockNumber": 7456103
     },
     {
         "chainId": 11437,
@@ -7810,7 +8080,8 @@
         "comment": "SanR Chain",
         "rpc": [
             "https://sanrchain-node.santiment.net"
-        ]
+        ],
+        "blockNumber": 47331600
     },
     {
         "chainId": 11891,
@@ -7819,7 +8090,8 @@
         "comment": "Polygon Supernet Arianee",
         "rpc": [
             "https://rpc.polygonsupernet.public.arianee.net"
-        ]
+        ],
+        "blockNumber": 2103183
     },
     {
         "chainId": 12009,
@@ -7828,7 +8100,8 @@
         "comment": "SatoshiChain Mainnet",
         "rpc": [
             "https://mainnet-rpc.satoshichain.io"
-        ]
+        ],
+        "blockNumber": 4169634
     },
     {
         "chainId": 12051,
@@ -7855,7 +8128,8 @@
         "comment": "BRC Chain Mainnet",
         "rpc": [
             "https://rpc.brcchain.io"
-        ]
+        ],
+        "blockNumber": 4375957
     },
     {
         "chainId": 12306,
@@ -7877,7 +8151,8 @@
             "https://node5.fibo-rpc.asia",
             "https://node6.fibo-rpc.asia",
             "https://node7.fibo-rpc.asia"
-        ]
+        ],
+        "blockNumber": 14945786
     },
     {
         "chainId": 12321,
@@ -7940,7 +8215,8 @@
         "comment": "Phoenix Mainnet",
         "rpc": [
             "https://rpc.phoenixplorer.com/"
-        ]
+        ],
+        "blockNumber": 4468095
     },
     {
         "chainId": 13812,
@@ -7976,7 +8252,8 @@
         "comment": "LoopNetwork Mainnet",
         "rpc": [
             "https://api.mainnetloop.com"
-        ]
+        ],
+        "blockNumber": 12743875
     },
     {
         "chainId": 15555,
@@ -8021,7 +8298,8 @@
         "comment": "Genesys Mainnet",
         "rpc": [
             "https://rpc.genesys.network"
-        ]
+        ],
+        "blockNumber": 3694262
     },
     {
         "chainId": 16688,
@@ -8039,7 +8317,8 @@
         "comment": "AirDAO Mainnet",
         "rpc": [
             "https://network.ambrosus.io"
-        ]
+        ],
+        "blockNumber": 26453078
     },
     {
         "chainId": 16888,
@@ -8075,7 +8354,8 @@
         "comment": "EOS EVM Network",
         "rpc": [
             "https://api.evm.eosnetwork.com"
-        ]
+        ],
+        "blockNumber": 13184127
     },
     {
         "chainId": 18000,
@@ -8093,7 +8373,8 @@
         "comment": "Smart Trade Networks",
         "rpc": [
             "https://beefledgerwallet.com:8544"
-        ]
+        ],
+        "blockNumber": 6876851
     },
     {
         "chainId": 18159,
@@ -8114,7 +8395,8 @@
         "comment": "MXC zkEVM Mainnet",
         "rpc": [
             "https://rpc.mxc.com"
-        ]
+        ],
+        "blockNumber": 34384
     },
     {
         "chainId": 19011,
@@ -8123,7 +8405,8 @@
         "comment": "HOME Verse Mainnet",
         "rpc": [
             "https://rpc.mainnet.oasys.homeverse.games/"
-        ]
+        ],
+        "blockNumber": 100136
     },
     {
         "chainId": 19845,
@@ -8141,7 +8424,8 @@
         "comment": "Camelark Mainnet",
         "rpc": [
             "https://mainnet-http-rpc.camelark.com"
-        ]
+        ],
+        "blockNumber": 79107
     },
     {
         "chainId": 20729,
@@ -8159,7 +8443,8 @@
         "comment": "P12 Chain",
         "rpc": [
             "https://rpc-chain.p12.games"
-        ]
+        ],
+        "blockNumber": 29302
     },
     {
         "chainId": 21337,
@@ -8168,7 +8453,8 @@
         "comment": "CENNZnet Azalea",
         "rpc": [
             "https://cennznet.unfrastructure.io/public"
-        ]
+        ],
+        "blockNumber": 21306095
     },
     {
         "chainId": 21816,
@@ -8204,7 +8490,8 @@
         "comment": "Nautilus Mainnet",
         "rpc": [
             "https://api.nautilus.nautchain.xyz"
-        ]
+        ],
+        "blockNumber": 5149703
     },
     {
         "chainId": 22776,
@@ -8213,7 +8500,8 @@
         "comment": "MAP Mainnet",
         "rpc": [
             "https://rpc.maplabs.io"
-        ]
+        ],
+        "blockNumber": 7411314
     },
     {
         "chainId": 23006,
@@ -8241,7 +8529,8 @@
         "rpc": [
             "https://sapphire.oasis.io",
             "wss://sapphire.oasis.io/ws"
-        ]
+        ],
+        "blockNumber": 832880
     },
     {
         "chainId": 23295,
@@ -8267,7 +8556,8 @@
         "comment": "MintMe.com Coin",
         "rpc": [
             "https://node1.mintme.com"
-        ]
+        ],
+        "blockNumber": 5427663
     },
     {
         "chainId": 25888,
@@ -8276,7 +8566,8 @@
         "comment": "Hammer Chain Mainnet",
         "rpc": [
             "https://www.hammerchain.io/rpc"
-        ]
+        ],
+        "blockNumber": 7466985
     },
     {
         "chainId": 25925,
@@ -8315,7 +8606,8 @@
             "https://rpc1.oasischain.io",
             "https://rpc2.oasischain.io",
             "https://rpc3.oasischain.io"
-        ]
+        ],
+        "blockNumber": 8106006
     },
     {
         "chainId": 28528,
@@ -8354,7 +8646,8 @@
         "comment": "CloudTx Mainnet",
         "rpc": [
             "https://mainnet-rpc.cloudtx.finance"
-        ]
+        ],
+        "blockNumber": 7616793
     },
     {
         "chainId": 31224,
@@ -8391,7 +8684,8 @@
             "https://mainnet-rpc.brisescan.com",
             "https://chainrpc.com",
             "https://serverrpc.com"
-        ]
+        ],
+        "blockNumber": 3267661
     },
     {
         "chainId": 32659,
@@ -8401,7 +8695,8 @@
         "rpc": [
             "https://mainnet.fusionnetwork.io",
             "wss://mainnet.fusionnetwork.io"
-        ]
+        ],
+        "blockNumber": 10073253
     },
     {
         "chainId": 32769,
@@ -8410,7 +8705,8 @@
         "comment": "Zilliqa EVM",
         "rpc": [
             "https://api.zilliqa.com"
-        ]
+        ],
+        "blockNumber": 3154050
     },
     {
         "chainId": 33101,
@@ -8428,7 +8724,8 @@
         "comment": "Aves Mainnet",
         "rpc": [
             "https://rpc.avescoin.io"
-        ]
+        ],
+        "blockNumber": 1827774
     },
     {
         "chainId": 35011,
@@ -8437,7 +8734,8 @@
         "comment": "J2O Taro",
         "rpc": [
             "https://rpc.j2o.io"
-        ]
+        ],
+        "blockNumber": 7690060
     },
     {
         "chainId": 35441,
@@ -8446,7 +8744,8 @@
         "comment": "Q Mainnet",
         "rpc": [
             "https://rpc.q.org"
-        ]
+        ],
+        "blockNumber": 9146294
     },
     {
         "chainId": 35443,
@@ -8464,7 +8763,8 @@
         "comment": "ConnectorManager Robin",
         "rpc": [
             "https://robin-cm.rangersprotocol.com/api/jsonrpc"
-        ]
+        ],
+        "blockNumber": 9344
     },
     {
         "chainId": 39797,
@@ -8473,7 +8773,8 @@
         "comment": "Energi Mainnet",
         "rpc": [
             "https://nodeapi.energi.network"
-        ]
+        ],
+        "blockNumber": 1831642
     },
     {
         "chainId": 39815,
@@ -8520,7 +8821,8 @@
         "rpc": [
             "https://nova.arbitrum.io/rpc",
             "https://arbitrum-nova.publicnode.com"
-        ]
+        ],
+        "blockNumber": 20253310
     },
     {
         "chainId": 42220,
@@ -8530,7 +8832,8 @@
         "rpc": [
             "https://forno.celo.org",
             "wss://forno.celo.org/ws"
-        ]
+        ],
+        "blockNumber": 21235388
     },
     {
         "chainId": 42261,
@@ -8550,7 +8853,8 @@
         "rpc": [
             "https://emerald.oasis.dev",
             "wss://emerald.oasis.dev/ws"
-        ]
+        ],
+        "blockNumber": 7031087
     },
     {
         "chainId": 42888,
@@ -8588,7 +8892,8 @@
         "rpc": [
             "https://api.avax.network/ext/bc/C/rpc",
             "https://avalanche-c-chain.publicnode.com"
-        ]
+        ],
+        "blockNumber": 34767098
     },
     {
         "chainId": 43288,
@@ -8600,7 +8905,8 @@
             "wss://wss.avax.boba.network",
             "https://replica.avax.boba.network",
             "wss://replica-wss.avax.boba.network"
-        ]
+        ],
+        "blockNumber": 94046
     },
     {
         "chainId": 44444,
@@ -8648,7 +8954,8 @@
         "rpc": [
             "https://rpc.rei.network",
             "wss://rpc.rei.network"
-        ]
+        ],
+        "blockNumber": 14949779
     },
     {
         "chainId": 49049,
@@ -8714,7 +9021,8 @@
         "comment": "Sardis Mainnet",
         "rpc": [
             "https://mainnet-rpc.sardisnetwork.com"
-        ]
+        ],
+        "blockNumber": 8639600
     },
     {
         "chainId": 53935,
@@ -8723,7 +9031,8 @@
         "comment": "DFK Chain",
         "rpc": [
             "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
-        ]
+        ],
+        "blockNumber": 21884520
     },
     {
         "chainId": 54211,
@@ -8751,7 +9060,8 @@
         "rpc": [
             "https://rpc.titan.tokamak.network",
             "wss://rpc.titan.tokamak.network"
-        ]
+        ],
+        "blockNumber": 1263
     },
     {
         "chainId": 55555,
@@ -8760,7 +9070,8 @@
         "comment": "REI Chain Mainnet",
         "rpc": [
             "https://rei-rpc.moonrhythm.io"
-        ]
+        ],
+        "blockNumber": 94400
     },
     {
         "chainId": 55556,
@@ -8783,7 +9094,8 @@
             "https://replica.bnb.boba.network",
             "wss://boba-bnb.gateway.tenderly.co/",
             "wss://gateway.tenderly.co/public/boba-bnb"
-        ]
+        ],
+        "blockNumber": 21530379
     },
     {
         "chainId": 56789,
@@ -8792,7 +9104,8 @@
         "comment": "VELO Labs Mainnet",
         "rpc": [
             "https://nova.velo.org"
-        ]
+        ],
+        "blockNumber": 5397
     },
     {
         "chainId": 57000,
@@ -8812,7 +9125,8 @@
         "comment": "Sepolia PGN (Public Goods Network)",
         "rpc": [
             "https://sepolia.publicgoods.network"
-        ]
+        ],
+        "blockNumber": 4058769
     },
     {
         "chainId": 59140,
@@ -8836,7 +9150,8 @@
             "wss://rpc.linea.build",
             "https://linea-mainnet.infura.io/v3/${INFURA_API_KEY}",
             "wss://linea-mainnet.infura.io/ws/v3/${INFURA_API_KEY}"
-        ]
+        ],
+        "blockNumber": 347640
     },
     {
         "chainId": 60000,
@@ -8881,7 +9196,8 @@
         "comment": "AxelChain Dev-Net",
         "rpc": [
             "https://aium-rpc-dev.viacube.com"
-        ]
+        ],
+        "blockNumber": 48113
     },
     {
         "chainId": 61803,
@@ -8891,7 +9207,8 @@
         "rpc": [
             "https://eticamainnet.eticascan.org",
             "https://eticamainnet.eticaprotocol.org"
-        ]
+        ],
+        "blockNumber": 3393013
     },
     {
         "chainId": 61916,
@@ -8902,7 +9219,8 @@
             "https://sgrpc.doken.dev",
             "https://nyrpc.doken.dev",
             "https://ukrpc.doken.dev"
-        ]
+        ],
+        "blockNumber": 3052665
     },
     {
         "chainId": 62320,
@@ -8921,7 +9239,8 @@
         "rpc": [
             "https://rpc.mtv.ac",
             "https://rpc-eu.mtv.ac"
-        ]
+        ],
+        "blockNumber": 23025574
     },
     {
         "chainId": 63000,
@@ -8930,7 +9249,8 @@
         "comment": "eCredits Mainnet",
         "rpc": [
             "https://rpc.ecredits.com"
-        ]
+        ],
+        "blockNumber": 14624958
     },
     {
         "chainId": 63001,
@@ -8948,7 +9268,8 @@
         "comment": "Scolcoin Mainnet",
         "rpc": [
             "https://mainnet-rpc.scolcoin.com"
-        ]
+        ],
+        "blockNumber": 4329636
     },
     {
         "chainId": 67390,
@@ -8993,7 +9314,8 @@
         "comment": "Thinkium Mainnet Chain 1",
         "rpc": [
             "https://proxy1.thinkiumrpc.net/"
-        ]
+        ],
+        "blockNumber": 42527442
     },
     {
         "chainId": 70002,
@@ -9002,7 +9324,8 @@
         "comment": "Thinkium Mainnet Chain 2",
         "rpc": [
             "https://proxy2.thinkiumrpc.net/"
-        ]
+        ],
+        "blockNumber": 37818049
     },
     {
         "chainId": 70103,
@@ -9011,7 +9334,8 @@
         "comment": "Thinkium Mainnet Chain 103",
         "rpc": [
             "https://proxy103.thinkiumrpc.net/"
-        ]
+        ],
+        "blockNumber": 37906325
     },
     {
         "chainId": 71111,
@@ -9022,7 +9346,8 @@
             "https://rpc-mainnet.guapcoinx.com/",
             "https://rpc-mainnet-1.guapcoinx.com/",
             "https://rpc-mainnet-2.guapcoinx.com/"
-        ]
+        ],
+        "blockNumber": 2171478
     },
     {
         "chainId": 71393,
@@ -9051,7 +9376,8 @@
         "comment": "Godwoken Mainnet",
         "rpc": [
             "https://v1.mainnet.godwoken.io/rpc"
-        ]
+        ],
+        "blockNumber": 794744
     },
     {
         "chainId": 73799,
@@ -9070,7 +9396,8 @@
         "comment": "Mixin Virtual Machine",
         "rpc": [
             "https://geth.mvm.dev"
-        ]
+        ],
+        "blockNumber": 39836269
     },
     {
         "chainId": 75000,
@@ -9116,7 +9443,8 @@
             "https://dragonfly-rpc.kore-technologies.ch",
             "https://dragonfly-rpc.phoenix-systems.io",
             "https://dragonfly-rpc.block-spirit.ch"
-        ]
+        ],
+        "blockNumber": 19736895
     },
     {
         "chainId": 78430,
@@ -9125,7 +9453,8 @@
         "comment": "Amplify Subnet",
         "rpc": [
             "https://subnets.avax.network/amplify/testnet/rpc"
-        ]
+        ],
+        "blockNumber": 1577
     },
     {
         "chainId": 78431,
@@ -9134,7 +9463,8 @@
         "comment": "Bulletin Subnet",
         "rpc": [
             "https://subnets.avax.network/bulletin/testnet/rpc"
-        ]
+        ],
+        "blockNumber": 879
     },
     {
         "chainId": 78432,
@@ -9143,7 +9473,8 @@
         "comment": "Conduit Subnet",
         "rpc": [
             "https://subnets.avax.network/conduit/testnet/rpc"
-        ]
+        ],
+        "blockNumber": 450
     },
     {
         "chainId": 79879,
@@ -9250,7 +9581,8 @@
         "comment": "Aerie Network",
         "rpc": [
             "https://mainnet.aerielab.io"
-        ]
+        ],
+        "blockNumber": 155829
     },
     {
         "chainId": 85449,
@@ -9286,7 +9618,8 @@
         "comment": "IVAR Chain Mainnet",
         "rpc": [
             "https://mainnet-rpc.ivarex.com"
-        ]
+        ],
+        "blockNumber": 108098
     },
     {
         "chainId": 90210,
@@ -9358,7 +9691,8 @@
         "comment": "UB Smart Chain",
         "rpc": [
             "https://rpc.uschain.network"
-        ]
+        ],
+        "blockNumber": 3585108
     },
     {
         "chainId": 100000,
@@ -9377,7 +9711,8 @@
         "rpc": [
             "https://mainnet-s0-ethapi.quarkchain.io",
             "http://eth-jrpc.mainnet.quarkchain.io:39000"
-        ]
+        ],
+        "blockNumber": 13998709
     },
     {
         "chainId": 100002,
@@ -9387,7 +9722,8 @@
         "rpc": [
             "https://mainnet-s1-ethapi.quarkchain.io",
             "http://eth-jrpc.mainnet.quarkchain.io:39001"
-        ]
+        ],
+        "blockNumber": 13947141
     },
     {
         "chainId": 100003,
@@ -9397,7 +9733,8 @@
         "rpc": [
             "https://mainnet-s2-ethapi.quarkchain.io",
             "http://eth-jrpc.mainnet.quarkchain.io:39002"
-        ]
+        ],
+        "blockNumber": 13978553
     },
     {
         "chainId": 100004,
@@ -9407,7 +9744,8 @@
         "rpc": [
             "https://mainnet-s3-ethapi.quarkchain.io",
             "http://eth-jrpc.mainnet.quarkchain.io:39003"
-        ]
+        ],
+        "blockNumber": 14036521
     },
     {
         "chainId": 100005,
@@ -9417,7 +9755,8 @@
         "rpc": [
             "https://mainnet-s4-ethapi.quarkchain.io",
             "http://eth-jrpc.mainnet.quarkchain.io:39004"
-        ]
+        ],
+        "blockNumber": 14065273
     },
     {
         "chainId": 100006,
@@ -9427,7 +9766,8 @@
         "rpc": [
             "https://mainnet-s5-ethapi.quarkchain.io",
             "http://eth-jrpc.mainnet.quarkchain.io:39005"
-        ]
+        ],
+        "blockNumber": 13966978
     },
     {
         "chainId": 100007,
@@ -9437,7 +9777,8 @@
         "rpc": [
             "https://mainnet-s6-ethapi.quarkchain.io",
             "http://eth-jrpc.mainnet.quarkchain.io:39006"
-        ]
+        ],
+        "blockNumber": 13951788
     },
     {
         "chainId": 100008,
@@ -9447,7 +9788,8 @@
         "rpc": [
             "https://mainnet-s7-ethapi.quarkchain.io",
             "http://eth-jrpc.mainnet.quarkchain.io:39007"
-        ]
+        ],
+        "blockNumber": 13800722
     },
     {
         "chainId": 100009,
@@ -9528,7 +9870,8 @@
         "rpc": [
             "https://devnet-s1-ethapi.quarkchain.io",
             "http://eth-jrpc.devnet.quarkchain.io:39901"
-        ]
+        ],
+        "blockNumber": 2770587
     },
     {
         "chainId": 110003,
@@ -9538,7 +9881,8 @@
         "rpc": [
             "https://devnet-s2-ethapi.quarkchain.io",
             "http://eth-jrpc.devnet.quarkchain.io:39902"
-        ]
+        ],
+        "blockNumber": 2769031
     },
     {
         "chainId": 110004,
@@ -9558,7 +9902,8 @@
         "rpc": [
             "https://devnet-s4-ethapi.quarkchain.io",
             "http://eth-jrpc.devnet.quarkchain.io:39904"
-        ]
+        ],
+        "blockNumber": 2787614
     },
     {
         "chainId": 110006,
@@ -9588,7 +9933,8 @@
         "rpc": [
             "https://devnet-s7-ethapi.quarkchain.io",
             "http://eth-jrpc.devnet.quarkchain.io:39907"
-        ]
+        ],
+        "blockNumber": 2778345
     },
     {
         "chainId": 111000,
@@ -9607,7 +9953,8 @@
         "rpc": [
             "https://rpc.main.siberium.net",
             "https://rpc.main.siberium.net.ru"
-        ]
+        ],
+        "blockNumber": 6064499
     },
     {
         "chainId": 112358,
@@ -9617,7 +9964,8 @@
         "rpc": [
             "https://rpc.metachain.one",
             "https://rpc2.metachain.one"
-        ]
+        ],
+        "blockNumber": 4401234
     },
     {
         "chainId": 123456,
@@ -9626,7 +9974,8 @@
         "comment": "ADIL Devnet",
         "rpc": [
             "https://devnet.adilchain-rpc.io"
-        ]
+        ],
+        "blockNumber": 4759843
     },
     {
         "chainId": 131419,
@@ -9662,7 +10011,8 @@
         "comment": "Taiko Grimsvotn L2",
         "rpc": [
             "https://rpc.test.taiko.xyz"
-        ]
+        ],
+        "blockNumber": 1690432
     },
     {
         "chainId": 167006,
@@ -9671,7 +10021,8 @@
         "comment": "Taiko Eldfell L3",
         "rpc": [
             "https://rpc.l3test.taiko.xyz"
-        ]
+        ],
+        "blockNumber": 991510
     },
     {
         "chainId": 188881,
@@ -9718,7 +10069,8 @@
         "rpc": [
             "https://openapi.alaya.network/rpc",
             "wss://openapi.alaya.network/ws"
-        ]
+        ],
+        "blockNumber": 83866350
     },
     {
         "chainId": 201030,
@@ -9766,7 +10118,8 @@
         "rpc": [
             "https://openapi2.platon.network/rpc",
             "wss://openapi2.platon.network/ws"
-        ]
+        ],
+        "blockNumber": 69462798
     },
     {
         "chainId": 220315,
@@ -9775,7 +10128,8 @@
         "comment": "Mas Mainnet",
         "rpc": [
             "http://node.masnet.ai:8545"
-        ]
+        ],
+        "blockNumber": 9301205
     },
     {
         "chainId": 221230,
@@ -9829,7 +10183,8 @@
         "comment": "ARTIS sigma1",
         "rpc": [
             "https://rpc.sigma1.artis.network"
-        ]
+        ],
+        "blockNumber": 17355211
     },
     {
         "chainId": 246785,
@@ -9857,7 +10212,8 @@
         "rpc": [
             "https://mainnet.block.caduceus.foundation",
             "wss://mainnet.block.caduceus.foundation"
-        ]
+        ],
+        "blockNumber": 13921622
     },
     {
         "chainId": 266256,
@@ -9905,7 +10261,8 @@
         "comment": "TTcoin Smart Chain Mainnet",
         "rpc": [
             "https://mainnet-rpc.tscscan.com"
-        ]
+        ],
+        "blockNumber": 2670240
     },
     {
         "chainId": 333331,
@@ -9968,7 +10325,8 @@
         "comment": "Metal C-Chain",
         "rpc": [
             "https://api.metalblockchain.org/ext/bc/C/rpc"
-        ]
+        ],
+        "blockNumber": 6826
     },
     {
         "chainId": 381932,
@@ -9977,7 +10335,8 @@
         "comment": "Metal Tahoe C-Chain",
         "rpc": [
             "https://tahoe.metalblockchain.org/ext/bc/C/rpc"
-        ]
+        ],
+        "blockNumber": 338
     },
     {
         "chainId": 404040,
@@ -9986,7 +10345,8 @@
         "comment": "Tipboxcoin Mainnet",
         "rpc": [
             "https://mainnet-rpc.tipboxcoin.net"
-        ]
+        ],
+        "blockNumber": 5364322
     },
     {
         "chainId": 420420,
@@ -9995,7 +10355,8 @@
         "comment": "Kekchain",
         "rpc": [
             "https://mainnet.kekchain.com"
-        ]
+        ],
+        "blockNumber": 3032058
     },
     {
         "chainId": 420666,
@@ -10032,7 +10393,8 @@
         "rpc": [
             "https://goerli-rollup.arbitrum.io/rpc",
             "https://arbitrum-goerli.publicnode.com"
-        ]
+        ],
+        "blockNumber": 39160029
     },
     {
         "chainId": 424242,
@@ -10050,7 +10412,8 @@
         "comment": "Markr Go",
         "rpc": [
             "https://rpc.markr.io/ext/"
-        ]
+        ],
+        "blockNumber": 34767322
     },
     {
         "chainId": 432201,
@@ -10068,7 +10431,8 @@
         "comment": "Dexalot Subnet",
         "rpc": [
             "https://subnets.avax.network/dexalot/mainnet/rpc"
-        ]
+        ],
+        "blockNumber": 7361631
     },
     {
         "chainId": 444900,
@@ -10095,7 +10459,8 @@
         "comment": "OpenChain Mainnet",
         "rpc": [
             "https://baas-rpc.luniverse.io:18545?lChainId=1641349324562974539"
-        ]
+        ],
+        "blockNumber": 52286378
     },
     {
         "chainId": 512512,
@@ -10114,7 +10479,8 @@
         "comment": "ethereum Fair",
         "rpc": [
             "https://rpc.etherfair.org"
-        ]
+        ],
+        "blockNumber": 17846026
     },
     {
         "chainId": 534351,
@@ -10157,7 +10523,8 @@
         "comment": "Shinarium Beta",
         "rpc": [
             "https://rpc.shinarium.org"
-        ]
+        ],
+        "blockNumber": 2007895
     },
     {
         "chainId": 535037,
@@ -10166,7 +10533,8 @@
         "comment": "BeanEco SmartChain",
         "rpc": [
             "https://mainnet-rpc.bescscan.io"
-        ]
+        ],
+        "blockNumber": 1605454
     },
     {
         "chainId": 622277,
@@ -10177,7 +10545,8 @@
             "https://rpc.rethereum.org",
             "https://rethereum.rpc.restratagem.com",
             "https://rpc.rthcentral.org"
-        ]
+        ],
+        "blockNumber": 443219
     },
     {
         "chainId": 641230,
@@ -10187,7 +10556,8 @@
         "rpc": [
             "https://brnkc-mainnet.bearnetwork.net",
             "https://brnkc-mainnet1.bearnetwork.net"
-        ]
+        ],
+        "blockNumber": 2056039
     },
     {
         "chainId": 651940,
@@ -10196,7 +10566,8 @@
         "comment": "ALL Mainnet",
         "rpc": [
             "https://mainnet-rpc.alltra.global"
-        ]
+        ],
+        "blockNumber": 5724454
     },
     {
         "chainId": 666666,
@@ -10223,7 +10594,8 @@
         "comment": "Miexs Smartchain",
         "rpc": [
             "https://mainnet-rpc.miexs.com"
-        ]
+        ],
+        "blockNumber": 770056
     },
     {
         "chainId": 800001,
@@ -10242,7 +10614,8 @@
         "comment": "CURVE Mainnet",
         "rpc": [
             "https://mainnet-rpc.curvescan.io"
-        ]
+        ],
+        "blockNumber": 3949498
     },
     {
         "chainId": 846000,
@@ -10260,7 +10633,8 @@
         "comment": "Vision - Mainnet",
         "rpc": [
             "https://infragrid.v.network/ethereum/compatible"
-        ]
+        ],
+        "blockNumber": 15815974
     },
     {
         "chainId": 900000,
@@ -10270,7 +10644,8 @@
         "rpc": [
             "https://api.posichain.org",
             "https://api.s0.posichain.org"
-        ]
+        ],
+        "blockNumber": 17154311
     },
     {
         "chainId": 910000,
@@ -10333,7 +10708,8 @@
         "comment": "Etho Protocol",
         "rpc": [
             "https://rpc.ethoprotocol.com"
-        ]
+        ],
+        "blockNumber": 12381695
     },
     {
         "chainId": 1313500,
@@ -10387,7 +10763,8 @@
         "comment": "Plian Mainnet Main",
         "rpc": [
             "https://mainnet.plian.io/pchain"
-        ]
+        ],
+        "blockNumber": 65429349
     },
     {
         "chainId": 2203181,
@@ -10432,7 +10809,8 @@
         "comment": "AltLayer Zero Gas Network",
         "rpc": [
             "https://zero.alt.technology"
-        ]
+        ],
+        "blockNumber": 2864540
     },
     {
         "chainId": 4281033,
@@ -10460,7 +10838,8 @@
         "rpc": [
             "https://jsonrpc.imversed.network",
             "https://ws-jsonrpc.imversed.network"
-        ]
+        ],
+        "blockNumber": 7054577
     },
     {
         "chainId": 5555558,
@@ -10479,7 +10858,8 @@
         "comment": "Saakuru Mainnet",
         "rpc": [
             "https://rpc.saakuru.network"
-        ]
+        ],
+        "blockNumber": 296985
     },
     {
         "chainId": 7355310,
@@ -10515,7 +10895,8 @@
         "comment": "Zora",
         "rpc": [
             "https://rpc.zora.energy/"
-        ]
+        ],
+        "blockNumber": 3576088
     },
     {
         "chainId": 8007736,
@@ -10524,7 +10905,8 @@
         "comment": "Plian Mainnet Subchain 1",
         "rpc": [
             "https://mainnet.plian.io/child_0"
-        ]
+        ],
+        "blockNumber": 99150531
     },
     {
         "chainId": 8794598,
@@ -10533,7 +10915,8 @@
         "comment": "HAPchain",
         "rpc": [
             "https://jsonrpc.hap.land"
-        ]
+        ],
+        "blockNumber": 838765
     },
     {
         "chainId": 8888881,
@@ -10565,7 +10948,8 @@
         "comment": "Soverun Mainnet",
         "rpc": [
             "https://mainnet-rpc.soverun.com"
-        ]
+        ],
+        "blockNumber": 7311804
     },
     {
         "chainId": 11155111,
@@ -10581,7 +10965,8 @@
             "wss://sepolia.infura.io/v3/${INFURA_API_KEY}",
             "https://sepolia.gateway.tenderly.co",
             "wss://sepolia.gateway.tenderly.co"
-        ]
+        ],
+        "blockNumber": 4224629
     },
     {
         "chainId": 13371337,
@@ -10600,7 +10985,8 @@
         "rpc": [
             "https://rpc.anduschain.io/rpc",
             "wss://rpc.anduschain.io/ws"
-        ]
+        ],
+        "blockNumber": 2895281
     },
     {
         "chainId": 16658437,
@@ -10627,7 +11013,8 @@
         "comment": "SmartMesh Mainnet",
         "rpc": [
             "https://jsonapi1.smartmesh.cn"
-        ]
+        ],
+        "blockNumber": 11993847
     },
     {
         "chainId": 20181205,
@@ -10637,7 +11024,8 @@
         "rpc": [
             "https://hz.rpc.qkiscan.cn",
             "https://jp.rpc.qkiscan.io"
-        ]
+        ],
+        "blockNumber": 20649013
     },
     {
         "chainId": 20201022,
@@ -10649,7 +11037,8 @@
             "https://node1.pegorpc.com",
             "https://node2.pegorpc.com",
             "https://node3.pegorpc.com"
-        ]
+        ],
+        "blockNumber": 1939544
     },
     {
         "chainId": 22052002,
@@ -10658,7 +11047,8 @@
         "comment": "Excelon Mainnet",
         "rpc": [
             "https://edgewallet1.xlon.org/"
-        ]
+        ],
+        "blockNumber": 14323008
     },
     {
         "chainId": 27082017,
@@ -10694,7 +11084,8 @@
         "comment": "Flachain Mainnet",
         "rpc": [
             "https://flachain.flaexchange.top/"
-        ]
+        ],
+        "blockNumber": 695428
     },
     {
         "chainId": 31415926,
@@ -10729,7 +11120,8 @@
         "rpc": [
             "https://c.onical.org",
             "https://tx.aquacha.in/api"
-        ]
+        ],
+        "blockNumber": 644688
     },
     {
         "chainId": 65010000,
@@ -10758,7 +11150,8 @@
         "comment": "T.E.A.M Blockchain",
         "rpc": [
             "https://rpc.teamblockchain.team"
-        ]
+        ],
+        "blockNumber": 6294060
     },
     {
         "chainId": 99415706,
@@ -10776,7 +11169,8 @@
         "comment": "Gather Mainnet Network",
         "rpc": [
             "https://mainnet.gather.network"
-        ]
+        ],
+        "blockNumber": 4561360
     },
     {
         "chainId": 222000222,
@@ -10785,7 +11179,8 @@
         "comment": "Kanazawa",
         "rpc": [
             "https://subnets.avax.network/meld/testnet/rpc"
-        ]
+        ],
+        "blockNumber": 274937
     },
     {
         "chainId": 245022926,
@@ -10794,7 +11189,8 @@
         "comment": "Neon EVM DevNet",
         "rpc": [
             "https://devnet.neonevm.org"
-        ]
+        ],
+        "blockNumber": 241709770
     },
     {
         "chainId": 245022934,
@@ -10819,7 +11215,8 @@
         "comment": "Razor Skale Chain",
         "rpc": [
             "https://mainnet.skalenodes.com/v1/turbulent-unique-scheat"
-        ]
+        ],
+        "blockNumber": 3189077
     },
     {
         "chainId": 311752642,
@@ -10828,7 +11225,8 @@
         "comment": "OneLedger Mainnet",
         "rpc": [
             "https://mainnet-rpc.oneledger.network"
-        ]
+        ],
+        "blockNumber": 5254802
     },
     {
         "chainId": 333000333,
@@ -10837,7 +11235,8 @@
         "comment": "Meld",
         "rpc": [
             "https://subnets.avax.network/meld/mainnet/rpc"
-        ]
+        ],
+        "blockNumber": 431633
     },
     {
         "chainId": 344106930,
@@ -10874,7 +11273,8 @@
         "rpc": [
             "https://staging-v3.skalenodes.com/v1/staging-faint-slimy-achird",
             "wss://staging-v3.skalenodes.com/v1/ws/staging-faint-slimy-achird"
-        ]
+        ],
+        "blockNumber": 2645433
     },
     {
         "chainId": 1122334455,
@@ -10893,7 +11293,8 @@
         "comment": "CyberdeckNet",
         "rpc": [
             "http://cybeth1.cyberdeck.eu:8545"
-        ]
+        ],
+        "blockNumber": 17103113
     },
     {
         "chainId": 1273227453,
@@ -10902,7 +11303,8 @@
         "comment": "HUMAN Protocol",
         "rpc": [
             "https://mainnet.skalenodes.com/v1/wan-red-ain"
-        ]
+        ],
+        "blockNumber": 1638186
     },
     {
         "chainId": 1313161554,
@@ -10911,7 +11313,8 @@
         "comment": "Aurora Mainnet",
         "rpc": [
             "https://mainnet.aurora.dev"
-        ]
+        ],
+        "blockNumber": 100387619
     },
     {
         "chainId": 1313161555,
@@ -10945,7 +11348,8 @@
         "comment": "RaptorChain",
         "rpc": [
             "https://rpc.raptorchain.io/web3"
-        ]
+        ],
+        "blockNumber": 298
     },
     {
         "chainId": 1482601649,
@@ -10955,7 +11359,8 @@
         "rpc": [
             "https://mainnet.skalenodes.com/v1/green-giddy-denebola",
             "wss://mainnet-proxy.skalenodes.com/v1/ws/green-giddy-denebola"
-        ]
+        ],
+        "blockNumber": 3075725
     },
     {
         "chainId": 1564830818,
@@ -10964,7 +11369,8 @@
         "comment": "Calypso NFT Hub (SKALE)",
         "rpc": [
             "https://mainnet.skalenodes.com/v1/honorable-steel-rasalhague"
-        ]
+        ],
+        "blockNumber": 4277887
     },
     {
         "chainId": 1666600000,
@@ -10978,7 +11384,8 @@
             "https://rpc.ankr.com/harmony",
             "https://harmony.api.onfinality.io/public",
             "https://1rpc.io/one"
-        ]
+        ],
+        "blockNumber": 46635065
     },
     {
         "chainId": 1666600001,
@@ -10987,7 +11394,8 @@
         "comment": "Harmony Mainnet Shard 1",
         "rpc": [
             "https://api.s1.t.hmny.io"
-        ]
+        ],
+        "blockNumber": 49365616
     },
     {
         "chainId": 1666600002,
@@ -10996,7 +11404,8 @@
         "comment": "Harmony Mainnet Shard 2",
         "rpc": [
             "https://api.s2.t.hmny.io"
-        ]
+        ],
+        "blockNumber": 49547856
     },
     {
         "chainId": 1666600003,
@@ -11005,7 +11414,8 @@
         "comment": "Harmony Mainnet Shard 3",
         "rpc": [
             "https://api.s3.t.hmny.io"
-        ]
+        ],
+        "blockNumber": 49388193
     },
     {
         "chainId": 1666700000,
@@ -11032,7 +11442,8 @@
         "comment": "Harmony Devnet Shard 0",
         "rpc": [
             "https://api.s0.ps.hmny.io"
-        ]
+        ],
+        "blockNumber": 23731912
     },
     {
         "chainId": 1666900001,
@@ -11041,7 +11452,8 @@
         "comment": "Harmony Devnet Shard 1",
         "rpc": [
             "https://api.s1.ps.hmny.io"
-        ]
+        ],
+        "blockNumber": 17801202
     },
     {
         "chainId": 2021121117,
@@ -11060,7 +11472,8 @@
         "rpc": [
             "https://mainnet.skalenodes.com/v1/elated-tan-skat",
             "wss://mainnet.skalenodes.com/v1/elated-tan-skat"
-        ]
+        ],
+        "blockNumber": 3512362
     },
     {
         "chainId": 2863311531,
@@ -11126,7 +11539,8 @@
         "comment": "Ntity Mainnet",
         "rpc": [
             "https://rpc.ntity.io"
-        ]
+        ],
+        "blockNumber": 5615606
     },
     {
         "chainId": 197710212031,
@@ -11144,7 +11558,8 @@
         "comment": "Zeniq",
         "rpc": [
             "https://smart.zeniq.network:9545"
-        ]
+        ],
+        "blockNumber": 11165189
     },
     {
         "chainId": 666301171999,
@@ -11171,6 +11586,24 @@
         "comment": "Godwoken Testnet (V1)",
         "rpc": [
             "https://godwoken-testnet-web3-v1-rpc.ckbapp.dev"
+        ]
+    },
+    {
+        "chainId": 255,
+        "url": "https://kroma.network",
+        "ticker": "ETH",
+        "comment": "Kroma",
+        "rpc": [
+            "https://api.kroma.network"
+        ]
+    },
+    {
+        "chainId": 421614,
+        "url": "https://arbitrum.io",
+        "ticker": "ETH",
+        "comment": "Arbitrum Sepolia",
+        "rpc": [
+            "https://sepolia-rollup.abitrum.io/rpc"
         ]
     }
 ]
