@@ -1,0 +1,44 @@
+name: Daily Run Python Scripts and Commit Changes
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Run once a day at 00:00
+
+jobs:
+  run-scripts:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        pip install requests
+        # Add any other dependencies you need
+
+    - name: Run chainlist_org_sync.py
+      run: python chainlist_org_sync.py
+
+    - name: Run scan_sitesinfo_rpc.py
+      run: python scan_sitesinfo_rpc.py
+
+    - name: Run create_issues.py
+      env:
+        MARSIANDEPLOYERTOKEN: ${{ secrets.MARSIANDEPLOYERTOKEN }}
+      run: python create_issues.py $MARSIANDEPLOYERTOKEN
+
+    - name: Commit and push changes
+      env:
+        MARSIANDEPLOYERTOKEN: ${{ secrets.MARSIANDEPLOYERTOKEN }}
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        git commit -m "Automated update from GitHub Actions"
+        git push https://${MARSIANDEPLOYERTOKEN}@github.com/noxonsu/chains.git

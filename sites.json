@@ -11746,15 +11746,5 @@
             "https://api.kroma.network"
         ],
         "blockNumber": 21345
-    },
-    {
-        "chainId": 421614,
-        "url": "https://arbitrum.io",
-        "ticker": "ETH",
-        "comment": "Arbitrum Sepolia",
-        "rpc": [
-            "https://sepolia-rollup.abitrum.io/rpc"
-        ],
-        "blockNumber": "Error: HTTPSConnectionPool(host='sepolia-rollup.abitrum.io', port=443): Max retries exceeded with url: /rpc (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7feaa936fc70>: Failed to resolve 'sepolia-rollup.abitrum.io' ([Errno -2] Name or service not known)\"))"
     }
 ]
