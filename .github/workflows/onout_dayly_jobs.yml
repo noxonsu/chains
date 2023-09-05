@@ -1,8 +1,9 @@
-name: Daily Run Python Scripts and Commit Changes
+name: Run Python Scripts and Commit Changes
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Run once a day at 00:00
+    - cron: '0 0 * * *'  # Run once a day at 00:00 UTC
+  workflow_dispatch:  # Allows manual run
 
 jobs:
   run-scripts:
@@ -20,7 +21,6 @@ jobs:
     - name: Install dependencies
       run: |
         pip install requests
-        # Add any other dependencies you need
 
     - name: Run chainlist_org_sync.py
       run: python chainlist_org_sync.py
@@ -37,8 +37,8 @@ jobs:
       env:
         MARSIANDEPLOYERTOKEN: ${{ secrets.MARSIANDEPLOYERTOKEN }}
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --global user.name "GitHub Action"
+        git config --global user.email "action@github.com"
         git add -A
         git commit -m "Automated update from GitHub Actions"
         git push https://${MARSIANDEPLOYERTOKEN}@github.com/noxonsu/chains.git
