@@ -11757,5 +11757,43 @@
         ],
         "dateAdd": "2023-09-05T14:40:34.498770",
         "blockNumber": "Error: HTTPSConnectionPool(host='sepolia-rollup.abitrum.io', port=443): Max retries exceeded with url: /rpc (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f99af0c6ad0>: Failed to resolve 'sepolia-rollup.abitrum.io' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+        "chainId": 109,
+        "url": "https://shibariumecosystem.com",
+        "ticker": "BONE",
+        "comment": "Shibarium",
+        "rpc": [
+            "https://www.shibrpc.com"
+        ],
+        "dateAdd": "2023-09-08T00:06:59.413712",
+        "blockNumber": 515999
+    },
+    {
+        "chainId": 462,
+        "url": "https://areon.network",
+        "ticker": "AREA",
+        "comment": "Areon Network Testnet",
+        "rpc": [
+            "https://testnet-rpc.areon.network"
+        ],
+        "dateAdd": "2023-09-08T00:06:59.413842",
+        "blockNumber": 47078
+    },
+    {
+        "chainId": 1089,
+        "url": "https://humans.ai",
+        "ticker": "HEART",
+        "comment": "Humans.ai Mainnet",
+        "rpc": [
+            "https://jsonrpc.humans.nodestake.top",
+            "https://humans-mainnet-evm.itrocket.net:443",
+            "https://humans-evm-rpc.staketab.org:443",
+            "https://evm.humans.stakepool.dev.br",
+            "https://mainnet-humans-evm.konsortech.xyz",
+            "https://evm-rpc.mainnet.humans.zone"
+        ],
+        "dateAdd": "2023-09-08T00:06:59.413921",
+        "blockNumber": 1514055
     }
 ]
