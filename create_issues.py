@@ -71,7 +71,7 @@ if __name__ == "__main__":
         
         if date_add_str:
             try:
-                date_add = datetime.strptime(date_add_str, '%Y-%m-%d')
+                date_add = datetime.strptime(date_add_str, '%Y-%m-%dT%H:%M:%S.%f')
                 days_diff = (now - date_add).days
             except ValueError:
                 print(f"Invalid date format for item with chainId {item.get('chainId', 'Unknown')}")
