@@ -11795,5 +11795,27 @@
         ],
         "dateAdd": "2023-09-08T00:06:59.413921",
         "blockNumber": 1514055
+    },
+    {
+        "chainId": 1133,
+        "url": "https://defichain.com",
+        "ticker": "DFI",
+        "comment": "DeFiMetaChain",
+        "rpc": [
+            "https://testnet-dmc.mydefichain.com:20551"
+        ],
+        "dateAdd": "2023-09-09T00:06:55.606417",
+        "blockNumber": "Error: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+        "chainId": 30103,
+        "url": "https://canxium.org",
+        "ticker": "CAU",
+        "comment": "Cerium Testnet",
+        "rpc": [
+            "https://cerium-rpc.canxium.net"
+        ],
+        "dateAdd": "2023-09-09T00:06:55.606648",
+        "blockNumber": 372420
     }
 ]
