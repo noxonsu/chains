@@ -11817,5 +11817,38 @@
         ],
         "dateAdd": "2023-09-09T00:06:55.606648",
         "blockNumber": 372420
+    },
+    {
+        "chainId": 1985,
+        "url": "https://satosh.ie",
+        "ticker": "TUSHY",
+        "comment": "SatoshIE",
+        "rpc": [
+            "http://rpc.satosh.ie"
+        ],
+        "dateAdd": "2023-09-11T00:07:17.053654",
+        "blockNumber": "Error: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+        "chainId": 1986,
+        "url": "https://satosh.ie",
+        "ticker": "TUSHY",
+        "comment": "SatoshIE Testnet",
+        "rpc": [
+            "http://testnet.satosh.ie"
+        ],
+        "dateAdd": "2023-09-11T00:07:17.053668",
+        "blockNumber": "Error: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+        "chainId": 12890,
+        "url": "https://quantumnetwork.gg",
+        "ticker": "QNET",
+        "comment": "Quantum Chain Testnet",
+        "rpc": [
+            "https://testnet-rpc.quantumscan.org"
+        ],
+        "dateAdd": "2023-09-11T00:07:17.053844",
+        "blockNumber": 65366
     }
 ]
