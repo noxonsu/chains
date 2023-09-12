@@ -11850,5 +11850,27 @@
         ],
         "dateAdd": "2023-09-11T00:07:17.053844",
         "blockNumber": 65366
+    },
+    {
+        "chainId": 309,
+        "url": "https://wyzth.org/",
+        "ticker": "WYZ",
+        "comment": "Wyzth Testnet",
+        "rpc": [
+            "https://rpc-testnet3.wyzthchain.org/"
+        ],
+        "dateAdd": "2023-09-12T00:06:56.855822",
+        "blockNumber": 4166558
+    },
+    {
+        "chainId": 1003,
+        "url": "https://softnote.com",
+        "ticker": "TET",
+        "comment": "Tectum Emission Token",
+        "rpc": [
+            "https://rpc.softnote.com/"
+        ],
+        "dateAdd": "2023-09-12T00:06:56.855915",
+        "blockNumber": 1911
     }
 ]
