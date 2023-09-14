@@ -11872,5 +11872,38 @@
         ],
         "dateAdd": "2023-09-12T00:06:56.855915",
         "blockNumber": 1911
+    },
+    {
+        "chainId": 169,
+        "url": "https://pacific-info.manta.network",
+        "ticker": "ETH",
+        "comment": "Manta Pacific Mainnet",
+        "rpc": [
+            "https://pacific-rpc.manta.network/http"
+        ],
+        "dateAdd": "2023-09-14T00:07:04.418323",
+        "blockNumber": 42606
+    },
+    {
+        "chainId": 927,
+        "url": "https://yidarkscan.com",
+        "ticker": "YDK",
+        "comment": "Yidark Chain Mainnet",
+        "rpc": [
+            "https://rpc.yidark.io"
+        ],
+        "dateAdd": "2023-09-14T00:07:04.418429",
+        "blockNumber": 339737
+    },
+    {
+        "chainId": 9990,
+        "url": "https://www.peaq.network",
+        "ticker": "AGNG",
+        "comment": "Agung Network",
+        "rpc": [
+            "https://rpcpc1-qa.agung.peaq.network"
+        ],
+        "dateAdd": "2023-09-14T00:07:04.418656",
+        "blockNumber": 693868
     }
 ]
