@@ -11905,5 +11905,27 @@
         ],
         "dateAdd": "2023-09-14T00:07:04.418656",
         "blockNumber": 693868
+    },
+    {
+        "chainId": 1108,
+        "url": "https://blx.org",
+        "ticker": "BLXQ",
+        "comment": "BLXq Mainnet",
+        "rpc": [
+            "https://mainnet.blxq.org"
+        ],
+        "dateAdd": "2023-09-20T00:07:13.849506",
+        "blockNumber": 12896
+    },
+    {
+        "chainId": 167007,
+        "url": "https://taiko.xyz",
+        "ticker": "ETH",
+        "comment": "Taiko Jolnir L2",
+        "rpc": [
+            "https://rpc.jolnir.taiko.xyz"
+        ],
+        "dateAdd": "2023-09-20T00:07:13.849884",
+        "blockNumber": 12107
     }
 ]
