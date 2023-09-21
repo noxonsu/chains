@@ -11927,5 +11927,16 @@
         ],
         "dateAdd": "2023-09-20T00:07:13.849884",
         "blockNumber": 12107
+    },
+    {
+        "chainId": 5522,
+        "url": "https://vexanium.com",
+        "ticker": "VEX",
+        "comment": "VEX EVM TESTNET",
+        "rpc": [
+            "https://testnet.vexascan.com/evmapi"
+        ],
+        "dateAdd": "2023-09-21T00:06:54.756261",
+        "blockNumber": 506239
     }
 ]
