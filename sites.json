@@ -11938,5 +11938,27 @@
         ],
         "dateAdd": "2023-09-21T00:06:54.756261",
         "blockNumber": 506239
+    },
+    {
+        "chainId": 2241,
+        "url": "https://www.peaq.network",
+        "ticker": "KRST",
+        "comment": "The Krest Network",
+        "rpc": [
+            "https://erpc-krest.peaq.network"
+        ],
+        "dateAdd": "2023-09-22T00:06:52.279082",
+        "blockNumber": 801036
+    },
+    {
+        "chainId": 81720,
+        "url": "https://quantumnetwork.gg",
+        "ticker": "QNET",
+        "comment": "Quantum Chain Mainnet",
+        "rpc": [
+            "https://rpc.quantumscan.org"
+        ],
+        "dateAdd": "2023-09-22T00:06:52.279319",
+        "blockNumber": 158842
     }
 ]
