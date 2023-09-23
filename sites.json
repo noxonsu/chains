@@ -11960,5 +11960,27 @@
         ],
         "dateAdd": "2023-09-22T00:06:52.279319",
         "blockNumber": 158842
+    },
+    {
+        "chainId": 38400,
+        "url": "https://rangersprotocol.com",
+        "ticker": "cmRPG",
+        "comment": "ConnectorManager",
+        "rpc": [
+            "https://cm.rangersprotocol.com/api/jsonrpc"
+        ],
+        "dateAdd": "2023-09-23T00:06:42.750101",
+        "blockNumber": 16871
+    },
+    {
+        "chainId": 333666,
+        "url": "https://oonechain.com",
+        "ticker": "tOONE",
+        "comment": "Oone Chain Testnet",
+        "rpc": [
+            "https://rpc.testnet.oonechain.com"
+        ],
+        "dateAdd": "2023-09-23T00:06:42.750207",
+        "blockNumber": 75143
     }
 ]
