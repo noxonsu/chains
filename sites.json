@@ -11982,5 +11982,16 @@
         ],
         "dateAdd": "2023-09-23T00:06:42.750207",
         "blockNumber": 75143
+    },
+    {
+        "chainId": 77238,
+        "url": "https://foundrychain.org",
+        "ticker": "tFNC",
+        "comment": "Foundry Chain Testnet",
+        "rpc": [
+            "https://testnet-rpc.foundryscan.org/"
+        ],
+        "dateAdd": "2023-09-24T00:07:41.389132",
+        "blockNumber": 143225
     }
 ]
