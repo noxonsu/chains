@@ -11993,5 +11993,21 @@
         ],
         "dateAdd": "2023-09-24T00:07:41.389132",
         "blockNumber": 143225
+    },
+    {
+        "chainId": 12611,
+        "url": "https://astar.network",
+        "ticker": "ETH",
+        "comment": "Astar zkEVM",
+        "rpc": [],
+        "dateAdd": "2023-09-25T00:07:26.853048"
+    },
+    {
+        "chainId": 1261120,
+        "url": "https://astar.network",
+        "ticker": "ETH",
+        "comment": "zKatana",
+        "rpc": [],
+        "dateAdd": "2023-09-25T00:07:26.853242"
     }
 ]
