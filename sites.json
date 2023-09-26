@@ -12000,7 +12000,8 @@
         "ticker": "ETH",
         "comment": "Astar zkEVM",
         "rpc": [],
-        "dateAdd": "2023-09-25T00:07:26.853048"
+        "dateAdd": "2023-09-25T00:07:26.853048",
+        "blockNumber": "No RPC URL available"
     },
     {
         "chainId": 1261120,
@@ -12008,6 +12009,18 @@
         "ticker": "ETH",
         "comment": "zKatana",
         "rpc": [],
-        "dateAdd": "2023-09-25T00:07:26.853242"
+        "dateAdd": "2023-09-25T00:07:26.853242",
+        "blockNumber": "No RPC URL available"
+    },
+    {
+        "chainId": 148,
+        "url": "https://shimmer.network",
+        "ticker": "SMR",
+        "comment": "ShimmerEVM Mainnet",
+        "rpc": [
+            "https://json-rpc.evm.shimmer.network"
+        ],
+        "dateAdd": "2023-09-26T00:07:00.551099",
+        "blockNumber": 32347
     }
 ]
