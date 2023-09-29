@@ -12033,5 +12033,16 @@
         ],
         "dateAdd": "2023-09-27T00:07:03.620770",
         "blockNumber": 108310
+    },
+    {
+        "chainId": 963,
+        "url": "https://bitcoincode.technology",
+        "ticker": "BTCC",
+        "comment": "BTC20 Smart Chain",
+        "rpc": [
+            "https://rpc.bitcoincode.technology/"
+        ],
+        "dateAdd": "2023-09-29T00:07:07.846733",
+        "blockNumber": 200470
     }
 ]
