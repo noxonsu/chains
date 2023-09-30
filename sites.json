@@ -12044,5 +12044,28 @@
         ],
         "dateAdd": "2023-09-29T00:07:07.846733",
         "blockNumber": 200470
+    },
+    {
+        "chainId": 710,
+        "url": "https://www.fury.black",
+        "ticker": "FURY",
+        "comment": "Highbury",
+        "rpc": [
+            "https://highbury.furya.io",
+            "https://rest.furya.io"
+        ],
+        "dateAdd": "2023-09-30T00:06:54.021723",
+        "blockNumber": 749849
+    },
+    {
+        "chainId": 42801,
+        "url": "https://gesoten.com/",
+        "ticker": "OAS",
+        "comment": "Gesoten Verse Testnet",
+        "rpc": [
+            "https://rpc.testnet.verse.gesoten.com/"
+        ],
+        "dateAdd": "2023-09-30T00:06:54.022070",
+        "blockNumber": 14
     }
 ]
