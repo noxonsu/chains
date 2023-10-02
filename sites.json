@@ -12067,5 +12067,18 @@
         ],
         "dateAdd": "2023-09-30T00:06:54.022070",
         "blockNumber": 14
+    },
+    {
+        "chainId": 2049,
+        "url": "https://movo.uk",
+        "ticker": "MOVO",
+        "comment": "Movo Smart Chain Mainnet",
+        "rpc": [
+            "https://msc-rpc.movoscan.com",
+            "https://msc-rpc.movochain.org",
+            "https://msc-rpc.movoswap.com"
+        ],
+        "dateAdd": "2023-10-02T00:07:29.517543",
+        "blockNumber": 73359
     }
 ]
