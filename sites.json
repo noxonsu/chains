@@ -12080,5 +12080,38 @@
         ],
         "dateAdd": "2023-10-02T00:07:29.517543",
         "blockNumber": 73359
+    },
+    {
+        "chainId": 32990,
+        "url": "https://www.zilliqa.com/",
+        "ticker": "ZIL",
+        "comment": "Zilliqa EVM Isolated Server",
+        "rpc": [
+            "https://zilliqa-isolated-server.zilliqa.com/"
+        ],
+        "dateAdd": "2023-10-03T00:07:09.417707",
+        "blockNumber": 1564774
+    },
+    {
+        "chainId": 33385,
+        "url": "https://www.zilliqa.com/",
+        "ticker": "ZIL",
+        "comment": "Zilliqa EVM Devnet",
+        "rpc": [
+            "https://api.devnet.zilliqa.com/"
+        ],
+        "dateAdd": "2023-10-03T00:07:09.417727",
+        "blockNumber": 101923
+    },
+    {
+        "chainId": 33469,
+        "url": "https://www.zilliqa.com/",
+        "ticker": "ZIL",
+        "comment": "Zilliqa 2 EVM Devnet",
+        "rpc": [
+            "https://api.zq2-devnet.zilstg.dev"
+        ],
+        "dateAdd": "2023-10-03T00:07:09.417731",
+        "blockNumber": 3089559
     }
 ]
