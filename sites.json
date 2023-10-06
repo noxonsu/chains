@@ -12113,5 +12113,27 @@
         ],
         "dateAdd": "2023-10-03T00:07:09.417731",
         "blockNumber": 3089559
+    },
+    {
+        "chainId": 17171,
+        "url": "https://oneg8.one",
+        "ticker": "G8C",
+        "comment": "G8Chain Mainnet",
+        "rpc": [
+            "https://mainnet-rpc.oneg8.network"
+        ],
+        "dateAdd": "2023-10-06T00:07:03.698760",
+        "blockNumber": 395671
+    },
+    {
+        "chainId": 18181,
+        "url": "https://oneg8.one",
+        "ticker": "G8C",
+        "comment": "G8Chain Testnet",
+        "rpc": [
+            "https://testnet-rpc.oneg8.network"
+        ],
+        "dateAdd": "2023-10-06T00:07:03.698783",
+        "blockNumber": 620959
     }
 ]
