@@ -12135,5 +12135,16 @@
         ],
         "dateAdd": "2023-10-06T00:07:03.698783",
         "blockNumber": 620959
+    },
+    {
+        "chainId": 776877,
+        "url": "https://www.rmrk.app/",
+        "ticker": "MDM",
+        "comment": "Modularium",
+        "rpc": [
+            "https://fraa-dancebox-3035-rpc.a.dancebox.tanssi.network"
+        ],
+        "dateAdd": "2023-10-08T00:07:41.071455",
+        "blockNumber": 22202
     }
 ]
