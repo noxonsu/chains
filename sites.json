@@ -12146,5 +12146,16 @@
         ],
         "dateAdd": "2023-10-08T00:07:41.071455",
         "blockNumber": 22202
+    },
+    {
+        "chainId": 291,
+        "url": "www.orderly.network",
+        "ticker": "ETH",
+        "comment": "Orderly Mainnet",
+        "rpc": [
+            "http://rpc.orderly.network"
+        ],
+        "dateAdd": "2023-10-09T00:07:32.513951",
+        "blockNumber": "Error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     }
 ]
