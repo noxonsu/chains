@@ -12157,5 +12157,27 @@
         ],
         "dateAdd": "2023-10-09T00:07:32.513951",
         "blockNumber": "Error: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+    },
+    {
+        "chainId": 8668,
+        "url": "https://helalabs.com",
+        "ticker": "HLUSD",
+        "comment": "Hela Official Runtime Mainnet",
+        "rpc": [
+            "https://mainnet-rpc.helachain.com"
+        ],
+        "dateAdd": "2023-10-10T00:07:01.958270",
+        "blockNumber": 1938
+    },
+    {
+        "chainId": 666888,
+        "url": "https://helalabs.com",
+        "ticker": "HLUSD",
+        "comment": "Hela Official Runtime Testnet",
+        "rpc": [
+            "https://testnet-rpc.helachain.com"
+        ],
+        "dateAdd": "2023-10-10T00:07:01.958492",
+        "blockNumber": 27309
     }
 ]
