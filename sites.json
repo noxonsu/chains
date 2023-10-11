@@ -12179,5 +12179,16 @@
         ],
         "dateAdd": "2023-10-10T00:07:01.958492",
         "blockNumber": 27309
+    },
+    {
+        "chainId": 214,
+        "url": "https://shinarium.org",
+        "ticker": "SHI",
+        "comment": "Shinarium Mainnet",
+        "rpc": [
+            "https://mainnet.shinarium.org"
+        ],
+        "dateAdd": "2023-10-11T00:07:13.112278",
+        "blockNumber": 30520
     }
 ]
