@@ -12190,5 +12190,16 @@
         ],
         "dateAdd": "2023-10-11T00:07:13.112278",
         "blockNumber": 30520
+    },
+    {
+        "chainId": 84532,
+        "url": "https://base.org",
+        "ticker": "ETH",
+        "comment": "Base Sepolia Testnet",
+        "rpc": [
+            "https://sepolia.base.org"
+        ],
+        "dateAdd": "2023-10-12T00:06:20.238289",
+        "blockNumber": 650445
     }
 ]
