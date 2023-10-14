@@ -12201,5 +12201,40 @@
         ],
         "dateAdd": "2023-10-12T00:06:20.238289",
         "blockNumber": 650445
+    },
+    {
+        "chainId": 3100,
+        "url": "https://immu3.io",
+        "ticker": "IMMU",
+        "comment": "Immu3 EVM",
+        "rpc": [
+            "https://fraa-dancebox-3043-rpc.a.dancebox.tanssi.network",
+            "wss://fraa-dancebox-3043-rpc.a.dancebox.tanssi.network"
+        ],
+        "dateAdd": "2023-10-14T00:06:52.270562",
+        "blockNumber": 11196
+    },
+    {
+        "chainId": 68770,
+        "url": "https://seamoon.dmm.com",
+        "ticker": "OAS",
+        "comment": "DM2 Verse Mainnet",
+        "rpc": [
+            "https://rpc.dm2verse.dmm.com"
+        ],
+        "dateAdd": "2023-10-14T00:06:52.270789",
+        "blockNumber": 122
+    },
+    {
+        "chainId": 855456,
+        "url": "https://dodao.dev/",
+        "ticker": "DODAO",
+        "comment": "Dodao",
+        "rpc": [
+            "https://fraa-dancebox-3041-rpc.a.dancebox.tanssi.network",
+            "wss://fraa-dancebox-3041-rpc.a.dancebox.tanssi.network"
+        ],
+        "dateAdd": "2023-10-14T00:06:52.270883",
+        "blockNumber": 11201
     }
 ]
