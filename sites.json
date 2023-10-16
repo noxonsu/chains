@@ -12236,5 +12236,16 @@
         ],
         "dateAdd": "2023-10-14T00:06:52.270883",
         "blockNumber": 11201
+    },
+    {
+        "chainId": 1904,
+        "url": "https://sportschainnetwork.xyz",
+        "ticker": "SCN",
+        "comment": "Sports Chain Network",
+        "rpc": [
+            "https://rpc.sportschainnetwork.xyz/"
+        ],
+        "dateAdd": "2023-10-16T00:07:24.372223",
+        "blockNumber": 2081018
     }
 ]
