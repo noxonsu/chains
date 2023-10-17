@@ -12247,5 +12247,17 @@
         ],
         "dateAdd": "2023-10-16T00:07:24.372223",
         "blockNumber": 2081018
+    },
+    {
+        "chainId": 3102,
+        "url": "https://vulture.finance",
+        "ticker": "VFI",
+        "comment": "Vulture EVM Beta",
+        "rpc": [
+            "https://fraa-dancebox-3050-rpc.a.dancebox.tanssi.network",
+            "wss://fraa-dancebox-3050-rpc.a.dancebox.tanssi.network"
+        ],
+        "dateAdd": "2023-10-17T00:07:16.319576",
+        "blockNumber": "Error: HTTPSConnectionPool(host='fraa-dancebox-3050-rpc.a.dancebox.tanssi.network', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7fc7a9d71790>: Failed to resolve 'fraa-dancebox-3050-rpc.a.dancebox.tanssi.network' ([Errno -5] No address associated with hostname)\"))"
     }
 ]
