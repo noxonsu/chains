@@ -12270,5 +12270,16 @@
         ],
         "dateAdd": "2023-10-21T00:07:04.844044",
         "blockNumber": 38777
+    },
+    {
+        "chainId": 188710,
+        "url": "https://biticablockchain.com/",
+        "ticker": "BDCC",
+        "comment": "Bitica Chain Mainnet",
+        "rpc": [
+            "https://mainnet-rpc.biticablockchain.com/"
+        ],
+        "dateAdd": "2023-10-22T00:07:36.273987",
+        "blockNumber": 694566
     }
 ]
