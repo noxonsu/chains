@@ -12281,5 +12281,16 @@
         ],
         "dateAdd": "2023-10-22T00:07:36.273987",
         "blockNumber": 694566
+    },
+    {
+        "chainId": 3639,
+        "url": "https://islamicoin.finance",
+        "ticker": "ISLAMI",
+        "comment": "iChain Network",
+        "rpc": [
+            "https://rpc.ichainscan.com"
+        ],
+        "dateAdd": "2023-10-25T00:07:07.348638",
+        "blockNumber": 87046
     }
 ]
