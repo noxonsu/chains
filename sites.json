@@ -12303,5 +12303,27 @@
         ],
         "dateAdd": "2023-10-26T00:07:12.886527",
         "blockNumber": 99414
+    },
+    {
+        "chainId": 8194,
+        "url": "https://docs.toruschain.com",
+        "ticker": "TTQF",
+        "comment": "Torus Testnet",
+        "rpc": [
+            "https://rpc.testnet.toruschain.com"
+        ],
+        "dateAdd": "2023-10-27T00:06:57.628475",
+        "blockNumber": 33061
+    },
+    {
+        "chainId": 2611555,
+        "url": "",
+        "ticker": "DGS",
+        "comment": "DPU Chain",
+        "rpc": [
+            "https://sc-rpc.dpu.ac.th"
+        ],
+        "dateAdd": "2023-10-27T00:06:57.628812",
+        "blockNumber": 726983
     }
 ]
