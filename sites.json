@@ -12325,5 +12325,27 @@
         ],
         "dateAdd": "2023-10-27T00:06:57.628812",
         "blockNumber": 726983
+    },
+    {
+        "chainId": 206,
+        "url": "https://vitainu.org",
+        "ticker": "V\u0421",
+        "comment": "VinuChain Testnet",
+        "rpc": [
+            "https://vinufoundation-rpc.com"
+        ],
+        "dateAdd": "2023-10-31T00:07:20.627275",
+        "blockNumber": 56187
+    },
+    {
+        "chainId": 68840142,
+        "url": "https://www.frame.xyz/",
+        "ticker": "ETH",
+        "comment": "Frame Testnet",
+        "rpc": [
+            "https://rpc.testnet.frame.xyz/http"
+        ],
+        "dateAdd": "2023-10-31T00:07:20.627982",
+        "blockNumber": 9424
     }
 ]
