@@ -12347,5 +12347,62 @@
         ],
         "dateAdd": "2023-10-31T00:07:20.627982",
         "blockNumber": 9424
+    },
+    {
+        "chainId": 399,
+        "url": "https://nativ3.network",
+        "ticker": "USNT",
+        "comment": "Nativ3 Mainnet",
+        "rpc": [
+            "https://rpc.nativ3.network",
+            "wss://ws.nativ3.network"
+        ],
+        "dateAdd": "2023-11-02T00:06:56.237858",
+        "blockNumber": 47
+    },
+    {
+        "chainId": 29548,
+        "url": "https://www.mycryptoheroes.net/verse",
+        "ticker": "OAS",
+        "comment": "MCH Verse Mainnet",
+        "rpc": [
+            "https://rpc.oasys.mycryptoheroes.net"
+        ],
+        "dateAdd": "2023-11-02T00:06:56.238153",
+        "blockNumber": 29078712
+    },
+    {
+        "chainId": 52014,
+        "url": "https://electroneum.com",
+        "ticker": "ETN",
+        "comment": "Electroneum Mainnet",
+        "rpc": [
+            "https://api.electroneum.com"
+        ],
+        "dateAdd": "2023-11-02T00:06:56.238183",
+        "blockNumber": "Error: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+        "chainId": 333333,
+        "url": "https://nativ3.network",
+        "ticker": "USNT",
+        "comment": "Nativ3 Testnet",
+        "rpc": [
+            "https://rpctest.nativ3.network",
+            "wss://wstest.nativ3.network"
+        ],
+        "dateAdd": "2023-11-02T00:06:56.238278",
+        "blockNumber": 1056
+    },
+    {
+        "chainId": 5201420,
+        "url": "https://electroneum.com",
+        "ticker": "ETN",
+        "comment": "Electroneum Testnet",
+        "rpc": [
+            "https://api.electroneum.com"
+        ],
+        "dateAdd": "2023-11-02T00:06:56.238336",
+        "blockNumber": "Error: Expecting value: line 1 column 1 (char 0)"
     }
 ]
