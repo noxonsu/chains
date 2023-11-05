@@ -12404,5 +12404,16 @@
         ],
         "dateAdd": "2023-11-02T00:06:56.238336",
         "blockNumber": "Error: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+        "chainId": 5003,
+        "url": "https://mantle.xyz",
+        "ticker": "MNT",
+        "comment": "Mantle Sepolia Testnet",
+        "rpc": [
+            "https://rpc.sepolia.mantle.xyz"
+        ],
+        "dateAdd": "2023-11-05T00:07:38.210552",
+        "blockNumber": 101
     }
 ]
