@@ -12415,5 +12415,16 @@
         ],
         "dateAdd": "2023-11-05T00:07:38.210552",
         "blockNumber": 101
+    },
+    {
+        "chainId": 988207,
+        "url": "https://ecroxcoin.io/",
+        "ticker": "ECROX",
+        "comment": "Ecrox Chain Mainnet",
+        "rpc": [
+            "https://mainnet-rpc.ecroxscan.com/"
+        ],
+        "dateAdd": "2023-11-07T00:07:21.198730",
+        "blockNumber": 1573775
     }
 ]
