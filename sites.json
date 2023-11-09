@@ -12426,5 +12426,38 @@
         ],
         "dateAdd": "2023-11-07T00:07:21.198730",
         "blockNumber": 1573775
+    },
+    {
+        "chainId": 66988,
+        "url": "https://janus-network.gitbook.io/janus",
+        "ticker": "JNS",
+        "comment": "Janus Testnet",
+        "rpc": [
+            "https://rpc.test.janusnetwork.io"
+        ],
+        "dateAdd": "2023-11-09T00:07:11.192573",
+        "blockNumber": 224894
+    },
+    {
+        "chainId": 9322252,
+        "url": "https://xcap.network/",
+        "ticker": "GAS",
+        "comment": "XCAP",
+        "rpc": [
+            "https://xcap-mainnet.relay.xcap.network/znzvh2ueyvm2yts5fv5gnul395jbkfb2/rpc1"
+        ],
+        "dateAdd": "2023-11-09T00:07:11.192668",
+        "blockNumber": 1755
+    },
+    {
+        "chainId": 9322253,
+        "url": "https://xcap.network/",
+        "ticker": "GAS",
+        "comment": "Milvine",
+        "rpc": [
+            "https://xcap-milvine.relay.xcap.network/zj5l55ftsgi027kz4nf14vs8d89inego/rpc1"
+        ],
+        "dateAdd": "2023-11-09T00:07:11.192672",
+        "blockNumber": 1785
     }
 ]
