@@ -12459,5 +12459,27 @@
         ],
         "dateAdd": "2023-11-09T00:07:11.192672",
         "blockNumber": 1785
+    },
+    {
+        "chainId": 1343,
+        "url": "https://blitz.gg",
+        "ticker": "BGAS",
+        "comment": "Blitz Subnet",
+        "rpc": [
+            "https://subnets.avax.network/blitz/testnet/rpc"
+        ],
+        "dateAdd": "2023-11-11T00:06:53.299286",
+        "blockNumber": 658
+    },
+    {
+        "chainId": 33210,
+        "url": "https://muadao.build/",
+        "ticker": "XCLOUD",
+        "comment": "Cloudverse Subnet",
+        "rpc": [
+            "https://subnets.avax.network/cloudverse/mainnet/rpc"
+        ],
+        "dateAdd": "2023-11-11T00:06:53.299576",
+        "blockNumber": 16
     }
 ]
