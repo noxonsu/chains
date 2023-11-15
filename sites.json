@@ -12481,5 +12481,16 @@
         ],
         "dateAdd": "2023-11-11T00:06:53.299576",
         "blockNumber": 16
+    },
+    {
+        "chainId": 4400,
+        "url": "https://creditsmartchain.com",
+        "ticker": "CREDIT",
+        "comment": "Credit Smart Chain Mainnet",
+        "rpc": [
+            "https://rpc.creditsmartchain.com"
+        ],
+        "dateAdd": "2023-11-15T00:07:25.697568",
+        "blockNumber": 867612
     }
 ]
