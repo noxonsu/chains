@@ -12492,5 +12492,16 @@
         ],
         "dateAdd": "2023-11-15T00:07:25.697568",
         "blockNumber": 867612
+    },
+    {
+        "chainId": 363636,
+        "url": "",
+        "ticker": "DGC",
+        "comment": "Digit Soul Smart Chain 2",
+        "rpc": [
+            "http://dgs-rpc.digitsoul.co.th"
+        ],
+        "dateAdd": "2023-11-16T00:07:37.166168",
+        "blockNumber": 3427423
     }
 ]
