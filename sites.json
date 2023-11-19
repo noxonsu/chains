@@ -12514,5 +12514,16 @@
         ],
         "dateAdd": "2023-11-17T00:07:30.160323",
         "blockNumber": 205813
+    },
+    {
+        "chainId": 34443,
+        "url": "https://docs.mode.network/",
+        "ticker": "ETH",
+        "comment": "Mode",
+        "rpc": [
+            "https://mainnet.mode.network"
+        ],
+        "dateAdd": "2023-11-19T00:08:07.457435",
+        "blockNumber": 92452
     }
 ]
