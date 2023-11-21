@@ -12525,5 +12525,16 @@
         ],
         "dateAdd": "2023-11-19T00:08:07.457435",
         "blockNumber": 92452
+    },
+    {
+        "chainId": 4893,
+        "url": "https://gcscan.io",
+        "ticker": "GC",
+        "comment": "Globel Chain",
+        "rpc": [
+            "https://rpc.gcscan.io"
+        ],
+        "dateAdd": "2023-11-21T00:07:44.731515",
+        "blockNumber": 1169649
     }
 ]
