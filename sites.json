@@ -12536,5 +12536,16 @@
         ],
         "dateAdd": "2023-11-21T00:07:44.731515",
         "blockNumber": 1169649
+    },
+    {
+        "chainId": 8192,
+        "url": "https://docs.toruschain.com",
+        "ticker": "TQF",
+        "comment": "Torus Mainnet",
+        "rpc": [
+            "https://rpc.toruschain.com"
+        ],
+        "dateAdd": "2023-11-23T00:07:42.460160",
+        "blockNumber": 7034
     }
 ]
