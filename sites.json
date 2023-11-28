@@ -12547,5 +12547,63 @@
         ],
         "dateAdd": "2023-11-23T00:07:42.460160",
         "blockNumber": 7034
+    },
+    {
+        "chainId": 428,
+        "url": "https://gesoten.com/",
+        "ticker": "OAS",
+        "comment": "Geso Verse",
+        "rpc": [
+            "https://rpc.verse.gesoten.com/"
+        ],
+        "dateAdd": "2023-11-28T00:07:28.203643",
+        "blockNumber": 0
+    },
+    {
+        "chainId": 7860,
+        "url": "https://www.maalchain.com/",
+        "ticker": "MAAL",
+        "comment": "MaalChain Testnet",
+        "rpc": [
+            "https://node1.maalscan.io/",
+            "https://rpc-bntest.maalscan.io/"
+        ],
+        "dateAdd": "2023-11-28T00:07:28.203824",
+        "blockNumber": 29109
+    },
+    {
+        "chainId": 476158412,
+        "url": "https://europahub.network/",
+        "ticker": "sFUEL",
+        "comment": "SKALE Europa Hub Testnet",
+        "rpc": [
+            "https://staging-v3.skalenodes.com/v1/staging-legal-crazy-castor"
+        ],
+        "dateAdd": "2023-11-28T00:07:28.204018",
+        "blockNumber": 3199769
+    },
+    {
+        "chainId": 1350216234,
+        "url": "",
+        "ticker": "sFUEL",
+        "comment": "SKALE Titan Hub",
+        "rpc": [
+            "https://mainnet.skalenodes.com/v1/parallel-stormy-spica",
+            "wss://mainnet.skalenodes.com/v1/ws/parallel-stormy-spica"
+        ],
+        "dateAdd": "2023-11-28T00:07:28.204025",
+        "blockNumber": 2986616
+    },
+    {
+        "chainId": 1517929550,
+        "url": "",
+        "ticker": "sFUEL",
+        "comment": "SKALE Titan Hub Testnet",
+        "rpc": [
+            "https://staging-v3.skalenodes.com/v1/staging-aware-chief-gianfar",
+            "wss://staging-v3.skalenodes.com/v1/ws/staging-aware-chief-gianfar"
+        ],
+        "dateAdd": "2023-11-28T00:07:28.204037",
+        "blockNumber": 3337395
     }
 ]
