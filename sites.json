@@ -12605,5 +12605,28 @@
         ],
         "dateAdd": "2023-11-28T00:07:28.204037",
         "blockNumber": 3337395
+    },
+    {
+        "chainId": 2718,
+        "url": "https://www.laosfoundation.io/",
+        "ticker": "KLAOS",
+        "comment": "K-LAOS",
+        "rpc": [
+            "https://rpc.klaos.laosfoundation.io",
+            "wss://rpc.klaos.laosfoundation.io"
+        ],
+        "dateAdd": "2023-11-29T00:07:38.414205",
+        "blockNumber": 11689
+    },
+    {
+        "chainId": 17001,
+        "url": "https://redstone.xyz/docs/network-info",
+        "ticker": "ETH",
+        "comment": "Redstone Holesky Testnet",
+        "rpc": [
+            "https://rpc.holesky.redstone.xyz"
+        ],
+        "dateAdd": "2023-11-29T00:07:38.414330",
+        "blockNumber": 962203
     }
 ]
