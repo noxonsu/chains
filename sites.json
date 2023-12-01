@@ -12628,5 +12628,69 @@
         ],
         "dateAdd": "2023-11-29T00:07:38.414330",
         "blockNumber": 962203
+    },
+    {
+        "chainId": 252,
+        "url": "https://mainnet.frax.com",
+        "ticker": "frxETH",
+        "comment": "Fraxchain Mainnet",
+        "rpc": [],
+        "dateAdd": "2023-12-01T00:08:23.735463",
+        "blockNumber": "No RPC URL available"
+    },
+    {
+        "chainId": 1073,
+        "url": "https://shimmer.network",
+        "ticker": "SMR",
+        "comment": "ShimmerEVM Testnet",
+        "rpc": [
+            "https://json-rpc.evm.testnet.shimmer.network"
+        ],
+        "dateAdd": "2023-12-01T00:08:23.735543",
+        "blockNumber": 226035
+    },
+    {
+        "chainId": 1909,
+        "url": "https://merklescan.com",
+        "ticker": "MRK",
+        "comment": "Merkle Scan",
+        "rpc": [
+            "https://marklechain-rpc.merklescan.com"
+        ],
+        "dateAdd": "2023-12-01T00:08:23.735587",
+        "blockNumber": 2164447
+    },
+    {
+        "chainId": 2306,
+        "url": "https://www.ebrochain.com",
+        "ticker": "ebro",
+        "comment": "Ebro Network",
+        "rpc": [
+            "https://greendinoswap.com"
+        ],
+        "dateAdd": "2023-12-01T00:08:23.735616",
+        "blockNumber": 6803
+    },
+    {
+        "chainId": 2522,
+        "url": "https://testnet.frax.com",
+        "ticker": "frxETH",
+        "comment": "Fraxchain Testnet",
+        "rpc": [
+            "https://rpc.testnet.frax.com"
+        ],
+        "dateAdd": "2023-12-01T00:08:23.735623",
+        "blockNumber": 695964
+    },
+    {
+        "chainId": 81041,
+        "url": "https://nordekscan.com",
+        "ticker": "NRK",
+        "comment": "Nordek Mainnet",
+        "rpc": [
+            "https://mainnet-rpc.nordekscan.com"
+        ],
+        "dateAdd": "2023-12-01T00:08:23.735800",
+        "blockNumber": 5108527
     }
 ]
