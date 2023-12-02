@@ -12692,5 +12692,27 @@
         ],
         "dateAdd": "2023-12-01T00:08:23.735800",
         "blockNumber": 5108527
+    },
+    {
+        "chainId": 13473,
+        "url": "https://www.immutable.com",
+        "ticker": "tIMX",
+        "comment": "Immutable zkEVM Testnet",
+        "rpc": [
+            "https://rpc.testnet.immutable.com"
+        ],
+        "dateAdd": "2023-12-02T00:07:20.427077",
+        "blockNumber": 1248061
+    },
+    {
+        "chainId": 15003,
+        "url": "https://www.immutable.com",
+        "ticker": "dIMX",
+        "comment": "Immutable zkEVM Devnet",
+        "rpc": [
+            "https://rpc.dev.immutable.com"
+        ],
+        "dateAdd": "2023-12-02T00:07:20.427088",
+        "blockNumber": 1287970
     }
 ]
