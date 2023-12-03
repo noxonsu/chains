@@ -12714,5 +12714,38 @@
         ],
         "dateAdd": "2023-12-02T00:07:20.427088",
         "blockNumber": 1287970
+    },
+    {
+        "chainId": 4003,
+        "url": "https://docs.xen.network/go-x1/",
+        "ticker": "XN",
+        "comment": "X1 Fastnet",
+        "rpc": [
+            "https://x1-fastnet.xen.network"
+        ],
+        "dateAdd": "2023-12-03T00:08:06.521482",
+        "blockNumber": 2232993
+    },
+    {
+        "chainId": 202212,
+        "url": "https://docs.xen.network/x1/",
+        "ticker": "XN",
+        "comment": "X1 Devnet",
+        "rpc": [
+            "https://x1-devnet.xen.network"
+        ],
+        "dateAdd": "2023-12-03T00:08:06.521667",
+        "blockNumber": 8264885
+    },
+    {
+        "chainId": 204005,
+        "url": "https://docs.xen.network/go-x1/",
+        "ticker": "XN",
+        "comment": "X1 Network",
+        "rpc": [
+            "https://x1-testnet.xen.network"
+        ],
+        "dateAdd": "2023-12-03T00:08:06.521671",
+        "blockNumber": 69949
     }
 ]
