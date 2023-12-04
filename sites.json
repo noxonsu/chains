@@ -12747,5 +12747,38 @@
         ],
         "dateAdd": "2023-12-03T00:08:06.521671",
         "blockNumber": 69949
+    },
+    {
+        "chainId": 727,
+        "url": "https://www.blucrates.com",
+        "ticker": "BLU",
+        "comment": "Blucrates",
+        "rpc": [
+            "https://data.bluchain.pro"
+        ],
+        "dateAdd": "2023-12-04T00:07:39.394239",
+        "blockNumber": 62540
+    },
+    {
+        "chainId": 59971,
+        "url": "https://genesyscode.io",
+        "ticker": "GCODE",
+        "comment": "Genesys Code Mainnet",
+        "rpc": [
+            "https://mainnet.genesyscode.io/"
+        ],
+        "dateAdd": "2023-12-04T00:07:39.394525",
+        "blockNumber": 153799
+    },
+    {
+        "chainId": 1127469,
+        "url": "",
+        "ticker": "TILTG",
+        "comment": "Tiltyard Subnet",
+        "rpc": [
+            "https://subnets.avax.network/tiltyard/testnet/rpc"
+        ],
+        "dateAdd": "2023-12-04T00:07:39.394613",
+        "blockNumber": 357
     }
 ]
