@@ -12780,5 +12780,27 @@
         ],
         "dateAdd": "2023-12-04T00:07:39.394613",
         "blockNumber": 357
+    },
+    {
+        "chainId": 463,
+        "url": "https://areon.network",
+        "ticker": "AREA",
+        "comment": "Areon Network Mainnet",
+        "rpc": [
+            "https://mainnet-rpc.areon.network"
+        ],
+        "dateAdd": "2023-12-05T00:07:30.720802",
+        "blockNumber": 8921
+    },
+    {
+        "chainId": 653,
+        "url": "https://kalichain.com",
+        "ticker": "KALIS",
+        "comment": "Kalichain Mainnet",
+        "rpc": [
+            "https://rpc.kalichain.com"
+        ],
+        "dateAdd": "2023-12-05T00:07:30.720825",
+        "blockNumber": 3866710
     }
 ]
