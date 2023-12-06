@@ -12802,5 +12802,28 @@
         ],
         "dateAdd": "2023-12-05T00:07:30.720825",
         "blockNumber": 3866710
+    },
+    {
+        "chainId": 11155420,
+        "url": "https://optimism.io",
+        "ticker": "ETH",
+        "comment": "OP Sepolia Testnet",
+        "rpc": [
+            "https://sepolia.optimism.io"
+        ],
+        "dateAdd": "2023-12-06T00:07:37.642541",
+        "blockNumber": 5009358
+    },
+    {
+        "chainId": 65010001,
+        "url": "https://autonity.org/",
+        "ticker": "ATN",
+        "comment": "Autonity Bakerloo (Barada) Testnet",
+        "rpc": [
+            "https://rpc1.bakerloo.autonity.org/",
+            "wss://rpc1.bakerloo.autonity.org/ws/"
+        ],
+        "dateAdd": "2023-12-06T00:07:37.642559",
+        "blockNumber": 75334
     }
 ]
