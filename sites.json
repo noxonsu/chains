@@ -12825,5 +12825,17 @@
         ],
         "dateAdd": "2023-12-06T00:07:37.642559",
         "blockNumber": 75334
+    },
+    {
+        "chainId": 21912,
+        "url": "https://bsquarelab.com/",
+        "ticker": "ONF",
+        "comment": "BSL Mainnet",
+        "rpc": [
+            "http://rpc-mainnet.nftruth.io:8545",
+            "ws://rpc-mainnet.nftruth.io:8645"
+        ],
+        "dateAdd": "2023-12-08T00:07:50.859437",
+        "blockNumber": 3790293
     }
 ]
