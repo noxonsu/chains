@@ -12837,5 +12837,38 @@
         ],
         "dateAdd": "2023-12-08T00:07:50.859437",
         "blockNumber": 3790293
+    },
+    {
+        "chainId": 814,
+        "url": "https://docs.thefirechain.com/",
+        "ticker": "ETH",
+        "comment": "Firechain zkEVM",
+        "rpc": [
+            "https://rpc.zkevm.thefirechain.com"
+        ],
+        "dateAdd": "2023-12-09T00:07:26.785538",
+        "blockNumber": "Error: HTTPSConnectionPool(host='rpc.zkevm.thefirechain.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f0fe9059880>: Failed to resolve 'rpc.zkevm.thefirechain.com' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+        "chainId": 3885,
+        "url": "https://docs.thefirechain.com/",
+        "ticker": "ETH",
+        "comment": "Firechain zkEVM Ghostrider",
+        "rpc": [
+            "https://rpc.zkevm.ghostrider.thefirechain.com"
+        ],
+        "dateAdd": "2023-12-09T00:07:26.785665",
+        "blockNumber": "Error: HTTPSConnectionPool(host='rpc.zkevm.ghostrider.thefirechain.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f0fe905a780>: Failed to resolve 'rpc.zkevm.ghostrider.thefirechain.com' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+        "chainId": 43851,
+        "url": "https://zkfair.io",
+        "ticker": "USDC",
+        "comment": "ZKFair Testnet",
+        "rpc": [
+            "https://testnet-rpc.zkfair.io"
+        ],
+        "dateAdd": "2023-12-09T00:07:26.785799",
+        "blockNumber": 247014
     }
 ]
