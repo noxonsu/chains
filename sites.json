@@ -12870,5 +12870,28 @@
         ],
         "dateAdd": "2023-12-09T00:07:26.785799",
         "blockNumber": 247014
+    },
+    {
+        "chainId": 2458,
+        "url": "https://hybridchain.ai",
+        "ticker": "tHRC",
+        "comment": "Hybrid Chain Network Testnet",
+        "rpc": [
+            "https://rpc-testnet.hybridchain.ai/"
+        ],
+        "dateAdd": "2023-12-10T00:08:13.947124",
+        "blockNumber": 88040
+    },
+    {
+        "chainId": 2468,
+        "url": "https://hybridchain.ai",
+        "ticker": "HRC",
+        "comment": "Hybrid Chain Network Mainnet",
+        "rpc": [
+            "https://coredata-mainnet.hybridchain.ai/",
+            "https://rpc-mainnet.hybridchain.ai"
+        ],
+        "dateAdd": "2023-12-10T00:08:13.947136",
+        "blockNumber": 10984
     }
 ]
