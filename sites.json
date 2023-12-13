@@ -12893,5 +12893,16 @@
         ],
         "dateAdd": "2023-12-10T00:08:13.947136",
         "blockNumber": 10984
+    },
+    {
+        "chainId": 72992,
+        "url": "https://grokchain.dev",
+        "ticker": "GROC",
+        "comment": "Grok Chain Mainnet",
+        "rpc": [
+            "https://mainnet-rpc.grokchain.dev"
+        ],
+        "dateAdd": "2023-12-13T00:07:25.802476",
+        "blockNumber": 220338
     }
 ]
