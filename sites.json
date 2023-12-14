@@ -12904,5 +12904,17 @@
         ],
         "dateAdd": "2023-12-13T00:07:25.802476",
         "blockNumber": 220338
+    },
+    {
+        "chainId": 65100001,
+        "url": "https://autonity.org/",
+        "ticker": "ATN",
+        "comment": "Autonity Piccadilly (Barada) Testnet",
+        "rpc": [
+            "https://rpc1.piccadilly.autonity.org/",
+            "wss://rpc1.piccadilly.autonity.org/ws/"
+        ],
+        "dateAdd": "2023-12-14T00:07:24.463608",
+        "blockNumber": 522529
     }
 ]
