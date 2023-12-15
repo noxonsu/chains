@@ -12916,5 +12916,49 @@
         ],
         "dateAdd": "2023-12-14T00:07:24.463608",
         "blockNumber": 522529
+    },
+    {
+        "chainId": 957,
+        "url": "https://lyra.finance",
+        "ticker": "ETH",
+        "comment": "Lyra Chain",
+        "rpc": [
+            "https://rpc.lyra.finance"
+        ],
+        "dateAdd": "2023-12-15T00:07:46.907732",
+        "blockNumber": 1288626
+    },
+    {
+        "chainId": 50005,
+        "url": "https://yooldo.gg/",
+        "ticker": "OAS",
+        "comment": "Yooldo Verse Mainnet",
+        "rpc": [
+            "https://rpc.yooldo-verse.xyz/"
+        ],
+        "dateAdd": "2023-12-15T00:07:46.908029",
+        "blockNumber": 0
+    },
+    {
+        "chainId": 50006,
+        "url": "https://yooldo.gg/",
+        "ticker": "OAS",
+        "comment": "Yooldo Verse Testnet",
+        "rpc": [
+            "https://rpc.testnet.yooldo-verse.xyz/"
+        ],
+        "dateAdd": "2023-12-15T00:07:46.908033",
+        "blockNumber": 0
+    },
+    {
+        "chainId": 912559,
+        "url": "https://docs.astria.org",
+        "ticker": "RIA",
+        "comment": "Astria EVM Dusknet",
+        "rpc": [
+            "https://rpc.evm.dusk-2.devnet.astria.org"
+        ],
+        "dateAdd": "2023-12-15T00:07:46.908139",
+        "blockNumber": 514837
     }
 ]
