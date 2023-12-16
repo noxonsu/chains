@@ -12960,5 +12960,27 @@
         ],
         "dateAdd": "2023-12-15T00:07:46.908139",
         "blockNumber": 514837
+    },
+    {
+        "chainId": 1998,
+        "url": "https://kyotoprotocol.io",
+        "ticker": "KYOTO",
+        "comment": "Kyoto Testnet",
+        "rpc": [
+            "https://rpc.testnet.kyotoprotocol.io:8545"
+        ],
+        "dateAdd": "2023-12-16T00:07:34.674236",
+        "blockNumber": 322307
+    },
+    {
+        "chainId": 13371,
+        "url": "https://www.immutable.com",
+        "ticker": "IMX",
+        "comment": "Immutable zkEVM",
+        "rpc": [
+            "https://rpc.immutable.com"
+        ],
+        "dateAdd": "2023-12-16T00:07:34.674398",
+        "blockNumber": 209828
     }
 ]
