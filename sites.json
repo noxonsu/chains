@@ -12982,5 +12982,27 @@
         ],
         "dateAdd": "2023-12-16T00:07:34.674398",
         "blockNumber": 209828
+    },
+    {
+        "chainId": 1972,
+        "url": "https://www.redecoin.eu",
+        "ticker": "REDEV2",
+        "comment": "RedeCoin",
+        "rpc": [
+            "https://rpc2.redecoin.eu"
+        ],
+        "dateAdd": "2023-12-18T00:08:01.116033",
+        "blockNumber": 1173477
+    },
+    {
+        "chainId": 224422,
+        "url": "https://conet.network",
+        "ticker": "CONET",
+        "comment": "CONET Sebolia Testnet",
+        "rpc": [
+            "https://rpc1.conet.network"
+        ],
+        "dateAdd": "2023-12-18T00:08:01.116296",
+        "blockNumber": 36613
     }
 ]
