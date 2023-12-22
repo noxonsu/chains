@@ -13004,5 +13004,104 @@
         ],
         "dateAdd": "2023-12-18T00:08:01.116296",
         "blockNumber": 36613
+    },
+    {
+        "chainId": 220,
+        "url": "https://scalind.com",
+        "ticker": "ETH",
+        "comment": "Scalind Testnet",
+        "rpc": [
+            "https://rpc-sepolia.scalind.com"
+        ],
+        "dateAdd": "2023-12-22T00:07:30.339275",
+        "blockNumber": 346979
+    },
+    {
+        "chainId": 238,
+        "url": "https://docs.blastblockchain.com",
+        "ticker": "BLAST",
+        "comment": "Blast Mainnet",
+        "rpc": [
+            "https://rpc.blastblockchain.com"
+        ],
+        "dateAdd": "2023-12-22T00:07:30.339288",
+        "blockNumber": 406464
+    },
+    {
+        "chainId": 1911,
+        "url": "https://scalind.com",
+        "ticker": "ETH",
+        "comment": "Scalind",
+        "rpc": [
+            "https://rpc.scalind.com"
+        ],
+        "dateAdd": "2023-12-22T00:07:30.339409",
+        "blockNumber": 90539
+    },
+    {
+        "chainId": 4078,
+        "url": "",
+        "ticker": "ETH",
+        "comment": "Muster Mainnet",
+        "rpc": [
+            "https://muster.alt.technology"
+        ],
+        "dateAdd": "2023-12-22T00:07:30.339473",
+        "blockNumber": 52
+    },
+    {
+        "chainId": 6661,
+        "url": "https://cybria.io",
+        "ticker": "CYBA",
+        "comment": "Cybria Mainnet",
+        "rpc": [
+            "https://rpc-mainnet.cybria.io"
+        ],
+        "dateAdd": "2023-12-22T00:07:30.339501",
+        "blockNumber": 531913
+    },
+    {
+        "chainId": 6666,
+        "url": "https://cybria.io",
+        "ticker": "CYBA",
+        "comment": "Cybria Testnet",
+        "rpc": [
+            "https://l2-rpc.cybascan.io"
+        ],
+        "dateAdd": "2023-12-22T00:07:30.339503",
+        "blockNumber": 2706920
+    },
+    {
+        "chainId": 7100,
+        "url": "https://numecrypto.com",
+        "ticker": "DAI",
+        "comment": "Nume",
+        "rpc": [
+            "https://rpc.numecrypto.com"
+        ],
+        "dateAdd": "2023-12-22T00:07:30.339509",
+        "blockNumber": "Unknown"
+    },
+    {
+        "chainId": 23888,
+        "url": "https://docs.blastblockchain.com",
+        "ticker": "BLAST",
+        "comment": "Blast Testnet",
+        "rpc": [
+            "http://testnet-rpc.blastblockchain.com"
+        ],
+        "dateAdd": "2023-12-22T00:07:30.339589",
+        "blockNumber": "Error: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+        "chainId": 42766,
+        "url": "https://zkfair.io",
+        "ticker": "USDC",
+        "comment": "ZKFair Mainnet",
+        "rpc": [
+            "https://rpc.zkfair.io"
+        ],
+        "dateAdd": "2023-12-22T00:07:30.339612",
+        "blockNumber": 413851
     }
 ]
