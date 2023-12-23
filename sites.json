@@ -13103,5 +13103,17 @@
         ],
         "dateAdd": "2023-12-22T00:07:30.339612",
         "blockNumber": 413851
+    },
+    {
+        "chainId": 131,
+        "url": "https://engramnet.io",
+        "ticker": "tGRAM",
+        "comment": "Engram Testnet",
+        "rpc": [
+            "https://tokioswift.engram.tech",
+            "https://tokio-archive.engram.tech"
+        ],
+        "dateAdd": "2023-12-23T00:07:12.676117",
+        "blockNumber": 225903
     }
 ]
