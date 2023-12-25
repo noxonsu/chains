@@ -13115,5 +13115,27 @@
         ],
         "dateAdd": "2023-12-23T00:07:12.676117",
         "blockNumber": 225903
+    },
+    {
+        "chainId": 224433,
+        "url": "https://conet.network",
+        "ticker": "CONET",
+        "comment": "CONET Holesky",
+        "rpc": [
+            "https://holeskyrpc1.conet.network"
+        ],
+        "dateAdd": "2023-12-25T00:07:46.349685",
+        "blockNumber": "Error: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+        "chainId": 473861,
+        "url": "https://ultrapro.info",
+        "ticker": "UPRO",
+        "comment": "Ultra Pro Mainnet",
+        "rpc": [
+            "https://mainnet-rpc.ultraproscan.io"
+        ],
+        "dateAdd": "2023-12-25T00:07:46.349716",
+        "blockNumber": 1399203
     }
 ]
