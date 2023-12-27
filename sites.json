@@ -13137,5 +13137,61 @@
         ],
         "dateAdd": "2023-12-25T00:07:46.349716",
         "blockNumber": 1399203
+    },
+    {
+        "chainId": 6660,
+        "url": "https://latestcoin.io",
+        "ticker": "LATEST",
+        "comment": "Latest Chain Testnet",
+        "rpc": [
+            "https://testnet-rpc.latestcoin.io"
+        ],
+        "dateAdd": "2023-12-27T00:07:07.627421",
+        "blockNumber": 47171
+    },
+    {
+        "chainId": 6779,
+        "url": "https://compverse.io",
+        "ticker": "CPV",
+        "comment": "Compverse Mainnet",
+        "rpc": [
+            "https://rpc.compverse.io/",
+            "https://rpc-useast1.compverse.io/"
+        ],
+        "dateAdd": "2023-12-27T00:07:07.627435",
+        "blockNumber": 4583069
+    },
+    {
+        "chainId": 9980,
+        "url": "https://combonetwork.io",
+        "ticker": "BNB",
+        "comment": "Combo Mainnet",
+        "rpc": [
+            "https://rpc.combonetwork.io"
+        ],
+        "dateAdd": "2023-12-27T00:07:07.627478",
+        "blockNumber": 2818562
+    },
+    {
+        "chainId": 8080808,
+        "url": "https://hokum.gg",
+        "ticker": "ETH",
+        "comment": "Hokum",
+        "rpc": [
+            "https://mainnet.hokum.gg"
+        ],
+        "dateAdd": "2023-12-27T00:07:07.627652",
+        "blockNumber": 573537
+    },
+    {
+        "chainId": 20482050,
+        "url": "https://hokum.gg",
+        "ticker": "ETH",
+        "comment": "Hokum Testnet",
+        "rpc": [
+            "https://testnet.hokum.gg"
+        ],
+        "dateAdd": "2023-12-27T00:07:07.627662",
+        "blockNumber": 2191462
     }
 ]
