@@ -13193,5 +13193,27 @@
         ],
         "dateAdd": "2023-12-27T00:07:07.627662",
         "blockNumber": 2191462
+    },
+    {
+        "chainId": 8087,
+        "url": "https://e-dollar.org",
+        "ticker": "USD",
+        "comment": "E-Dollar",
+        "rpc": [
+            "https://rpc.e-dollar.org"
+        ],
+        "dateAdd": "2023-12-28T00:07:19.219818",
+        "blockNumber": 11264
+    },
+    {
+        "chainId": 91715,
+        "url": "https://combonetwork.io",
+        "ticker": "tcBNB",
+        "comment": "Combo Testnet",
+        "rpc": [
+            "https://test-rpc.combonetwork.io"
+        ],
+        "dateAdd": "2023-12-28T00:07:19.219975",
+        "blockNumber": 21748351
     }
 ]
