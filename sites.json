@@ -13215,5 +13215,59 @@
         ],
         "dateAdd": "2023-12-28T00:07:19.219975",
         "blockNumber": 21748351
+    },
+    {
+        "chainId": 1248,
+        "url": "https://www.dogether.dog/",
+        "ticker": "dogeth",
+        "comment": "Dogether Mainnet",
+        "rpc": [
+            "https://rpc.dogether.dog/"
+        ],
+        "dateAdd": "2024-01-05T00:07:32.934259",
+        "blockNumber": 110813
+    },
+    {
+        "chainId": 1821,
+        "url": "https://rubychain.io",
+        "ticker": "RUBY",
+        "comment": "Ruby Smart Chain MAINNET",
+        "rpc": [
+            "https://mainnet-data.rubychain.io/",
+            "https://mainnet.rubychain.io/"
+        ],
+        "dateAdd": "2024-01-05T00:07:32.934295",
+        "blockNumber": 41626
+    },
+    {
+        "chainId": 1912,
+        "url": "https://rubychain.io",
+        "ticker": "tRUBY",
+        "comment": "Ruby Smart Chain Testnet",
+        "rpc": [
+            "https://testnet-rchain.rubychain.io/"
+        ],
+        "dateAdd": "2024-01-05T00:07:32.934306",
+        "blockNumber": 72165
+    },
+    {
+        "chainId": 2035,
+        "url": "https://phala.network",
+        "ticker": "PHA",
+        "comment": "Phala Network",
+        "rpc": [],
+        "dateAdd": "2024-01-05T00:07:32.934324",
+        "blockNumber": "No RPC URL available"
+    },
+    {
+        "chainId": 10242,
+        "url": "https://docs.arthera.net/build/developing-sc/using-hardhat",
+        "ticker": "AA",
+        "comment": "Arthera Mainnet",
+        "rpc": [
+            "https://rpc.arthera.net"
+        ],
+        "dateAdd": "2024-01-05T00:07:32.934454",
+        "blockNumber": 1312
     }
 ]
