@@ -13269,5 +13269,91 @@
         ],
         "dateAdd": "2024-01-05T00:07:32.934454",
         "blockNumber": 1312
+    },
+    {
+        "chainId": 5169,
+        "url": "https://www.smartlayer.network/",
+        "ticker": "SU",
+        "comment": "Smart Layer Network",
+        "rpc": [
+            "https://rpc.main.smartlayer.network"
+        ],
+        "dateAdd": "2024-01-06T00:07:21.866025",
+        "blockNumber": 0
+    },
+    {
+        "chainId": 7118,
+        "url": "https://hth.world",
+        "ticker": "HTH",
+        "comment": "Help The Homeless",
+        "rpc": [],
+        "dateAdd": "2024-01-06T00:07:21.866069",
+        "blockNumber": "No RPC URL available"
+    },
+    {
+        "chainId": 8726,
+        "url": "https://storagechain.io/about-us",
+        "ticker": "STOR",
+        "comment": "Storagechain Mainnet",
+        "rpc": [
+            "https://mainnet-validator.storagechain.io"
+        ],
+        "dateAdd": "2024-01-06T00:07:21.866092",
+        "blockNumber": 1898555
+    },
+    {
+        "chainId": 8727,
+        "url": "https://storagechain.io/about-us",
+        "ticker": "STOR",
+        "comment": "Storagechain Testnet",
+        "rpc": [
+            "https://testnet-validator.storagechain.io"
+        ],
+        "dateAdd": "2024-01-06T00:07:21.866095",
+        "blockNumber": 1027257
+    },
+    {
+        "chainId": 9888,
+        "url": "https://dogelayer.org",
+        "ticker": "DOGE",
+        "comment": "Dogelayer Mainnet",
+        "rpc": [
+            "https://dl-rpc.dogelayer.org"
+        ],
+        "dateAdd": "2024-01-06T00:07:21.866110",
+        "blockNumber": 166982
+    },
+    {
+        "chainId": 22324,
+        "url": "https://goldxchain.io",
+        "ticker": "GOLDX",
+        "comment": "GoldXChain Testnet",
+        "rpc": [
+            "https://testnet-rpc.goldxchain.io"
+        ],
+        "dateAdd": "2024-01-06T00:07:21.866150",
+        "blockNumber": 2428770
+    },
+    {
+        "chainId": 42355,
+        "url": "https://goldxchain.io",
+        "ticker": "GOLDX",
+        "comment": "GoldXChain Mainnet",
+        "rpc": [
+            "https://mainnet-rpc.goldxchain.io"
+        ],
+        "dateAdd": "2024-01-06T00:07:21.866173",
+        "blockNumber": 2151334
+    },
+    {
+        "chainId": 82459,
+        "url": "https://www.smartlayer.network/",
+        "ticker": "SU",
+        "comment": "Smart Layer Network Testnet",
+        "rpc": [
+            "https://rpc.test.smartlayer.network"
+        ],
+        "dateAdd": "2024-01-06T00:07:21.866217",
+        "blockNumber": 0
     }
 ]
