@@ -13355,5 +13355,83 @@
         ],
         "dateAdd": "2024-01-06T00:07:21.866217",
         "blockNumber": 0
+    },
+    {
+        "chainId": 571,
+        "url": "https://metatime.com/en",
+        "ticker": "MTC",
+        "comment": "MetaChain Mainnet",
+        "rpc": [
+            "https://rpc.metatime.com"
+        ],
+        "dateAdd": "2024-01-10T00:07:26.321042",
+        "blockNumber": 348207
+    },
+    {
+        "chainId": 654,
+        "url": "https://kalichain.com",
+        "ticker": "KALIS",
+        "comment": "Kalichain",
+        "rpc": [
+            "https://mainnet.kalichain.com"
+        ],
+        "dateAdd": "2024-01-10T00:07:26.321059",
+        "blockNumber": 3176
+    },
+    {
+        "chainId": 4243,
+        "url": "https://www.nexi.technology/",
+        "ticker": "NEXI",
+        "comment": "Nexi V2 Mainnet",
+        "rpc": [
+            "https://chain.nexiv2.nexilix.com",
+            "https://rpc.chainv1.nexi.technology"
+        ],
+        "dateAdd": "2024-01-10T00:07:26.321221",
+        "blockNumber": 647317
+    },
+    {
+        "chainId": 128123,
+        "url": "https://etherlink.com",
+        "ticker": "XTZ",
+        "comment": "Etherlink Testnet",
+        "rpc": [
+            "https://node.ghostnet.etherlink.com"
+        ],
+        "dateAdd": "2024-01-10T00:07:26.321421",
+        "blockNumber": 570004
+    },
+    {
+        "chainId": 167008,
+        "url": "https://taiko.xyz",
+        "ticker": "ETH",
+        "comment": "Taiko Katla L2",
+        "rpc": [
+            "https://rpc.katla.taiko.xyz"
+        ],
+        "dateAdd": "2024-01-10T00:07:26.321427",
+        "blockNumber": 14160
+    },
+    {
+        "chainId": 879151,
+        "url": "https://www.blocxchain.org/",
+        "ticker": "BLX",
+        "comment": "BlocX Mainnet",
+        "rpc": [
+            "https://mainnet-rpc.blxscan.com/"
+        ],
+        "dateAdd": "2024-01-10T00:07:26.321467",
+        "blockNumber": 2055722
+    },
+    {
+        "chainId": 1731313,
+        "url": "",
+        "ticker": "ETH",
+        "comment": "Turkey Demo Dev",
+        "rpc": [
+            "https://blockscout-poa.huabeizhenxuan.com"
+        ],
+        "dateAdd": "2024-01-10T00:07:26.321478",
+        "blockNumber": "Error: Expecting value: line 1 column 1 (char 0)"
     }
 ]
