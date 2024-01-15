@@ -13433,5 +13433,52 @@
         ],
         "dateAdd": "2024-01-10T00:07:26.321478",
         "blockNumber": "Error: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+        "chainId": 129,
+        "url": "https://jumbochain.org",
+        "ticker": "JNFTC",
+        "comment": "ProtoJumbo Testnet",
+        "rpc": [
+            "https://testnode.jumbochain.org"
+        ],
+        "dateAdd": "2024-01-15T00:08:14.453217",
+        "blockNumber": 1411883
+    },
+    {
+        "chainId": 810,
+        "url": "https://www.haven1.org",
+        "ticker": "H1",
+        "comment": "Haven1 Testnet",
+        "rpc": [
+            "https://testnet-rpc.haven1.org"
+        ],
+        "dateAdd": "2024-01-15T00:08:14.453304",
+        "blockNumber": 789177
+    },
+    {
+        "chainId": 3799,
+        "url": "https://docs.tangle.tools",
+        "ticker": "tTNT",
+        "comment": "Tangle Testnet",
+        "rpc": [
+            "https://testnet-rpc.tangle.tools",
+            "https://testnet-rpc-archive.tangle.tools",
+            "wss://testnet-rpc.tangle.tools",
+            "wss://testnet-rpc-archive.tangle.tools"
+        ],
+        "dateAdd": "2024-01-15T00:08:14.453429",
+        "blockNumber": 78450
+    },
+    {
+        "chainId": 45510,
+        "url": "https://deelance.com",
+        "ticker": "DEE",
+        "comment": "Deelance Mainnet",
+        "rpc": [
+            "https://rpc.deelance.com"
+        ],
+        "dateAdd": "2024-01-15T00:08:14.453568",
+        "blockNumber": "Error: Expecting value: line 1 column 1 (char 0)"
     }
 ]
