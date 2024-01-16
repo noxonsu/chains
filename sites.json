@@ -13480,5 +13480,49 @@
         ],
         "dateAdd": "2024-01-15T00:08:14.453568",
         "blockNumber": "Error: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+        "chainId": 6701,
+        "url": "https://paxb.io/",
+        "ticker": "PAXB",
+        "comment": "PAXB Mainnet",
+        "rpc": [
+            "https://chain.paxb.io"
+        ],
+        "dateAdd": "2024-01-16T00:07:33.345784",
+        "blockNumber": 2002394
+    },
+    {
+        "chainId": 9395,
+        "url": "https://explorer.evokescan.org",
+        "ticker": "MTHN",
+        "comment": "Evoke Mainnet",
+        "rpc": [
+            "https://mainnet-rpc.evokescan.org"
+        ],
+        "dateAdd": "2024-01-16T00:07:33.345836",
+        "blockNumber": 13899037
+    },
+    {
+        "chainId": 31414,
+        "url": "https://testnet-explorer.evokescan.org",
+        "ticker": "MTHN",
+        "comment": "Evoke Testnet",
+        "rpc": [
+            "https://testnet-rpc.evokescan.org"
+        ],
+        "dateAdd": "2024-01-16T00:07:33.345896",
+        "blockNumber": 13921095
+    },
+    {
+        "chainId": 28122024,
+        "url": "https://ancient8.gg/",
+        "ticker": "ETH",
+        "comment": "Ancient8 Testnet",
+        "rpc": [
+            "https://rpcv2-testnet.ancient8.gg"
+        ],
+        "dateAdd": "2024-01-16T00:07:33.346044",
+        "blockNumber": 803286
     }
 ]
