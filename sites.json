@@ -13524,5 +13524,16 @@
         ],
         "dateAdd": "2024-01-16T00:07:33.346044",
         "blockNumber": 803286
+    },
+    {
+        "chainId": 32001,
+        "url": "https://web3games.com/",
+        "ticker": "ETH",
+        "comment": "W3Gamez Holesky Testnet",
+        "rpc": [
+            "https://rpc-holesky.w3gamez.network"
+        ],
+        "dateAdd": "2024-01-22T00:08:07.185740",
+        "blockNumber": 236307
     }
 ]
