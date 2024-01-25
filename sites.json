@@ -13535,5 +13535,27 @@
         ],
         "dateAdd": "2024-01-22T00:08:07.185740",
         "blockNumber": 236307
+    },
+    {
+        "chainId": 612,
+        "url": "",
+        "ticker": "EIOB",
+        "comment": "EIOB Mainnet",
+        "rpc": [
+            "https://rpc.eiob.xyz"
+        ],
+        "dateAdd": "2024-01-25T00:07:36.939522",
+        "blockNumber": 4092
+    },
+    {
+        "chainId": 20765,
+        "url": "",
+        "ticker": "JONO",
+        "comment": "Jono11 Subnet",
+        "rpc": [
+            "https://subnets.avax.network/jono11/testnet/rpc"
+        ],
+        "dateAdd": "2024-01-25T00:07:36.939797",
+        "blockNumber": 4753
     }
 ]
