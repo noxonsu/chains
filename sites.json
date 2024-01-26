@@ -13557,5 +13557,62 @@
         ],
         "dateAdd": "2024-01-25T00:07:36.939797",
         "blockNumber": 4753
+    },
+    {
+        "chainId": 380,
+        "url": "https://testnet.zkamoeba.com",
+        "ticker": "FIL",
+        "comment": "ZKAmoeba Testnet",
+        "rpc": [
+            "https://rpc.testnet.zkamoeba.com:4050/",
+            "https://rpc1.testnet.zkamoeba.com:4050/"
+        ],
+        "dateAdd": "2024-01-26T00:07:18.703906",
+        "blockNumber": 611
+    },
+    {
+        "chainId": 381,
+        "url": "https://www.zkamoeba.com",
+        "ticker": "FIL",
+        "comment": "ZKAmoeba Mainnet",
+        "rpc": [
+            "https://rpc.mainnet.zkamoeba.com/rpc"
+        ],
+        "dateAdd": "2024-01-26T00:07:18.703915",
+        "blockNumber": "Error: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+        "chainId": 7887,
+        "url": "https://kinto.xyz",
+        "ticker": "ETH",
+        "comment": "Kinto Mainnet",
+        "rpc": [
+            "https://rpc.kinto.xyz/http",
+            "https://kinto-mainnet.calderachain.xyz/http"
+        ],
+        "dateAdd": "2024-01-26T00:07:18.704132",
+        "blockNumber": 36682
+    },
+    {
+        "chainId": 25186,
+        "url": "https://scan.liquidlayer.network",
+        "ticker": "LILA",
+        "comment": "LiquidLayer Mainnet",
+        "rpc": [
+            "https://mainnet.liquidlayer.network"
+        ],
+        "dateAdd": "2024-01-26T00:07:18.704211",
+        "blockNumber": 310343
+    },
+    {
+        "chainId": 93572,
+        "url": "https://testnet-scan.liquidlayer.network",
+        "ticker": "LILA",
+        "comment": "LiquidLayer Testnet",
+        "rpc": [
+            "https://testnet.liquidlayer.network"
+        ],
+        "dateAdd": "2024-01-26T00:07:18.704281",
+        "blockNumber": 251136
     }
 ]
