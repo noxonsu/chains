@@ -13614,5 +13614,16 @@
         ],
         "dateAdd": "2024-01-26T00:07:18.704281",
         "blockNumber": 251136
+    },
+    {
+        "chainId": 17172,
+        "url": "http://eclipsenet.io",
+        "ticker": "ECLP",
+        "comment": "Eclipse Subnet",
+        "rpc": [
+            "https://subnets.avax.network/eclipse/testnet/rpc"
+        ],
+        "dateAdd": "2024-01-27T00:06:58.333820",
+        "blockNumber": 913
     }
 ]
