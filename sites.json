@@ -13625,5 +13625,61 @@
         ],
         "dateAdd": "2024-01-27T00:06:58.333820",
         "blockNumber": 913
+    },
+    {
+        "chainId": 9024,
+        "url": "https://www.nexablock.io/",
+        "ticker": "NEXB",
+        "comment": "Nexa Block",
+        "rpc": [
+            "https://rpc-testnet-nodes.nexablockscan.io"
+        ],
+        "dateAdd": "2024-01-28T00:08:00.692867",
+        "blockNumber": 873677
+    },
+    {
+        "chainId": 19527,
+        "url": "https://magnet.magport.io/",
+        "ticker": "DOT",
+        "comment": "Magnet Network",
+        "rpc": [
+            "https://magnet-rpc.magport.io/"
+        ],
+        "dateAdd": "2024-01-28T00:08:00.692919",
+        "blockNumber": "Error: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+        "chainId": 80085,
+        "url": "https://www.berachain.com",
+        "ticker": "BERA",
+        "comment": "Berachain Artio",
+        "rpc": [
+            "https://artio.rpc.berachain.com",
+            "https://rpc.ankr.com/berachain_testnet"
+        ],
+        "dateAdd": "2024-01-28T00:08:00.692989",
+        "blockNumber": 304853
+    },
+    {
+        "chainId": 955081,
+        "url": "",
+        "ticker": "JONO",
+        "comment": "Jono12 Subnet",
+        "rpc": [
+            "https://subnets.avax.network/jono12/testnet/rpc"
+        ],
+        "dateAdd": "2024-01-28T00:08:00.693061",
+        "blockNumber": 16405
+    },
+    {
+        "chainId": 168587773,
+        "url": "https://blast.io/",
+        "ticker": "ETH",
+        "comment": "Blast Sepolia Testnet",
+        "rpc": [
+            "https://sepolia.blast.io"
+        ],
+        "dateAdd": "2024-01-28T00:08:00.693094",
+        "blockNumber": 856897
     }
 ]
