@@ -13681,5 +13681,96 @@
         ],
         "dateAdd": "2024-01-28T00:08:00.693094",
         "blockNumber": 856897
+    },
+    {
+        "chainId": 323,
+        "url": "https://cosvm.network",
+        "ticker": "CVM",
+        "comment": "Cosvm Mainnet",
+        "rpc": [
+            "https://rpc.cosvm.net"
+        ],
+        "dateAdd": "2024-01-30T00:07:14.336299",
+        "blockNumber": 966270
+    },
+    {
+        "chainId": 713,
+        "url": "https://vrccoin.com",
+        "ticker": "VRC",
+        "comment": "Vrcscan Mainnet",
+        "rpc": [
+            "https://rpc-mainnet-5.vrcscan.com",
+            "https://rpc-mainnet-6.vrcscan.com",
+            "https://rpc-mainnet-7.vrcscan.com",
+            "https://rpc-mainnet-8.vrcscan.com"
+        ],
+        "dateAdd": "2024-01-30T00:07:14.336344",
+        "blockNumber": 400517
+    },
+    {
+        "chainId": 4202,
+        "url": "https://lisk.com",
+        "ticker": "ETH",
+        "comment": "Lisk Sepolia Testnet",
+        "rpc": [
+            "https://rpc.sepolia-api.lisk.com"
+        ],
+        "dateAdd": "2024-01-30T00:07:14.336486",
+        "blockNumber": 630121
+    },
+    {
+        "chainId": 7007,
+        "url": "https://bstchain.io",
+        "ticker": "BSTC",
+        "comment": "BST Chain",
+        "rpc": [
+            "https://rpc.bstchain.io/"
+        ],
+        "dateAdd": "2024-01-30T00:07:14.336517",
+        "blockNumber": 1082328
+    },
+    {
+        "chainId": 21133,
+        "url": "https://c4ex.net",
+        "ticker": "AAH",
+        "comment": "All About Healthy",
+        "rpc": [
+            "https://rpc.c4ex.net"
+        ],
+        "dateAdd": "2024-01-30T00:07:14.336595",
+        "blockNumber": 189206
+    },
+    {
+        "chainId": 53277,
+        "url": "https://doid.tech",
+        "ticker": "DOID",
+        "comment": "DOID",
+        "rpc": [
+            "https://rpc.doid.tech"
+        ],
+        "dateAdd": "2024-01-30T00:07:14.336635",
+        "blockNumber": 2101
+    },
+    {
+        "chainId": 56797,
+        "url": "https://doid.tech",
+        "ticker": "DOID",
+        "comment": "DOID Testnet",
+        "rpc": [
+            "https://rpc.testnet.doid.tech"
+        ],
+        "dateAdd": "2024-01-30T00:07:14.336640",
+        "blockNumber": 5310
+    },
+    {
+        "chainId": 888888888,
+        "url": "https://ancient8.gg/",
+        "ticker": "ETH",
+        "comment": "Ancient8",
+        "rpc": [
+            "https://rpc.ancient8.gg"
+        ],
+        "dateAdd": "2024-01-30T00:07:14.336766",
+        "blockNumber": 272925
     }
 ]
