@@ -13772,5 +13772,96 @@
         ],
         "dateAdd": "2024-01-30T00:07:14.336766",
         "blockNumber": 272925
+    },
+    {
+        "chainId": 157,
+        "url": "https://shibariumecosystem.com",
+        "ticker": "BONE",
+        "comment": "Puppynet Shibarium",
+        "rpc": [
+            "https://puppynet.shibrpc.com"
+        ],
+        "dateAdd": "2024-02-02T00:07:00.489537",
+        "blockNumber": "Error: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+        "chainId": 279,
+        "url": "https://bpxchain.cc",
+        "ticker": "BPX",
+        "comment": "BPX Blockchain",
+        "rpc": [
+            "https://rpc.mainnet.bpxchain.cc",
+            "https://bpx-dataseed.infinex.cc"
+        ],
+        "dateAdd": "2024-02-02T00:07:00.489573",
+        "blockNumber": 425737
+    },
+    {
+        "chainId": 730,
+        "url": "https://lovely.network",
+        "ticker": "LOVELY",
+        "comment": "Lovely Network Mainnet",
+        "rpc": [
+            "https://rpc.lovely.network"
+        ],
+        "dateAdd": "2024-02-02T00:07:00.489622",
+        "blockNumber": 159808
+    },
+    {
+        "chainId": 1100,
+        "url": "https://dymension.xyz",
+        "ticker": "DYM",
+        "comment": "Dymension",
+        "rpc": [
+            "https://dymension-evm.blockpi.network/v1/rpc/public"
+        ],
+        "dateAdd": "2024-02-02T00:07:00.489660",
+        "blockNumber": "Error: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+        "chainId": 91120,
+        "url": "https://metadap.io/",
+        "ticker": "DAP",
+        "comment": "MetaDAP Enterprise Mainnet",
+        "rpc": [
+            "https://rpc.chain.metadap.io",
+            "wss://rpc-ws.chain.metadap.io"
+        ],
+        "dateAdd": "2024-02-02T00:07:00.489991",
+        "blockNumber": 82234
+    },
+    {
+        "chainId": 333313,
+        "url": "https://www.bloomgenesis.com",
+        "ticker": "BGBC",
+        "comment": "Bloom Genesis Mainnet",
+        "rpc": [
+            "https://mainnet-rpc.bloomgenesis.com"
+        ],
+        "dateAdd": "2024-02-02T00:07:00.490034",
+        "blockNumber": 163539
+    },
+    {
+        "chainId": 444444,
+        "url": "https://syndr.com",
+        "ticker": "ETH",
+        "comment": "Syndr L3 Sepolia",
+        "rpc": [
+            "https://sepolia.syndr.com/http",
+            "wss://sepolia.syndr.com/ws"
+        ],
+        "dateAdd": "2024-02-02T00:07:00.490047",
+        "blockNumber": 32
+    },
+    {
+        "chainId": 1313161560,
+        "url": "https://www.powergold.tech",
+        "ticker": "ETH",
+        "comment": "PowerGold",
+        "rpc": [
+            "https://powergold.aurora.dev"
+        ],
+        "dateAdd": "2024-02-02T00:07:00.490103",
+        "blockNumber": 111891167
     }
 ]
