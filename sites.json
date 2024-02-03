@@ -13863,5 +13863,17 @@
         ],
         "dateAdd": "2024-02-02T00:07:00.490103",
         "blockNumber": 111891167
+    },
+    {
+        "chainId": 713715,
+        "url": "https://www.sei.io",
+        "ticker": "SEI",
+        "comment": "Sei Devnet",
+        "rpc": [
+            "https://evm-rpc-arctic-1.sei-apis.com",
+            "https://evm-rpc.arctic-1.seinetwork.io"
+        ],
+        "dateAdd": "2024-02-03T00:07:17.581972",
+        "blockNumber": 1493116
     }
 ]
