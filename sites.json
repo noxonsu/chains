@@ -13875,5 +13875,38 @@
         ],
         "dateAdd": "2024-02-03T00:07:17.581972",
         "blockNumber": 1493116
+    },
+    {
+        "chainId": 510,
+        "url": "https://syndicate.io",
+        "ticker": "ETH",
+        "comment": "Syndicate Chain",
+        "rpc": [
+            "https://rpc-mainnet.syndicate.io"
+        ],
+        "dateAdd": "2024-02-07T00:07:14.475278",
+        "blockNumber": "Error: HTTPSConnectionPool(host='rpc-mainnet.syndicate.io', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f176f3c7b30>: Failed to resolve 'rpc-mainnet.syndicate.io' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+        "chainId": 4200,
+        "url": "https://merlinchain.io",
+        "ticker": "BTC",
+        "comment": "Merlin Mainnet",
+        "rpc": [
+            "https://rpc.merlinchain.io"
+        ],
+        "dateAdd": "2024-02-07T00:07:14.475449",
+        "blockNumber": 34100
+    },
+    {
+        "chainId": 5101,
+        "url": "https://syndicate.io",
+        "ticker": "ETH",
+        "comment": "Syndicate Frame Chain",
+        "rpc": [
+            "https://rpc-frame.syndicate.io"
+        ],
+        "dateAdd": "2024-02-07T00:07:14.475464",
+        "blockNumber": "Error: HTTPSConnectionPool(host='rpc-frame.syndicate.io', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f176f11cb00>: Failed to resolve 'rpc-frame.syndicate.io' ([Errno -2] Name or service not known)\"))"
     }
 ]
