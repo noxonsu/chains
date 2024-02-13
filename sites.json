@@ -13908,5 +13908,114 @@
         ],
         "dateAdd": "2024-02-07T00:07:14.475464",
         "blockNumber": "Error: HTTPSConnectionPool(host='rpc-frame.syndicate.io', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f176f11cb00>: Failed to resolve 'rpc-frame.syndicate.io' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+        "chainId": 305,
+        "url": "https://zksats.io",
+        "ticker": "BTC",
+        "comment": "ZKSats Mainnet",
+        "rpc": [
+            "https://mainnet.zksats.io"
+        ],
+        "dateAdd": "2024-02-13T00:07:30.591386",
+        "blockNumber": "Error: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+        "chainId": 422,
+        "url": "https://viridis.network",
+        "ticker": "VRD",
+        "comment": "Viridis Mainnet",
+        "rpc": [
+            "https://mainnet-rpc.vrd.network"
+        ],
+        "dateAdd": "2024-02-13T00:07:30.591409",
+        "blockNumber": 1027742
+    },
+    {
+        "chainId": 831,
+        "url": "https://checkdot.io",
+        "ticker": "CDT",
+        "comment": "CheckDot Blockchain Devnet",
+        "rpc": [
+            "https://devnet.checkdot.io"
+        ],
+        "dateAdd": "2024-02-13T00:07:30.591444",
+        "blockNumber": "Error: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+        "chainId": 9025,
+        "url": "https://www.nexablock.io",
+        "ticker": "NEXB",
+        "comment": "Nexa Mainnet Block",
+        "rpc": [
+            "https://rpc-nodes.nexablockscan.io"
+        ],
+        "dateAdd": "2024-02-13T00:07:30.591654",
+        "blockNumber": 612886
+    },
+    {
+        "chainId": 12020,
+        "url": "https://aternoschain.com",
+        "ticker": "ATR",
+        "comment": "Aternos",
+        "rpc": [
+            "https://rpc.aternoschain.com"
+        ],
+        "dateAdd": "2024-02-13T00:07:30.591682",
+        "blockNumber": 3718761
+    },
+    {
+        "chainId": 18231,
+        "url": "https://raas.gelato.network/rollups/details/public/unreal",
+        "ticker": "ETH",
+        "comment": "unreal",
+        "rpc": [
+            "https://rpc.unreal.gelato.digital",
+            "wss://ws.unreal.gelato.digital"
+        ],
+        "dateAdd": "2024-02-13T00:07:30.591702",
+        "blockNumber": 36351
+    },
+    {
+        "chainId": 78600,
+        "url": "https://vanarchain.com",
+        "ticker": "VG",
+        "comment": "Vanguard",
+        "rpc": [
+            "https://rpc-vanguard.vanarchain.com",
+            "wss://ws-vanguard.vanarchain.com"
+        ],
+        "dateAdd": "2024-02-13T00:07:30.591776",
+        "blockNumber": 934189
+    },
+    {
+        "chainId": 80096,
+        "url": "http://hizoco.net",
+        "ticker": "HZC",
+        "comment": "Hizoco mainnet",
+        "rpc": [
+            "https://hizoco.net/rpc"
+        ],
+        "dateAdd": "2024-02-13T00:07:30.591780",
+        "blockNumber": 87780
+    },
+    {
+        "chainId": 28872323069,
+        "url": "https://gitswarm.com/",
+        "ticker": "GS-ETH",
+        "comment": "GitSwarm Test Network",
+        "rpc": [
+            "https://gitswarm.com:2096"
+        ],
+        "dateAdd": "2024-02-13T00:07:30.591910",
+        "blockNumber": "Error: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+        "chainId": 107107114116,
+        "url": "https://kakarot.org",
+        "ticker": "ETH",
+        "comment": "Kakarot Sepolia",
+        "rpc": [],
+        "dateAdd": "2024-02-13T00:07:30.591912"
     }
 ]
