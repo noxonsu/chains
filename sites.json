@@ -14016,6 +14016,29 @@
         "ticker": "ETH",
         "comment": "Kakarot Sepolia",
         "rpc": [],
-        "dateAdd": "2024-02-13T00:07:30.591912"
+        "dateAdd": "2024-02-13T00:07:30.591912",
+        "blockNumber": "No RPC URL available"
+    },
+    {
+        "chainId": 2410,
+        "url": "https://karak.network",
+        "ticker": "KRK",
+        "comment": "Karak Mainnet",
+        "rpc": [
+            "https://rpc.karak.network"
+        ],
+        "dateAdd": "2024-02-14T00:07:16.496151",
+        "blockNumber": 2236911
+    },
+    {
+        "chainId": 21004,
+        "url": "https://c4ei.net",
+        "ticker": "C4EI",
+        "comment": "C4EI",
+        "rpc": [
+            "https://rpc.c4ei.net"
+        ],
+        "dateAdd": "2024-02-14T00:07:16.496312",
+        "blockNumber": 1820041
     }
 ]
