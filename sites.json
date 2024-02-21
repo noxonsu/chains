@@ -14040,5 +14040,13 @@
         ],
         "dateAdd": "2024-02-14T00:07:16.496312",
         "blockNumber": 1820041
+    },
+    {
+        "chainId": 81457,
+        "url": "https://blast.io/",
+        "ticker": "ETH",
+        "comment": "Blast",
+        "rpc": [],
+        "dateAdd": "2024-02-21T00:07:27.267477"
     }
 ]
