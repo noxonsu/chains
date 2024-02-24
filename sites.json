@@ -14094,5 +14094,16 @@
         ],
         "dateAdd": "2024-02-22T00:07:00.110707",
         "blockNumber": 2146464
+    },
+    {
+        "chainId": 1453,
+        "url": "https://metatime.com/en",
+        "ticker": "MTC",
+        "comment": "MetaChain Istanbul",
+        "rpc": [
+            "https://istanbul-rpc.metachain.dev"
+        ],
+        "dateAdd": "2024-02-24T00:06:51.182802",
+        "blockNumber": 539460
     }
 ]
