@@ -14105,5 +14105,16 @@
         ],
         "dateAdd": "2024-02-24T00:06:51.182802",
         "blockNumber": 539460
+    },
+    {
+        "chainId": 19224,
+        "url": "https://docs.decentraconnect.io",
+        "ticker": "DCSM",
+        "comment": "Decentraconnect Social",
+        "rpc": [
+            "https://rpc.decentraconnect.io"
+        ],
+        "dateAdd": "2024-02-27T00:07:27.908960",
+        "blockNumber": 208675
     }
 ]
