@@ -14116,5 +14116,46 @@
         ],
         "dateAdd": "2024-02-27T00:07:27.908960",
         "blockNumber": 208675
+    },
+    {
+        "chainId": 1617,
+        "url": "https://www.etins.org",
+        "ticker": "ETINS",
+        "comment": "Ethereum Inscription Mainnet",
+        "rpc": [
+            "https://rpc.etins.org"
+        ],
+        "dateAdd": "2024-03-01T00:08:20.765952",
+        "blockNumber": 54791
+    },
+    {
+        "chainId": 2662,
+        "url": "https://apexlayer.xyz/",
+        "ticker": "ETH",
+        "comment": "APEX",
+        "rpc": [],
+        "dateAdd": "2024-03-01T00:08:20.766016",
+        "blockNumber": "No RPC URL available"
+    },
+    {
+        "chainId": 3776,
+        "url": "https://astar.network",
+        "ticker": "ETH",
+        "comment": "Astar zkEVM",
+        "rpc": [],
+        "dateAdd": "2024-03-01T00:08:20.766038",
+        "blockNumber": "No RPC URL available"
+    },
+    {
+        "chainId": 6038361,
+        "url": "https://astar.network",
+        "ticker": "ETH",
+        "comment": "Astar zKyoto",
+        "rpc": [
+            "https://rpc.startale.com/zkyoto",
+            "https://rpc.zkyoto.gelato.digital"
+        ],
+        "dateAdd": "2024-03-01T00:08:20.766348",
+        "blockNumber": 183763
     }
 ]
