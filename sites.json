@@ -14157,5 +14157,27 @@
         ],
         "dateAdd": "2024-03-01T00:08:20.766348",
         "blockNumber": 183763
+    },
+    {
+        "chainId": 222555,
+        "url": "https://deeplnetwork.org",
+        "ticker": "DEEPL",
+        "comment": "DeepL Mainnet",
+        "rpc": [
+            "https://rpc.deeplnetwork.org"
+        ],
+        "dateAdd": "2024-03-02T00:06:49.724124",
+        "blockNumber": 44734
+    },
+    {
+        "chainId": 710420,
+        "url": "https://play.tiltyard.gg/",
+        "ticker": "TILT",
+        "comment": "Tiltyard Mainnet Subnet",
+        "rpc": [
+            "https://subnets.avax.network/tiltyard/mainnet/rpc"
+        ],
+        "dateAdd": "2024-03-02T00:06:49.724157",
+        "blockNumber": 13654
     }
 ]
