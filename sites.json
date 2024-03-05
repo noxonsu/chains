@@ -14190,5 +14190,16 @@
         ],
         "dateAdd": "2024-03-03T00:07:38.038764",
         "blockNumber": "Error: HTTPSConnectionPool(host='rpc.degen.tips', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7fed2095c200>: Failed to resolve 'rpc.degen.tips' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+        "chainId": 191,
+        "url": "https://filefilego.com",
+        "ticker": "FFG",
+        "comment": "FileFileGo",
+        "rpc": [
+            "https://rpc.filefilego.com/rpc"
+        ],
+        "dateAdd": "2024-03-05T00:06:59.847211",
+        "blockNumber": "Unknown"
     }
 ]
