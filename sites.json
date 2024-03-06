@@ -14201,5 +14201,38 @@
         ],
         "dateAdd": "2024-03-05T00:06:59.847211",
         "blockNumber": "Unknown"
+    },
+    {
+        "chainId": 646,
+        "url": "https://developers.flow.com/evm/about",
+        "ticker": "FLOW",
+        "comment": "FlowEVM PreviewNet",
+        "rpc": [
+            "https://previewnet.evm.nodes.onflow.org"
+        ],
+        "dateAdd": "2024-03-06T00:07:40.153390",
+        "blockNumber": 192
+    },
+    {
+        "chainId": 747,
+        "url": "https://developers.flow.com/evm/about",
+        "ticker": "FLOW",
+        "comment": "FlowEVM Mainnet",
+        "rpc": [
+            "https://mainnet.evm.nodes.onflow.org"
+        ],
+        "dateAdd": "2024-03-06T00:07:40.153403",
+        "blockNumber": "Error: HTTPSConnectionPool(host='mainnet.evm.nodes.onflow.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f9947db8950>: Failed to resolve 'mainnet.evm.nodes.onflow.org' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+        "chainId": 2525,
+        "url": "https://inevm.com",
+        "ticker": "INJ",
+        "comment": "inEVM Mainnet",
+        "rpc": [
+            "https://mainnet.rpc.inevm.com/http"
+        ],
+        "dateAdd": "2024-03-06T00:07:40.153526",
+        "blockNumber": 148323
     }
 ]
