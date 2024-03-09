@@ -14234,5 +14234,17 @@
         ],
         "dateAdd": "2024-03-06T00:07:40.153526",
         "blockNumber": 148323
+    },
+    {
+        "chainId": 810180,
+        "url": "https://zklink.io",
+        "ticker": "ETH",
+        "comment": "zkLink Nova Mainnet",
+        "rpc": [
+            "https://rpc.zklink.io",
+            "wss://rpc.zklink.io"
+        ],
+        "dateAdd": "2024-03-09T00:06:49.758713",
+        "blockNumber": 190
     }
 ]
