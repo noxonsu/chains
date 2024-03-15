@@ -14246,5 +14246,109 @@
         ],
         "dateAdd": "2024-03-09T00:06:49.758713",
         "blockNumber": 190
+    },
+    {
+        "chainId": 1717,
+        "url": "https://doric.network",
+        "ticker": "DRC",
+        "comment": "Doric Network",
+        "rpc": [
+            "https://mainnet.doric.network"
+        ],
+        "dateAdd": "2024-03-15T00:06:58.312864",
+        "blockNumber": 2990964
+    },
+    {
+        "chainId": 1729,
+        "url": "https://reya.network",
+        "ticker": "ETH",
+        "comment": "Reya Network",
+        "rpc": [
+            "https://rpc.reya.network",
+            "wss://ws.reya.network"
+        ],
+        "dateAdd": "2024-03-15T00:06:58.312868",
+        "blockNumber": 5310
+    },
+    {
+        "chainId": 1992,
+        "url": "https://www.hubble.exchange",
+        "ticker": "USDC",
+        "comment": "Hubble Exchange",
+        "rpc": [
+            "https://rpc.hubble.exchange",
+            "wss://ws-rpc.hubble.exchange"
+        ],
+        "dateAdd": "2024-03-15T00:06:58.312890",
+        "blockNumber": 22413860
+    },
+    {
+        "chainId": 2911,
+        "url": "https://www.hychain.com",
+        "ticker": "TOPIA",
+        "comment": "HYCHAIN",
+        "rpc": [
+            "https://rpc.hychain.com/http"
+        ],
+        "dateAdd": "2024-03-15T00:06:58.312935",
+        "blockNumber": 55618
+    },
+    {
+        "chainId": 7778,
+        "url": "https://orenium.org",
+        "ticker": "ORE",
+        "comment": "Orenium Mainnet Protocol",
+        "rpc": [
+            "https://validator-mainnet.orenium.org",
+            "https://rpc-oracle-mainnet.orenium.org",
+            "https://portalmainnet.orenium.org"
+        ],
+        "dateAdd": "2024-03-15T00:06:58.313015",
+        "blockNumber": 5752
+    },
+    {
+        "chainId": 8866,
+        "url": "https://lumio.io/",
+        "ticker": "ETH",
+        "comment": "SuperLumio",
+        "rpc": [
+            "https://mainnet.lumio.io/"
+        ],
+        "dateAdd": "2024-03-15T00:06:58.313035",
+        "blockNumber": 738295
+    },
+    {
+        "chainId": 9898,
+        "url": "https://larissa.network",
+        "ticker": "LRS",
+        "comment": "Larissa Chain",
+        "rpc": [
+            "https://rpc.larissa.network"
+        ],
+        "dateAdd": "2024-03-15T00:06:58.313055",
+        "blockNumber": 419533
+    },
+    {
+        "chainId": 11501,
+        "url": "https://bevm.io",
+        "ticker": "BTC",
+        "comment": "BEVM Mainnet",
+        "rpc": [
+            "https://rpc-mainnet-1.bevm.io/",
+            "https://rpc-mainnet-2.bevm.io/"
+        ],
+        "dateAdd": "2024-03-15T00:06:58.313071",
+        "blockNumber": 67546
+    },
+    {
+        "chainId": 105105,
+        "url": "https://www.stratisplatform.com",
+        "ticker": "STRAX",
+        "comment": "Stratis Mainnet",
+        "rpc": [
+            "https://rpc.stratisevm.com"
+        ],
+        "dateAdd": "2024-03-15T00:06:58.313194",
+        "blockNumber": 7209
     }
 ]
