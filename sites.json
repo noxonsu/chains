@@ -14350,5 +14350,38 @@
         ],
         "dateAdd": "2024-03-15T00:06:58.313194",
         "blockNumber": 7209
+    },
+    {
+        "chainId": 8822,
+        "url": "https://www.iota.org",
+        "ticker": "IOTA",
+        "comment": "IOTA EVM",
+        "rpc": [
+            "https://json-rpc.evm.iotaledger.net"
+        ],
+        "dateAdd": "2024-03-19T00:07:07.125253",
+        "blockNumber": 2
+    },
+    {
+        "chainId": 45454,
+        "url": "https://www.swamps.fi",
+        "ticker": "SWP",
+        "comment": "Swamps L2",
+        "rpc": [
+            "https://swamps.tc.l2aas.com"
+        ],
+        "dateAdd": "2024-03-19T00:07:07.125356",
+        "blockNumber": 893632
+    },
+    {
+        "chainId": 80002,
+        "url": "https://polygon.technology/",
+        "ticker": "MATIC",
+        "comment": "Amoy",
+        "rpc": [
+            "https://rpc-amoy.polygon.technology"
+        ],
+        "dateAdd": "2024-03-19T00:07:07.125392",
+        "blockNumber": 4813599
     }
 ]
