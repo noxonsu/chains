@@ -14383,5 +14383,16 @@
         ],
         "dateAdd": "2024-03-19T00:07:07.125392",
         "blockNumber": 4813599
+    },
+    {
+        "chainId": 88819,
+        "url": "https://units.network",
+        "ticker": "UNIT0",
+        "comment": "Unit Zero Stagenet",
+        "rpc": [
+            "https://rpc-stagenet.unit0.dev"
+        ],
+        "dateAdd": "2024-03-27T00:07:03.519416",
+        "blockNumber": 7982
     }
 ]
