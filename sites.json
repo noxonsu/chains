@@ -14394,5 +14394,36 @@
         ],
         "dateAdd": "2024-03-27T00:07:03.519416",
         "blockNumber": 7982
+    },
+    {
+        "chainId": 5615,
+        "url": "https://arcturuschain.io",
+        "ticker": "tARC",
+        "comment": "Arcturus Testneet",
+        "rpc": [
+            "https://rpc-testnet.arcturuschain.io/"
+        ],
+        "dateAdd": "2024-03-28T00:07:32.794700",
+        "blockNumber": "Error: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+        "chainId": 43111,
+        "url": "https://hemi.xyz",
+        "ticker": "ETH",
+        "comment": "Hemi Network",
+        "rpc": [],
+        "dateAdd": "2024-03-28T00:07:32.794891",
+        "blockNumber": "No RPC URL available"
+    },
+    {
+        "chainId": 743111,
+        "url": "https://hemi.xyz",
+        "ticker": "ETH",
+        "comment": "Hemi Sepolia",
+        "rpc": [
+            "https://testnet.rpc.hemi.network/rpc"
+        ],
+        "dateAdd": "2024-03-28T00:07:32.795026",
+        "blockNumber": 289469
     }
 ]
