@@ -14425,5 +14425,73 @@
         ],
         "dateAdd": "2024-03-28T00:07:32.795026",
         "blockNumber": 289469
+    },
+    {
+        "chainId": 911,
+        "url": "https://taprootchain.io",
+        "ticker": "TBTC",
+        "comment": "TAPROOT Mainnet",
+        "rpc": [
+            "https://rpc.taprootchain.io"
+        ],
+        "dateAdd": "2024-03-29T00:07:32.591490",
+        "blockNumber": 160114
+    },
+    {
+        "chainId": 5439,
+        "url": "https://docs.egochain.org/",
+        "ticker": "EGAX",
+        "comment": "Egochain",
+        "rpc": [
+            "https://mainnet.egochain.org"
+        ],
+        "dateAdd": "2024-03-29T00:07:32.591690",
+        "blockNumber": 710281
+    },
+    {
+        "chainId": 18233,
+        "url": "https://raas.gelato.network/rollups/details/public/unreal",
+        "ticker": "reETH",
+        "comment": "unreal",
+        "rpc": [
+            "https://rpc.unreal-orbit.gelato.digital",
+            "wss://ws.unreal-orbit.gelato.digital"
+        ],
+        "dateAdd": "2024-03-29T00:07:32.591800",
+        "blockNumber": 17418
+    },
+    {
+        "chainId": 44445,
+        "url": "https://avescoin.io/",
+        "ticker": "QTM",
+        "comment": "Quantum Network",
+        "rpc": [
+            "https://rpcqtm.avescoin.io"
+        ],
+        "dateAdd": "2024-03-29T00:07:32.591848",
+        "blockNumber": 1604210
+    },
+    {
+        "chainId": 111188,
+        "url": "https://re.al",
+        "ticker": "reETH",
+        "comment": "re.al",
+        "rpc": [
+            "https://real.drpc.org",
+            "wss://real.drpc.org"
+        ],
+        "dateAdd": "2024-03-29T00:07:32.591925",
+        "blockNumber": 469
+    },
+    {
+        "chainId": 696969,
+        "url": "https://galadriel.com",
+        "ticker": "GAL",
+        "comment": "Galadriel Devnet",
+        "rpc": [
+            "https://devnet.galadriel.com"
+        ],
+        "dateAdd": "2024-03-29T00:07:32.591979",
+        "blockNumber": 1496370
     }
 ]
