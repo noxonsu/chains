@@ -14493,5 +14493,16 @@
         ],
         "dateAdd": "2024-03-29T00:07:32.591979",
         "blockNumber": 1496370
+    },
+    {
+        "chainId": 9911,
+        "url": "https://espento.network",
+        "ticker": "SPENT",
+        "comment": "Espento Mainnet",
+        "rpc": [
+            "https://rpc.escscan.com/"
+        ],
+        "dateAdd": "2024-03-30T00:06:59.273629",
+        "blockNumber": "Error: HTTPSConnectionPool(host='rpc.escscan.com', port=443): Read timed out. (read timeout=5)"
     }
 ]
