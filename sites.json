@@ -14504,5 +14504,27 @@
         ],
         "dateAdd": "2024-03-30T00:06:59.273629",
         "blockNumber": "Error: HTTPSConnectionPool(host='rpc.escscan.com', port=443): Read timed out. (read timeout=5)"
+    },
+    {
+        "chainId": 13396,
+        "url": "https://masa.finance",
+        "ticker": "MASA",
+        "comment": "Masa",
+        "rpc": [
+            "https://subnets.avax.network/masanetwork/mainnet/rpc"
+        ],
+        "dateAdd": "2024-03-31T00:08:37.580940",
+        "blockNumber": 5
+    },
+    {
+        "chainId": 70700,
+        "url": "https://proofofplay.com",
+        "ticker": "ETH",
+        "comment": "Proof of Play - Apex",
+        "rpc": [
+            "https://rpc.apex.proofofplay.com"
+        ],
+        "dateAdd": "2024-03-31T00:08:37.581035",
+        "blockNumber": 2826966
     }
 ]
