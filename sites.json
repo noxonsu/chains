@@ -14526,5 +14526,16 @@
         ],
         "dateAdd": "2024-03-31T00:08:37.581035",
         "blockNumber": 2826966
+    },
+    {
+        "chainId": 11221,
+        "url": "https://shinechain.tech",
+        "ticker": "SC20",
+        "comment": "Shine Chain",
+        "rpc": [
+            "https://rpc.shinescan.io"
+        ],
+        "dateAdd": "2024-04-03T00:07:26.766527",
+        "blockNumber": 3996684
     }
 ]
