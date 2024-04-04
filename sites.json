@@ -14537,5 +14537,152 @@
         ],
         "dateAdd": "2024-04-03T00:07:26.766527",
         "blockNumber": 3996684
+    },
+    {
+        "chainId": 158,
+        "url": "https://www.roburna.com/",
+        "ticker": "RBA",
+        "comment": "Roburna Mainnet",
+        "rpc": [
+            "https://dataseed.roburna.com"
+        ],
+        "dateAdd": "2024-04-04T00:10:23.679336",
+        "blockNumber": 2763432
+    },
+    {
+        "chainId": 397,
+        "url": "https://near.org/",
+        "ticker": "NEAR",
+        "comment": "Near Mainnet",
+        "rpc": [],
+        "dateAdd": "2024-04-04T00:10:23.679392",
+        "blockNumber": "No RPC URL available"
+    },
+    {
+        "chainId": 1009,
+        "url": "https://jumbochain.org",
+        "ticker": "JNFTC",
+        "comment": "Jumbochain Mainnet",
+        "rpc": [
+            "https://rpcpriv.jumbochain.org"
+        ],
+        "dateAdd": "2024-04-04T00:10:23.679464",
+        "blockNumber": 983490
+    },
+    {
+        "chainId": 2511,
+        "url": "https://karak.network",
+        "ticker": "KRK",
+        "comment": "Karak Goerli",
+        "rpc": [
+            "https://goerli.node1.karak.network"
+        ],
+        "dateAdd": "2024-04-04T00:10:23.679581",
+        "blockNumber": 4349964
+    },
+    {
+        "chainId": 5039,
+        "url": "https://www.ongr.org/",
+        "ticker": "ONGR",
+        "comment": "ONIGIRI Test Subnet",
+        "rpc": [
+            "https://subnets.avax.network/onigiri/testnet/rpc"
+        ],
+        "dateAdd": "2024-04-04T00:10:23.679645",
+        "blockNumber": 4473
+    },
+    {
+        "chainId": 8054,
+        "url": "https://karak.network",
+        "ticker": "ETH",
+        "comment": "Karak Sepolia",
+        "rpc": [
+            "https://rpc.sepolia.karak.network"
+        ],
+        "dateAdd": "2024-04-04T00:10:23.679702",
+        "blockNumber": 572617
+    },
+    {
+        "chainId": 9008,
+        "url": "https://shido.io",
+        "ticker": "SHIDO",
+        "comment": "Shido Mainnet Block",
+        "rpc": [
+            "https://rpc-nodes.shidoscan.com",
+            "wss://wss-nodes.shidoscan.com",
+            "https://rpc-delta-nodes.shidoscan.com",
+            "wss://wss-delta-nodes.shidoscan.com"
+        ],
+        "dateAdd": "2024-04-04T00:10:23.679730",
+        "blockNumber": 301055
+    },
+    {
+        "chainId": 12553,
+        "url": "https://rss3.io",
+        "ticker": "RSS3",
+        "comment": "RSS3 VSL Mainnet",
+        "rpc": [
+            "https://rpc.rss3.io"
+        ],
+        "dateAdd": "2024-04-04T00:10:23.679767",
+        "blockNumber": 1165454
+    },
+    {
+        "chainId": 77001,
+        "url": "https://www.boraportal.com",
+        "ticker": "BGAS",
+        "comment": "BORAchain mainnet",
+        "rpc": [
+            "https://public-node.api.boraportal.io/bora/mainnet"
+        ],
+        "dateAdd": "2024-04-04T00:10:23.679879",
+        "blockNumber": 63829377
+    },
+    {
+        "chainId": 83872,
+        "url": "https://docs.zedscan.net",
+        "ticker": "zedx",
+        "comment": "ZEDXION",
+        "rpc": [
+            "https://mainnet-rpc.zedscan.net"
+        ],
+        "dateAdd": "2024-04-04T00:10:23.679894",
+        "blockNumber": 652481
+    },
+    {
+        "chainId": 94204209,
+        "url": "https://raas.gelato.network/rollups/details/public/polygon-blackberry",
+        "ticker": "ETH",
+        "comment": "Polygon Blackberry",
+        "rpc": [
+            "https://rpc.polygon-blackberry.gelato.digital",
+            "wss://ws.polygon-blackberry.gelato.digital"
+        ],
+        "dateAdd": "2024-04-04T00:10:23.680046",
+        "blockNumber": 475494
+    },
+    {
+        "chainId": 123420111,
+        "url": "https://raas.gelato.network/rollups/details/public/opcelestia-raspberry",
+        "ticker": "ETH",
+        "comment": "OP Celestia Raspberry",
+        "rpc": [
+            "https://rpc.opcelestia-raspberry.gelato.digital",
+            "wss://ws.opcelestia-raspberry.gelato.digital"
+        ],
+        "dateAdd": "2024-04-04T00:10:23.680049",
+        "blockNumber": 4598663
+    },
+    {
+        "chainId": 88153591557,
+        "url": "https://raas.gelato.network/rollups/details/public/arb-blueberry",
+        "ticker": "CGT",
+        "comment": "Arbitrum Blueberry",
+        "rpc": [
+            "https://rpc.arb-blueberry.gelato.digital",
+            "wss://ws.arb-blueberry.gelato.digital"
+        ],
+        "dateAdd": "2024-04-04T00:10:23.680083",
+        "blockNumber": 7758
     }
 ]
