@@ -14684,5 +14684,77 @@
         ],
         "dateAdd": "2024-04-04T00:10:23.680083",
         "blockNumber": 7758
+    },
+    {
+        "chainId": 166,
+        "url": "https://docs.omni.network/",
+        "ticker": "OMNI",
+        "comment": "Omni",
+        "rpc": [],
+        "dateAdd": "2024-04-05T00:07:52.616021",
+        "blockNumber": "No RPC URL available"
+    },
+    {
+        "chainId": 266,
+        "url": "https://www.neuraprotocol.io/",
+        "ticker": "ANKR",
+        "comment": "Neura",
+        "rpc": [],
+        "dateAdd": "2024-04-05T00:07:52.616054",
+        "blockNumber": "No RPC URL available"
+    },
+    {
+        "chainId": 268,
+        "url": "https://www.neuraprotocol.io/",
+        "ticker": "ANKR",
+        "comment": "Neura Devnet",
+        "rpc": [],
+        "dateAdd": "2024-04-05T00:07:52.616058",
+        "blockNumber": "No RPC URL available"
+    },
+    {
+        "chainId": 308,
+        "url": "https://furtheon.org/",
+        "ticker": "FTH",
+        "comment": "Furtheon",
+        "rpc": [
+            "https://rpc.furtheon.org"
+        ],
+        "dateAdd": "2024-04-05T00:07:52.616077",
+        "blockNumber": 833438
+    },
+    {
+        "chainId": 537,
+        "url": "https://optrust.io",
+        "ticker": "BNB",
+        "comment": "OpTrust Mainnet",
+        "rpc": [
+            "https://rpc.optrust.io"
+        ],
+        "dateAdd": "2024-04-05T00:07:52.616112",
+        "blockNumber": 755574
+    },
+    {
+        "chainId": 2907,
+        "url": "https://eluxscan.com",
+        "ticker": "ELUX",
+        "comment": "Elux Chain",
+        "rpc": [
+            "https://rpc.eluxscan.com"
+        ],
+        "dateAdd": "2024-04-05T00:07:52.616293",
+        "blockNumber": 4140106
+    },
+    {
+        "chainId": 73115,
+        "url": "https://icb.network",
+        "ticker": "ICBX",
+        "comment": "ICB Network",
+        "rpc": [
+            "https://rpc1-mainnet.icbnetwork.info/",
+            "https://rpc2-mainnet.icbnetwork.info/"
+        ],
+        "dateAdd": "2024-04-05T00:07:52.616573",
+        "blockNumber": 257904
     }
 ]
