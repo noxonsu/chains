@@ -14756,5 +14756,215 @@
         ],
         "dateAdd": "2024-04-05T00:07:52.616573",
         "blockNumber": 257904
+    },
+    {
+        "chainId": 404,
+        "url": "https://syndr.com",
+        "ticker": "ETH",
+        "comment": "Syndr L3",
+        "rpc": [
+            "https://rpc.syndr.com",
+            "wss://rpc.syndr.com/ws"
+        ],
+        "dateAdd": "2024-04-10T00:07:39.385835",
+        "blockNumber": 18
+    },
+    {
+        "chainId": 434,
+        "url": "https://boyaa.network",
+        "ticker": "BYC",
+        "comment": "Boyaa Mainnet",
+        "rpc": [
+            "https://evm-rpc.mainnet.boyaa.network"
+        ],
+        "dateAdd": "2024-04-10T00:07:39.385844",
+        "blockNumber": 109082
+    },
+    {
+        "chainId": 2026,
+        "url": "https://edgeless.network",
+        "ticker": "EwEth",
+        "comment": "Edgeless Network",
+        "rpc": [
+            "https://rpc.edgeless.network/http"
+        ],
+        "dateAdd": "2024-04-10T00:07:39.385987",
+        "blockNumber": 1043
+    },
+    {
+        "chainId": 2342,
+        "url": "https://www.omniaverse.io",
+        "ticker": "OMNIA",
+        "comment": "Omnia Chain",
+        "rpc": [
+            "https://rpc.omniaverse.io"
+        ],
+        "dateAdd": "2024-04-10T00:07:39.386011",
+        "blockNumber": 1505842
+    },
+    {
+        "chainId": 2425,
+        "url": "https://kingoflegends.net/",
+        "ticker": "KOL",
+        "comment": "King Of Legends Devnet",
+        "rpc": [
+            "https://rpc-devnet.kinggamer.org/"
+        ],
+        "dateAdd": "2024-04-10T00:07:39.386016",
+        "blockNumber": 254473
+    },
+    {
+        "chainId": 3109,
+        "url": "https://www.satoshivm.io/",
+        "ticker": "BTC",
+        "comment": "SatoshiVM Alpha Mainnet",
+        "rpc": [
+            "https://alpha-rpc-node-http.svmscan.io"
+        ],
+        "dateAdd": "2024-04-10T00:07:39.386037",
+        "blockNumber": 824904
+    },
+    {
+        "chainId": 5656,
+        "url": "https://qiblockchain.online/",
+        "ticker": "QIE",
+        "comment": "QIE Blockchain",
+        "rpc": [
+            "https://rpc-main1.qiblockchain.online/",
+            "https://rpc-main2.qiblockchain.online/"
+        ],
+        "dateAdd": "2024-04-10T00:07:39.386106",
+        "blockNumber": 796154
+    },
+    {
+        "chainId": 5845,
+        "url": "https://docs.tangle.tools",
+        "ticker": "TNT",
+        "comment": "Tangle",
+        "rpc": [
+            "https://rpc.tangle.tools",
+            "wss://rpc.tangle.tools"
+        ],
+        "dateAdd": "2024-04-10T00:07:39.386110",
+        "blockNumber": 0
+    },
+    {
+        "chainId": 9998,
+        "url": "https://ztc.best",
+        "ticker": "ZTC",
+        "comment": "Ztc Mainnet",
+        "rpc": [
+            "https://zitcoin.us"
+        ],
+        "dateAdd": "2024-04-10T00:07:39.386181",
+        "blockNumber": 30439
+    },
+    {
+        "chainId": 13600,
+        "url": "https://kronobit.org",
+        "ticker": "KNB",
+        "comment": "Kronobit Mainnet",
+        "rpc": [
+            "https://mainnet-rpc.qbitscan.com"
+        ],
+        "dateAdd": "2024-04-10T00:07:39.386206",
+        "blockNumber": 11659345
+    },
+    {
+        "chainId": 18888,
+        "url": "https://titanlab.io",
+        "ticker": "TKX",
+        "comment": "Titan (TKX)",
+        "rpc": [
+            "https://titan-json-rpc.titanlab.io"
+        ],
+        "dateAdd": "2024-04-10T00:07:39.386226",
+        "blockNumber": 395504
+    },
+    {
+        "chainId": 59141,
+        "url": "https://linea.build",
+        "ticker": "ETH",
+        "comment": "Linea Sepolia",
+        "rpc": [
+            "https://rpc.sepolia.linea.build",
+            "wss://rpc.sepolia.linea.build",
+            "https://linea-sepolia.infura.io/v3/${INFURA_API_KEY}",
+            "wss://linea-sepolia.infura.io/ws/v3/${INFURA_API_KEY}"
+        ],
+        "dateAdd": "2024-04-10T00:07:39.386285",
+        "blockNumber": 264649
+    },
+    {
+        "chainId": 167009,
+        "url": "https://taiko.xyz",
+        "ticker": "ETH",
+        "comment": "Taiko Hekla L2",
+        "rpc": [
+            "https://rpc.hekla.taiko.xyz",
+            "wss://ws.hekla.taiko.xyz"
+        ],
+        "dateAdd": "2024-04-10T00:07:39.386376",
+        "blockNumber": 17267
+    },
+    {
+        "chainId": 200901,
+        "url": "https://docs.bitlayer.org/",
+        "ticker": "BTC",
+        "comment": "Bitlayer Mainnet",
+        "rpc": [
+            "https://rpc.bitlayer.org",
+            "https://rpc.bitlayer-rpc.com",
+            "https://rpc.ankr.com/bitlayer",
+            "wss://ws.bitlayer.org",
+            "wss://ws.bitlayer-rpc.com"
+        ],
+        "dateAdd": "2024-04-10T00:07:39.386389",
+        "blockNumber": 143679
+    },
+    {
+        "chainId": 222222,
+        "url": "https://hydradx.io",
+        "ticker": "WETH",
+        "comment": "HydraDX",
+        "rpc": [
+            "https://rpc.hydradx.cloud",
+            "wss://rpc.hydradx.cloud"
+        ],
+        "dateAdd": "2024-04-10T00:07:39.386406",
+        "blockNumber": 4870459
+    },
+    {
+        "chainId": 686868,
+        "url": "https://wonnetwork.org",
+        "ticker": "WON",
+        "comment": "Won Network",
+        "rpc": [
+            "https://rpc.wonnetwork.org"
+        ],
+        "dateAdd": "2024-04-10T00:07:39.386442",
+        "blockNumber": 600005
+    },
+    {
+        "chainId": 3132023,
+        "url": "https://saharalabs.ai",
+        "ticker": "SAH",
+        "comment": "SaharaAI Network",
+        "rpc": [
+            "https://mainnet.saharalabs.ai"
+        ],
+        "dateAdd": "2024-04-10T00:07:39.386466",
+        "blockNumber": "Error: HTTPSConnectionPool(host='mainnet.saharalabs.ai', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f29eafa9910>: Failed to resolve 'mainnet.saharalabs.ai' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+        "chainId": 1380012617,
+        "url": "https://rarichain.org/",
+        "ticker": "ETH",
+        "comment": "RARI Chain Mainnet",
+        "rpc": [
+            "https://rari.calderachain.xyz/http"
+        ],
+        "dateAdd": "2024-04-10T00:07:39.386528",
+        "blockNumber": 272380
     }
 ]
