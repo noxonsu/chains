@@ -14966,5 +14966,117 @@
         ],
         "dateAdd": "2024-04-10T00:07:39.386528",
         "blockNumber": 272380
+    },
+    {
+        "chainId": 579,
+        "url": "https://filenova.org",
+        "ticker": "FIL",
+        "comment": "Filenova Mainnet",
+        "rpc": [
+            "https://rpc.filenova.org"
+        ],
+        "dateAdd": "2024-04-11T00:07:25.571861",
+        "blockNumber": 1149099
+    },
+    {
+        "chainId": 6001,
+        "url": "https://bouncebit.io",
+        "ticker": "BB",
+        "comment": "BounceBit Mainnet",
+        "rpc": [
+            "https://fullnode-mainnet.bouncebitapi.com/"
+        ],
+        "dateAdd": "2024-04-11T00:07:25.572111",
+        "blockNumber": 7491
+    },
+    {
+        "chainId": 23451,
+        "url": "https://dreyerx.com",
+        "ticker": "DRX",
+        "comment": "DreyerX Mainnet",
+        "rpc": [
+            "https://rpc.dreyerx.com"
+        ],
+        "dateAdd": "2024-04-11T00:07:25.572228",
+        "blockNumber": 38938
+    },
+    {
+        "chainId": 28882,
+        "url": "https://boba.network",
+        "ticker": "ETH",
+        "comment": "Boba Sepolia",
+        "rpc": [
+            "https://sepolia.boba.network",
+            "https://boba-sepolia.gateway.tenderly.co",
+            "https://gateway.tenderly.co/public/boba-sepolia",
+            "wss://boba-sepolia.gateway.tenderly.co/",
+            "wss://gateway.tenderly.co/public/boba-sepolia"
+        ],
+        "dateAdd": "2024-04-11T00:07:25.572238",
+        "blockNumber": 3597140
+    },
+    {
+        "chainId": 60808,
+        "url": "https://gobob.xyz",
+        "ticker": "ETH",
+        "comment": "BOB",
+        "rpc": [],
+        "dateAdd": "2024-04-11T00:07:25.572284",
+        "blockNumber": "No RPC URL available"
+    },
+    {
+        "chainId": 61406,
+        "url": "https://kaichain.net",
+        "ticker": "KEC",
+        "comment": "KaiChain",
+        "rpc": [
+            "https://mainnet-rpc.kaichain.net"
+        ],
+        "dateAdd": "2024-04-11T00:07:25.572286",
+        "blockNumber": 18823167
+    },
+    {
+        "chainId": 526916,
+        "url": "https://docoin.network",
+        "ticker": "DCT",
+        "comment": "DoCoin Community Chain",
+        "rpc": [
+            "https://rpc.docoin.shop"
+        ],
+        "dateAdd": "2024-04-11T00:07:25.572399",
+        "blockNumber": 352801
+    },
+    {
+        "chainId": 888882,
+        "url": "https://rexxnetwork.com",
+        "ticker": "REXX",
+        "comment": "REXX Mainnet",
+        "rpc": [
+            "https://rpc.rexxnetwork.com"
+        ],
+        "dateAdd": "2024-04-11T00:07:25.572416",
+        "blockNumber": 1065467
+    },
+    {
+        "chainId": 39916801,
+        "url": "https://www.beastkingdom.io/",
+        "ticker": "KOZI",
+        "comment": "Kingdom Chain",
+        "rpc": [
+            "https://kingdomchain.observer/rpc"
+        ],
+        "dateAdd": "2024-04-11T00:07:25.572464",
+        "blockNumber": 373637
+    },
+    {
+        "chainId": 889910246,
+        "url": "https://ptcscan.io",
+        "ticker": "PTCE",
+        "comment": "PTCESCAN Mainnet",
+        "rpc": [
+            "https://rpc.ptcscan.io"
+        ],
+        "dateAdd": "2024-04-11T00:07:25.572488",
+        "blockNumber": 360174
     }
 ]
