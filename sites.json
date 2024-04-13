@@ -15100,5 +15100,16 @@
         ],
         "dateAdd": "2024-04-12T00:07:24.192661",
         "blockNumber": 781
+    },
+    {
+        "chainId": 3424,
+        "url": "https://evolveblockchain.io",
+        "ticker": "EVO",
+        "comment": "EVOLVE Mainnet",
+        "rpc": [
+            "https://rpc.evolveblockchain.io"
+        ],
+        "dateAdd": "2024-04-13T00:06:36.928673",
+        "blockNumber": 18111
     }
 ]
