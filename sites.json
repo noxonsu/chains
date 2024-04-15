@@ -15111,5 +15111,24 @@
         ],
         "dateAdd": "2024-04-13T00:06:36.928673",
         "blockNumber": 18111
+    },
+    {
+        "chainId": 2121,
+        "url": "https://catena.network",
+        "ticker": "CMCX",
+        "comment": "Catena Mainnet",
+        "rpc": [
+            "https://rpc1.catenarpc.com"
+        ],
+        "dateAdd": "2024-04-15T02:20:28.703577",
+        "blockNumber": 4162086
+    },
+    {
+        "chainId": 62050,
+        "url": "https://optopia.ai",
+        "ticker": "ETH",
+        "comment": "Optopia Mainnet",
+        "rpc": [],
+        "dateAdd": "2024-04-15T02:20:28.703855"
     }
 ]
