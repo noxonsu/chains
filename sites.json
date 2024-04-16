@@ -15129,6 +15129,27 @@
         "ticker": "ETH",
         "comment": "Optopia Mainnet",
         "rpc": [],
-        "dateAdd": "2024-04-15T02:20:28.703855"
+        "dateAdd": "2024-04-15T02:20:28.703855",
+        "blockNumber": "No RPC URL available"
+    },
+    {
+        "chainId": 2040,
+        "url": "https://vanarchain.com",
+        "ticker": "VANRY",
+        "comment": "Vanar Mainnet",
+        "rpc": [
+            "https://rpc.vanarchain.com",
+            "wss://ws.vanarchain.com"
+        ],
+        "dateAdd": "2024-04-16T00:07:11.871101",
+        "blockNumber": 432144
+    },
+    {
+        "chainId": 161212,
+        "url": "https://www.playfi.ai/",
+        "ticker": "PLAY",
+        "comment": "PlayFi Mainnet",
+        "rpc": [],
+        "dateAdd": "2024-04-16T00:07:11.871503"
     }
 ]
