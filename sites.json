@@ -15150,6 +15150,52 @@
         "ticker": "PLAY",
         "comment": "PlayFi Mainnet",
         "rpc": [],
-        "dateAdd": "2024-04-16T00:07:11.871503"
+        "dateAdd": "2024-04-16T00:07:11.871503",
+        "blockNumber": "No RPC URL available"
+    },
+    {
+        "chainId": 2730,
+        "url": "https://xr-one.gitbook.io",
+        "ticker": "tXR",
+        "comment": "XR Sepolia",
+        "rpc": [
+            "https://xr-sepolia-testnet.rpc.caldera.xyz/http"
+        ],
+        "dateAdd": "2024-04-17T00:07:40.814066",
+        "blockNumber": 146
+    },
+    {
+        "chainId": 27181,
+        "url": "https://www.laosfoundation.io/",
+        "ticker": "KLAOS",
+        "comment": "KLAOS Nova",
+        "rpc": [
+            "https://rpc.klaosnova.laosfoundation.io",
+            "wss://rpc.klaosnova.laosfoundation.io"
+        ],
+        "dateAdd": "2024-04-17T00:07:40.814284",
+        "blockNumber": 26395
+    },
+    {
+        "chainId": 336666,
+        "url": "https://uniport.network",
+        "ticker": "UBTC",
+        "comment": "UPchain Mainnet",
+        "rpc": [
+            "https://rpc.uniport.network"
+        ],
+        "dateAdd": "2024-04-17T00:07:40.814443",
+        "blockNumber": 19
+    },
+    {
+        "chainId": 6666665,
+        "url": "https://www.anwang.com",
+        "ticker": "SAFE",
+        "comment": "Safe(AnWang) Mainnet",
+        "rpc": [
+            "https://rpc.anwang.com"
+        ],
+        "dateAdd": "2024-04-17T00:07:40.814502",
+        "blockNumber": "Error: Expecting value: line 1 column 1 (char 0)"
     }
 ]
