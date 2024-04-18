@@ -15197,5 +15197,36 @@
         ],
         "dateAdd": "2024-04-17T00:07:40.814502",
         "blockNumber": "Error: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+        "chainId": 213,
+        "url": "https://www.bsquared.network",
+        "ticker": "B2",
+        "comment": "B2 Hub Mainnet",
+        "rpc": [
+            "https://hub-rpc.bsquared.network"
+        ],
+        "dateAdd": "2024-04-18T00:07:29.073428",
+        "blockNumber": 42260
+    },
+    {
+        "chainId": 223,
+        "url": "https://www.bsquared.network",
+        "ticker": "BTC",
+        "comment": "B2 Mainnet",
+        "rpc": [
+            "https://rpc.bsquared.network",
+            "https://b2-mainnet.alt.technology"
+        ],
+        "dateAdd": "2024-04-18T00:07:29.073433",
+        "blockNumber": 117532
+    },
+    {
+        "chainId": 7560,
+        "url": "https://cyber.co/",
+        "ticker": "ETH",
+        "comment": "Cyber Mainnet",
+        "rpc": [],
+        "dateAdd": "2024-04-18T00:07:29.073763"
     }
 ]
