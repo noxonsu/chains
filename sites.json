@@ -15227,6 +15227,41 @@
         "ticker": "ETH",
         "comment": "Cyber Mainnet",
         "rpc": [],
-        "dateAdd": "2024-04-18T00:07:29.073763"
+        "dateAdd": "2024-04-18T00:07:29.073763",
+        "blockNumber": "No RPC URL available"
+    },
+    {
+        "chainId": 1188,
+        "url": "https://www.mosscan.com",
+        "ticker": "MOS",
+        "comment": "ClubMos Mainnet",
+        "rpc": [
+            "https://mainnet.mosscan.com"
+        ],
+        "dateAdd": "2024-04-19T00:07:09.780780",
+        "blockNumber": 472102
+    },
+    {
+        "chainId": 2810,
+        "url": "https://morphl2.io",
+        "ticker": "ETH",
+        "comment": "Morph Holesky",
+        "rpc": [
+            "https://rpc-holesky.morphl2.io"
+        ],
+        "dateAdd": "2024-04-19T00:07:09.780893",
+        "blockNumber": 154905
+    },
+    {
+        "chainId": 167000,
+        "url": "https://taiko.xyz",
+        "ticker": "ETH",
+        "comment": "Taiko Mainnet",
+        "rpc": [
+            "https://rpc.taiko.xyz",
+            "wss://ws.taiko.xyz"
+        ],
+        "dateAdd": "2024-04-19T00:07:09.781238",
+        "blockNumber": "Error: HTTPSConnectionPool(host='rpc.taiko.xyz', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7fdd2da9acf0>: Failed to resolve 'rpc.taiko.xyz' ([Errno -2] Name or service not known)\"))"
     }
 ]
