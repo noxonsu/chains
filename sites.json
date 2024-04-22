@@ -15263,5 +15263,16 @@
         ],
         "dateAdd": "2024-04-19T00:07:09.781238",
         "blockNumber": "Error: HTTPSConnectionPool(host='rpc.taiko.xyz', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7fdd2da9acf0>: Failed to resolve 'rpc.taiko.xyz' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+        "chainId": 662,
+        "url": "https://ultronsmartchain.io",
+        "ticker": "ULC",
+        "comment": "UltronSmartchain",
+        "rpc": [
+            "https://rpc.ultronsmartchain.io"
+        ],
+        "dateAdd": "2024-04-22T00:08:17.091300",
+        "blockNumber": 266509
     }
 ]
