@@ -15274,5 +15274,17 @@
         ],
         "dateAdd": "2024-04-22T00:08:17.091300",
         "blockNumber": 266509
+    },
+    {
+        "chainId": 30088,
+        "url": "https://www.miyou.io",
+        "ticker": "MY",
+        "comment": "MiYou Mainnet",
+        "rpc": [
+            "https://blockchain.miyou.io",
+            "https://blockchain.miyoulab.com"
+        ],
+        "dateAdd": "2024-04-23T00:07:46.167829",
+        "blockNumber": 8951467
     }
 ]
