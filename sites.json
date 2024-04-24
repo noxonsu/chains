@@ -15286,5 +15286,16 @@
         ],
         "dateAdd": "2024-04-23T00:07:46.167829",
         "blockNumber": 8951467
+    },
+    {
+        "chainId": 1209,
+        "url": "https://saitachain.com",
+        "ticker": "STC",
+        "comment": "SaitaBlockChain(SBC)",
+        "rpc": [
+            "https://rpc-nodes.saitascan.io"
+        ],
+        "dateAdd": "2024-04-24T00:07:26.822282",
+        "blockNumber": 205682
     }
 ]
