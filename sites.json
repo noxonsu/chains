@@ -15297,5 +15297,16 @@
         ],
         "dateAdd": "2024-04-24T00:07:26.822282",
         "blockNumber": 205682
+    },
+    {
+        "chainId": 27483,
+        "url": "https://www.nanon.network",
+        "ticker": "ETH",
+        "comment": "Nanon Sepolia",
+        "rpc": [
+            "https://sepolia-rpc.nanon.network"
+        ],
+        "dateAdd": "2024-04-25T00:07:06.261850",
+        "blockNumber": 1053093
     }
 ]
