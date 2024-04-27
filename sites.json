@@ -15308,5 +15308,50 @@
         ],
         "dateAdd": "2024-04-25T00:07:06.261850",
         "blockNumber": 1053093
+    },
+    {
+        "chainId": 2748,
+        "url": "https://www.nanon.network",
+        "ticker": "ETH",
+        "comment": "Nanon",
+        "rpc": [
+            "https://rpc.nanon.network"
+        ],
+        "dateAdd": "2024-04-27T00:07:48.104083",
+        "blockNumber": 79236
+    },
+    {
+        "chainId": 4613,
+        "url": "https://www.verylabs.io/",
+        "ticker": "VERY",
+        "comment": "VERY Mainnet",
+        "rpc": [
+            "https://rpc.verylabs.io"
+        ],
+        "dateAdd": "2024-04-27T00:07:48.104132",
+        "blockNumber": 4368664
+    },
+    {
+        "chainId": 5424,
+        "url": "https://edexa.network/",
+        "ticker": "EDX",
+        "comment": "edeXa Mainnet",
+        "rpc": [
+            "https://mainnet.edexa.com/rpc",
+            "https://io-dataseed1.mainnet.edexa.io-market.com/rpc"
+        ],
+        "dateAdd": "2024-04-27T00:07:48.104162",
+        "blockNumber": "Error: HTTPSConnectionPool(host='mainnet.edexa.com', port=443): Max retries exceeded with url: /rpc (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f9646c93800>: Failed to resolve 'mainnet.edexa.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+        "chainId": 56026,
+        "url": "https://lambda.im",
+        "ticker": "ETH",
+        "comment": "Lambda Chain Mainnet",
+        "rpc": [
+            "https://nrpc.lambda.im/"
+        ],
+        "dateAdd": "2024-04-27T00:07:48.104358",
+        "blockNumber": 415423
     }
 ]
