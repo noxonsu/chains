@@ -15353,5 +15353,16 @@
         ],
         "dateAdd": "2024-04-27T00:07:48.104358",
         "blockNumber": 415423
+    },
+    {
+        "chainId": 999999,
+        "url": "https://hewe.io/",
+        "ticker": "AMC",
+        "comment": "AmChain",
+        "rpc": [
+            "https://node1.amchain.net"
+        ],
+        "dateAdd": "2024-04-30T00:07:06.639860",
+        "blockNumber": 1593144
     }
 ]
