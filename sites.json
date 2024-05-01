@@ -15364,5 +15364,88 @@
         ],
         "dateAdd": "2024-04-30T00:07:06.639860",
         "blockNumber": 1593144
+    },
+    {
+        "chainId": 1011,
+        "url": "https://www.rebuschain.com",
+        "ticker": "REBUS",
+        "comment": "Rebus Mainnet",
+        "rpc": [
+            "https://apievm.rebuschain.com/rpc"
+        ],
+        "dateAdd": "2024-05-01T00:08:14.991216",
+        "blockNumber": 191808
+    },
+    {
+        "chainId": 2140,
+        "url": "",
+        "ticker": "BTC",
+        "comment": "Oneness Network",
+        "rpc": [
+            "https://rpc.onenesslabs.io/"
+        ],
+        "dateAdd": "2024-05-01T00:08:14.991326",
+        "blockNumber": 1
+    },
+    {
+        "chainId": 3073,
+        "url": "https://movementlabs.xyz",
+        "ticker": "MOVE",
+        "comment": "Movement EVM",
+        "rpc": [],
+        "dateAdd": "2024-05-01T00:08:14.991374",
+        "blockNumber": "No RPC URL available"
+    },
+    {
+        "chainId": 27827,
+        "url": "https://zeroone.art/",
+        "ticker": "ZERO",
+        "comment": "zeroone Mainnet Subnet",
+        "rpc": [
+            "https://subnets.avax.network/zeroonemai/mainnet/rpc"
+        ],
+        "dateAdd": "2024-05-01T00:08:14.991593",
+        "blockNumber": 253
+    },
+    {
+        "chainId": 30730,
+        "url": "https://movementlabs.xyz",
+        "ticker": "MOVE",
+        "comment": "Movement EVM Legacy",
+        "rpc": [],
+        "dateAdd": "2024-05-01T00:08:14.991605",
+        "blockNumber": "No RPC URL available"
+    },
+    {
+        "chainId": 30731,
+        "url": "https://movementlabs.xyz",
+        "ticker": "MOVE",
+        "comment": "Movement EVM Devnet",
+        "rpc": [],
+        "dateAdd": "2024-05-01T00:08:14.991607",
+        "blockNumber": "No RPC URL available"
+    },
+    {
+        "chainId": 5318008,
+        "url": "https://reactive.network",
+        "ticker": "REACT",
+        "comment": "Reactive Kopli",
+        "rpc": [
+            "https://kopli-rpc.reactive.network",
+            "http://kopli-rpc.rkt.ink"
+        ],
+        "dateAdd": "2024-05-01T00:08:14.991840",
+        "blockNumber": "Error: HTTPSConnectionPool(host='kopli-rpc.reactive.network', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))"
+    },
+    {
+        "chainId": 1802203764,
+        "url": "https://kakarot.org",
+        "ticker": "ETH",
+        "comment": "Kakarot Sepolia",
+        "rpc": [
+            "https://sepolia-rpc.kakarot.org"
+        ],
+        "dateAdd": "2024-05-01T00:08:14.991913",
+        "blockNumber": 5431
     }
 ]
