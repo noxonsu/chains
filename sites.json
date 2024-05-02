@@ -15447,5 +15447,21 @@
         ],
         "dateAdd": "2024-05-01T00:08:14.991913",
         "blockNumber": 5431
+    },
+    {
+        "chainId": 2017,
+        "url": "https://telcoin.network",
+        "ticker": "TEL",
+        "comment": "Adiri",
+        "rpc": [
+            "https://rpc.telcoin.network",
+            "https://adiri.tel",
+            "https://node1.telcoin.network",
+            "https://node2.telcoin.network",
+            "https://node3.telcoin.network",
+            "https://node4.telcoin.network"
+        ],
+        "dateAdd": "2024-05-02T00:07:34.429758",
+        "blockNumber": 2935933
     }
 ]
