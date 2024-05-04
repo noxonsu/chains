@@ -15463,5 +15463,28 @@
         ],
         "dateAdd": "2024-05-02T00:07:34.429758",
         "blockNumber": 2935933
+    },
+    {
+        "chainId": 1135,
+        "url": "https://lisk.com",
+        "ticker": "ETH",
+        "comment": "Lisk",
+        "rpc": [
+            "https://rpc.api.lisk.com"
+        ],
+        "dateAdd": "2024-05-04T00:07:31.007756",
+        "blockNumber": "Error: HTTPSConnectionPool(host='rpc.api.lisk.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f2462d47620>: Failed to resolve 'rpc.api.lisk.com' ([Errno -3] Temporary failure in name resolution)\"))"
+    },
+    {
+        "chainId": 2340,
+        "url": "https://atleta.network",
+        "ticker": "ATLA",
+        "comment": "Atleta Olympia",
+        "rpc": [
+            "wss://testnet-rpc.atleta.network:9944",
+            "https://testnet-rpc.atleta.network:9944"
+        ],
+        "dateAdd": "2024-05-04T00:07:31.007863",
+        "blockNumber": "Error: No connection adapters were found for 'wss://testnet-rpc.atleta.network:9944'"
     }
 ]
