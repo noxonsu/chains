@@ -15486,5 +15486,16 @@
         ],
         "dateAdd": "2024-05-04T00:07:31.007863",
         "blockNumber": "Error: No connection adapters were found for 'wss://testnet-rpc.atleta.network:9944'"
+    },
+    {
+        "chainId": 660279,
+        "url": "https://xai.games",
+        "ticker": "XAI",
+        "comment": "Xai Mainnet",
+        "rpc": [
+            "https://xai-chain.net/rpc"
+        ],
+        "dateAdd": "2024-05-05T00:08:03.755580",
+        "blockNumber": 5639953
     }
 ]
