@@ -15497,5 +15497,76 @@
         ],
         "dateAdd": "2024-05-05T00:08:03.755580",
         "blockNumber": 5639953
+    },
+    {
+        "chainId": 228,
+        "url": "https://mindnetwork.xyz",
+        "ticker": "FHE",
+        "comment": "Mind Network Mainnet",
+        "rpc": [
+            "https://rpc_mainnet.mindnetwork.xyz",
+            "wss://rpc_mainnet.mindnetwork.xyz"
+        ],
+        "dateAdd": "2024-05-06T00:07:50.986859",
+        "blockNumber": "Error: HTTPSConnectionPool(host='rpc_mainnet.mindnetwork.xyz', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f2ad9ee8560>: Failed to resolve 'rpc_mainnet.mindnetwork.xyz' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+        "chainId": 278,
+        "url": "https://xfair.ai",
+        "ticker": "FAI",
+        "comment": "xFair.AI Mainnet",
+        "rpc": [
+            "https://rpc_mainnet.xfair.ai",
+            "wss://rpc_mainnet.xfair.ai"
+        ],
+        "dateAdd": "2024-05-06T00:07:50.986876",
+        "blockNumber": "Error: HTTPSConnectionPool(host='rpc_mainnet.xfair.ai', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f2ad9ad6d20>: Failed to resolve 'rpc_mainnet.xfair.ai' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+        "chainId": 690,
+        "url": "https://redstone.xyz",
+        "ticker": "ETH",
+        "comment": "Redstone",
+        "rpc": [
+            "https://rpc.redstonechain.com",
+            "wss://rpc.redstonechain.com"
+        ],
+        "dateAdd": "2024-05-06T00:07:50.986936",
+        "blockNumber": 1384490
+    },
+    {
+        "chainId": 17069,
+        "url": "https://redstone.xyz",
+        "ticker": "ETH",
+        "comment": "Garnet Holesky",
+        "rpc": [
+            "https://rpc.garnetchain.com",
+            "wss://rpc.garnetchain.com"
+        ],
+        "dateAdd": "2024-05-06T00:07:50.987316",
+        "blockNumber": 1392109
+    },
+    {
+        "chainId": 19600,
+        "url": "https://lbry.com",
+        "ticker": "LBC",
+        "comment": "LBRY Mainnet",
+        "rpc": [
+            "https://lbry.nl/rpc"
+        ],
+        "dateAdd": "2024-05-06T00:07:50.987331",
+        "blockNumber": "Error: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+        "chainId": 104566,
+        "url": "https://kaspaclassic.com/",
+        "ticker": "CAS",
+        "comment": "KaspaClassic Mainnet",
+        "rpc": [
+            "https://api.kaspaclassic.world/",
+            "http://80.178.101.118:8000/"
+        ],
+        "dateAdd": "2024-05-06T00:07:50.987468",
+        "blockNumber": "Unknown"
     }
 ]
