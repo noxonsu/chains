@@ -15568,5 +15568,27 @@
         ],
         "dateAdd": "2024-05-06T00:07:50.987468",
         "blockNumber": "Unknown"
+    },
+    {
+        "chainId": 309075,
+        "url": "https://oneworldchain.org",
+        "ticker": "OWCT",
+        "comment": "One World Chain Mainnet",
+        "rpc": [
+            "https://mainnet-rpc.oneworldchain.org"
+        ],
+        "dateAdd": "2024-05-07T00:07:29.104901",
+        "blockNumber": 1149018
+    },
+    {
+        "chainId": 322202,
+        "url": "https://parex.network",
+        "ticker": "PRX",
+        "comment": "Parex Mainnet",
+        "rpc": [
+            "https://mainnet-rpc.parex.network"
+        ],
+        "dateAdd": "2024-05-07T00:07:29.104910",
+        "blockNumber": 41132
     }
 ]
