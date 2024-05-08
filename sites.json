@@ -15590,5 +15590,13 @@
         ],
         "dateAdd": "2024-05-07T00:07:29.104910",
         "blockNumber": 41132
+    },
+    {
+        "chainId": 2045,
+        "url": "https://aiw3.io/",
+        "ticker": "BTC",
+        "comment": "AIW3 Mainnet",
+        "rpc": [],
+        "dateAdd": "2024-05-08T00:06:47.357813"
     }
 ]
