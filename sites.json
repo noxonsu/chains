@@ -15597,6 +15597,18 @@
         "ticker": "BTC",
         "comment": "AIW3 Mainnet",
         "rpc": [],
-        "dateAdd": "2024-05-08T00:06:47.357813"
+        "dateAdd": "2024-05-08T00:06:47.357813",
+        "blockNumber": "No RPC URL available"
+    },
+    {
+        "chainId": 39656,
+        "url": "https://primalnetwork.org",
+        "ticker": "PRM",
+        "comment": "PRM Mainnet",
+        "rpc": [
+            "https://mainnet-rpc.prmscan.org"
+        ],
+        "dateAdd": "2024-05-09T00:07:40.850089",
+        "blockNumber": 7003039
     }
 ]
