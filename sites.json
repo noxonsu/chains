@@ -15610,5 +15610,80 @@
         ],
         "dateAdd": "2024-05-09T00:07:40.850089",
         "blockNumber": 7003039
+    },
+    {
+        "chainId": 2014,
+        "url": "https://nowchain.co",
+        "ticker": "NOW",
+        "comment": "NOW Chain",
+        "rpc": [
+            "https://rpc.nowscan.io"
+        ],
+        "dateAdd": "2024-05-10T00:07:47.117203",
+        "blockNumber": 250076
+    },
+    {
+        "chainId": 21223,
+        "url": "https://dcpay.io",
+        "ticker": "DCP",
+        "comment": "DCpay Mainnet",
+        "rpc": [
+            "https://rpc.dcpay.io"
+        ],
+        "dateAdd": "2024-05-10T00:07:47.117490",
+        "blockNumber": 189034
+    },
+    {
+        "chainId": 33979,
+        "url": "https://funkichain.com",
+        "ticker": "ETH",
+        "comment": "Funki",
+        "rpc": [],
+        "dateAdd": "2024-05-10T00:07:47.117529",
+        "blockNumber": "No RPC URL available"
+    },
+    {
+        "chainId": 42793,
+        "url": "https://etherlink.com",
+        "ticker": "XTZ",
+        "comment": "Etherlink Mainnet",
+        "rpc": [
+            "https://node.mainnet.etherlink.com"
+        ],
+        "dateAdd": "2024-05-10T00:07:47.117541",
+        "blockNumber": 1159
+    },
+    {
+        "chainId": 504441,
+        "url": "https://playdapp.io",
+        "ticker": "PDA",
+        "comment": "Playdapp Network",
+        "rpc": [
+            "https://subnets.avax.network/playdappne/mainnet/rpc"
+        ],
+        "dateAdd": "2024-05-10T00:07:47.117716",
+        "blockNumber": 223011
+    },
+    {
+        "chainId": 3397901,
+        "url": "https://funkichain.com",
+        "ticker": "ETH",
+        "comment": "Funki Sepolia Sandbox",
+        "rpc": [
+            "https://funki-testnet.alt.technology"
+        ],
+        "dateAdd": "2024-05-10T00:07:47.117764",
+        "blockNumber": 119616
+    },
+    {
+        "chainId": 13068200,
+        "url": "https://coti.io/",
+        "ticker": "COTI2",
+        "comment": "COTI Devnet",
+        "rpc": [
+            "https://devnet.coti.io"
+        ],
+        "dateAdd": "2024-05-10T00:07:47.117786",
+        "blockNumber": 3402396
     }
 ]
