@@ -15685,5 +15685,13 @@
         ],
         "dateAdd": "2024-05-10T00:07:47.117786",
         "blockNumber": 3402396
+    },
+    {
+        "chainId": 2355,
+        "url": "",
+        "ticker": "ETH",
+        "comment": "Silicon zkEVM",
+        "rpc": [],
+        "dateAdd": "2024-05-11T00:07:53.032727"
     }
 ]
