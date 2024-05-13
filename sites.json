@@ -15692,6 +15692,29 @@
         "ticker": "ETH",
         "comment": "Silicon zkEVM",
         "rpc": [],
-        "dateAdd": "2024-05-11T00:07:53.032727"
+        "dateAdd": "2024-05-11T00:07:53.032727",
+        "blockNumber": "No RPC URL available"
+    },
+    {
+        "chainId": 4080,
+        "url": "https://tobechain.net",
+        "ticker": "TBC",
+        "comment": "Tobe Chain",
+        "rpc": [
+            "https://rpc.tobescan.com"
+        ],
+        "dateAdd": "2024-05-13T00:07:42.480878",
+        "blockNumber": "Error: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+        "chainId": 33033,
+        "url": "https://www.entangle.fi",
+        "ticker": "NGL",
+        "comment": "Entangle Mainnet",
+        "rpc": [
+            "https://json-rpc.entangle.fi"
+        ],
+        "dateAdd": "2024-05-13T00:07:42.481104",
+        "blockNumber": 685383
     }
 ]
