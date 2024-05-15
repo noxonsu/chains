@@ -15716,5 +15716,61 @@
         ],
         "dateAdd": "2024-05-13T00:07:42.481104",
         "blockNumber": 685383
+    },
+    {
+        "chainId": 176,
+        "url": "https://www.dcnetio.cloud",
+        "ticker": "DCT",
+        "comment": "DC Mainnet",
+        "rpc": [
+            "https://rpc.dcnetio.cloud",
+            "wss://ws.dcnetio.cloud"
+        ],
+        "dateAdd": "2024-05-15T00:07:58.871084",
+        "blockNumber": "Error: HTTPSConnectionPool(host='rpc.dcnetio.cloud', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f5d2f8aa690>: Failed to resolve 'rpc.dcnetio.cloud' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+        "chainId": 185,
+        "url": "https://www.mintchain.io",
+        "ticker": "ETH",
+        "comment": "Mint Mainnet",
+        "rpc": [
+            "https://rpc.mintchain.io"
+        ],
+        "dateAdd": "2024-05-15T00:07:58.871088",
+        "blockNumber": 61374
+    },
+    {
+        "chainId": 31753,
+        "url": "https://xchainscan.com",
+        "ticker": "INTD",
+        "comment": "Xchain Mainnet",
+        "rpc": [
+            "https://rpc.xchainscan.com"
+        ],
+        "dateAdd": "2024-05-15T00:07:58.871634",
+        "blockNumber": 625508
+    },
+    {
+        "chainId": 88559,
+        "url": "https://inoai.info",
+        "ticker": "INO",
+        "comment": "Inoai Network",
+        "rpc": [
+            "https://inoai-network.com"
+        ],
+        "dateAdd": "2024-05-15T00:07:58.871731",
+        "blockNumber": 444671
+    },
+    {
+        "chainId": 165279,
+        "url": "https://eclatscan.com",
+        "ticker": "ECLAT",
+        "comment": "Eclat Mainnet",
+        "rpc": [
+            "https://mainnet-rpc.eclatscan.com"
+        ],
+        "dateAdd": "2024-05-15T00:07:58.871776",
+        "blockNumber": 2445621
     }
 ]
