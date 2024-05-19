@@ -15783,5 +15783,60 @@
         ],
         "dateAdd": "2024-05-17T00:07:29.037554",
         "blockNumber": 27659
+    },
+    {
+        "chainId": 969,
+        "url": "https://ethxy.com",
+        "ticker": "SEXY",
+        "comment": "EthXY",
+        "rpc": [
+            "https://rpc.ethxy.com"
+        ],
+        "dateAdd": "2024-05-19T00:08:11.981745",
+        "blockNumber": 92231
+    },
+    {
+        "chainId": 1750,
+        "url": "https://metall2.com",
+        "ticker": "ETH",
+        "comment": "Metal L2",
+        "rpc": [
+            "https://rpc.metall2.com"
+        ],
+        "dateAdd": "2024-05-19T00:08:11.981823",
+        "blockNumber": 2256888
+    },
+    {
+        "chainId": 5040,
+        "url": "https://www.ongr.org/",
+        "ticker": "ONGR",
+        "comment": "ONIGIRI Subnet",
+        "rpc": [
+            "https://subnets.avax.network/onigiri/mainnet/rpc"
+        ],
+        "dateAdd": "2024-05-19T00:08:11.981957",
+        "blockNumber": 1586
+    },
+    {
+        "chainId": 12324,
+        "url": "https://l3x.com",
+        "ticker": "ETH",
+        "comment": "L3X Protocol",
+        "rpc": [
+            "https://rpc-mainnet.l3x.com"
+        ],
+        "dateAdd": "2024-05-19T00:08:11.982082",
+        "blockNumber": 38
+    },
+    {
+        "chainId": 16116,
+        "url": "https://defi-verse.org",
+        "ticker": "OAS",
+        "comment": "DeFiVerse Mainnet",
+        "rpc": [
+            "https://rpc.defi-verse.org/"
+        ],
+        "dateAdd": "2024-05-19T00:08:11.982101",
+        "blockNumber": 424377
     }
 ]
