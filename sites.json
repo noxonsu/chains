@@ -15838,5 +15838,38 @@
         ],
         "dateAdd": "2024-05-19T00:08:11.982101",
         "blockNumber": 424377
+    },
+    {
+        "chainId": 132,
+        "url": "https://namefi.io/",
+        "ticker": "NFIC",
+        "comment": "Namefi Chain Mainnet",
+        "rpc": [
+            "https://rpc.chain.namefi.io"
+        ],
+        "dateAdd": "2024-05-20T00:07:46.595113",
+        "blockNumber": "Error: HTTPSConnectionPool(host='rpc.chain.namefi.io', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f937d69ecf0>: Failed to resolve 'rpc.chain.namefi.io' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+        "chainId": 2013,
+        "url": "https://polytopia.org/",
+        "ticker": "GAS",
+        "comment": "Panarchy",
+        "rpc": [
+            "https://polytopia.org:8545"
+        ],
+        "dateAdd": "2024-05-20T00:07:46.595374",
+        "blockNumber": 63038
+    },
+    {
+        "chainId": 8601152,
+        "url": "https://waterfall.network",
+        "ticker": "WATER",
+        "comment": "Waterfall 8 Test Network",
+        "rpc": [
+            "https://rpc.testnet8.waterfall.network/"
+        ],
+        "dateAdd": "2024-05-20T00:07:46.595960",
+        "blockNumber": "Error: HTTPSConnectionPool(host='rpc.testnet8.waterfall.network', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'rpc.testnet8.waterfall.network'. (_ssl.c:1000)\")))"
     }
 ]
