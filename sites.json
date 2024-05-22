@@ -15882,5 +15882,72 @@
         ],
         "dateAdd": "2024-05-21T00:07:34.981441",
         "blockNumber": 5
+    },
+    {
+        "chainId": 140,
+        "url": "https://eternalcoin.io",
+        "ticker": "Eter",
+        "comment": "EternalCoin Mainnet",
+        "rpc": [
+            "https://mainnet.eternalcoin.io/v1",
+            "ws://mainnet.eternalcoin.io/v1/ws"
+        ],
+        "dateAdd": "2024-05-22T00:07:18.426574",
+        "blockNumber": 150961
+    },
+    {
+        "chainId": 1625,
+        "url": "https://gravity.xyz",
+        "ticker": "G.",
+        "comment": "Gravity Alpha Mainnet",
+        "rpc": [
+            "https://rpc.gravity.xyz"
+        ],
+        "dateAdd": "2024-05-22T00:07:18.426777",
+        "blockNumber": 18
+    },
+    {
+        "chainId": 6868,
+        "url": "https://www.poolschain.org",
+        "ticker": "POOLS",
+        "comment": "Pools Mainnet",
+        "rpc": [
+            "https://rpc.poolsmobility.com"
+        ],
+        "dateAdd": "2024-05-22T00:07:18.426966",
+        "blockNumber": 14486713
+    },
+    {
+        "chainId": 8911,
+        "url": "https://www.algen.network",
+        "ticker": "ALG",
+        "comment": "Algen",
+        "rpc": [
+            "https://rpc.algen.network"
+        ],
+        "dateAdd": "2024-05-22T00:07:18.427013",
+        "blockNumber": 472236
+    },
+    {
+        "chainId": 8921,
+        "url": "https://www.algen.network",
+        "ticker": "ALG",
+        "comment": "Algen Layer2",
+        "rpc": [
+            "https://rpc.alg2.algen.network"
+        ],
+        "dateAdd": "2024-05-22T00:07:18.427017",
+        "blockNumber": 680688
+    },
+    {
+        "chainId": 98881,
+        "url": "https://ebi.xyz",
+        "ticker": "ETH",
+        "comment": "Ebi Chain",
+        "rpc": [
+            "https://rpc.ebi.xyz"
+        ],
+        "dateAdd": "2024-05-22T00:07:18.427233",
+        "blockNumber": 412664
     }
 ]
