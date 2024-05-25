@@ -15960,5 +15960,16 @@
         ],
         "dateAdd": "2024-05-24T00:08:11.845508",
         "blockNumber": "Error: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+        "chainId": 1996,
+        "url": "https://sanko.xyz/",
+        "ticker": "DMT",
+        "comment": "Sanko",
+        "rpc": [
+            "https://mainnet.sanko.xyz"
+        ],
+        "dateAdd": "2024-05-25T00:07:24.612309",
+        "blockNumber": 70955
     }
 ]
