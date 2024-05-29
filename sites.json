@@ -16015,5 +16015,27 @@
         ],
         "dateAdd": "2024-05-26T00:08:23.542898",
         "blockNumber": 44911
+    },
+    {
+        "chainId": 8047,
+        "url": "https://come.boats",
+        "ticker": "BOAT",
+        "comment": "BOAT Mainnet",
+        "rpc": [
+            "https://rpc0.come.boat/"
+        ],
+        "dateAdd": "2024-05-29T00:08:37.662828",
+        "blockNumber": "Error: HTTPSConnectionPool(host='rpc0.come.boat', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f7a6017a720>: Failed to resolve 'rpc0.come.boat' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+        "chainId": 15259,
+        "url": "https://poodl.org",
+        "ticker": "POODL",
+        "comment": "Poodl Mainnet",
+        "rpc": [
+            "https://rpc.poodl.org"
+        ],
+        "dateAdd": "2024-05-29T00:08:37.662918",
+        "blockNumber": 310150
     }
 ]
