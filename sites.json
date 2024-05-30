@@ -16037,5 +16037,61 @@
         ],
         "dateAdd": "2024-05-29T00:08:37.662918",
         "blockNumber": 310150
+    },
+    {
+        "chainId": 147,
+        "url": "https://flagscan.xyz",
+        "ticker": "FLAG",
+        "comment": "Flag Mainnet",
+        "rpc": [
+            "https://mainnet-rpc.flagscan.xyz"
+        ],
+        "dateAdd": "2024-05-30T00:08:16.913486",
+        "blockNumber": 398802
+    },
+    {
+        "chainId": 1370,
+        "url": "https://www.ramestta.com",
+        "ticker": "RAMA",
+        "comment": "Ramestta Mainnet",
+        "rpc": [
+            "https://blockchain.ramestta.com",
+            "https://blockchain2.ramestta.com"
+        ],
+        "dateAdd": "2024-05-30T00:08:16.913862",
+        "blockNumber": 6501618
+    },
+    {
+        "chainId": 7300,
+        "url": "https://www.xpla.io",
+        "ticker": "OAS",
+        "comment": "XPLA Verse",
+        "rpc": [
+            "https://rpc-xpla-verse.xpla.dev"
+        ],
+        "dateAdd": "2024-05-30T00:08:16.914271",
+        "blockNumber": 19
+    },
+    {
+        "chainId": 8329,
+        "url": "https://www.lorenzo-protocol.xyz/",
+        "ticker": "stBTC",
+        "comment": "Lorenzo",
+        "rpc": [
+            "https://rpc.lorenzo-protocol.xyz"
+        ],
+        "dateAdd": "2024-05-30T00:08:16.914322",
+        "blockNumber": 154302
+    },
+    {
+        "chainId": 108160679,
+        "url": "https://orai.io",
+        "ticker": "ORAI",
+        "comment": "Oraichain Mainnet",
+        "rpc": [
+            "https://evm.orai.io"
+        ],
+        "dateAdd": "2024-05-30T00:08:16.915131",
+        "blockNumber": 22545782
     }
 ]
