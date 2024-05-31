@@ -16093,5 +16093,16 @@
         ],
         "dateAdd": "2024-05-30T00:08:16.915131",
         "blockNumber": 22545782
+    },
+    {
+        "chainId": 75512,
+        "url": "https://www.geekout-pte.com",
+        "ticker": "GEEK",
+        "comment": "GEEK Verse Mainnet",
+        "rpc": [
+            "https://rpc.geekout-pte.com"
+        ],
+        "dateAdd": "2024-05-31T00:07:31.763517",
+        "blockNumber": 145861
     }
 ]
