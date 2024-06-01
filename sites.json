@@ -16104,5 +16104,17 @@
         ],
         "dateAdd": "2024-05-31T00:07:31.763517",
         "blockNumber": 145861
+    },
+    {
+        "chainId": 1329,
+        "url": "https://www.sei.io",
+        "ticker": "SEI",
+        "comment": "Sei Network",
+        "rpc": [
+            "https://evm-rpc.sei-apis.com",
+            "wss://evm-ws.sei-apis.com"
+        ],
+        "dateAdd": "2024-06-01T00:08:04.278459",
+        "blockNumber": 80043127
     }
 ]
