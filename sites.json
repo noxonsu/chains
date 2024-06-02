@@ -16116,5 +16116,16 @@
         ],
         "dateAdd": "2024-06-01T00:08:04.278459",
         "blockNumber": 80043127
+    },
+    {
+        "chainId": 6322,
+        "url": "https://aura.network",
+        "ticker": "AURA",
+        "comment": "Aura Mainnet",
+        "rpc": [
+            "https://jsonrpc.aura.network"
+        ],
+        "dateAdd": "2024-06-02T00:08:31.314834",
+        "blockNumber": 6618025
     }
 ]
