@@ -16127,5 +16127,27 @@
         ],
         "dateAdd": "2024-06-02T00:08:31.314834",
         "blockNumber": 6618025
+    },
+    {
+        "chainId": 984122,
+        "url": "https://forma.art",
+        "ticker": "TIA",
+        "comment": "Forma",
+        "rpc": [
+            "https://rpc.forma.art"
+        ],
+        "dateAdd": "2024-06-03T00:08:01.681456",
+        "blockNumber": 412470
+    },
+    {
+        "chainId": 984123,
+        "url": "https://forma.art",
+        "ticker": "TIA",
+        "comment": "Forma Sketchpad",
+        "rpc": [
+            "https://rpc.sketchpad-1.forma.art"
+        ],
+        "dateAdd": "2024-06-03T00:08:01.681460",
+        "blockNumber": 1192344
     }
 ]
