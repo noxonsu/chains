@@ -16149,5 +16149,38 @@
         ],
         "dateAdd": "2024-06-03T00:08:01.681460",
         "blockNumber": 1192344
+    },
+    {
+        "chainId": 10849,
+        "url": "https://www.lamina1.com/",
+        "ticker": "L1",
+        "comment": "Lamina1",
+        "rpc": [
+            "https://subnets.avax.network/lamina1/mainnet/rpc"
+        ],
+        "dateAdd": "2024-06-04T00:07:46.589023",
+        "blockNumber": 8959
+    },
+    {
+        "chainId": 10850,
+        "url": "https://www.lamina1.com/",
+        "ticker": "L1ID",
+        "comment": "Lamina1 Identity",
+        "rpc": [
+            "https://subnets.avax.network/lamina1id/mainnet/rpc"
+        ],
+        "dateAdd": "2024-06-04T00:07:46.589027",
+        "blockNumber": 21201
+    },
+    {
+        "chainId": 5112023,
+        "url": "https://numblock.org",
+        "ticker": "NUMB",
+        "comment": "NumBlock Chain",
+        "rpc": [
+            "https://rpc-mainnet.numblock.org"
+        ],
+        "dateAdd": "2024-06-04T00:07:46.589386",
+        "blockNumber": 155238
     }
 ]
