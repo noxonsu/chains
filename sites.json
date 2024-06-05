@@ -16182,5 +16182,78 @@
         ],
         "dateAdd": "2024-06-04T00:07:46.589386",
         "blockNumber": 155238
+    },
+    {
+        "chainId": 181,
+        "url": "https://waterfall.network",
+        "ticker": "WATER",
+        "comment": "Waterfall Network",
+        "rpc": [
+            "https://rpc.waterfall.network/"
+        ],
+        "dateAdd": "2024-06-05T00:07:50.695488",
+        "blockNumber": "Error: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+        "chainId": 2777,
+        "url": "https://gmnetwork.ai",
+        "ticker": "ETH",
+        "comment": "GM Network Mainnet",
+        "rpc": [],
+        "dateAdd": "2024-06-05T00:07:50.695765",
+        "blockNumber": "No RPC URL available"
+    },
+    {
+        "chainId": 4488,
+        "url": "https://hydrachain.org",
+        "ticker": "HYDRA",
+        "comment": "Hydra Chain",
+        "rpc": [],
+        "dateAdd": "2024-06-05T00:07:50.695814",
+        "blockNumber": "No RPC URL available"
+    },
+    {
+        "chainId": 8227,
+        "url": "https://otherworld.network",
+        "ticker": "FUEL",
+        "comment": "Space Subnet",
+        "rpc": [
+            "https://subnets.avax.network/space/mainnet/rpc"
+        ],
+        "dateAdd": "2024-06-05T00:07:50.695897",
+        "blockNumber": 7
+    },
+    {
+        "chainId": 20041,
+        "url": "https://niza.io",
+        "ticker": "NIZA",
+        "comment": "Niza Chain Mainnet",
+        "rpc": [
+            "https://nizascan.io/rpc"
+        ],
+        "dateAdd": "2024-06-05T00:07:50.696008",
+        "blockNumber": 633
+    },
+    {
+        "chainId": 62298,
+        "url": "https://citrea.xyz",
+        "ticker": "cBTC",
+        "comment": "Citrea Devnet",
+        "rpc": [
+            "https://rpc.devnet.citrea.xyz"
+        ],
+        "dateAdd": "2024-06-05T00:07:50.696100",
+        "blockNumber": 156214
+    },
+    {
+        "chainId": 100011,
+        "url": "https://www.quarkchain.io",
+        "ticker": "QKC",
+        "comment": "QuarkChain L2 Mainnet",
+        "rpc": [
+            "https://mainnet-l2-ethapi.quarkchain.io"
+        ],
+        "dateAdd": "2024-06-05T00:07:50.696159",
+        "blockNumber": "Error: HTTPSConnectionPool(host='mainnet-l2-ethapi.quarkchain.io', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f2bfb151fd0>: Failed to resolve 'mainnet-l2-ethapi.quarkchain.io' ([Errno -2] Name or service not known)\"))"
     }
 ]
