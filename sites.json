@@ -16255,5 +16255,27 @@
         ],
         "dateAdd": "2024-06-05T00:07:50.696159",
         "blockNumber": "Error: HTTPSConnectionPool(host='mainnet-l2-ethapi.quarkchain.io', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7f2bfb151fd0>: Failed to resolve 'mainnet-l2-ethapi.quarkchain.io' ([Errno -2] Name or service not known)\"))"
+    },
+    {
+        "chainId": 7924,
+        "url": "https://mochain.app",
+        "ticker": "MO",
+        "comment": "MO Mainnet",
+        "rpc": [
+            "https://mainnet-rpc.mochain.app/"
+        ],
+        "dateAdd": "2024-06-06T00:08:05.582211",
+        "blockNumber": 761327
+    },
+    {
+        "chainId": 9797,
+        "url": "http://optimusz7.com",
+        "ticker": "OZ7",
+        "comment": "OptimusZ7 Mainnet",
+        "rpc": [
+            "https://rpc.optimusz7.com"
+        ],
+        "dateAdd": "2024-06-06T00:08:05.582261",
+        "blockNumber": 216192
     }
 ]
