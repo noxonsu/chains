@@ -16277,5 +16277,39 @@
         ],
         "dateAdd": "2024-06-06T00:08:05.582261",
         "blockNumber": 216192
+    },
+    {
+        "chainId": 622463,
+        "url": "https://atl.network",
+        "ticker": "ATLAS",
+        "comment": "Atlas",
+        "rpc": [
+            "https://rpc.testnet.atl.network"
+        ],
+        "dateAdd": "2024-06-07T00:08:06.279681",
+        "blockNumber": 165677
+    },
+    {
+        "chainId": 721529,
+        "url": "http://doc.eramscan.com/",
+        "ticker": "ERAM",
+        "comment": "ERAM Mainnet",
+        "rpc": [
+            "https://mainnet-rpc.eramscan.com"
+        ],
+        "dateAdd": "2024-06-07T00:08:06.279690",
+        "blockNumber": 113112
+    },
+    {
+        "chainId": 978657,
+        "url": "https://portal.treasure.lol",
+        "ticker": "MAGIC",
+        "comment": "Treasure Ruby",
+        "rpc": [
+            "https://rpc-testnet.treasure.lol/http",
+            "wss://rpc-testnet.treasure.lol/ws"
+        ],
+        "dateAdd": "2024-06-07T00:08:06.279716",
+        "blockNumber": 543214
     }
 ]
