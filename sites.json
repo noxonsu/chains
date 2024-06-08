@@ -16311,5 +16311,60 @@
         ],
         "dateAdd": "2024-06-07T00:08:06.279716",
         "blockNumber": 543214
+    },
+    {
+        "chainId": 899,
+        "url": "https://maxi.network",
+        "ticker": "MGAS",
+        "comment": "MAXI Chain Mainnet",
+        "rpc": [
+            "https://rpc.maxi.network"
+        ],
+        "dateAdd": "2024-06-08T00:08:31.430912",
+        "blockNumber": 26607
+    },
+    {
+        "chainId": 1235,
+        "url": "https://explorer.itxchain.com",
+        "ticker": "ITX",
+        "comment": "ITX Mainnet",
+        "rpc": [
+            "https://rpc.itxchain.com"
+        ],
+        "dateAdd": "2024-06-08T00:08:31.430966",
+        "blockNumber": 721435
+    },
+    {
+        "chainId": 5112,
+        "url": "https://ham.fun",
+        "ticker": "ETH",
+        "comment": "Ham",
+        "rpc": [
+            "https://rpc.ham.fun"
+        ],
+        "dateAdd": "2024-06-08T00:08:31.431165",
+        "blockNumber": 1214580
+    },
+    {
+        "chainId": 10222,
+        "url": "https://glscan.io/",
+        "ticker": "GLC",
+        "comment": "GLScan",
+        "rpc": [
+            "https://glc-dataseed.glscan.io/"
+        ],
+        "dateAdd": "2024-06-08T00:08:31.431278",
+        "blockNumber": 246229
+    },
+    {
+        "chainId": 8008135,
+        "url": "https://www.fhenix.io",
+        "ticker": "tFHE",
+        "comment": "Fhenix Helium",
+        "rpc": [
+            "https://api.helium.fhenix.zone"
+        ],
+        "dateAdd": "2024-06-08T00:08:31.431651",
+        "blockNumber": 25465
     }
 ]
