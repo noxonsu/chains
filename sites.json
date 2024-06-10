@@ -16366,5 +16366,16 @@
         ],
         "dateAdd": "2024-06-08T00:08:31.431651",
         "blockNumber": 25465
+    },
+    {
+        "chainId": 32382,
+        "url": "https://sanr.app",
+        "ticker": "SANR",
+        "comment": "Santiment Intelligence Network",
+        "rpc": [
+            "https://node.sanr.app"
+        ],
+        "dateAdd": "2024-06-10T00:08:06.195119",
+        "blockNumber": 3500465
     }
 ]
