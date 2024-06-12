@@ -16399,5 +16399,28 @@
         ],
         "dateAdd": "2024-06-11T00:07:53.961747",
         "blockNumber": 559845
+    },
+    {
+        "chainId": 1210,
+        "url": "https://cuckoo.network",
+        "ticker": "CAI",
+        "comment": "Cuckoo Sepolia",
+        "rpc": [
+            "https://testnet-rpc.cuckoo.network",
+            "wss://testnet-rpc.cuckoo.network"
+        ],
+        "dateAdd": "2024-06-12T00:07:59.207170",
+        "blockNumber": 94
+    },
+    {
+        "chainId": 57451,
+        "url": "https://explorer.coinsec.network/",
+        "ticker": "SEC",
+        "comment": "COINSEC",
+        "rpc": [
+            "https://mainnet-rpc.coinsec.network"
+        ],
+        "dateAdd": "2024-06-12T00:07:59.207609",
+        "blockNumber": 190183
     }
 ]
