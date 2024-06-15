@@ -16433,5 +16433,27 @@
         ],
         "dateAdd": "2024-06-14T00:07:56.560973",
         "blockNumber": "Error: HTTPSConnectionPool(host='rpc1.ocean.bahamutchain.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)')))"
+    },
+    {
+        "chainId": 6699,
+        "url": "https://ox.fun/chain",
+        "ticker": "OX",
+        "comment": "OX Chain",
+        "rpc": [
+            "https://rpc.oxscan.io"
+        ],
+        "dateAdd": "2024-06-15T00:07:44.560929",
+        "blockNumber": 757
+    },
+    {
+        "chainId": 656476,
+        "url": "https://raas.gelato.network/rollups/details/public/open-campus-codex",
+        "ticker": "EDU",
+        "comment": "Open Campus Codex",
+        "rpc": [
+            "https://rpc.open-campus-codex.gelato.digital"
+        ],
+        "dateAdd": "2024-06-15T00:07:44.561481",
+        "blockNumber": 165
     }
 ]
