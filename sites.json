@@ -16455,5 +16455,63 @@
         ],
         "dateAdd": "2024-06-15T00:07:44.561481",
         "blockNumber": 165
+    },
+    {
+        "chainId": 1200,
+        "url": "https://cuckoo.network",
+        "ticker": "CAI",
+        "comment": "Cuckoo Chain",
+        "rpc": [
+            "https://mainnet-rpc.cuckoo.network",
+            "wss://mainnet-rpc.cuckoo.network"
+        ],
+        "dateAdd": "2024-06-18T00:08:15.939302",
+        "blockNumber": 36
+    },
+    {
+        "chainId": 1997,
+        "url": "https://kyotoprotocol.io",
+        "ticker": "KYOTO",
+        "comment": "Kyoto",
+        "rpc": [
+            "https://rpc.kyotochain.io"
+        ],
+        "dateAdd": "2024-06-18T00:08:15.939381",
+        "blockNumber": 17596
+    },
+    {
+        "chainId": 2649,
+        "url": "https://ailayer.xyz/",
+        "ticker": "BTC",
+        "comment": "AILayer Mainnet",
+        "rpc": [
+            "https://mainnet-rpc.ailayer.xyz",
+            "wss://mainnet-rpc.ailayer.xyz"
+        ],
+        "dateAdd": "2024-06-18T00:08:15.939438",
+        "blockNumber": 2411510
+    },
+    {
+        "chainId": 3490,
+        "url": "https://gtcscan.io/",
+        "ticker": "GTC",
+        "comment": "GTCSCAN",
+        "rpc": [
+            "https://gtc-dataseed.gtcscan.io/"
+        ],
+        "dateAdd": "2024-06-18T00:08:15.939466",
+        "blockNumber": 3109288
+    },
+    {
+        "chainId": 80084,
+        "url": "https://www.berachain.com",
+        "ticker": "BERA",
+        "comment": "Berachain bArtio",
+        "rpc": [
+            "https://bartio.rpc.berachain.com",
+            "https://bera-testnet.nodeinfra.com"
+        ],
+        "dateAdd": "2024-06-18T00:08:15.939831",
+        "blockNumber": 362967
     }
 ]
