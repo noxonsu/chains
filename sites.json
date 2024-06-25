@@ -16520,6 +16520,38 @@
         "ticker": "ETH",
         "comment": "Shape",
         "rpc": [],
-        "dateAdd": "2024-06-23T00:08:40.303398"
+        "dateAdd": "2024-06-23T00:08:40.303398",
+        "blockNumber": "No RPC URL available"
+    },
+    {
+        "chainId": 480,
+        "url": "https://worldcoin.org",
+        "ticker": "ETH",
+        "comment": "World Chain",
+        "rpc": [],
+        "dateAdd": "2024-06-25T00:07:42.731304",
+        "blockNumber": "No RPC URL available"
+    },
+    {
+        "chainId": 987,
+        "url": "https://binarychain.org",
+        "ticker": "BNRY",
+        "comment": "BinaryChain Mainnet",
+        "rpc": [
+            "https://rpc.binarychain.org"
+        ],
+        "dateAdd": "2024-06-25T00:07:42.731373",
+        "blockNumber": 502011
+    },
+    {
+        "chainId": 1234567,
+        "url": "https://sharecle.com/",
+        "ticker": "SHR",
+        "comment": "Sharecle Mainnet",
+        "rpc": [
+            "https://mainnet.sharecle.com"
+        ],
+        "dateAdd": "2024-06-25T00:07:42.732128",
+        "blockNumber": "Error: HTTPSConnectionPool(host='mainnet.sharecle.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'mainnet.sharecle.com'. (_ssl.c:1000)\")))"
     }
 ]
